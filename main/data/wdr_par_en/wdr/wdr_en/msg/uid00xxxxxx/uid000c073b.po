@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "344"
+msgid "Lost Man"
+msgstr ""
+
+msgctxt "72_Lost Man"
+msgid "Huh? Is the snow festival this way? I'm not sure anymore. Maybe I should backtrack."
+msgstr ""
+

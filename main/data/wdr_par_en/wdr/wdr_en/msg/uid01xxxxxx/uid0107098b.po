@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "Press <Action:Button_Square@Billard>  for an overhead view."
+msgstr ""
+

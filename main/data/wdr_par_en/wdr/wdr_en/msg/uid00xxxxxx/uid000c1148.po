@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "508"
+msgid "Enraptured Woman"
+msgstr ""
+
+msgctxt "512"
+msgid "Cynical Host"
+msgstr ""
+
+msgctxt "72_Enraptured Woman"
+msgid "Oh, I love hearing that from you! Let's pop the best champagne you have next time!"
+msgstr ""
+
+msgctxt "84_Enraptured Woman"
+msgid "You will? Hehe, I love you, baby. Really."
+msgstr ""
+

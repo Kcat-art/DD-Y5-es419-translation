@@ -1,0 +1,12 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "Tutorial\\r\n"
+"How to Play Pool"
+msgstr ""
+
+msgctxt "56"
+msgid "Pool is a game where the player uses a cue stick to strike the white (cue) ball and knock other balls into the pockets."
+msgstr ""
+

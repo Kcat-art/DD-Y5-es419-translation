@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		68	348	280"
+msgid "Guess this is my spot."
+msgstr ""
+
+msgctxt " 			117	922	805"
+msgid "Well, well. So it's one of <Italic>these</Italic> places."
+msgstr ""
+
+msgctxt " 			60	1026	966"
+msgid "Who're ya?"
+msgstr ""
+

@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+"　"
+msgstr ""
+
+msgctxt "880"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "884"
+msgid "Idle"
+msgstr ""
+
+msgctxt "888"
+msgid "P_TLK_sitcnt_kamae"
+msgstr ""
+

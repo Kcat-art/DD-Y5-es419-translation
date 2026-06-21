@@ -1,0 +1,147 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "146	NAME"
+msgid "Coin Lockers"
+msgstr ""
+
+msgctxt "161	NAME"
+msgid "Food/Drink"
+msgstr ""
+
+msgctxt "174	NAME"
+msgid "Modding"
+msgstr ""
+
+msgctxt "184	NAME"
+msgid "Friends"
+msgstr ""
+
+msgctxt "194	NAME"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "207	NAME"
+msgid "Minigame"
+msgstr ""
+
+msgctxt "218	NAME"
+msgid "Hostess Club"
+msgstr ""
+
+msgctxt "233	NAME"
+msgid "Hostess Maker"
+msgstr ""
+
+msgctxt "249	NAME"
+msgid "No. 1 Hostess Maker"
+msgstr ""
+
+msgctxt "271	NAME"
+msgid "Saigo's Training"
+msgstr ""
+
+msgctxt "290	NAME"
+msgid "Master's Helper"
+msgstr ""
+
+msgctxt "308	NAME"
+msgid "Nair's Kumite"
+msgstr ""
+
+msgctxt "324	NAME"
+msgid "Coliseum"
+msgstr ""
+
+msgctxt "335	NAME"
+msgid "Fighter Maker"
+msgstr ""
+
+msgctxt "351	NAME"
+msgid "Police Scanner"
+msgstr ""
+
+msgctxt "368	NAME"
+msgid "Gang Encounters"
+msgstr ""
+
+msgctxt "386	NAME"
+msgid "IF7-R"
+msgstr ""
+
+msgctxt "394	NAME"
+msgid "Heat Actions"
+msgstr ""
+
+msgctxt "407	EXPLANATION"
+msgid "Complete Lockers challenge. Unlock all one hundred lockers, under and above ground."
+msgstr ""
+
+msgctxt "491	EXPLANATION"
+msgid "Complete Dining challenge. Order everything on the menu at every restaurant."
+msgstr ""
+
+msgctxt "568	EXPLANATION"
+msgid "Complete Modding challenge. Make all weapons and gear for both Works Kamiyama shops."
+msgstr ""
+
+msgctxt "653	EXPLANATION"
+msgid "Complete Friends challenge. Become friends with specific people around the city."
+msgstr ""
+
+msgctxt "734	EXPLANATION"
+msgid "Complete Revelations challenge. See all Revelations."
+msgstr ""
+
+msgctxt "787	EXPLANATION"
+msgid "Complete Minigames challenge. Each minigame's completion status can be viewed with <Action:Button_Circle@UI>."
+msgstr ""
+
+msgctxt "897	EXPLANATION"
+msgid "Complete Hostesses challenge. Complete all hostess substories."
+msgstr ""
+
+msgctxt "960	EXPLANATION"
+msgid "Complete Hostess Maker challenge. Complete all hostess substories for Hostess Maker."
+msgstr ""
+
+msgctxt "1045	EXPLANATION"
+msgid "Complete Hostess Maker. Train all hostesses to reach the number one spot."
+msgstr ""
+
+msgctxt "1119	EXPLANATION"
+msgid "Complete Saigo's Training challenge. Clear all of his training courses."
+msgstr ""
+
+msgctxt "1191	EXPLANATION"
+msgid "Complete Master's Helper challenge. Complete all of Master's tasks."
+msgstr ""
+
+msgctxt "1259	EXPLANATION"
+msgid "Complete Nair's Kumite challenge. Help Nair reach her objective."
+msgstr ""
+
+msgctxt "1324	EXPLANATION"
+msgid "Complete Coliseum challenge. Win all tournaments."
+msgstr ""
+
+msgctxt "1374	EXPLANATION"
+msgid "Complete Fighter Maker challenge. All your apprentices must win the Rookie Tournament."
+msgstr ""
+
+msgctxt "1461	EXPLANATION"
+msgid "Complete the Police Scanner challenge. Resolve specific cases received on the scanner to complete the challenge."
+msgstr ""
+
+msgctxt "1574	EXPLANATION"
+msgid "Complete the Gang Encounters challenge. Defeat all gangs."
+msgstr ""
+
+msgctxt "1632	EXPLANATION"
+msgid "Complete the IF7-R challenge. Defeat all enemies."
+msgstr ""
+
+msgctxt "1682	EXPLANATION"
+msgid "Complete all Heat Action challenge. Use all Heat Actions."
+msgstr ""
+

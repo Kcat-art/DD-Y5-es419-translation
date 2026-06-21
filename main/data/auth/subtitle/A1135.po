@@ -1,0 +1,127 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		112	144	32"
+msgid "I already told you, I don't know."
+msgstr ""
+
+msgctxt " 	　	　	67	325	258"
+msgid "How do you live with yourself?"
+msgstr ""
+
+msgctxt " 	　	分	84	419	335"
+msgid "Chairman Dojima's supposed to be your friend!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	32	452	420"
+msgid "Aizawa."
+msgstr ""
+
+msgctxt " 	　	　	160	613	453"
+msgid "I'm not sure why you're doing this,\\r\n"
+"but I'm not letting you turn your back on him!"
+msgstr ""
+
+msgctxt " 	　	　	60	690	630"
+msgid "Aizawa!"
+msgstr ""
+
+msgctxt " 	　	　	60	753	693"
+msgid "Hands off."
+msgstr ""
+
+msgctxt " 	　	　	60	872	812"
+msgid "I said let me go!"
+msgstr ""
+
+msgctxt " 	　	　	60	1041	981"
+msgid "I get the picture."
+msgstr ""
+
+msgctxt " 	　	　	116	1218	1102"
+msgid "You're not Kazuma Kiryu.\\r\n"
+"Just Taichi Suzuki-san."
+msgstr ""
+
+msgctxt " 	　	分	60	1281	1221"
+msgid "Is that what you're saying?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	44	1360	1316"
+msgid "Exactly."
+msgstr ""
+
+msgctxt " 	　	　	60	1421	1361"
+msgid "Aniki!"
+msgstr ""
+
+msgctxt " 	　	　	99	1535	1436"
+msgid "Understood. That makes things simpler."
+msgstr ""
+
+msgctxt " 	　	　	112	1664	1552"
+msgid "We'll just have to rough you up a bit."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	55	1735	1680"
+msgid "You what?"
+msgstr ""
+
+msgctxt " 	　	　	89	1825	1736"
+msgid "If you really were the fourth chairman..."
+msgstr ""
+
+msgctxt " 	　	分	114	1940	1826"
+msgid "We wouldn't lay a finger on you,\\r\n"
+"regardless of the circumstances."
+msgstr ""
+
+msgctxt " 	　	OK	187	2138	1951"
+msgid "But if you're nothing more than\\r\n"
+"a simple taxi driver, that's another story."
+msgstr ""
+
+msgctxt " 	　	　	95	2275	2180"
+msgid "We will get the truth. Even if\\r\n"
+"we have to beat it out of you."
+msgstr ""
+
+msgctxt " 	　	　	69	2387	2318"
+msgid "You'd attack a civilian?"
+msgstr ""
+
+msgctxt " 	　	　	60	2480	2420"
+msgid "I'd prefer not to, of course."
+msgstr ""
+
+msgctxt " 	　	分	148	2633	2485"
+msgid "But desperate times... Well,\\r\n"
+"they call for desperate measures."
+msgstr ""
+
+msgctxt " 	　	　	60	2725	2665"
+msgid "We're still yakuza."
+msgstr ""
+
+msgctxt " 	　	分	130	2860	2730"
+msgid "We're not above resorting\\r\n"
+"to force. You should know that."
+msgstr ""
+
+msgctxt " 	　	　	60	2972	2912"
+msgid "Fine then."
+msgstr ""
+
+msgctxt " 	　	分	127	3107	2980"
+msgid "If that's how it's gonna be,\\r\n"
+"I'll just have to defend myself."
+msgstr ""
+
+msgctxt " 	　	　	60	3194	3134"
+msgid "Hope you're ready."
+msgstr ""
+
+msgctxt " 	　	　	60	3291	3231"
+msgid "Here goes."
+msgstr ""
+

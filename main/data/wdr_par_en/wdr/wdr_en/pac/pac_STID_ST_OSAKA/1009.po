@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "I'm famished."
+msgstr ""
+
+msgctxt "336"
+msgid "Lunch, lunch..."
+msgstr ""
+

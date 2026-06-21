@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "508"
+msgid "Exasperated Woman"
+msgstr ""
+
+msgctxt "512"
+msgid "Silver-tongued Woman"
+msgstr ""
+
+msgctxt "72_Exasperated Woman"
+msgid "You're never on time. Have you ever come when you said you would?"
+msgstr ""
+
+msgctxt "84_Exasperated Woman"
+msgid "I'm sorry! I was so excited about seeing you, I couldn't fall asleep, and then I overslept!"
+msgstr ""
+

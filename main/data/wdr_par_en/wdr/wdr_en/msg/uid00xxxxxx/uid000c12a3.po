@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "304"
+msgid "Envious Man"
+msgstr ""
+
+msgctxt "72_Envious Man"
+msgid "That couple there's gettin' on my nerves. Why do they hafta come be lovey-dovey 'round me!?"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "<Color:9>虹色プリズムスター<Color:Default>　を覚えた！"
+msgstr ""
+
+msgctxt "72"
+msgid "何も閃かなかった……"
+msgstr ""
+

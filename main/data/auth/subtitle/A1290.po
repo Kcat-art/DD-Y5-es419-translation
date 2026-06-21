@@ -1,0 +1,66 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 	　	60	814	754"
+msgid "Mayumi."
+msgstr ""
+
+msgctxt " 	　	　	60	956	896"
+msgid "What are you doing?"
+msgstr ""
+
+msgctxt " 	　	　	119	1625	1506"
+msgid "We've been together six months,\\r\n"
+"yet we've never once had a moment like this."
+msgstr ""
+
+msgctxt " 	　	分	73	1728	1655"
+msgid "A little affection might be nice, right?"
+msgstr ""
+
+msgctxt " 	　	　	60	2844	2784"
+msgid "Who hired you?"
+msgstr ""
+
+msgctxt " 	　	OK	203	3170	2967"
+msgid "The other night, when my boss Nakajima\\r\n"
+"and I went drinking at your club..."
+msgstr ""
+
+msgctxt " 	　	　	82	3285	3203"
+msgid "Someone in the Tojo Clan found out I was there."
+msgstr ""
+
+msgctxt " 	　	　	133	3472	3339"
+msgid "The only people in the house were\\r\n"
+"those two Yamagasa Family thugs..."
+msgstr ""
+
+msgctxt " 	　	分	117	3596	3479"
+msgid "And the girls and waitstaff running it."
+msgstr ""
+
+msgctxt " 	　	　	90	3762	3672"
+msgid "None of them knew who I really am."
+msgstr ""
+
+msgctxt " 	　	　	60	3930	3870"
+msgid "Meaning it was you."
+msgstr ""
+
+msgctxt " 	　	　	97	4061	3964"
+msgid "You've been helping the Tojo spy on me."
+msgstr ""
+
+msgctxt " 	　	　	60	4404	4344"
+msgid "Wait."
+msgstr ""
+
+msgctxt " 	　	　	74	4552	4478"
+msgid "There's someone I want you to meet."
+msgstr ""
+
+msgctxt " 	　	　	60	4641	4581"
+msgid "Kazuma Kiryu-san."
+msgstr ""
+

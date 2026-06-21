@@ -1,0 +1,36 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		72	595	523"
+msgid "Why don't ya find out for yourself?"
+msgstr ""
+
+msgctxt " 	 	　	81	765	684"
+msgid "You'll understand when ya hear who picks up."
+msgstr ""
+
+msgctxt " 	 	　	117	1288	1171"
+msgid "What's going on, Manabe?\\r\n"
+"Have you taken care of our Shinada problem?"
+msgstr ""
+
+msgctxt " 	 	　	60	1431	1371"
+msgid "Manabe? Are you there?"
+msgstr ""
+
+msgctxt " 	 	　	60	1498	1438"
+msgid "Hey, answer me!"
+msgstr ""
+
+msgctxt " 	60ｆ以下です	　	48	1556	1508"
+msgid "Manabe?"
+msgstr ""
+
+msgctxt " 	 	　	92	1649	1557"
+msgid "Who was it, Shinada? C'mon!"
+msgstr ""
+
+msgctxt " 	 	　	60	1826	1766"
+msgid "It was Fujita. My old manager."
+msgstr ""
+

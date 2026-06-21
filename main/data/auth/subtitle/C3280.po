@@ -1,0 +1,40 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 	　	67	321	254"
+msgid "Me and you can have a long talk later."
+msgstr ""
+
+msgctxt " 	 	　	60	427	367"
+msgid "Hey, Horie-chan!"
+msgstr ""
+
+msgctxt " 	 	　	94	563	469"
+msgid "Horie-chan! Talk to me!"
+msgstr ""
+
+msgctxt " 	 	　	114	767	653"
+msgid "Horie-chan. Hang tight, I'm calling an ambulance!"
+msgstr ""
+
+msgctxt " 	60ｆ以下です	　	30	1122	1092"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt " 	 	　	143	1266	1123"
+msgid "Doesn't concern you.\\r\n"
+"Not with where you're going."
+msgstr ""
+
+msgctxt "		　	48	1657	1609"
+msgid "Akiyama-san!"
+msgstr ""
+
+msgctxt " 	 	　	60	1718	1658"
+msgid "Eyes forward, asshole!"
+msgstr ""
+
+msgctxt " 	 	　	60	2011	1951"
+msgid "The hell are you made of?"
+msgstr ""
+

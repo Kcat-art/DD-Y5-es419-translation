@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "832"
+msgid "昼にする"
+msgstr ""
+
+msgctxt "836"
+msgid "夕方にする"
+msgstr ""
+
+msgctxt "840"
+msgid "夜にする"
+msgstr ""
+
+msgctxt "844"
+msgid "dummy"
+msgstr ""
+
+msgctxt "104_昼にする"
+msgid "キャンセルした？"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "332"
+msgid "adv2_900/saejima_2_900_170"
+msgstr ""
+
+msgctxt "336"
+msgid "SS2_P_HNT_squat_nml"
+msgstr ""
+

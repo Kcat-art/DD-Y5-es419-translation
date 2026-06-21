@@ -1,0 +1,28 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "124"
+msgid "Can anyone hear me!?"
+msgstr ""
+
+msgctxt "136"
+msgid "Help!"
+msgstr ""
+
+msgctxt "148"
+msgid "Is anyone out there?\\r\n"
+"Help me!"
+msgstr ""
+
+msgctxt "160"
+msgid "My son..."
+msgstr ""
+
+msgctxt "1824"
+msgid "P_HNT"
+msgstr ""
+
+msgctxt "1828"
+msgid "SS2_P_HNT_stand_nml"
+msgstr ""
+

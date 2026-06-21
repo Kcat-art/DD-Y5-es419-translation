@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "180"
+msgid "A10490_kugihara_snow"
+msgstr ""
+

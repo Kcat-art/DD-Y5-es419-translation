@@ -1,0 +1,36 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "				140	40"
+msgid "And the winner of the first round is..."
+msgstr ""
+
+msgctxt "				484	401"
+msgid "T-Set!"
+msgstr ""
+
+msgctxt "		スペース削除しました		685	536"
+msgid "Congratulations to you both!\\r\n"
+"This must feel like quite a victory."
+msgstr ""
+
+msgctxt "				728	686"
+msgid "Thank you very much!"
+msgstr ""
+
+msgctxt "				836	729"
+msgid "We always knew we would win!"
+msgstr ""
+
+msgctxt "				932	837"
+msgid "Thank you all for cheering for us!"
+msgstr ""
+
+msgctxt "				1026	939"
+msgid "Let's give a big hand to T-Set!"
+msgstr ""
+
+msgctxt "This text has no context info. The text is used in C3535.po. Position in file: 9"
+msgid "　"
+msgstr ""
+

@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3984"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "3988"
+msgid "adv1_120_1/morinaga_0050"
+msgstr ""
+
+msgctxt "3992"
+msgid "0"
+msgstr ""
+
+msgctxt "3996"
+msgid "adv1_080/aizawa_0019a"
+msgstr ""
+
+msgctxt "4000"
+msgid "adv1_070_4/kiryu_1_070_160"
+msgstr ""
+
+msgctxt "4004"
+msgid "adv1_070_3/taxi_guest1_1_070_010"
+msgstr ""
+

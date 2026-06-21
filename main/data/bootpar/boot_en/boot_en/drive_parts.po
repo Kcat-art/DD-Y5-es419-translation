@@ -1,0 +1,355 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1460	NAME"
+msgid "Default"
+msgstr ""
+
+msgctxt "1468	NAME"
+msgid "Standard Type A"
+msgstr ""
+
+msgctxt "1484	NAME"
+msgid "Standard Type B"
+msgstr ""
+
+msgctxt "1500	NAME"
+msgid "Spoke Type A"
+msgstr ""
+
+msgctxt "1513	NAME"
+msgid "Spoke Type B"
+msgstr ""
+
+msgctxt "1526	NAME"
+msgid "Tornado Type A"
+msgstr ""
+
+msgctxt "1541	NAME"
+msgid "Tornado Type B"
+msgstr ""
+
+msgctxt "1556	NAME"
+msgid "None"
+msgstr ""
+
+msgctxt "1561	NAME"
+msgid "Fire"
+msgstr ""
+
+msgctxt "1566	NAME"
+msgid "Japanese"
+msgstr ""
+
+msgctxt "1575	NAME"
+msgid "Angel"
+msgstr ""
+
+msgctxt "1581	NAME"
+msgid "Racing"
+msgstr ""
+
+msgctxt "1588	NAME"
+msgid "Sweet"
+msgstr ""
+
+msgctxt "1594	NAME"
+msgid "Otaku"
+msgstr ""
+
+msgctxt "1600	NAME"
+msgid "Haruka Sawamura"
+msgstr ""
+
+msgctxt "1616	NAME"
+msgid "Dark Blue"
+msgstr ""
+
+msgctxt "1626	NAME"
+msgid "Warm Orange"
+msgstr ""
+
+msgctxt "1638	NAME"
+msgid "Shiny Yellow"
+msgstr ""
+
+msgctxt "1651	NAME"
+msgid "Sky Blue"
+msgstr ""
+
+msgctxt "1660	NAME"
+msgid "Forest Green"
+msgstr ""
+
+msgctxt "1673	NAME"
+msgid "Aqua Blue"
+msgstr ""
+
+msgctxt "1683	NAME"
+msgid "Passion Pink"
+msgstr ""
+
+msgctxt "1696	NAME"
+msgid "Level 1"
+msgstr ""
+
+msgctxt "1704	NAME"
+msgid "Level 1 to 2"
+msgstr ""
+
+msgctxt "1717	NAME"
+msgid "Level 2 to 3"
+msgstr ""
+
+msgctxt "1730	NAME"
+msgid "Level 3 to 4"
+msgstr ""
+
+msgctxt "1743	NAME"
+msgid "Level 4 to 5"
+msgstr ""
+
+msgctxt "1756	NAME"
+msgid "Level 5 to MAX"
+msgstr ""
+
+msgctxt "1771	NAME"
+msgid "MAX Level"
+msgstr ""
+
+msgctxt "1781	NAME"
+msgid "Normal Turbo"
+msgstr ""
+
+msgctxt "1794	NAME"
+msgid "Hyper Turbo"
+msgstr ""
+
+msgctxt "1806	NAME"
+msgid "Twin Turbo"
+msgstr ""
+
+msgctxt "1817	NAME"
+msgid "Standard Tires"
+msgstr ""
+
+msgctxt "1832	NAME"
+msgid "Pure Sports"
+msgstr ""
+
+msgctxt "1844	NAME"
+msgid "Semi Racing"
+msgstr ""
+
+msgctxt "1856	NAME"
+msgid "Chassis Type A"
+msgstr ""
+
+msgctxt "1871	NAME"
+msgid "Chassis Type B"
+msgstr ""
+
+msgctxt "1886	NAME"
+msgid "Chassis Type C"
+msgstr ""
+
+msgctxt "1901	NAME"
+msgid "Standard Music"
+msgstr ""
+
+msgctxt "1916	NAME"
+msgid "Machine Gun Kiss"
+msgstr ""
+
+msgctxt "1933	NAME"
+msgid "Get to the Top!"
+msgstr ""
+
+msgctxt "1949	NAME"
+msgid "Let's Go Away"
+msgstr ""
+
+msgctxt "1963	NAME"
+msgid "Remember R-001"
+msgstr ""
+
+msgctxt "1978	NAME"
+msgid "Magical Sound Shower"
+msgstr ""
+
+msgctxt "2156	DESC"
+msgid "Resets status to default."
+msgstr ""
+
+msgctxt "2182	DESC"
+msgid "Normal wheels. You can't go wrong with the old standard."
+msgstr ""
+
+msgctxt "2239	DESC"
+msgid "An alternate version of the standard type. They look pretty sweet, too."
+msgstr ""
+
+msgctxt "2311	DESC"
+msgid "Spoke-type wheels. They really stand out."
+msgstr ""
+
+msgctxt "2353	DESC"
+msgid "Alternate spoke-type wheels. The blue makes them look cool."
+msgstr ""
+
+msgctxt "2413	DESC"
+msgid "Tornado-type wheels. Driving with these on is sure to turn heads."
+msgstr ""
+
+msgctxt "2479	DESC"
+msgid "Alternate tornado-type wheels. The colorful, red-accented design makes it go faster... Maybe."
+msgstr ""
+
+msgctxt "2573	DESC"
+msgid "None"
+msgstr ""
+
+msgctxt "2578	DESC"
+msgid "Bursts of flame that display your passion for speed. Perfect for a heated race."
+msgstr ""
+
+msgctxt "2658	DESC"
+msgid "A Japanese design that is both glitzy and refined. This is my style."
+msgstr ""
+
+msgctxt "2727	DESC"
+msgid "An angel design with wings and sabers. Makes your ride look intimidating."
+msgstr ""
+
+msgctxt "2801	DESC"
+msgid "Kit out your ride to look like a racing car. Just the thing for competitive racers."
+msgstr ""
+
+msgctxt "2885	DESC"
+msgid "A cute design with a pink theme. It works for both men and women."
+msgstr ""
+
+msgctxt "2951	DESC"
+msgid "This is one bold design. I'm not sure Mr. Nakajima would be pleased, though."
+msgstr ""
+
+msgctxt "3028	DESC"
+msgid "A design featuring the idol Haruka Sawamura. It almost feels like she's riding along with me."
+msgstr ""
+
+msgctxt "3122	DESC"
+msgid "Taxis don't need a flashy look. A classy dark blue works best."
+msgstr ""
+
+msgctxt "3185	DESC"
+msgid "Make an impact with this orange coloring. It's bold but has a certain warmth to it."
+msgstr ""
+
+msgctxt "3269	DESC"
+msgid "Yellow attracts the most attention. Brighten up your drives."
+msgstr ""
+
+msgctxt "3330	DESC"
+msgid "A sky blue color that leaves onlookers feeling fresh. It's like looking up at the Okinawa skies."
+msgstr ""
+
+msgctxt "3427	DESC"
+msgid "A green paint job reminiscent the great outdoors. It kind of makes me feel at one with nature."
+msgstr ""
+
+msgctxt "3522	DESC"
+msgid "This blue scheme reminds me of the Okinawa sea. I wonder if all the kids there are doing okay."
+msgstr ""
+
+msgctxt "3617	DESC"
+msgid "This sophisticated pink color is popular with girls. That said, guys can get away with it these days, too."
+msgstr ""
+
+msgctxt "3724	DESC"
+msgid "Level 1"
+msgstr ""
+
+msgctxt "3732	DESC"
+msgid "Upgrade from level 1 to level 2."
+msgstr ""
+
+msgctxt "3765	DESC"
+msgid "Upgrade from level 2 to level 3."
+msgstr ""
+
+msgctxt "3798	DESC"
+msgid "Upgrade from level 3 to level 4."
+msgstr ""
+
+msgctxt "3831	DESC"
+msgid "Upgrade from level 4 to level 5."
+msgstr ""
+
+msgctxt "3864	DESC"
+msgid "Upgrade from level 5 to MAX level."
+msgstr ""
+
+msgctxt "3899	DESC"
+msgid "MAX Level"
+msgstr ""
+
+msgctxt "3909	DESC"
+msgid "Standard performance you can rely on."
+msgstr ""
+
+msgctxt "3947	DESC"
+msgid "Designed for extended turbo use. Turbo builds faster, too, but max speed drops slightly."
+msgstr ""
+
+msgctxt "4036	DESC"
+msgid "Built for achieving freakishly fast speeds. Handling becomes challenging, but the driver's skill can make up for that."
+msgstr ""
+
+msgctxt "4155	DESC"
+msgid "Standard performance with no frills."
+msgstr ""
+
+msgctxt "4192	DESC"
+msgid "These have better grip than standard tires, improving acceleration and handling."
+msgstr ""
+
+msgctxt "4273	DESC"
+msgid "The ultimate tires for driving on public roads."
+msgstr ""
+
+msgctxt "4321	DESC"
+msgid "Standard performance that makes for easy driving."
+msgstr ""
+
+msgctxt "4371	DESC"
+msgid "A chassis built for improved acceleration and handling. Makes corners easier to take, and allows for smoother starts."
+msgstr ""
+
+msgctxt "4489	DESC"
+msgid "This chassis raises top speed and turbo duration, so it's perfect for speed demons. Handling suffers, however."
+msgstr ""
+
+msgctxt "4600	DESC"
+msgid "The standard music enabled by default. It has a Eurobeat flavor that pumps you up in a race."
+msgstr ""
+
+msgctxt "4693	DESC"
+msgid "A manly rock number. I love singing it at karaoke... Occasionally..."
+msgstr ""
+
+msgctxt "4762	DESC"
+msgid "A high-tempo dance track. It was a big hit back in the day. Haruka used to sing it all the time."
+msgstr ""
+
+msgctxt "4859	DESC"
+msgid "The theme song for a game called Daytona USA. The iconic vocals really energize you. It's the perfect driving track."
+msgstr ""
+
+msgctxt "4976	DESC"
+msgid "The theme song for a game called SEGA RALLY 2006. Its funky beats will probably go down well with passengers."
+msgstr ""
+
+msgctxt "5086	DESC"
+msgid "The theme song for a game called Out Run. It has a good, jazzy rhythm that takes you away to the European countryside."
+msgstr ""
+

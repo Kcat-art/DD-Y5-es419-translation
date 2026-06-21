@@ -1,0 +1,35 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	334	274"
+msgid "Who the hell is this!?"
+msgstr ""
+
+msgctxt " 	 	　	87	452	365"
+msgid "He failed me?"
+msgstr ""
+
+msgctxt "		　	60	535	475"
+msgid "Damn it!"
+msgstr ""
+
+msgctxt " 	 	　	91	651	560"
+msgid "A change of plans, then."
+msgstr ""
+
+msgctxt " 	 	　	79	803	724"
+msgid "You both get to die right now."
+msgstr ""
+
+msgctxt " 	 	　	60	1049	989"
+msgid "No..."
+msgstr ""
+
+msgctxt " 	 	スペースを削除しました	104	1705	1591"
+msgid "It's over, Kurosawa."
+msgstr ""
+
+msgctxt " 	 	　	86	1828	1742"
+msgid "Dojima..."
+msgstr ""
+

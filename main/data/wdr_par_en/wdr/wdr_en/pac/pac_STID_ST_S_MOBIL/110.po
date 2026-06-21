@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "152"
+msgid "A10510_snow_jump"
+msgstr ""
+

@@ -1,0 +1,130 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		176	216	40"
+msgid "So Kurosawa tried to give you\\r\n"
+"everything, his flesh and blood."
+msgstr ""
+
+msgctxt " 	　	　	60	316	256"
+msgid "I have that right?"
+msgstr ""
+
+msgctxt " 	　	　	60	385	325"
+msgid "Pretty much."
+msgstr ""
+
+msgctxt " 	　	OK	203	597	394"
+msgid "Still, what would he have done if\\r\n"
+"I hadn't sworn up? I've gotta wonder."
+msgstr ""
+
+msgctxt " 	　	　	178	800	622"
+msgid "Really, people don't think straight\\r\n"
+"when they're facing death."
+msgstr ""
+
+msgctxt " 	　	　	136	980	844"
+msgid "Still, you went right along\\r\n"
+"with Kurosawa's whole plan."
+msgstr ""
+
+msgctxt " 	　	OK	182	1235	1053"
+msgid "Did you betray your aniki,\\r\n"
+"Morinaga, too? You killed him?"
+msgstr ""
+
+msgctxt " 	　	　	91	1403	1312"
+msgid "The plan was going fine at first."
+msgstr ""
+
+msgctxt " 	　	　	173	1608	1435"
+msgid "Like me, Morinaga-san questioned how\\r\n"
+"the Tojo Clan was handling things too."
+msgstr ""
+
+msgctxt " 	　	分	70	1693	1623"
+msgid "He helped me out a lot, actually."
+msgstr ""
+
+msgctxt " 	　	OK	192	1926	1734"
+msgid "But Morinaga-san came to me in\\r\n"
+"Fukuoka after Chairman Dojima went missing."
+msgstr ""
+
+msgctxt " 	　	　	92	2046	1954"
+msgid "He wanted me to just walk\\r\n"
+"away from the whole thing."
+msgstr ""
+
+msgctxt " 	　	　	82	2232	2150"
+msgid "Wanna know what he said?"
+msgstr ""
+
+msgctxt " 	　	　	159	2428	2269"
+msgid "\"You'll never have the strength\\r\n"
+"to surpass Kazuma Kiryu.\""
+msgstr ""
+
+msgctxt " 	　	　	132	2586	2454"
+msgid "He told me to cut my losses and get out. Fool."
+msgstr ""
+
+msgctxt " 	　	　	110	2809	2699"
+msgid "It was a mistake to approach you in Fukuoka."
+msgstr ""
+
+msgctxt " 	　	　	64	2916	2852"
+msgid "You're too dangerous."
+msgstr ""
+
+msgctxt " 	　	　	157	3112	2955"
+msgid "Everyone you touch gets swept up in\\r\n"
+"whatever your cause is at the moment."
+msgstr ""
+
+msgctxt " 	　	　	60	3205	3145"
+msgid "Aizawa."
+msgstr ""
+
+msgctxt " 	　	　	165	3397	3232"
+msgid "But with that natural charisma\\r\n"
+"that seems to draw everyone in..."
+msgstr ""
+
+msgctxt " 	　	　	160	3589	3429"
+msgid "You never should have stepped\\r\n"
+"down from the Tojo Clan!"
+msgstr ""
+
+msgctxt " 	　	分	60	3668	3608"
+msgid "Wouldn't you agree!?"
+msgstr ""
+
+msgctxt " 	　	　	112	3906	3794"
+msgid "Pedigree? Natural talent?"
+msgstr ""
+
+msgctxt " 	　	　	97	4046	3949"
+msgid "In the yakuza world, the strongest should win."
+msgstr ""
+
+msgctxt " 	　	　	130	4194	4064"
+msgid "It'd be fucking stupid for our battles\\r\n"
+"to be decided by things you're born with!"
+msgstr ""
+
+msgctxt " 	　	　	166	4407	4241"
+msgid "So while you and all your little\\r\n"
+"charismatic friends took the spotlight..."
+msgstr ""
+
+msgctxt " 	　	分	73	4484	4411"
+msgid "I trained in the shadows alone."
+msgstr ""
+
+msgctxt " 	　		163	4710	4547"
+msgid "Because the strongest will win.\\r\n"
+"That's what I have to believe."
+msgstr ""
+

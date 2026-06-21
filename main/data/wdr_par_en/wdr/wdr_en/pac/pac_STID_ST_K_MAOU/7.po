@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "364"
+msgid "adv5_065/satan_0002"
+msgstr ""
+
+msgctxt "368"
+msgid "ACDEV0232"
+msgstr ""
+

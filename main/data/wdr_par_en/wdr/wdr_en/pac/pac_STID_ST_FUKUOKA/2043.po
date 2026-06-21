@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "How'll I last till payday?"
+msgstr ""
+

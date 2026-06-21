@@ -1,0 +1,33 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		64	206	142"
+msgid "Here's your man, boss."
+msgstr ""
+
+msgctxt " 	 	　	87	875	788"
+msgid "Been one whole week, Saejima."
+msgstr ""
+
+msgctxt " 	 	　	65	983	918"
+msgid "Spare me the pep talk\\r\n"
+"and get it over with."
+msgstr ""
+
+msgctxt " 	 	　	74	1061	987"
+msgid "Oh, don't be like that."
+msgstr ""
+
+msgctxt " 	 	　	104	1170	1066"
+msgid "You'll spoil my favorite part."
+msgstr ""
+
+msgctxt " 	 	　	141	1663	1522"
+msgid "Looking pretty clean for a guy who\\r\n"
+"could barely stand this time last week."
+msgstr ""
+
+msgctxt " 	 	　	60	2414	2354"
+msgid "He's all yours."
+msgstr ""
+

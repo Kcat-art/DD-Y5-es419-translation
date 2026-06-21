@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1832"
+msgid "SA04_M_CLD_SET_hitojichi"
+msgstr ""
+
+msgctxt "1836"
+msgid "SA04_M_NML_SET_hitojichi"
+msgstr ""
+

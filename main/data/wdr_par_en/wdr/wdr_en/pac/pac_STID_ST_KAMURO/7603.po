@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "424"
+msgid "Would you like a ride?"
+msgstr ""
+

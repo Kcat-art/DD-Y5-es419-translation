@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "784"
+msgid "Player"
+msgstr ""
+
+msgctxt "108_Player"
+msgid "(I came here already. Let's go somewhere else.)"
+msgstr ""
+
+msgctxt "132_Player"
+msgid "(Sekai no Yamachan, huh? I could tell Tatsuya about this place.)"
+msgstr ""
+
+msgctxt "156_Player"
+msgid "(I wish I could stop by, but the batting center awaits.)"
+msgstr ""
+

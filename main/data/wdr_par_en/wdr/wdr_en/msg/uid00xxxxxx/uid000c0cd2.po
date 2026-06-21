@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "644"
+msgid "Energetic Woman"
+msgstr ""
+
+msgctxt "648"
+msgid "Independent Woman"
+msgstr ""
+
+msgctxt "60_Energetic Woman"
+msgid "You did the right thing dumping that jerk. Come on, cheer up. You're better off without him."
+msgstr ""
+
+msgctxt "72_Energetic Woman"
+msgid "Actually, I'm over him. I have two new guys to keep me company."
+msgstr ""
+
+msgctxt "84_Energetic Woman"
+msgid "What!? Two!?"
+msgstr ""
+

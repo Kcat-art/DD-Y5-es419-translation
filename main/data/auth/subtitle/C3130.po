@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 			454	394"
+msgid "Come in."
+msgstr ""
+
+msgctxt "				565	505"
+msgid "You wanted to see us?"
+msgstr ""
+

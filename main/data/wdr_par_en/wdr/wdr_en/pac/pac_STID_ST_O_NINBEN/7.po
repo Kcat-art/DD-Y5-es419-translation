@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1200"
+msgid "adv3_580/akiyama_0219"
+msgstr ""
+
+msgctxt "1204"
+msgid "kaiwabgm_fuon05"
+msgstr ""
+
+msgctxt "1208"
+msgid "adv3_570/akiyama_0212"
+msgstr ""
+
+msgctxt "1212"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1216"
+msgid "adv3_520/bar_master_0001"
+msgstr ""
+
+msgctxt "1220"
+msgid "ACYAM7010"
+msgstr ""
+

@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "2324"
+msgid "adv2_310/baba_2_310_010"
+msgstr ""
+
+msgctxt "2328"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2332"
+msgid "adv2_300/baba_2_300_010"
+msgstr ""
+
+msgctxt "2336"
+msgid "adv2_290_1/baba_0138"
+msgstr ""
+
+msgctxt "2340"
+msgid "adv2_280_1/baba_0122"
+msgstr ""
+
+msgctxt "2344"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2348"
+msgid "adv2_270/baba_0112a"
+msgstr ""
+

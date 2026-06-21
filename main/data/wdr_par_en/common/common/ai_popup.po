@@ -1,0 +1,6943 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "5096"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5100"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5104"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5112"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5116"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5120"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5128"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5132"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5136"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5144"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5148"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5152"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5160"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5164"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5168"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5176"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5180"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5184"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5188"
+msgid "Awesome!"
+msgstr ""
+
+msgctxt "5192"
+msgid "Isn't it?  "
+msgstr ""
+
+msgctxt "5196"
+msgid "Don't do that.  "
+msgstr ""
+
+msgctxt "5224"
+msgid "Whew.  "
+msgstr ""
+
+msgctxt "5228"
+msgid "Should we take a break?  "
+msgstr ""
+
+msgctxt "5232"
+msgid "Let's hit one more shop.  "
+msgstr ""
+
+msgctxt "5260"
+msgid "Ahaha!  "
+msgstr ""
+
+msgctxt "5264"
+msgid "You don't mean that.  "
+msgstr ""
+
+msgctxt "5268"
+msgid "I see.  "
+msgstr ""
+
+msgctxt "5296"
+msgid "Come on, one more shop!  "
+msgstr ""
+
+msgctxt "5300"
+msgid "Ahahahaha!  "
+msgstr ""
+
+msgctxt "5304"
+msgid "I have to work tomorrow.  "
+msgstr ""
+
+msgctxt "5308"
+msgid "Seriously?  "
+msgstr ""
+
+msgctxt "5312"
+msgid "Where?"
+msgstr ""
+
+msgctxt "5316"
+msgid "What's that?  "
+msgstr ""
+
+msgctxt "5320"
+msgid "Come on, cut it out.  "
+msgstr ""
+
+msgctxt "5324"
+msgid "I'm not feeling it.  "
+msgstr ""
+
+msgctxt "5392"
+msgid "Huh?  "
+msgstr ""
+
+msgctxt "5396"
+msgid "Isn't that nice?  "
+msgstr ""
+
+msgctxt "5400"
+msgid "That was fun!"
+msgstr ""
+
+msgctxt "5404"
+msgid "Let's go home."
+msgstr ""
+
+msgctxt "5408"
+msgid "Phew...  "
+msgstr ""
+
+msgctxt "5412"
+msgid "It's late.  "
+msgstr ""
+
+msgctxt "5416"
+msgid "Let's go.  "
+msgstr ""
+
+msgctxt "5476"
+msgid "And, and...  "
+msgstr ""
+
+msgctxt "5480"
+msgid "Right?  "
+msgstr ""
+
+msgctxt "5500"
+msgid "So listen...  "
+msgstr ""
+
+msgctxt "5504"
+msgid "Aww...  "
+msgstr ""
+
+msgctxt "5524"
+msgid "Eeeek! Someone! Help!"
+msgstr ""
+
+msgctxt "5528"
+msgid "You bastard! Get out of here!"
+msgstr ""
+
+msgctxt "5532"
+msgid "Eek, help me!"
+msgstr ""
+
+msgctxt "5560"
+msgid "Sorry I'm late."
+msgstr ""
+
+msgctxt "5564"
+msgid "I overslept!"
+msgstr ""
+
+msgctxt "5568"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "5572"
+msgid "Been waiting long?"
+msgstr ""
+
+msgctxt "5576"
+msgid "The roads sure were crowded."
+msgstr ""
+
+msgctxt "5580"
+msgid "I was running kinda late."
+msgstr ""
+
+msgctxt "5584"
+msgid "Work was so busy..."
+msgstr ""
+
+msgctxt "5588"
+msgid "Here I am!"
+msgstr ""
+
+msgctxt "5592"
+msgid "Did you wait long?"
+msgstr ""
+
+msgctxt "5596"
+msgid "Let's go."
+msgstr ""
+
+msgctxt "5600"
+msgid "Looks like it's closed."
+msgstr ""
+
+msgctxt "5604"
+msgid "Let's go."
+msgstr ""
+
+msgctxt "5608"
+msgid "Shall we go?"
+msgstr ""
+
+msgctxt "5612"
+msgid "Let's hurry!"
+msgstr ""
+
+msgctxt "5616"
+msgid "I got stuck on the road..."
+msgstr ""
+
+msgctxt "5620"
+msgid "Sorry for the wait."
+msgstr ""
+
+msgctxt "5624"
+msgid "Let's get outta here."
+msgstr ""
+
+msgctxt "5628"
+msgid "Shall we go?"
+msgstr ""
+
+msgctxt "5632"
+msgid "Let's hurry!"
+msgstr ""
+
+msgctxt "5636"
+msgid "I got stuck on the road..."
+msgstr ""
+
+msgctxt "5640"
+msgid "Sorry for the wait!"
+msgstr ""
+
+msgctxt "5644"
+msgid "Hurry up!"
+msgstr ""
+
+msgctxt "5648"
+msgid "Let's go!"
+msgstr ""
+
+msgctxt "5652"
+msgid "This is bad, let's go!"
+msgstr ""
+
+msgctxt "5656"
+msgid "I know I took a while, sorry"
+msgstr ""
+
+msgctxt "5660"
+msgid "Did I keep you waiting?"
+msgstr ""
+
+msgctxt "5664"
+msgid "Sorry about that."
+msgstr ""
+
+msgctxt "5668"
+msgid "I'm finally here! "
+msgstr ""
+
+msgctxt "5672"
+msgid "That took a long time."
+msgstr ""
+
+msgctxt "5676"
+msgid "Let's hurry up."
+msgstr ""
+
+msgctxt "5680"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "5684"
+msgid "Shall we go?"
+msgstr ""
+
+msgctxt "5688"
+msgid "Let's hurry up."
+msgstr ""
+
+msgctxt "5692"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "5696"
+msgid "Shall we go?"
+msgstr ""
+
+msgctxt "5700"
+msgid "Let's get going."
+msgstr ""
+
+msgctxt "5704"
+msgid "Been waiting long? "
+msgstr ""
+
+msgctxt "5708"
+msgid "Hope you didn't wait long."
+msgstr ""
+
+msgctxt "5712"
+msgid "I got held up."
+msgstr ""
+
+msgctxt "5716"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "5720"
+msgid "My bad heh."
+msgstr ""
+
+msgctxt "5724"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "5728"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "5732"
+msgid "It's pretty late."
+msgstr ""
+
+msgctxt "5736"
+msgid "I had to take the long way..."
+msgstr ""
+
+msgctxt "5740"
+msgid "Sorry for the wait."
+msgstr ""
+
+msgctxt "5744"
+msgid "Let's get out of here."
+msgstr ""
+
+msgctxt "5748"
+msgid "What were you doing! Let's go!"
+msgstr ""
+
+msgctxt "5752"
+msgid "Let's go!"
+msgstr ""
+
+msgctxt "5756"
+msgid "You are late! Let's go already!"
+msgstr ""
+
+msgctxt "5760"
+msgid "I was thinking of leaving without you!"
+msgstr ""
+
+msgctxt "5764"
+msgid "Sorry I'm late."
+msgstr ""
+
+msgctxt "5768"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "5772"
+msgid "My bad..."
+msgstr ""
+
+msgctxt "5776"
+msgid "I overslept!"
+msgstr ""
+
+msgctxt "5780"
+msgid "I took some time getting ready."
+msgstr ""
+
+msgctxt "5784"
+msgid "Been waiting long?"
+msgstr ""
+
+msgctxt "5788"
+msgid "The roads sure were crowded."
+msgstr ""
+
+msgctxt "5792"
+msgid "I was running a little late."
+msgstr ""
+
+msgctxt "5796"
+msgid "Work was so busy..."
+msgstr ""
+
+msgctxt "5800"
+msgid "Here I am!"
+msgstr ""
+
+msgctxt "5804"
+msgid "My bad, sorry for the wait."
+msgstr ""
+
+msgctxt "5808"
+msgid "Let's hurry!"
+msgstr ""
+
+msgctxt "5812"
+msgid "Looks like it's closed."
+msgstr ""
+
+msgctxt "5816"
+msgid "I will be there soon!"
+msgstr ""
+
+msgctxt "5820"
+msgid "Sorry I'm late."
+msgstr ""
+
+msgctxt "5824"
+msgid "Sorry I'm late."
+msgstr ""
+
+msgctxt "5828"
+msgid "The roads sure were crowded..."
+msgstr ""
+
+msgctxt "5832"
+msgid "Shall we go?"
+msgstr ""
+
+msgctxt "5836"
+msgid "Sorry!"
+msgstr ""
+
+msgctxt "5840"
+msgid "Have you been waiting long?"
+msgstr ""
+
+msgctxt "5844"
+msgid "Let's get going!"
+msgstr ""
+
+msgctxt "5848"
+msgid "We need to hurry! Let's go!"
+msgstr ""
+
+msgctxt "5852"
+msgid "Let's hurry up.！"
+msgstr ""
+
+msgctxt "5856"
+msgid "Sorry I'm late."
+msgstr ""
+
+msgctxt "5860"
+msgid "Let's go!"
+msgstr ""
+
+msgctxt "5864"
+msgid "Sorry!"
+msgstr ""
+
+msgctxt "5868"
+msgid "Hey, did you wait long?"
+msgstr ""
+
+msgctxt "5872"
+msgid "This is bad, let's go!"
+msgstr ""
+
+msgctxt "5876"
+msgid "Sorry for the wait, let's go!"
+msgstr ""
+
+msgctxt "5880"
+msgid "Sorry! Let's go!"
+msgstr ""
+
+msgctxt "5884"
+msgid "You were waiting?"
+msgstr ""
+
+msgctxt "5888"
+msgid "I'm ready now."
+msgstr ""
+
+msgctxt "5892"
+msgid "Sorry about that."
+msgstr ""
+
+msgctxt "5896"
+msgid "I'm late, aren't I?"
+msgstr ""
+
+msgctxt "5900"
+msgid "I guess I slept in..."
+msgstr ""
+
+msgctxt "5904"
+msgid "Did you miss me?"
+msgstr ""
+
+msgctxt "5908"
+msgid "My work was packed..."
+msgstr ""
+
+msgctxt "5912"
+msgid "That's why I'm late."
+msgstr ""
+
+msgctxt "5916"
+msgid "Have you been waiting long"
+msgstr ""
+
+msgctxt "5920"
+msgid "Sorry I'm late."
+msgstr ""
+
+msgctxt "5924"
+msgid "Sorry I'm late."
+msgstr ""
+
+msgctxt "5928"
+msgid "It took me a long time..."
+msgstr ""
+
+msgctxt "5932"
+msgid "There were a lot of troubles."
+msgstr ""
+
+msgctxt "5936"
+msgid "Let's get going!"
+msgstr ""
+
+msgctxt "5940"
+msgid "Hey, let's go!"
+msgstr ""
+
+msgctxt "5944"
+msgid "Been waiting long?"
+msgstr ""
+
+msgctxt "5948"
+msgid "Sorry I'm late."
+msgstr ""
+
+msgctxt "5952"
+msgid "It took me a long time to get here..."
+msgstr ""
+
+msgctxt "5956"
+msgid "There were a lot of troubles."
+msgstr ""
+
+msgctxt "5960"
+msgid "Let's hurry up."
+msgstr ""
+
+msgctxt "5964"
+msgid "Let's hurry up."
+msgstr ""
+
+msgctxt "5968"
+msgid "Let's hurry up."
+msgstr ""
+
+msgctxt "5972"
+msgid "Let's go! Let's go!"
+msgstr ""
+
+msgctxt "5976"
+msgid "It was a lot of trouble getting here!"
+msgstr ""
+
+msgctxt "5980"
+msgid "Sure has been a while!"
+msgstr ""
+
+msgctxt "5984"
+msgid "Can't believe I was this late..."
+msgstr ""
+
+msgctxt "5988"
+msgid "Haven't seen you in a while."
+msgstr ""
+
+msgctxt "5992"
+msgid "Sorry! It took me a long time to get here..."
+msgstr ""
+
+msgctxt "5996"
+msgid "Let's hurry up and go!"
+msgstr ""
+
+msgctxt "6000"
+msgid "Let's hurry!"
+msgstr ""
+
+msgctxt "6004"
+msgid "You were here\\ralready?"
+msgstr ""
+
+msgctxt "6008"
+msgid "Sorry if I wasted your time."
+msgstr ""
+
+msgctxt "6012"
+msgid "Been waiting long?"
+msgstr ""
+
+msgctxt "6016"
+msgid "Sorry for the wait..."
+msgstr ""
+
+msgctxt "6020"
+msgid "Let's get going!"
+msgstr ""
+
+msgctxt "6024"
+msgid "Let's go!"
+msgstr ""
+
+msgctxt "6028"
+msgid "He's really late..."
+msgstr ""
+
+msgctxt "6032"
+msgid "Shouldn't have rushed."
+msgstr ""
+
+msgctxt "6036"
+msgid "Where are they...?"
+msgstr ""
+
+msgctxt "6040"
+msgid "I wonder."
+msgstr ""
+
+msgctxt "6044"
+msgid "Huh? Where could\n"
+"they be..."
+msgstr ""
+
+msgctxt "6048"
+msgid "I can wait a\n"
+"little longer."
+msgstr ""
+
+msgctxt "6052"
+msgid "Man, late again?"
+msgstr ""
+
+msgctxt "6056"
+msgid "I must have been early."
+msgstr ""
+
+msgctxt "6060"
+msgid "How much longer?"
+msgstr ""
+
+msgctxt "6064"
+msgid "Hope everything is fine."
+msgstr ""
+
+msgctxt "6068"
+msgid "Wonder if everything is ok..."
+msgstr ""
+
+msgctxt "6072"
+msgid "How much longer?"
+msgstr ""
+
+msgctxt "6076"
+msgid "Did I get here to early?"
+msgstr ""
+
+msgctxt "6080"
+msgid "How much longer?"
+msgstr ""
+
+msgctxt "6084"
+msgid "I'm worried."
+msgstr ""
+
+msgctxt "6088"
+msgid "How much longer..."
+msgstr ""
+
+msgctxt "6092"
+msgid "Hope everything is ok."
+msgstr ""
+
+msgctxt "6096"
+msgid "Wonder if everything is ok..."
+msgstr ""
+
+msgctxt "6100"
+msgid "How long "
+msgstr ""
+
+msgctxt "6104"
+msgid "I'm worried..."
+msgstr ""
+
+msgctxt "6108"
+msgid "How long is this gonna take..."
+msgstr ""
+
+msgctxt "6112"
+msgid "Hope he get here soon..."
+msgstr ""
+
+msgctxt "6116"
+msgid "This is taking long...hope everything is fine..."
+msgstr ""
+
+msgctxt "6120"
+msgid "I'm getting worried..."
+msgstr ""
+
+msgctxt "6124"
+msgid "He's still not here?"
+msgstr ""
+
+msgctxt "6128"
+msgid "Got here too quickly I guess."
+msgstr ""
+
+msgctxt "6132"
+msgid "How much longer?"
+msgstr ""
+
+msgctxt "6136"
+msgid "Running late, I\\rwonder?"
+msgstr ""
+
+msgctxt "6140"
+msgid "Not here yet..."
+msgstr ""
+
+msgctxt "6144"
+msgid "How much longer?"
+msgstr ""
+
+msgctxt "6148"
+msgid "How much longer..."
+msgstr ""
+
+msgctxt "6152"
+msgid "I'm getting worried..."
+msgstr ""
+
+msgctxt "6156"
+msgid "Guess I'll wait a bit longer..."
+msgstr ""
+
+msgctxt "6160"
+msgid "I'm getting worried..."
+msgstr ""
+
+msgctxt "6164"
+msgid "I'm getting worried..."
+msgstr ""
+
+msgctxt "6168"
+msgid "Guess I'll wait a bit longer..."
+msgstr ""
+
+msgctxt "6172"
+msgid "Wonder if everything is alright..."
+msgstr ""
+
+msgctxt "6176"
+msgid "Maybe he's not able to make it?"
+msgstr ""
+
+msgctxt "6180"
+msgid "Wonder if everything is alright..."
+msgstr ""
+
+msgctxt "6184"
+msgid "How long do they\n"
+"want me to wait?"
+msgstr ""
+
+msgctxt "6188"
+msgid "Any day now..."
+msgstr ""
+
+msgctxt "6192"
+msgid "Guess I'm early."
+msgstr ""
+
+msgctxt "6196"
+msgid "I can wait a bit longer..."
+msgstr ""
+
+msgctxt "6200"
+msgid "This is taking too\\rlong."
+msgstr ""
+
+msgctxt "6204"
+msgid "Still not here..."
+msgstr ""
+
+msgctxt "6208"
+msgid "Maybe just a bit longer..."
+msgstr ""
+
+msgctxt "6212"
+msgid "How much longer?"
+msgstr ""
+
+msgctxt "6216"
+msgid "I'm getting worried..."
+msgstr ""
+
+msgctxt "6220"
+msgid "Any day now.."
+msgstr ""
+
+msgctxt "6224"
+msgid "Wonder if he is ok..."
+msgstr ""
+
+msgctxt "6228"
+msgid "Still not here..."
+msgstr ""
+
+msgctxt "6232"
+msgid "Maybe just a bit longer..."
+msgstr ""
+
+msgctxt "6236"
+msgid "I'm really worried now..."
+msgstr ""
+
+msgctxt "6240"
+msgid "Shouldn't be long now..."
+msgstr ""
+
+msgctxt "6244"
+msgid "He's really late..."
+msgstr ""
+
+msgctxt "6248"
+msgid "Got here too soon."
+msgstr ""
+
+msgctxt "6252"
+msgid "Are they here yet?"
+msgstr ""
+
+msgctxt "6256"
+msgid "Where are they?"
+msgstr ""
+
+msgctxt "6260"
+msgid "Huh? Where could they be..."
+msgstr ""
+
+msgctxt "6264"
+msgid "How much longer?"
+msgstr ""
+
+msgctxt "6268"
+msgid "Man, late again?"
+msgstr ""
+
+msgctxt "6272"
+msgid "I must be early."
+msgstr ""
+
+msgctxt "6276"
+msgid "How much longer?"
+msgstr ""
+
+msgctxt "6280"
+msgid "How much longer?"
+msgstr ""
+
+msgctxt "6284"
+msgid "Guess they are not here yet."
+msgstr ""
+
+msgctxt "6288"
+msgid "Guess I'll keep waiting..."
+msgstr ""
+
+msgctxt "6292"
+msgid "Late again..."
+msgstr ""
+
+msgctxt "6296"
+msgid "Still not here..."
+msgstr ""
+
+msgctxt "6300"
+msgid "I'm starting to get worried."
+msgstr ""
+
+msgctxt "6304"
+msgid "Still not here..."
+msgstr ""
+
+msgctxt "6308"
+msgid "This is taking a long time..."
+msgstr ""
+
+msgctxt "6312"
+msgid "This is taking a long time..."
+msgstr ""
+
+msgctxt "6316"
+msgid "Guess I'll keep waiting..."
+msgstr ""
+
+msgctxt "6320"
+msgid "Wonder if everything is alright..."
+msgstr ""
+
+msgctxt "6324"
+msgid "When will they get here?"
+msgstr ""
+
+msgctxt "6328"
+msgid "Wonder if everything is ok..."
+msgstr ""
+
+msgctxt "6332"
+msgid "hope everything is fine..."
+msgstr ""
+
+msgctxt "6336"
+msgid "Hope it'll be ok..."
+msgstr ""
+
+msgctxt "6340"
+msgid "Guess I have to wait."
+msgstr ""
+
+msgctxt "6344"
+msgid "Any day now..."
+msgstr ""
+
+msgctxt "6348"
+msgid "I hope she gets\n"
+"here soon."
+msgstr ""
+
+msgctxt "6352"
+msgid "Oh, I'm early!"
+msgstr ""
+
+msgctxt "6356"
+msgid "Maybe I should wait a little?"
+msgstr ""
+
+msgctxt "6360"
+msgid "He's so late!"
+msgstr ""
+
+msgctxt "6364"
+msgid "I shouldn't have come so early."
+msgstr ""
+
+msgctxt "6368"
+msgid "Maybe I'll wait a bit longer."
+msgstr ""
+
+msgctxt "6372"
+msgid "Any day now.."
+msgstr ""
+
+msgctxt "6376"
+msgid "Shouldn't be long now..."
+msgstr ""
+
+msgctxt "6380"
+msgid "How much longer..."
+msgstr ""
+
+msgctxt "6384"
+msgid "Wonder if everything is ok..."
+msgstr ""
+
+msgctxt "6388"
+msgid "How much longer..."
+msgstr ""
+
+msgctxt "6392"
+msgid "Guess I'll keep waiting..."
+msgstr ""
+
+msgctxt "6396"
+msgid "Maybe something happened?"
+msgstr ""
+
+msgctxt "6400"
+msgid "Shouldn't be long now..."
+msgstr ""
+
+msgctxt "6404"
+msgid "How much longer..."
+msgstr ""
+
+msgctxt "6408"
+msgid "Wonder if everything is ok..."
+msgstr ""
+
+msgctxt "6412"
+msgid "I'm getting worried."
+msgstr ""
+
+msgctxt "6416"
+msgid "I'm scared..."
+msgstr ""
+
+msgctxt "6420"
+msgid "Wonder if everything is ok..."
+msgstr ""
+
+msgctxt "6424"
+msgid "He's late again?"
+msgstr ""
+
+msgctxt "6428"
+msgid "Maybe I'm early?"
+msgstr ""
+
+msgctxt "6432"
+msgid "He's super late..."
+msgstr ""
+
+msgctxt "6436"
+msgid "Hope everything is ok."
+msgstr ""
+
+msgctxt "6440"
+msgid "Hope everything is ok."
+msgstr ""
+
+msgctxt "6444"
+msgid "Maybe he won't come..."
+msgstr ""
+
+msgctxt "6448"
+msgid "He's late again..."
+msgstr ""
+
+msgctxt "6452"
+msgid "Any day now..."
+msgstr ""
+
+msgctxt "6456"
+msgid "Any day now..."
+msgstr ""
+
+msgctxt "6460"
+msgid "Maybe there's a change of plan?"
+msgstr ""
+
+msgctxt "6464"
+msgid "Shouldn't be long now..."
+msgstr ""
+
+msgctxt "6468"
+msgid "Maybe something happened?"
+msgstr ""
+
+msgctxt "6472"
+msgid "Hey, you're here."
+msgstr ""
+
+msgctxt "6476"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "6480"
+msgid "Over here!"
+msgstr ""
+
+msgctxt "6484"
+msgid "You're late!"
+msgstr ""
+
+msgctxt "6488"
+msgid "I can't believe you..."
+msgstr ""
+
+msgctxt "6492"
+msgid "Finally!"
+msgstr ""
+
+msgctxt "6496"
+msgid "I was about to\n"
+"go home!"
+msgstr ""
+
+msgctxt "6500"
+msgid "Heyo!"
+msgstr ""
+
+msgctxt "6568"
+msgid "There you are..."
+msgstr ""
+
+msgctxt "6572"
+msgid "Right here!"
+msgstr ""
+
+msgctxt "6576"
+msgid "Over this way."
+msgstr ""
+
+msgctxt "6580"
+msgid "What's the deal?"
+msgstr ""
+
+msgctxt "6584"
+msgid "Hi!"
+msgstr ""
+
+msgctxt "6628"
+msgid "I'm over here."
+msgstr ""
+
+msgctxt "6632"
+msgid "You're so late!"
+msgstr ""
+
+msgctxt "6636"
+msgid "You know I hate\\rwaiting!"
+msgstr ""
+
+msgctxt "6640"
+msgid "Nice to see you."
+msgstr ""
+
+msgctxt "6644"
+msgid "I knew you'd come."
+msgstr ""
+
+msgctxt "6688"
+msgid "Hey, you're here."
+msgstr ""
+
+msgctxt "6692"
+msgid "Heeey!"
+msgstr ""
+
+msgctxt "6696"
+msgid "Here, here!"
+msgstr ""
+
+msgctxt "6700"
+msgid "You're late!"
+msgstr ""
+
+msgctxt "6704"
+msgid "You're so damn late!"
+msgstr ""
+
+msgctxt "6708"
+msgid "About time!"
+msgstr ""
+
+msgctxt "6712"
+msgid "See if I wait for\n"
+"you next time."
+msgstr ""
+
+msgctxt "6716"
+msgid "Heyo!"
+msgstr ""
+
+msgctxt "6784"
+msgid "There you are!"
+msgstr ""
+
+msgctxt "6788"
+msgid "Right here!"
+msgstr ""
+
+msgctxt "6792"
+msgid "I'm over here."
+msgstr ""
+
+msgctxt "6796"
+msgid "Late again. Sheesh."
+msgstr ""
+
+msgctxt "6800"
+msgid "I've been waiting\\rforever."
+msgstr ""
+
+msgctxt "6804"
+msgid "You're finally here!"
+msgstr ""
+
+msgctxt "6808"
+msgid "I've been here just\\rabout all day!"
+msgstr ""
+
+msgctxt "6812"
+msgid "Could you be any later?"
+msgstr ""
+
+msgctxt "6880"
+msgid "There you are."
+msgstr ""
+
+msgctxt "6884"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "6904"
+msgid "Over here!"
+msgstr ""
+
+msgctxt "6908"
+msgid "What held you up?"
+msgstr ""
+
+msgctxt "6928"
+msgid "What do you wanna do?"
+msgstr ""
+
+msgctxt "6932"
+msgid "This isn't good! Let's go home!"
+msgstr ""
+
+msgctxt "6936"
+msgid "Do you smell blood?"
+msgstr ""
+
+msgctxt "6940"
+msgid "The phone inside the barricade doesn't work."
+msgstr ""
+
+msgctxt "6944"
+msgid "Wanna go to the game center? "
+msgstr ""
+
+msgctxt "6948"
+msgid "Let's not go today."
+msgstr ""
+
+msgctxt "7000"
+msgid "What should we do?"
+msgstr ""
+
+msgctxt "7004"
+msgid "I don't wanna be in this city anymore."
+msgstr ""
+
+msgctxt "7024"
+msgid "Absolutely not!"
+msgstr ""
+
+msgctxt "7028"
+msgid "This isn't good!"
+msgstr ""
+
+msgctxt "7048"
+msgid "So, what's the plan?"
+msgstr ""
+
+msgctxt "7052"
+msgid "Let's hurry home!"
+msgstr ""
+
+msgctxt "7056"
+msgid "Are they playing a movie?"
+msgstr ""
+
+msgctxt "7060"
+msgid "This IS NOT the time to be eating!"
+msgstr ""
+
+msgctxt "7064"
+msgid "Let's run outta this city!"
+msgstr ""
+
+msgctxt "7068"
+msgid "There's no way we can go that way."
+msgstr ""
+
+msgctxt "7120"
+msgid "Mhmm."
+msgstr ""
+
+msgctxt "7124"
+msgid "It's scaring me."
+msgstr ""
+
+msgctxt "7128"
+msgid "This might be bad..."
+msgstr ""
+
+msgctxt "7132"
+msgid "There's something bad going on!"
+msgstr ""
+
+msgctxt "7136"
+msgid "Is it a terrorist attack?"
+msgstr ""
+
+msgctxt "7140"
+msgid "I'm okay."
+msgstr ""
+
+msgctxt "7144"
+msgid "That's freakin' hilarious!"
+msgstr ""
+
+msgctxt "7204"
+msgid "What's our next move?"
+msgstr ""
+
+msgctxt "7208"
+msgid "Heard the trains are stopped."
+msgstr ""
+
+msgctxt "7228"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "7232"
+msgid "Stop it."
+msgstr ""
+
+msgctxt "7252"
+msgid "It's been some time."
+msgstr ""
+
+msgctxt "7256"
+msgid "Apologies for being late."
+msgstr ""
+
+msgctxt "7260"
+msgid "Can't believe I overslept!"
+msgstr ""
+
+msgctxt "7264"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "7268"
+msgid "Were you waiting long?"
+msgstr ""
+
+msgctxt "7272"
+msgid "The roads are packed."
+msgstr ""
+
+msgctxt "7276"
+msgid "I know, I know,\n"
+"I'm late."
+msgstr ""
+
+msgctxt "7280"
+msgid "It was packed today!"
+msgstr ""
+
+msgctxt "7284"
+msgid "Did ya wait long?"
+msgstr ""
+
+msgctxt "7360"
+msgid "It's been so long."
+msgstr ""
+
+msgctxt "7364"
+msgid "I know I took a\\rwhile."
+msgstr ""
+
+msgctxt "7368"
+msgid "Hope you didn't\n"
+"wait too long."
+msgstr ""
+
+msgctxt "7372"
+msgid "My bad, sorry."
+msgstr ""
+
+msgctxt "7376"
+msgid "Sorry to keep you."
+msgstr ""
+
+msgctxt "7420"
+msgid "How long have you been here?"
+msgstr ""
+
+msgctxt "7424"
+msgid "Here I am."
+msgstr ""
+
+msgctxt "7428"
+msgid "I got slowed down."
+msgstr ""
+
+msgctxt "7432"
+msgid "I'm sorry"
+msgstr ""
+
+msgctxt "7436"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "7480"
+msgid "It's been a while."
+msgstr ""
+
+msgctxt "7484"
+msgid "I'm sorry for being late."
+msgstr ""
+
+msgctxt "7488"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "7492"
+msgid "My bad..."
+msgstr ""
+
+msgctxt "7496"
+msgid "I overslept."
+msgstr ""
+
+msgctxt "7500"
+msgid "I took some time getting ready."
+msgstr ""
+
+msgctxt "7504"
+msgid "Hope you weren't here too long."
+msgstr ""
+
+msgctxt "7508"
+msgid "The road was packed."
+msgstr ""
+
+msgctxt "7512"
+msgid "Looks like I'm late"
+msgstr ""
+
+msgctxt "7516"
+msgid "It was super busy."
+msgstr ""
+
+msgctxt "7520"
+msgid "Did ya wait long?"
+msgstr ""
+
+msgctxt "7612"
+msgid "You were waiting?"
+msgstr ""
+
+msgctxt "7616"
+msgid "Did ya wait long?"
+msgstr ""
+
+msgctxt "7620"
+msgid "How long has it been?"
+msgstr ""
+
+msgctxt "7624"
+msgid "Apologies"
+msgstr ""
+
+msgctxt "7628"
+msgid "I'm late, aren't I?"
+msgstr ""
+
+msgctxt "7632"
+msgid "I guess I slept in..."
+msgstr ""
+
+msgctxt "7636"
+msgid "Were you waiting long?"
+msgstr ""
+
+msgctxt "7640"
+msgid "My work was packed!"
+msgstr ""
+
+msgctxt "7644"
+msgid "How's it this late?"
+msgstr ""
+
+msgctxt "7648"
+msgid "Whew, I just barely got here in time!"
+msgstr ""
+
+msgctxt "7732"
+msgid "How long's it been?"
+msgstr ""
+
+msgctxt "7736"
+msgid "Sorry I'm late."
+msgstr ""
+
+msgctxt "7756"
+msgid "You were here\\ralready?"
+msgstr ""
+
+msgctxt "7760"
+msgid "Did ya wait long?"
+msgstr ""
+
+msgctxt "7780"
+msgid "He's really late..."
+msgstr ""
+
+msgctxt "7784"
+msgid "Got here too soon."
+msgstr ""
+
+msgctxt "7788"
+msgid "Are they here yet?"
+msgstr ""
+
+msgctxt "7792"
+msgid "I wonder."
+msgstr ""
+
+msgctxt "7796"
+msgid "Huh? Where could\n"
+"they be..."
+msgstr ""
+
+msgctxt "7800"
+msgid "I'll wait here."
+msgstr ""
+
+msgctxt "7804"
+msgid "Running late, I\\rwonder?"
+msgstr ""
+
+msgctxt "7808"
+msgid "Ugh... Late again."
+msgstr ""
+
+msgctxt "7812"
+msgid "I must have been early."
+msgstr ""
+
+msgctxt "7888"
+msgid "He's still not here?"
+msgstr ""
+
+msgctxt "7892"
+msgid "Got here too quickly I guess."
+msgstr ""
+
+msgctxt "7896"
+msgid "How much longer?"
+msgstr ""
+
+msgctxt "7900"
+msgid "Gonna be late?"
+msgstr ""
+
+msgctxt "7904"
+msgid "Not here yet..."
+msgstr ""
+
+msgctxt "7948"
+msgid "How long do they\n"
+"want me to wait?"
+msgstr ""
+
+msgctxt "7952"
+msgid "They're still not here..."
+msgstr ""
+
+msgctxt "7956"
+msgid "Guess I'm early."
+msgstr ""
+
+msgctxt "7960"
+msgid "I can wait a bit longer..."
+msgstr ""
+
+msgctxt "7964"
+msgid "This is taking too\\rlong."
+msgstr ""
+
+msgctxt "8008"
+msgid "He's late..."
+msgstr ""
+
+msgctxt "8012"
+msgid "Got here too early."
+msgstr ""
+
+msgctxt "8016"
+msgid "How much longer..."
+msgstr ""
+
+msgctxt "8020"
+msgid "Where are they?"
+msgstr ""
+
+msgctxt "8024"
+msgid "Huh? Where could they be..."
+msgstr ""
+
+msgctxt "8028"
+msgid "I can wait a\n"
+"little longer."
+msgstr ""
+
+msgctxt "8032"
+msgid "Late I suppose."
+msgstr ""
+
+msgctxt "8036"
+msgid "Man, late again?"
+msgstr ""
+
+msgctxt "8040"
+msgid "I must be early."
+msgstr ""
+
+msgctxt "8116"
+msgid "Late again..."
+msgstr ""
+
+msgctxt "8120"
+msgid "Guess I have to wait."
+msgstr ""
+
+msgctxt "8124"
+msgid "Any day now..."
+msgstr ""
+
+msgctxt "8128"
+msgid "I hope she gets\n"
+"here soon."
+msgstr ""
+
+msgctxt "8132"
+msgid "Oh, I'm early!"
+msgstr ""
+
+msgctxt "8136"
+msgid "Maybe I should waita little?"
+msgstr ""
+
+msgctxt "8140"
+msgid "He's so late!"
+msgstr ""
+
+msgctxt "8144"
+msgid "I shouldn't have come so early."
+msgstr ""
+
+msgctxt "8212"
+msgid "How much longer are they going to take?"
+msgstr ""
+
+msgctxt "8216"
+msgid "Maybe I'm early?"
+msgstr ""
+
+msgctxt "8236"
+msgid "He's late again..."
+msgstr ""
+
+msgctxt "8240"
+msgid "Maybe in a bit..."
+msgstr ""
+
+msgctxt "8260"
+msgid "There you are."
+msgstr ""
+
+msgctxt "8264"
+msgid "Here!"
+msgstr ""
+
+msgctxt "8268"
+msgid "Here, here!"
+msgstr ""
+
+msgctxt "8272"
+msgid "You're late!"
+msgstr ""
+
+msgctxt "8276"
+msgid "I can't believe you..."
+msgstr ""
+
+msgctxt "8280"
+msgid "Finally!"
+msgstr ""
+
+msgctxt "8284"
+msgid "I was about to\n"
+"go home!"
+msgstr ""
+
+msgctxt "8288"
+msgid "It's been a while."
+msgstr ""
+
+msgctxt "8292"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "8368"
+msgid "There you are..."
+msgstr ""
+
+msgctxt "8372"
+msgid "Right here!"
+msgstr ""
+
+msgctxt "8376"
+msgid "Over this way."
+msgstr ""
+
+msgctxt "8380"
+msgid "What's the deal?"
+msgstr ""
+
+msgctxt "8384"
+msgid "Hi!"
+msgstr ""
+
+msgctxt "8428"
+msgid "I'm over here."
+msgstr ""
+
+msgctxt "8432"
+msgid "You're so late!"
+msgstr ""
+
+msgctxt "8436"
+msgid "You know I hate\\rwaiting!"
+msgstr ""
+
+msgctxt "8440"
+msgid "Nice to see you."
+msgstr ""
+
+msgctxt "8444"
+msgid "I knew you'd come."
+msgstr ""
+
+msgctxt "8488"
+msgid "Hey, you're here."
+msgstr ""
+
+msgctxt "8492"
+msgid "Over here!"
+msgstr ""
+
+msgctxt "8496"
+msgid "Over here!"
+msgstr ""
+
+msgctxt "8500"
+msgid "You're late!"
+msgstr ""
+
+msgctxt "8504"
+msgid "You're so damn late!"
+msgstr ""
+
+msgctxt "8508"
+msgid "About time!"
+msgstr ""
+
+msgctxt "8512"
+msgid "See if I wait for\n"
+"you next time."
+msgstr ""
+
+msgctxt "8516"
+msgid "It's been so long."
+msgstr ""
+
+msgctxt "8520"
+msgid "Heyo!"
+msgstr ""
+
+msgctxt "8596"
+msgid "There you are!"
+msgstr ""
+
+msgctxt "8600"
+msgid "Here I am!"
+msgstr ""
+
+msgctxt "8604"
+msgid "Right over here."
+msgstr ""
+
+msgctxt "8608"
+msgid "Late again. Sheesh."
+msgstr ""
+
+msgctxt "8612"
+msgid "I've been waiting\\rforever."
+msgstr ""
+
+msgctxt "8616"
+msgid "You're finally here!"
+msgstr ""
+
+msgctxt "8620"
+msgid "I've been here just\\rabout all day!"
+msgstr ""
+
+msgctxt "8624"
+msgid "Hey, how long's\n"
+"it been?"
+msgstr ""
+
+msgctxt "8628"
+msgid "Could you be any later?"
+msgstr ""
+
+msgctxt "8704"
+msgid "There you are."
+msgstr ""
+
+msgctxt "8708"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "8728"
+msgid "Over here!"
+msgstr ""
+
+msgctxt "8732"
+msgid "What held you up?"
+msgstr ""
+
+msgctxt "8752"
+msgid "What do you want to do?"
+msgstr ""
+
+msgctxt "8756"
+msgid "Shit, this isn't good!"
+msgstr ""
+
+msgctxt "8760"
+msgid "Let's stay here!"
+msgstr ""
+
+msgctxt "8788"
+msgid "This way!"
+msgstr ""
+
+msgctxt "8792"
+msgid "You're okay!"
+msgstr ""
+
+msgctxt "8812"
+msgid "I can't believe this..."
+msgstr ""
+
+msgctxt "8816"
+msgid "Sure, but still..."
+msgstr ""
+
+msgctxt "8836"
+msgid "Let's get going!"
+msgstr ""
+
+msgctxt "8840"
+msgid "Agh... This isn't good."
+msgstr ""
+
+msgctxt "8844"
+msgid "This way's still open."
+msgstr ""
+
+msgctxt "8848"
+msgid "Where did they go...?"
+msgstr ""
+
+msgctxt "8852"
+msgid "We're done for..."
+msgstr ""
+
+msgctxt "8896"
+msgid "Where you okay?"
+msgstr ""
+
+msgctxt "8900"
+msgid "The Self-Defense Force was here!"
+msgstr ""
+
+msgctxt "8904"
+msgid "That was so scary!"
+msgstr ""
+
+msgctxt "8908"
+msgid "My friend is still in there!"
+msgstr ""
+
+msgctxt "8944"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "8948"
+msgid "No way!!"
+msgstr ""
+
+msgctxt "8968"
+msgid "I'm so scared!"
+msgstr ""
+
+msgctxt "8972"
+msgid "Waaah!"
+msgstr ""
+
+msgctxt "8992"
+msgid "Mmm!"
+msgstr ""
+
+msgctxt "8996"
+msgid "I sure am hungry..."
+msgstr ""
+
+msgctxt "9016"
+msgid "Not bad!"
+msgstr ""
+
+msgctxt "9020"
+msgid "So good!"
+msgstr ""
+
+msgctxt "9024"
+msgid "Great flavor!"
+msgstr ""
+
+msgctxt "9028"
+msgid "One more..."
+msgstr ""
+
+msgctxt "9064"
+msgid "I love this."
+msgstr ""
+
+msgctxt "9068"
+msgid "Very tasty!"
+msgstr ""
+
+msgctxt "9072"
+msgid "I'd like to try that as well..."
+msgstr ""
+
+msgctxt "9076"
+msgid "I wonder what I should order...?"
+msgstr ""
+
+msgctxt "9112"
+msgid "Now this is what I\\rcall living!"
+msgstr ""
+
+msgctxt "9116"
+msgid "That's great too!"
+msgstr ""
+
+msgctxt "9120"
+msgid "Another one."
+msgstr ""
+
+msgctxt "9124"
+msgid "Pretty good..."
+msgstr ""
+
+msgctxt "9128"
+msgid "Oh yes!"
+msgstr ""
+
+msgctxt "9132"
+msgid "That tastes amazing!"
+msgstr ""
+
+msgctxt "9136"
+msgid "I may go for seconds..."
+msgstr ""
+
+msgctxt "9196"
+msgid "How about dessert?"
+msgstr ""
+
+msgctxt "9200"
+msgid "What do you wanna do?"
+msgstr ""
+
+msgctxt "9204"
+msgid "So good!"
+msgstr ""
+
+msgctxt "9208"
+msgid "This is great!"
+msgstr ""
+
+msgctxt "9212"
+msgid "I want to try it all..."
+msgstr ""
+
+msgctxt "9216"
+msgid "I wonder which I should order..."
+msgstr ""
+
+msgctxt "9268"
+msgid "I want more!"
+msgstr ""
+
+msgctxt "9280"
+msgid "Ahh..."
+msgstr ""
+
+msgctxt "9292"
+msgid "Huh?  "
+msgstr ""
+
+msgctxt "9296"
+msgid "What do you want?"
+msgstr ""
+
+msgctxt "9300"
+msgid "Oh, yeah?"
+msgstr ""
+
+msgctxt "9304"
+msgid "What!?"
+msgstr ""
+
+msgctxt "9308"
+msgid "Yeah, you."
+msgstr ""
+
+msgctxt "9312"
+msgid "Oh!?"
+msgstr ""
+
+msgctxt "9316"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "9320"
+msgid "Hang on!"
+msgstr ""
+
+msgctxt "9324"
+msgid "What's your problem!?"
+msgstr ""
+
+msgctxt "9328"
+msgid "Hey, hey!"
+msgstr ""
+
+msgctxt "9332"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "9336"
+msgid "Hey, there."
+msgstr ""
+
+msgctxt "9340"
+msgid "Buddy!"
+msgstr ""
+
+msgctxt "9344"
+msgid "Old guy!"
+msgstr ""
+
+msgctxt "9348"
+msgid "Dude!"
+msgstr ""
+
+msgctxt "9472"
+msgid "What the hell?"
+msgstr ""
+
+msgctxt "9476"
+msgid "Shit..."
+msgstr ""
+
+msgctxt "9480"
+msgid "Pain in the ass."
+msgstr ""
+
+msgctxt "9484"
+msgid "Shithead."
+msgstr ""
+
+msgctxt "9488"
+msgid "Get lost."
+msgstr ""
+
+msgctxt "9492"
+msgid "Scum."
+msgstr ""
+
+msgctxt "9496"
+msgid "Loser."
+msgstr ""
+
+msgctxt "9500"
+msgid "Moron."
+msgstr ""
+
+msgctxt "9504"
+msgid "Idiot."
+msgstr ""
+
+msgctxt "9508"
+msgid "Coward."
+msgstr ""
+
+msgctxt "9512"
+msgid "Chickenshit."
+msgstr ""
+
+msgctxt "9516"
+msgid "Beat it."
+msgstr ""
+
+msgctxt "9520"
+msgid "Wimp."
+msgstr ""
+
+msgctxt "9628"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "9632"
+msgid "You!"
+msgstr ""
+
+msgctxt "9636"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "9640"
+msgid "Wait, I said!"
+msgstr ""
+
+msgctxt "9644"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "9648"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "9652"
+msgid "Hold up!"
+msgstr ""
+
+msgctxt "9656"
+msgid "Yeah, you!"
+msgstr ""
+
+msgctxt "9660"
+msgid "Found you!"
+msgstr ""
+
+msgctxt "9664"
+msgid "Don't move!"
+msgstr ""
+
+msgctxt "9668"
+msgid "You're not getting away!"
+msgstr ""
+
+msgctxt "9672"
+msgid "Hold still!"
+msgstr ""
+
+msgctxt "9676"
+msgid "Wait up!"
+msgstr ""
+
+msgctxt "9784"
+msgid "You bastard!"
+msgstr ""
+
+msgctxt "9788"
+msgid "Hey! "
+msgstr ""
+
+msgctxt "9792"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "9796"
+msgid "Old fart!"
+msgstr ""
+
+msgctxt "9800"
+msgid "Don't you run!"
+msgstr ""
+
+msgctxt "9804"
+msgid "Don't you try to run!"
+msgstr ""
+
+msgctxt "9808"
+msgid "Stop I said!"
+msgstr ""
+
+msgctxt "9812"
+msgid "Freeze!"
+msgstr ""
+
+msgctxt "9816"
+msgid "I said stop!"
+msgstr ""
+
+msgctxt "9820"
+msgid "You piece of shit!"
+msgstr ""
+
+msgctxt "9824"
+msgid "Asshole!  "
+msgstr ""
+
+msgctxt "9828"
+msgid "You moron!  "
+msgstr ""
+
+msgctxt "9832"
+msgid "You worm!"
+msgstr ""
+
+msgctxt "9940"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "9944"
+msgid "It won't happen again."
+msgstr ""
+
+msgctxt "9948"
+msgid "Forgive me..."
+msgstr ""
+
+msgctxt "9952"
+msgid "It's my fault."
+msgstr ""
+
+msgctxt "9956"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "9960"
+msgid "Please forgive me."
+msgstr ""
+
+msgctxt "9964"
+msgid "I'm an idiot..."
+msgstr ""
+
+msgctxt "9968"
+msgid "Please, no more..."
+msgstr ""
+
+msgctxt "9972"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "9976"
+msgid "I lost..."
+msgstr ""
+
+msgctxt "9980"
+msgid "Don't hit me..."
+msgstr ""
+
+msgctxt "9984"
+msgid "You win..."
+msgstr ""
+
+msgctxt "10084"
+msgid "You reek of booze."
+msgstr ""
+
+msgctxt "10088"
+msgid "You stink of booze..."
+msgstr ""
+
+msgctxt "10092"
+msgid "Hey, drunkard!"
+msgstr ""
+
+msgctxt "10096"
+msgid "Stupid drunk."
+msgstr ""
+
+msgctxt "10100"
+msgid "Drunk asshole...  "
+msgstr ""
+
+msgctxt "10104"
+msgid "Hey, drunk boy!  "
+msgstr ""
+
+msgctxt "10108"
+msgid "Stupid lush.  "
+msgstr ""
+
+msgctxt "10112"
+msgid "You stink.  "
+msgstr ""
+
+msgctxt "10116"
+msgid "Whoa, you reek.  "
+msgstr ""
+
+msgctxt "10120"
+msgid "Hey, hey!  "
+msgstr ""
+
+msgctxt "10124"
+msgid "Whoa!  "
+msgstr ""
+
+msgctxt "10128"
+msgid "Hey, there.  "
+msgstr ""
+
+msgctxt "10132"
+msgid "Buddy!  "
+msgstr ""
+
+msgctxt "10136"
+msgid "Old guy!  "
+msgstr ""
+
+msgctxt "10140"
+msgid "Dude!  "
+msgstr ""
+
+msgctxt "10144"
+msgid "What the hell?  "
+msgstr ""
+
+msgctxt "10148"
+msgid "Shit.  "
+msgstr ""
+
+msgctxt "10152"
+msgid "Pain in the ass.  "
+msgstr ""
+
+msgctxt "10156"
+msgid "Shithead.  "
+msgstr ""
+
+msgctxt "10160"
+msgid "Get lost.  "
+msgstr ""
+
+msgctxt "10164"
+msgid "Scum.  "
+msgstr ""
+
+msgctxt "10168"
+msgid "Loser.  "
+msgstr ""
+
+msgctxt "10172"
+msgid "Moron.  "
+msgstr ""
+
+msgctxt "10176"
+msgid "Idiot.  "
+msgstr ""
+
+msgctxt "10180"
+msgid "Drunk asshole.  "
+msgstr ""
+
+msgctxt "10184"
+msgid "Booze breath...  "
+msgstr ""
+
+msgctxt "10188"
+msgid "Beat it.  "
+msgstr ""
+
+msgctxt "10192"
+msgid "Wimp.  "
+msgstr ""
+
+msgctxt "10196"
+msgid "Hey!  "
+msgstr ""
+
+msgctxt "10200"
+msgid "You!  "
+msgstr ""
+
+msgctxt "10204"
+msgid "Wait!  "
+msgstr ""
+
+msgctxt "10208"
+msgid "Wait, I said!  "
+msgstr ""
+
+msgctxt "10212"
+msgid "Hold it!  "
+msgstr ""
+
+msgctxt "10216"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "10220"
+msgid "Hold up!  "
+msgstr ""
+
+msgctxt "10224"
+msgid "Yeah, you!"
+msgstr ""
+
+msgctxt "10228"
+msgid "Found you!  "
+msgstr ""
+
+msgctxt "10232"
+msgid "Don't move!  "
+msgstr ""
+
+msgctxt "10236"
+msgid "You're not getting away!  "
+msgstr ""
+
+msgctxt "10240"
+msgid "Hold still!  "
+msgstr ""
+
+msgctxt "10244"
+msgid "Wait up!  "
+msgstr ""
+
+msgctxt "10248"
+msgid "You bastard!  "
+msgstr ""
+
+msgctxt "10252"
+msgid "Hey!  "
+msgstr ""
+
+msgctxt "10256"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "10260"
+msgid "Old fart!  "
+msgstr ""
+
+msgctxt "10264"
+msgid "Don't you run!  "
+msgstr ""
+
+msgctxt "10268"
+msgid "Don't try to run!  "
+msgstr ""
+
+msgctxt "10272"
+msgid "Stop, I said!  "
+msgstr ""
+
+msgctxt "10276"
+msgid "Freeze!  "
+msgstr ""
+
+msgctxt "10280"
+msgid "I said stop!  "
+msgstr ""
+
+msgctxt "10284"
+msgid "You piece of shit!  "
+msgstr ""
+
+msgctxt "10288"
+msgid "Asshole!  "
+msgstr ""
+
+msgctxt "10292"
+msgid "You moron!  "
+msgstr ""
+
+msgctxt "10296"
+msgid "You worm!  "
+msgstr ""
+
+msgctxt "10300"
+msgid "I'm sorry...  "
+msgstr ""
+
+msgctxt "10304"
+msgid "It won't happen again.  "
+msgstr ""
+
+msgctxt "10308"
+msgid "Forgive me...  "
+msgstr ""
+
+msgctxt "10312"
+msgid "It's my fault.  "
+msgstr ""
+
+msgctxt "10316"
+msgid "I'm so sorry.  "
+msgstr ""
+
+msgctxt "10320"
+msgid "Please forgive me.  "
+msgstr ""
+
+msgctxt "10324"
+msgid "I'm an idiot...  "
+msgstr ""
+
+msgctxt "10328"
+msgid "Please, no more...  "
+msgstr ""
+
+msgctxt "10332"
+msgid "Sorry...  "
+msgstr ""
+
+msgctxt "10336"
+msgid "I lost...  "
+msgstr ""
+
+msgctxt "10340"
+msgid "Don't hit me...  "
+msgstr ""
+
+msgctxt "10344"
+msgid "You win...  "
+msgstr ""
+
+msgctxt "10876"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "10880"
+msgid "What do you want?"
+msgstr ""
+
+msgctxt "10884"
+msgid "Oh, yeah?"
+msgstr ""
+
+msgctxt "10888"
+msgid "What!?"
+msgstr ""
+
+msgctxt "10892"
+msgid "Yeah, you."
+msgstr ""
+
+msgctxt "10896"
+msgid "Oh!?"
+msgstr ""
+
+msgctxt "10900"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "10904"
+msgid "Hang on!"
+msgstr ""
+
+msgctxt "10908"
+msgid "What's your problem!?"
+msgstr ""
+
+msgctxt "10912"
+msgid "Hey, hey!"
+msgstr ""
+
+msgctxt "10916"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "10920"
+msgid "Hey, there."
+msgstr ""
+
+msgctxt "10924"
+msgid "Buddy!"
+msgstr ""
+
+msgctxt "10928"
+msgid "Old guy!"
+msgstr ""
+
+msgctxt "10932"
+msgid "Dude!"
+msgstr ""
+
+msgctxt "11056"
+msgid "What the hell?"
+msgstr ""
+
+msgctxt "11060"
+msgid "Shit."
+msgstr ""
+
+msgctxt "11064"
+msgid "Pain in the ass."
+msgstr ""
+
+msgctxt "11068"
+msgid "Shithead."
+msgstr ""
+
+msgctxt "11072"
+msgid "Get lost."
+msgstr ""
+
+msgctxt "11076"
+msgid "Scum."
+msgstr ""
+
+msgctxt "11080"
+msgid "Loser."
+msgstr ""
+
+msgctxt "11084"
+msgid "Moron."
+msgstr ""
+
+msgctxt "11088"
+msgid "Idiot."
+msgstr ""
+
+msgctxt "11092"
+msgid "Coward."
+msgstr ""
+
+msgctxt "11096"
+msgid "Chickenshit."
+msgstr ""
+
+msgctxt "11100"
+msgid "Beat it."
+msgstr ""
+
+msgctxt "11104"
+msgid "Wimp."
+msgstr ""
+
+msgctxt "11212"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "11216"
+msgid "You!"
+msgstr ""
+
+msgctxt "11220"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "11224"
+msgid "Wait, I said!"
+msgstr ""
+
+msgctxt "11228"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "11232"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "11236"
+msgid "Hold up!"
+msgstr ""
+
+msgctxt "11240"
+msgid "Yeah, you!"
+msgstr ""
+
+msgctxt "11244"
+msgid "Found you!"
+msgstr ""
+
+msgctxt "11248"
+msgid "Don't move!"
+msgstr ""
+
+msgctxt "11252"
+msgid "You're not getting away!"
+msgstr ""
+
+msgctxt "11256"
+msgid "Hold still!"
+msgstr ""
+
+msgctxt "11260"
+msgid "Wait up!"
+msgstr ""
+
+msgctxt "11368"
+msgid "You bastard!"
+msgstr ""
+
+msgctxt "11372"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "11376"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "11380"
+msgid "Old fart!"
+msgstr ""
+
+msgctxt "11384"
+msgid "Don't you run!"
+msgstr ""
+
+msgctxt "11388"
+msgid "Don't try to run!"
+msgstr ""
+
+msgctxt "11392"
+msgid "Stop, I said!"
+msgstr ""
+
+msgctxt "11396"
+msgid "Freeze!"
+msgstr ""
+
+msgctxt "11400"
+msgid "I said stop!"
+msgstr ""
+
+msgctxt "11404"
+msgid "You piece of shit!"
+msgstr ""
+
+msgctxt "11408"
+msgid "Asshole!"
+msgstr ""
+
+msgctxt "11412"
+msgid "You moron!"
+msgstr ""
+
+msgctxt "11416"
+msgid "You worm!"
+msgstr ""
+
+msgctxt "11524"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "11528"
+msgid "It won't happen again."
+msgstr ""
+
+msgctxt "11532"
+msgid "Forgive me..."
+msgstr ""
+
+msgctxt "11536"
+msgid "It's my fault."
+msgstr ""
+
+msgctxt "11540"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "11544"
+msgid "Please forgive me."
+msgstr ""
+
+msgctxt "11548"
+msgid "I'm an idiot..."
+msgstr ""
+
+msgctxt "11552"
+msgid "Please, no more..."
+msgstr ""
+
+msgctxt "11556"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "11560"
+msgid "I lost..."
+msgstr ""
+
+msgctxt "11564"
+msgid "Don't hit me..."
+msgstr ""
+
+msgctxt "11568"
+msgid "You win..."
+msgstr ""
+
+msgctxt "11668"
+msgid "You reek of booze."
+msgstr ""
+
+msgctxt "11672"
+msgid "You stink of booze."
+msgstr ""
+
+msgctxt "11676"
+msgid "Hey, drunkard!"
+msgstr ""
+
+msgctxt "11680"
+msgid "Stupid drunk."
+msgstr ""
+
+msgctxt "11684"
+msgid "Dumb wino."
+msgstr ""
+
+msgctxt "11688"
+msgid "Hey, drunk boy!"
+msgstr ""
+
+msgctxt "11692"
+msgid "Stupid lush."
+msgstr ""
+
+msgctxt "11696"
+msgid "You stink."
+msgstr ""
+
+msgctxt "11700"
+msgid "Whoa, you reek."
+msgstr ""
+
+msgctxt "11704"
+msgid "Hey, hey!"
+msgstr ""
+
+msgctxt "11708"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "11712"
+msgid "Hey, there."
+msgstr ""
+
+msgctxt "11716"
+msgid "Buddy!"
+msgstr ""
+
+msgctxt "11720"
+msgid "Old guy!"
+msgstr ""
+
+msgctxt "11724"
+msgid "Dude!"
+msgstr ""
+
+msgctxt "11848"
+msgid "What the hell?"
+msgstr ""
+
+msgctxt "11852"
+msgid "Shit."
+msgstr ""
+
+msgctxt "11856"
+msgid "Pain in the ass."
+msgstr ""
+
+msgctxt "11860"
+msgid "Shithead."
+msgstr ""
+
+msgctxt "11864"
+msgid "Get lost."
+msgstr ""
+
+msgctxt "11868"
+msgid "Scum."
+msgstr ""
+
+msgctxt "11872"
+msgid "Loser."
+msgstr ""
+
+msgctxt "11876"
+msgid "Moron."
+msgstr ""
+
+msgctxt "11880"
+msgid "Idiot."
+msgstr ""
+
+msgctxt "11884"
+msgid "Drunk asshole."
+msgstr ""
+
+msgctxt "11888"
+msgid "Booze breath..."
+msgstr ""
+
+msgctxt "11892"
+msgid "Beat it."
+msgstr ""
+
+msgctxt "11896"
+msgid "Wimp."
+msgstr ""
+
+msgctxt "12004"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "12008"
+msgid "You!"
+msgstr ""
+
+msgctxt "12012"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "12016"
+msgid "Wait, I said!"
+msgstr ""
+
+msgctxt "12020"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "12024"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "12028"
+msgid "Hold up!"
+msgstr ""
+
+msgctxt "12032"
+msgid "Yeah, you!"
+msgstr ""
+
+msgctxt "12036"
+msgid "Found you!"
+msgstr ""
+
+msgctxt "12040"
+msgid "Don't move!"
+msgstr ""
+
+msgctxt "12044"
+msgid "You're not getting away!"
+msgstr ""
+
+msgctxt "12048"
+msgid "Hold still!"
+msgstr ""
+
+msgctxt "12052"
+msgid "Wait up!"
+msgstr ""
+
+msgctxt "12160"
+msgid "You bastard!"
+msgstr ""
+
+msgctxt "12164"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "12168"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "12172"
+msgid "Old fart!"
+msgstr ""
+
+msgctxt "12176"
+msgid "Don't you run!"
+msgstr ""
+
+msgctxt "12180"
+msgid "Don't try to run!"
+msgstr ""
+
+msgctxt "12184"
+msgid "Stop, I said!"
+msgstr ""
+
+msgctxt "12188"
+msgid "Freeze!"
+msgstr ""
+
+msgctxt "12192"
+msgid "I said stop!"
+msgstr ""
+
+msgctxt "12196"
+msgid "You piece of shit!"
+msgstr ""
+
+msgctxt "12200"
+msgid "Asshole!"
+msgstr ""
+
+msgctxt "12204"
+msgid "You moron!"
+msgstr ""
+
+msgctxt "12208"
+msgid "You worm!"
+msgstr ""
+
+msgctxt "12316"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "12320"
+msgid "It won't happen again."
+msgstr ""
+
+msgctxt "12324"
+msgid "Forgive me..."
+msgstr ""
+
+msgctxt "12328"
+msgid "It's my fault."
+msgstr ""
+
+msgctxt "12332"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "12336"
+msgid "Please forgive me."
+msgstr ""
+
+msgctxt "12340"
+msgid "I'm an idiot..."
+msgstr ""
+
+msgctxt "12344"
+msgid "Please, no more..."
+msgstr ""
+
+msgctxt "12348"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "12352"
+msgid "I lost..."
+msgstr ""
+
+msgctxt "12356"
+msgid "Don't hit me..."
+msgstr ""
+
+msgctxt "12360"
+msgid "You win..."
+msgstr ""
+
+msgctxt "12460"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "12464"
+msgid "What do you want?"
+msgstr ""
+
+msgctxt "12468"
+msgid "Oh, yeah?"
+msgstr ""
+
+msgctxt "12472"
+msgid "What!?"
+msgstr ""
+
+msgctxt "12476"
+msgid "Yeah, you."
+msgstr ""
+
+msgctxt "12480"
+msgid "Oh!?"
+msgstr ""
+
+msgctxt "12484"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "12488"
+msgid "Hang on!"
+msgstr ""
+
+msgctxt "12492"
+msgid "What's your problem!?"
+msgstr ""
+
+msgctxt "12496"
+msgid "Hey, hey!"
+msgstr ""
+
+msgctxt "12500"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "12504"
+msgid "Hey, there."
+msgstr ""
+
+msgctxt "12508"
+msgid "Buddy!"
+msgstr ""
+
+msgctxt "12512"
+msgid "Old guy!"
+msgstr ""
+
+msgctxt "12516"
+msgid "Dude!"
+msgstr ""
+
+msgctxt "12640"
+msgid "What the hell?"
+msgstr ""
+
+msgctxt "12644"
+msgid "Shit."
+msgstr ""
+
+msgctxt "12648"
+msgid "Pain in the ass."
+msgstr ""
+
+msgctxt "12652"
+msgid "Shithead."
+msgstr ""
+
+msgctxt "12656"
+msgid "Get lost."
+msgstr ""
+
+msgctxt "12660"
+msgid "Scum."
+msgstr ""
+
+msgctxt "12664"
+msgid "Loser."
+msgstr ""
+
+msgctxt "12668"
+msgid "Moron."
+msgstr ""
+
+msgctxt "12672"
+msgid "Idiot."
+msgstr ""
+
+msgctxt "12676"
+msgid "Coward."
+msgstr ""
+
+msgctxt "12680"
+msgid "Chickenshit."
+msgstr ""
+
+msgctxt "12684"
+msgid "Beat it."
+msgstr ""
+
+msgctxt "12688"
+msgid "Wimp."
+msgstr ""
+
+msgctxt "12796"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "12800"
+msgid "You!"
+msgstr ""
+
+msgctxt "12804"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "12808"
+msgid "Wait, I said!"
+msgstr ""
+
+msgctxt "12812"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "12816"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "12820"
+msgid "Hold up!"
+msgstr ""
+
+msgctxt "12824"
+msgid "Yeah, you!"
+msgstr ""
+
+msgctxt "12828"
+msgid "Found you!"
+msgstr ""
+
+msgctxt "12832"
+msgid "Don't move!"
+msgstr ""
+
+msgctxt "12836"
+msgid "You're not getting away!"
+msgstr ""
+
+msgctxt "12840"
+msgid "Hold still!"
+msgstr ""
+
+msgctxt "12844"
+msgid "Wait up!"
+msgstr ""
+
+msgctxt "12952"
+msgid "You bastard!"
+msgstr ""
+
+msgctxt "12956"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "12960"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "12964"
+msgid "Old fart!"
+msgstr ""
+
+msgctxt "12968"
+msgid "Don't you run!"
+msgstr ""
+
+msgctxt "12972"
+msgid "Don't try to run!"
+msgstr ""
+
+msgctxt "12976"
+msgid "Stop, I said!"
+msgstr ""
+
+msgctxt "12980"
+msgid "Freeze!"
+msgstr ""
+
+msgctxt "12984"
+msgid "I said stop!"
+msgstr ""
+
+msgctxt "12988"
+msgid "You piece of shit!"
+msgstr ""
+
+msgctxt "12992"
+msgid "Asshole!"
+msgstr ""
+
+msgctxt "12996"
+msgid "You moron!"
+msgstr ""
+
+msgctxt "13000"
+msgid "You worm!"
+msgstr ""
+
+msgctxt "13108"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "13112"
+msgid "It won't happen again."
+msgstr ""
+
+msgctxt "13116"
+msgid "Forgive me..."
+msgstr ""
+
+msgctxt "13120"
+msgid "It's my fault."
+msgstr ""
+
+msgctxt "13124"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "13128"
+msgid "Please forgive me."
+msgstr ""
+
+msgctxt "13132"
+msgid "I'm an idiot..."
+msgstr ""
+
+msgctxt "13136"
+msgid "Please, no more..."
+msgstr ""
+
+msgctxt "13140"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "13144"
+msgid "I lost..."
+msgstr ""
+
+msgctxt "13148"
+msgid "Don't hit me..."
+msgstr ""
+
+msgctxt "13152"
+msgid "You win..."
+msgstr ""
+
+msgctxt "13252"
+msgid "You reek of booze."
+msgstr ""
+
+msgctxt "13256"
+msgid "You stink of booze."
+msgstr ""
+
+msgctxt "13260"
+msgid "Hey, drunkard!"
+msgstr ""
+
+msgctxt "13264"
+msgid "Stupid drunk."
+msgstr ""
+
+msgctxt "13268"
+msgid "Dumb wino."
+msgstr ""
+
+msgctxt "13272"
+msgid "Hey, drunk boy!"
+msgstr ""
+
+msgctxt "13276"
+msgid "Stupid lush."
+msgstr ""
+
+msgctxt "13280"
+msgid "You stink."
+msgstr ""
+
+msgctxt "13284"
+msgid "Whoa, you reek."
+msgstr ""
+
+msgctxt "13288"
+msgid "Hey, hey!"
+msgstr ""
+
+msgctxt "13292"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "13296"
+msgid "Hey, there."
+msgstr ""
+
+msgctxt "13300"
+msgid "Buddy!"
+msgstr ""
+
+msgctxt "13304"
+msgid "Old guy!"
+msgstr ""
+
+msgctxt "13308"
+msgid "Dude!"
+msgstr ""
+
+msgctxt "13432"
+msgid "What the hell?"
+msgstr ""
+
+msgctxt "13436"
+msgid "Shit."
+msgstr ""
+
+msgctxt "13440"
+msgid "Pain in the ass."
+msgstr ""
+
+msgctxt "13444"
+msgid "Shithead."
+msgstr ""
+
+msgctxt "13448"
+msgid "Get lost."
+msgstr ""
+
+msgctxt "13452"
+msgid "Scum."
+msgstr ""
+
+msgctxt "13456"
+msgid "Loser."
+msgstr ""
+
+msgctxt "13460"
+msgid "Moron."
+msgstr ""
+
+msgctxt "13464"
+msgid "Idiot."
+msgstr ""
+
+msgctxt "13468"
+msgid "Drunk asshole."
+msgstr ""
+
+msgctxt "13472"
+msgid "Booze breath..."
+msgstr ""
+
+msgctxt "13476"
+msgid "Beat it."
+msgstr ""
+
+msgctxt "13480"
+msgid "Wimp."
+msgstr ""
+
+msgctxt "13588"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "13592"
+msgid "You!"
+msgstr ""
+
+msgctxt "13596"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "13600"
+msgid "Wait, I said!"
+msgstr ""
+
+msgctxt "13604"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "13608"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "13612"
+msgid "Hold up!"
+msgstr ""
+
+msgctxt "13616"
+msgid "Yeah, you!"
+msgstr ""
+
+msgctxt "13620"
+msgid "Found you!"
+msgstr ""
+
+msgctxt "13624"
+msgid "Don't move!"
+msgstr ""
+
+msgctxt "13628"
+msgid "You're not getting away!"
+msgstr ""
+
+msgctxt "13632"
+msgid "Hold still!"
+msgstr ""
+
+msgctxt "13636"
+msgid "Wait up!"
+msgstr ""
+
+msgctxt "13744"
+msgid "You bastard!"
+msgstr ""
+
+msgctxt "13748"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "13752"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "13756"
+msgid "Old fart!"
+msgstr ""
+
+msgctxt "13760"
+msgid "Don't you run!"
+msgstr ""
+
+msgctxt "13764"
+msgid "Don't try to run!"
+msgstr ""
+
+msgctxt "13768"
+msgid "Stop, I said!"
+msgstr ""
+
+msgctxt "13772"
+msgid "Freeze!"
+msgstr ""
+
+msgctxt "13776"
+msgid "I said stop!"
+msgstr ""
+
+msgctxt "13780"
+msgid "You piece of shit!"
+msgstr ""
+
+msgctxt "13784"
+msgid "Asshole!"
+msgstr ""
+
+msgctxt "13788"
+msgid "You moron!"
+msgstr ""
+
+msgctxt "13792"
+msgid "You worm!"
+msgstr ""
+
+msgctxt "13900"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "13904"
+msgid "It won't happen again."
+msgstr ""
+
+msgctxt "13908"
+msgid "Forgive me..."
+msgstr ""
+
+msgctxt "13912"
+msgid "It's my fault."
+msgstr ""
+
+msgctxt "13916"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "13920"
+msgid "Please forgive me."
+msgstr ""
+
+msgctxt "13924"
+msgid "I'm an idiot..."
+msgstr ""
+
+msgctxt "13928"
+msgid "Please, no more..."
+msgstr ""
+
+msgctxt "13932"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "13936"
+msgid "I lost..."
+msgstr ""
+
+msgctxt "13940"
+msgid "Don't hit me..."
+msgstr ""
+
+msgctxt "13944"
+msgid "You win..."
+msgstr ""
+
+msgctxt "14044"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "14048"
+msgid "What do you want?"
+msgstr ""
+
+msgctxt "14052"
+msgid "Oh, yeah?  "
+msgstr ""
+
+msgctxt "14056"
+msgid "What!?"
+msgstr ""
+
+msgctxt "14060"
+msgid "Yeah, you."
+msgstr ""
+
+msgctxt "14064"
+msgid "Oh!?"
+msgstr ""
+
+msgctxt "14068"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "14072"
+msgid "Hang on!"
+msgstr ""
+
+msgctxt "14076"
+msgid "What's your problem!?"
+msgstr ""
+
+msgctxt "14080"
+msgid "Hey, hey!"
+msgstr ""
+
+msgctxt "14084"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "14088"
+msgid "Hey, there."
+msgstr ""
+
+msgctxt "14092"
+msgid "Buddy!"
+msgstr ""
+
+msgctxt "14096"
+msgid "Old guy!"
+msgstr ""
+
+msgctxt "14100"
+msgid "Dude!"
+msgstr ""
+
+msgctxt "14224"
+msgid "What the hell?"
+msgstr ""
+
+msgctxt "14228"
+msgid "Shit."
+msgstr ""
+
+msgctxt "14232"
+msgid "Pain in the ass."
+msgstr ""
+
+msgctxt "14236"
+msgid "Shithead."
+msgstr ""
+
+msgctxt "14240"
+msgid "Get lost."
+msgstr ""
+
+msgctxt "14244"
+msgid "Scum."
+msgstr ""
+
+msgctxt "14248"
+msgid "Loser."
+msgstr ""
+
+msgctxt "14252"
+msgid "Moron."
+msgstr ""
+
+msgctxt "14256"
+msgid "Idiot."
+msgstr ""
+
+msgctxt "14260"
+msgid "Coward."
+msgstr ""
+
+msgctxt "14264"
+msgid "Chickenshit."
+msgstr ""
+
+msgctxt "14268"
+msgid "Beat it."
+msgstr ""
+
+msgctxt "14272"
+msgid "Wimp."
+msgstr ""
+
+msgctxt "14380"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "14384"
+msgid "You!"
+msgstr ""
+
+msgctxt "14388"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "14392"
+msgid "Wait, I said!"
+msgstr ""
+
+msgctxt "14396"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "14400"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "14404"
+msgid "Hold up!"
+msgstr ""
+
+msgctxt "14408"
+msgid "Yeah, you!"
+msgstr ""
+
+msgctxt "14412"
+msgid "Found you!"
+msgstr ""
+
+msgctxt "14416"
+msgid "Don't move!"
+msgstr ""
+
+msgctxt "14420"
+msgid "You're not getting away!"
+msgstr ""
+
+msgctxt "14424"
+msgid "Hold still!"
+msgstr ""
+
+msgctxt "14428"
+msgid "Wait up!"
+msgstr ""
+
+msgctxt "14536"
+msgid "You bastard!"
+msgstr ""
+
+msgctxt "14540"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "14544"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "14548"
+msgid "Old fart!"
+msgstr ""
+
+msgctxt "14552"
+msgid "Don't you run!"
+msgstr ""
+
+msgctxt "14556"
+msgid "Don't try to run!"
+msgstr ""
+
+msgctxt "14560"
+msgid "Stop, I said!"
+msgstr ""
+
+msgctxt "14564"
+msgid "Freeze!"
+msgstr ""
+
+msgctxt "14568"
+msgid "I said stop!"
+msgstr ""
+
+msgctxt "14572"
+msgid "You piece of shit!"
+msgstr ""
+
+msgctxt "14576"
+msgid "Asshole!"
+msgstr ""
+
+msgctxt "14580"
+msgid "You moron!"
+msgstr ""
+
+msgctxt "14584"
+msgid "You worm!"
+msgstr ""
+
+msgctxt "14692"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "14696"
+msgid "It won't happen again."
+msgstr ""
+
+msgctxt "14700"
+msgid "Forgive me..."
+msgstr ""
+
+msgctxt "14704"
+msgid "It's my fault."
+msgstr ""
+
+msgctxt "14708"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "14712"
+msgid "Please forgive me."
+msgstr ""
+
+msgctxt "14716"
+msgid "I'm an idiot..."
+msgstr ""
+
+msgctxt "14720"
+msgid "Please, no more..."
+msgstr ""
+
+msgctxt "14724"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "14728"
+msgid "I lost..."
+msgstr ""
+
+msgctxt "14732"
+msgid "Don't hit me..."
+msgstr ""
+
+msgctxt "14736"
+msgid "You win..."
+msgstr ""
+
+msgctxt "14836"
+msgid "You reek of booze."
+msgstr ""
+
+msgctxt "14840"
+msgid "You stink of booze."
+msgstr ""
+
+msgctxt "14844"
+msgid "Hey, drunkard!"
+msgstr ""
+
+msgctxt "14848"
+msgid "Stupid drunk."
+msgstr ""
+
+msgctxt "14852"
+msgid "Dumb wino."
+msgstr ""
+
+msgctxt "14856"
+msgid "Hey, drunk boy!"
+msgstr ""
+
+msgctxt "14860"
+msgid "Stupid lush."
+msgstr ""
+
+msgctxt "14864"
+msgid "You stink."
+msgstr ""
+
+msgctxt "14868"
+msgid "Whoa, you reek."
+msgstr ""
+
+msgctxt "14872"
+msgid "Hey, hey!"
+msgstr ""
+
+msgctxt "14876"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "14880"
+msgid "Hey, there."
+msgstr ""
+
+msgctxt "14884"
+msgid "Buddy!"
+msgstr ""
+
+msgctxt "14888"
+msgid "Old guy!"
+msgstr ""
+
+msgctxt "14892"
+msgid "Dude!"
+msgstr ""
+
+msgctxt "15016"
+msgid "What the hell?"
+msgstr ""
+
+msgctxt "15020"
+msgid "Shit."
+msgstr ""
+
+msgctxt "15024"
+msgid "Pain in the ass."
+msgstr ""
+
+msgctxt "15028"
+msgid "Shithead."
+msgstr ""
+
+msgctxt "15032"
+msgid "Get lost."
+msgstr ""
+
+msgctxt "15036"
+msgid "Scum."
+msgstr ""
+
+msgctxt "15040"
+msgid "Loser."
+msgstr ""
+
+msgctxt "15044"
+msgid "Moron."
+msgstr ""
+
+msgctxt "15048"
+msgid "Idiot."
+msgstr ""
+
+msgctxt "15052"
+msgid "Drunk asshole."
+msgstr ""
+
+msgctxt "15056"
+msgid "Booze breath..."
+msgstr ""
+
+msgctxt "15060"
+msgid "Beat it."
+msgstr ""
+
+msgctxt "15064"
+msgid "Wimp."
+msgstr ""
+
+msgctxt "15172"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "15176"
+msgid "You!"
+msgstr ""
+
+msgctxt "15180"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "15184"
+msgid "Wait, I said!"
+msgstr ""
+
+msgctxt "15188"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "15192"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "15196"
+msgid "Hold up!"
+msgstr ""
+
+msgctxt "15200"
+msgid "Yeah, you!"
+msgstr ""
+
+msgctxt "15204"
+msgid "Found you!"
+msgstr ""
+
+msgctxt "15208"
+msgid "Don't move!"
+msgstr ""
+
+msgctxt "15212"
+msgid "You're not getting away!"
+msgstr ""
+
+msgctxt "15216"
+msgid "Hold still!"
+msgstr ""
+
+msgctxt "15220"
+msgid "Wait up!"
+msgstr ""
+
+msgctxt "15328"
+msgid "You bastard!"
+msgstr ""
+
+msgctxt "15332"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "15336"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "15340"
+msgid "Old fart!"
+msgstr ""
+
+msgctxt "15344"
+msgid "Don't you run!"
+msgstr ""
+
+msgctxt "15348"
+msgid "Don't try to run!"
+msgstr ""
+
+msgctxt "15352"
+msgid "Stop, I said!"
+msgstr ""
+
+msgctxt "15356"
+msgid "Freeze!"
+msgstr ""
+
+msgctxt "15360"
+msgid "I said stop!"
+msgstr ""
+
+msgctxt "15364"
+msgid "You piece of shit!"
+msgstr ""
+
+msgctxt "15368"
+msgid "Asshole!"
+msgstr ""
+
+msgctxt "15372"
+msgid "You moron!"
+msgstr ""
+
+msgctxt "15376"
+msgid "You worm!"
+msgstr ""
+
+msgctxt "15484"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "15488"
+msgid "It won't happen again."
+msgstr ""
+
+msgctxt "15492"
+msgid "Forgive me..."
+msgstr ""
+
+msgctxt "15496"
+msgid "It's my fault."
+msgstr ""
+
+msgctxt "15500"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "15504"
+msgid "Please forgive me."
+msgstr ""
+
+msgctxt "15508"
+msgid "I'm an idiot..."
+msgstr ""
+
+msgctxt "15512"
+msgid "Please, no more..."
+msgstr ""
+
+msgctxt "15516"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "15520"
+msgid "I lost..."
+msgstr ""
+
+msgctxt "15524"
+msgid "Don't hit me..."
+msgstr ""
+
+msgctxt "15528"
+msgid "You win..."
+msgstr ""
+
+msgctxt "15628"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "15632"
+msgid "What do you want?"
+msgstr ""
+
+msgctxt "15636"
+msgid "Oh, yeah?  "
+msgstr ""
+
+msgctxt "15640"
+msgid "What!?"
+msgstr ""
+
+msgctxt "15644"
+msgid "Yeah, you."
+msgstr ""
+
+msgctxt "15648"
+msgid "Oh!?"
+msgstr ""
+
+msgctxt "15652"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "15656"
+msgid "Hang on!"
+msgstr ""
+
+msgctxt "15660"
+msgid "What's your problem!?"
+msgstr ""
+
+msgctxt "15664"
+msgid "Hey, hey!"
+msgstr ""
+
+msgctxt "15668"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "15672"
+msgid "Hey, there."
+msgstr ""
+
+msgctxt "15676"
+msgid "Buddy!"
+msgstr ""
+
+msgctxt "15680"
+msgid "Old guy!"
+msgstr ""
+
+msgctxt "15684"
+msgid "Dude!"
+msgstr ""
+
+msgctxt "15808"
+msgid "What the hell?"
+msgstr ""
+
+msgctxt "15812"
+msgid "Shit."
+msgstr ""
+
+msgctxt "15816"
+msgid "Pain in the ass."
+msgstr ""
+
+msgctxt "15820"
+msgid "Shithead."
+msgstr ""
+
+msgctxt "15824"
+msgid "Get lost."
+msgstr ""
+
+msgctxt "15828"
+msgid "Scum."
+msgstr ""
+
+msgctxt "15832"
+msgid "Loser."
+msgstr ""
+
+msgctxt "15836"
+msgid "Moron."
+msgstr ""
+
+msgctxt "15840"
+msgid "Idiot."
+msgstr ""
+
+msgctxt "15844"
+msgid "Coward."
+msgstr ""
+
+msgctxt "15848"
+msgid "Chickenshit."
+msgstr ""
+
+msgctxt "15852"
+msgid "Beat it."
+msgstr ""
+
+msgctxt "15856"
+msgid "Wimp."
+msgstr ""
+
+msgctxt "15964"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "15968"
+msgid "You!"
+msgstr ""
+
+msgctxt "15972"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "15976"
+msgid "Wait, I said!"
+msgstr ""
+
+msgctxt "15980"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "15984"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "15988"
+msgid "Hold up!"
+msgstr ""
+
+msgctxt "15992"
+msgid "Yeah, you!"
+msgstr ""
+
+msgctxt "15996"
+msgid "Found you!"
+msgstr ""
+
+msgctxt "16000"
+msgid "Don't move!"
+msgstr ""
+
+msgctxt "16004"
+msgid "You're not getting away!"
+msgstr ""
+
+msgctxt "16008"
+msgid "Hold still!"
+msgstr ""
+
+msgctxt "16012"
+msgid "Wait up!"
+msgstr ""
+
+msgctxt "16120"
+msgid "You bastard!"
+msgstr ""
+
+msgctxt "16124"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "16128"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "16132"
+msgid "Old fart!"
+msgstr ""
+
+msgctxt "16136"
+msgid "Don't you run!"
+msgstr ""
+
+msgctxt "16140"
+msgid "Don't try to run!"
+msgstr ""
+
+msgctxt "16144"
+msgid "Stop, I said!"
+msgstr ""
+
+msgctxt "16148"
+msgid "Freeze!"
+msgstr ""
+
+msgctxt "16152"
+msgid "I said stop!"
+msgstr ""
+
+msgctxt "16156"
+msgid "You piece of shit!"
+msgstr ""
+
+msgctxt "16160"
+msgid "Asshole!"
+msgstr ""
+
+msgctxt "16164"
+msgid "You moron!"
+msgstr ""
+
+msgctxt "16168"
+msgid "You worm!"
+msgstr ""
+
+msgctxt "16276"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "16280"
+msgid "It won't happen again."
+msgstr ""
+
+msgctxt "16284"
+msgid "Forgive me..."
+msgstr ""
+
+msgctxt "16288"
+msgid "It's my fault."
+msgstr ""
+
+msgctxt "16292"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "16296"
+msgid "Please forgive me."
+msgstr ""
+
+msgctxt "16300"
+msgid "I'm an idiot..."
+msgstr ""
+
+msgctxt "16304"
+msgid "Please, no more..."
+msgstr ""
+
+msgctxt "16308"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "16312"
+msgid "I lost..."
+msgstr ""
+
+msgctxt "16316"
+msgid "Don't hit me..."
+msgstr ""
+
+msgctxt "16320"
+msgid "You win..."
+msgstr ""
+
+msgctxt "16420"
+msgid "You reek of booze."
+msgstr ""
+
+msgctxt "16424"
+msgid "You stink of booze."
+msgstr ""
+
+msgctxt "16428"
+msgid "Hey, drunkard!"
+msgstr ""
+
+msgctxt "16432"
+msgid "Stupid drunk."
+msgstr ""
+
+msgctxt "16436"
+msgid "Dumb wino."
+msgstr ""
+
+msgctxt "16440"
+msgid "Hey, drunk boy!"
+msgstr ""
+
+msgctxt "16444"
+msgid "Stupid lush."
+msgstr ""
+
+msgctxt "16448"
+msgid "You stink."
+msgstr ""
+
+msgctxt "16452"
+msgid "Whoa, you reek."
+msgstr ""
+
+msgctxt "16456"
+msgid "Hey, hey!"
+msgstr ""
+
+msgctxt "16460"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "16464"
+msgid "Hey, there."
+msgstr ""
+
+msgctxt "16468"
+msgid "Buddy!"
+msgstr ""
+
+msgctxt "16472"
+msgid "Old guy!"
+msgstr ""
+
+msgctxt "16476"
+msgid "Dude!"
+msgstr ""
+
+msgctxt "16600"
+msgid "What the hell?"
+msgstr ""
+
+msgctxt "16604"
+msgid "Shit."
+msgstr ""
+
+msgctxt "16608"
+msgid "Pain in the ass."
+msgstr ""
+
+msgctxt "16612"
+msgid "Shithead."
+msgstr ""
+
+msgctxt "16616"
+msgid "Get lost."
+msgstr ""
+
+msgctxt "16620"
+msgid "Scum."
+msgstr ""
+
+msgctxt "16624"
+msgid "Loser."
+msgstr ""
+
+msgctxt "16628"
+msgid "Moron."
+msgstr ""
+
+msgctxt "16632"
+msgid "Idiot."
+msgstr ""
+
+msgctxt "16636"
+msgid "Drunk asshole."
+msgstr ""
+
+msgctxt "16640"
+msgid "Booze breath..."
+msgstr ""
+
+msgctxt "16644"
+msgid "Beat it."
+msgstr ""
+
+msgctxt "16648"
+msgid "Wimp."
+msgstr ""
+
+msgctxt "16756"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "16760"
+msgid "You!"
+msgstr ""
+
+msgctxt "16764"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "16768"
+msgid "Wait, I said!"
+msgstr ""
+
+msgctxt "16772"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "16776"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "16780"
+msgid "Hold up!"
+msgstr ""
+
+msgctxt "16784"
+msgid "Yeah, you!"
+msgstr ""
+
+msgctxt "16788"
+msgid "Found you!"
+msgstr ""
+
+msgctxt "16792"
+msgid "Don't move!"
+msgstr ""
+
+msgctxt "16796"
+msgid "You're not getting away!"
+msgstr ""
+
+msgctxt "16800"
+msgid "Hold still!"
+msgstr ""
+
+msgctxt "16804"
+msgid "Wait up!"
+msgstr ""
+
+msgctxt "16912"
+msgid "You bastard!"
+msgstr ""
+
+msgctxt "16916"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "16920"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "16924"
+msgid "Old fart!"
+msgstr ""
+
+msgctxt "16928"
+msgid "Don't you run!"
+msgstr ""
+
+msgctxt "16932"
+msgid "Don't try to run!"
+msgstr ""
+
+msgctxt "16936"
+msgid "Stop, I said!"
+msgstr ""
+
+msgctxt "16940"
+msgid "Freeze!"
+msgstr ""
+
+msgctxt "16944"
+msgid "I said stop!"
+msgstr ""
+
+msgctxt "16948"
+msgid "You piece of shit!"
+msgstr ""
+
+msgctxt "16952"
+msgid "Asshole!"
+msgstr ""
+
+msgctxt "16956"
+msgid "You moron!"
+msgstr ""
+
+msgctxt "16960"
+msgid "You worm!"
+msgstr ""
+
+msgctxt "17068"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "17072"
+msgid "It won't happen again."
+msgstr ""
+
+msgctxt "17076"
+msgid "Forgive me..."
+msgstr ""
+
+msgctxt "17080"
+msgid "It's my fault."
+msgstr ""
+
+msgctxt "17084"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "17088"
+msgid "Please forgive me."
+msgstr ""
+
+msgctxt "17092"
+msgid "I'm an idiot..."
+msgstr ""
+
+msgctxt "17096"
+msgid "Please, no more..."
+msgstr ""
+
+msgctxt "17100"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "17104"
+msgid "I lost..."
+msgstr ""
+
+msgctxt "17108"
+msgid "Don't hit me..."
+msgstr ""
+
+msgctxt "17112"
+msgid "You win..."
+msgstr ""
+
+msgctxt "17212"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "17216"
+msgid "What do you want?"
+msgstr ""
+
+msgctxt "17220"
+msgid "Oh, yeah?"
+msgstr ""
+
+msgctxt "17224"
+msgid "What!?"
+msgstr ""
+
+msgctxt "17228"
+msgid "Yeah, you."
+msgstr ""
+
+msgctxt "17232"
+msgid "Player enters detection range (tentative)"
+msgstr ""
+
+msgctxt "17236"
+msgid "Player enters detection range (tentative)"
+msgstr ""
+
+msgctxt "17240"
+msgid "Player enters detection range (tentative)"
+msgstr ""
+
+msgctxt "17244"
+msgid "Player enters detection range (tentative)"
+msgstr ""
+
+msgctxt "17248"
+msgid "Player enters detection range (tentative)"
+msgstr ""
+
+msgctxt "17332"
+msgid "What the hell?"
+msgstr ""
+
+msgctxt "17336"
+msgid "Screw this."
+msgstr ""
+
+msgctxt "17340"
+msgid "Pain in the ass."
+msgstr ""
+
+msgctxt "17344"
+msgid "Player exits detection range (tentative)"
+msgstr ""
+
+msgctxt "17348"
+msgid "Player exits detection range (tentative)"
+msgstr ""
+
+msgctxt "17352"
+msgid "Player exits detection range (tentative)"
+msgstr ""
+
+msgctxt "17356"
+msgid "Player exits detection range (tentative)"
+msgstr ""
+
+msgctxt "17360"
+msgid "Player exits detection range (tentative)"
+msgstr ""
+
+msgctxt "17364"
+msgid "Player exits detection range (tentative)"
+msgstr ""
+
+msgctxt "17368"
+msgid "Player exits detection range (tentative)"
+msgstr ""
+
+msgctxt "17452"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "17456"
+msgid "You!"
+msgstr ""
+
+msgctxt "17460"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "17464"
+msgid "Chase start popup (tentative)"
+msgstr ""
+
+msgctxt "17468"
+msgid "Chase start popup (tentative)"
+msgstr ""
+
+msgctxt "17472"
+msgid "Chase start popup (tentative)"
+msgstr ""
+
+msgctxt "17476"
+msgid "Chase start popup (tentative)"
+msgstr ""
+
+msgctxt "17480"
+msgid "Chase start popup (tentative)"
+msgstr ""
+
+msgctxt "17484"
+msgid "Chase start popup (tentative)"
+msgstr ""
+
+msgctxt "17488"
+msgid "Chase start popup (tentative)"
+msgstr ""
+
+msgctxt "17492"
+msgid "Chase start popup (tentative)"
+msgstr ""
+
+msgctxt "17584"
+msgid "Wait, I said!"
+msgstr ""
+
+msgctxt "17588"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "17592"
+msgid "Hey, old man!"
+msgstr ""
+
+msgctxt "17596"
+msgid "In-chase popup (tentative)"
+msgstr ""
+
+msgctxt "17600"
+msgid "In-chase popup (tentative)"
+msgstr ""
+
+msgctxt "17604"
+msgid "In-chase popup (tentative)"
+msgstr ""
+
+msgctxt "17608"
+msgid "In-chase popup (tentative)"
+msgstr ""
+
+msgctxt "17612"
+msgid "In-chase popup (tentative)"
+msgstr ""
+
+msgctxt "17616"
+msgid "In-chase popup (tentative)"
+msgstr ""
+
+msgctxt "17620"
+msgid "In-chase popup (tentative)"
+msgstr ""
+
+msgctxt "17704"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "17708"
+msgid "It won't happen again..."
+msgstr ""
+
+msgctxt "17712"
+msgid "Loss popup (tentative)"
+msgstr ""
+
+msgctxt "17716"
+msgid "Loss popup (tentative)"
+msgstr ""
+
+msgctxt "17720"
+msgid "Loss popup (tentative)"
+msgstr ""
+
+msgctxt "17724"
+msgid "Loss popup (tentative)"
+msgstr ""
+
+msgctxt "17728"
+msgid "Loss popup (tentative)"
+msgstr ""
+
+msgctxt "17732"
+msgid "Loss popup (tentative)"
+msgstr ""
+
+msgctxt "17736"
+msgid "Loss popup (tentative)"
+msgstr ""
+
+msgctxt "17740"
+msgid "Loss popup (tentative)"
+msgstr ""
+
+msgctxt "17824"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "17828"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "17832"
+msgid "I got you!"
+msgstr ""
+
+msgctxt "17860"
+msgid "Sure, run away."
+msgstr ""
+
+msgctxt "17864"
+msgid "Coward."
+msgstr ""
+
+msgctxt "17868"
+msgid "Chickenshit."
+msgstr ""
+
+msgctxt "17896"
+msgid "Fight me!"
+msgstr ""
+
+msgctxt "17900"
+msgid "Take me on!"
+msgstr ""
+
+msgctxt "17904"
+msgid "You're not beating me!"
+msgstr ""
+
+msgctxt "17932"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "17936"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "17940"
+msgid "Hold up!"
+msgstr ""
+
+msgctxt "17968"
+msgid "You're tough."
+msgstr ""
+
+msgctxt "17972"
+msgid "You're too much..."
+msgstr ""
+
+msgctxt "17976"
+msgid "I lost?"
+msgstr ""
+
+msgctxt "17980"
+msgid "This can't be..."
+msgstr ""
+
+msgctxt "17984"
+msgid "No way..."
+msgstr ""
+
+msgctxt "18028"
+msgid "You drunk!"
+msgstr ""
+
+msgctxt "18032"
+msgid "You reek of booze."
+msgstr ""
+
+msgctxt "18036"
+msgid "Drunkard..."
+msgstr ""
+
+msgctxt "18064"
+msgid "Sure, run away."
+msgstr ""
+
+msgctxt "18068"
+msgid "Stupid drunk."
+msgstr ""
+
+msgctxt "18072"
+msgid "Dumb lush."
+msgstr ""
+
+msgctxt "18100"
+msgid "Fight me!"
+msgstr ""
+
+msgctxt "18104"
+msgid "Take me on!"
+msgstr ""
+
+msgctxt "18108"
+msgid "You're not beating me!"
+msgstr ""
+
+msgctxt "18136"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "18140"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "18144"
+msgid "Hold up!"
+msgstr ""
+
+msgctxt "18172"
+msgid "You're tough."
+msgstr ""
+
+msgctxt "18176"
+msgid "You're too much..."
+msgstr ""
+
+msgctxt "18180"
+msgid "I lost?"
+msgstr ""
+
+msgctxt "18184"
+msgid "This can't be..."
+msgstr ""
+
+msgctxt "18188"
+msgid "No way..."
+msgstr ""
+
+msgctxt "18232"
+msgid "Phew!"
+msgstr ""
+
+msgctxt "18236"
+msgid "I'll take a breather."
+msgstr ""
+
+msgctxt "18256"
+msgid "Whew..."
+msgstr ""
+
+msgctxt "18260"
+msgid "Here we are..."
+msgstr ""
+
+msgctxt "18264"
+msgid "Now then..."
+msgstr ""
+
+msgctxt "18268"
+msgid "I'm beat!"
+msgstr ""
+
+msgctxt "18304"
+msgid "All right..."
+msgstr ""
+
+msgctxt "18308"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "18312"
+msgid "Oh my, I'm exhausted."
+msgstr ""
+
+msgctxt "18316"
+msgid "Just gotta rest a minute."
+msgstr ""
+
+msgctxt "18352"
+msgid "Oof..."
+msgstr ""
+
+msgctxt "18356"
+msgid "Gonna take a quick break."
+msgstr ""
+
+msgctxt "18360"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "18364"
+msgid "Now then..."
+msgstr ""
+
+msgctxt "18368"
+msgid "I'm pooped..."
+msgstr ""
+
+msgctxt "18412"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "18416"
+msgid "I'm so done..."
+msgstr ""
+
+msgctxt "18420"
+msgid "I think I'll sit and wait."
+msgstr ""
+
+msgctxt "18424"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "18460"
+msgid "Whew..."
+msgstr ""
+
+msgctxt "18464"
+msgid "Gimme a sec..."
+msgstr ""
+
+msgctxt "18484"
+msgid "Phew!"
+msgstr ""
+
+msgctxt "18488"
+msgid "Time for a little break."
+msgstr ""
+
+msgctxt "18508"
+msgid "I should be on my way..."
+msgstr ""
+
+msgctxt "18512"
+msgid "All right..."
+msgstr ""
+
+msgctxt "18532"
+msgid "I'd better go..."
+msgstr ""
+
+msgctxt "18536"
+msgid "Time to move."
+msgstr ""
+
+msgctxt "18540"
+msgid "All right let's go."
+msgstr ""
+
+msgctxt "18544"
+msgid "Now then..."
+msgstr ""
+
+msgctxt "18548"
+msgid "Okay then..."
+msgstr ""
+
+msgctxt "18592"
+msgid "Oof."
+msgstr ""
+
+msgctxt "18596"
+msgid "Up and at 'em."
+msgstr ""
+
+msgctxt "18600"
+msgid "I'm ready to go."
+msgstr ""
+
+msgctxt "18604"
+msgid "Whew..."
+msgstr ""
+
+msgctxt "18640"
+msgid "I should go..."
+msgstr ""
+
+msgctxt "18644"
+msgid "All right..."
+msgstr ""
+
+msgctxt "18648"
+msgid "Now then..."
+msgstr ""
+
+msgctxt "18676"
+msgid "Guess I should head out."
+msgstr ""
+
+msgctxt "18680"
+msgid "Enough rest."
+msgstr ""
+
+msgctxt "18684"
+msgid "Phew!"
+msgstr ""
+
+msgctxt "18688"
+msgid "All right then!"
+msgstr ""
+
+msgctxt "18724"
+msgid "Gotta get going..."
+msgstr ""
+
+msgctxt "18728"
+msgid "All right..."
+msgstr ""
+
+msgctxt "18748"
+msgid "Time to get going!"
+msgstr ""
+
+msgctxt "18752"
+msgid "There we go."
+msgstr ""
+
+msgctxt "18772"
+msgid "(There's gotta be a good target around somewhere...)"
+msgstr ""
+
+msgctxt "18776"
+msgid "(Him!)"
+msgstr ""
+
+msgctxt "18780"
+msgid "(That was too\\rclose!)"
+msgstr ""
+
+msgctxt "18808"
+msgid "Hey."
+msgstr ""
+
+msgctxt "18812"
+msgid "Hello."
+msgstr ""
+
+msgctxt "18832"
+msgid "Hi there."
+msgstr ""
+
+msgctxt "18836"
+msgid "Hello."
+msgstr ""
+
+msgctxt "18840"
+msgid "How's everything?"
+msgstr ""
+
+msgctxt "18844"
+msgid "Hello there!"
+msgstr ""
+
+msgctxt "18848"
+msgid "Been a while!"
+msgstr ""
+
+msgctxt "18852"
+msgid "Well now!"
+msgstr ""
+
+msgctxt "18904"
+msgid "I appreciate it."
+msgstr ""
+
+msgctxt "18908"
+msgid "Oh my!"
+msgstr ""
+
+msgctxt "18912"
+msgid "How have you been?"
+msgstr ""
+
+msgctxt "18916"
+msgid "We have got to catch up!"
+msgstr ""
+
+msgctxt "18920"
+msgid "Oh, hi there!"
+msgstr ""
+
+msgctxt "18964"
+msgid "Greetings."
+msgstr ""
+
+msgctxt "18968"
+msgid "Hello."
+msgstr ""
+
+msgctxt "18972"
+msgid "How's it been going?"
+msgstr ""
+
+msgctxt "18976"
+msgid "Hello there!"
+msgstr ""
+
+msgctxt "18980"
+msgid "You haven't even called!"
+msgstr ""
+
+msgctxt "18984"
+msgid "Well now!"
+msgstr ""
+
+msgctxt "19036"
+msgid "Greetings."
+msgstr ""
+
+msgctxt "19040"
+msgid "Oh, my!"
+msgstr ""
+
+msgctxt "19044"
+msgid "It's been so long!"
+msgstr ""
+
+msgctxt "19048"
+msgid "Been a while!"
+msgstr ""
+
+msgctxt "19052"
+msgid "Well, hello."
+msgstr ""
+
+msgctxt "19096"
+msgid "Hello!"
+msgstr ""
+
+msgctxt "19108"
+msgid "Afternoon!"
+msgstr ""
+
+msgctxt "19120"
+msgid "How've things been lately?"
+msgstr ""
+
+msgctxt "19124"
+msgid "Oh really?"
+msgstr ""
+
+msgctxt "19128"
+msgid "Not at all."
+msgstr ""
+
+msgctxt "19132"
+msgid "Hahaha!"
+msgstr ""
+
+msgctxt "19136"
+msgid "Really?"
+msgstr ""
+
+msgctxt "19140"
+msgid "Hmm."
+msgstr ""
+
+msgctxt "19144"
+msgid "Okay."
+msgstr ""
+
+msgctxt "19148"
+msgid "That's great."
+msgstr ""
+
+msgctxt "19152"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "19156"
+msgid "That's rough."
+msgstr ""
+
+msgctxt "19240"
+msgid "How've things been lately?"
+msgstr ""
+
+msgctxt "19244"
+msgid "Oh really?"
+msgstr ""
+
+msgctxt "19248"
+msgid "No way."
+msgstr ""
+
+msgctxt "19252"
+msgid "Hahaha!"
+msgstr ""
+
+msgctxt "19256"
+msgid "Seriously?"
+msgstr ""
+
+msgctxt "19260"
+msgid "Wow!"
+msgstr ""
+
+msgctxt "19264"
+msgid "Oh yes!"
+msgstr ""
+
+msgctxt "19268"
+msgid "Glad to hear it."
+msgstr ""
+
+msgctxt "19272"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "19276"
+msgid "That sucks."
+msgstr ""
+
+msgctxt "19360"
+msgid "How are you?"
+msgstr ""
+
+msgctxt "19364"
+msgid "You mean it?"
+msgstr ""
+
+msgctxt "19368"
+msgid "Oh please..."
+msgstr ""
+
+msgctxt "19372"
+msgid "Hehehe."
+msgstr ""
+
+msgctxt "19376"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "19380"
+msgid "Oof."
+msgstr ""
+
+msgctxt "19384"
+msgid "Yep!"
+msgstr ""
+
+msgctxt "19388"
+msgid "That's great to hear."
+msgstr ""
+
+msgctxt "19392"
+msgid "How did it go?"
+msgstr ""
+
+msgctxt "19396"
+msgid "...Oh."
+msgstr ""
+
+msgctxt "19400"
+msgid "That's awful."
+msgstr ""
+
+msgctxt "19492"
+msgid "That's awful."
+msgstr ""
+
+msgctxt "19496"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "19500"
+msgid "No you know..."
+msgstr ""
+
+msgctxt "19504"
+msgid "Hahaha."
+msgstr ""
+
+msgctxt "19508"
+msgid "For real?"
+msgstr ""
+
+msgctxt "19512"
+msgid "Whoa."
+msgstr ""
+
+msgctxt "19516"
+msgid "Yeah yeah."
+msgstr ""
+
+msgctxt "19520"
+msgid "Great!Great!"
+msgstr ""
+
+msgctxt "19524"
+msgid "How was it?"
+msgstr ""
+
+msgctxt "19528"
+msgid "Geez!"
+msgstr ""
+
+msgctxt "19612"
+msgid "How're things on your end?"
+msgstr ""
+
+msgctxt "19616"
+msgid "You mean it?"
+msgstr ""
+
+msgctxt "19620"
+msgid "Oh stop."
+msgstr ""
+
+msgctxt "19624"
+msgid "Hehehe!"
+msgstr ""
+
+msgctxt "19628"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "19632"
+msgid "Hrm."
+msgstr ""
+
+msgctxt "19636"
+msgid "Yeah yeah."
+msgstr ""
+
+msgctxt "19640"
+msgid "That's great to hear."
+msgstr ""
+
+msgctxt "19644"
+msgid "How did it go?"
+msgstr ""
+
+msgctxt "19648"
+msgid "...Oh."
+msgstr ""
+
+msgctxt "19652"
+msgid "That's no good."
+msgstr ""
+
+msgctxt "19744"
+msgid "Mmhm. It's like that."
+msgstr ""
+
+msgctxt "19748"
+msgid "Exactly."
+msgstr ""
+
+msgctxt "19768"
+msgid "Yeah. That's right."
+msgstr ""
+
+msgctxt "19772"
+msgid "Yes."
+msgstr ""
+
+msgctxt "19792"
+msgid "Whew, I'm tired."
+msgstr ""
+
+msgctxt "19796"
+msgid "Should be here soon."
+msgstr ""
+
+msgctxt "19816"
+msgid "I'm dog tired."
+msgstr ""
+
+msgctxt "19820"
+msgid "Are we done yet?"
+msgstr ""
+
+msgctxt "19840"
+msgid "So tired."
+msgstr ""
+
+msgctxt "19844"
+msgid "Only a few more hours."
+msgstr ""
+
+msgctxt "19864"
+msgid "I'm exhausted. "
+msgstr ""
+
+msgctxt "19868"
+msgid "Any time now... "
+msgstr ""
+
+msgctxt "19888"
+msgid "Falling asleep..."
+msgstr ""
+
+msgctxt "19892"
+msgid "Soon."
+msgstr ""
+
+msgctxt "19912"
+msgid "I'm dead on my feet. "
+msgstr ""
+
+msgctxt "19916"
+msgid "Am I done yet? "
+msgstr ""
+
+msgctxt "19936"
+msgid "I'm about to fall over."
+msgstr ""
+
+msgctxt "19940"
+msgid "Gotta hold out..."
+msgstr ""
+
+msgctxt "19960"
+msgid "This store's still around?"
+msgstr ""
+
+msgctxt "19964"
+msgid "I don't feel like eating anything."
+msgstr ""
+
+msgctxt "19968"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "19972"
+msgid "I'm hungry, but let's get outta here."
+msgstr ""
+
+msgctxt "19976"
+msgid "Didn't know this was still here."
+msgstr ""
+
+msgctxt "19980"
+msgid "Most store's are closed now."
+msgstr ""
+
+msgctxt "19984"
+msgid "Forget it! Let's run!"
+msgstr ""
+
+msgctxt "19988"
+msgid "Now's not the time to be eating!"
+msgstr ""
+
+msgctxt "19992"
+msgid "Guess they're not open."
+msgstr ""
+
+msgctxt "19996"
+msgid "What should we do?"
+msgstr ""
+
+msgctxt "20000"
+msgid "Let's get outta this city!"
+msgstr ""
+
+msgctxt "20092"
+msgid "Let's get going"
+msgstr ""
+
+msgctxt "20096"
+msgid "Wanna leave?"
+msgstr ""
+
+msgctxt "20100"
+msgid "Let's go home."
+msgstr ""
+
+msgctxt "20104"
+msgid "I don't feel like eating."
+msgstr ""
+
+msgctxt "20108"
+msgid "Let's hurry."
+msgstr ""
+
+msgctxt "20152"
+msgid "It's so loud..."
+msgstr ""
+
+msgctxt "20156"
+msgid "Yes, lets."
+msgstr ""
+
+msgctxt "20160"
+msgid "Mmhm."
+msgstr ""
+
+msgctxt "20164"
+msgid "I wonder if they're okay."
+msgstr ""
+
+msgctxt "20168"
+msgid "I don't know..."
+msgstr ""
+
+msgctxt "20212"
+msgid "Let's eat at a different place."
+msgstr ""
+
+msgctxt "20216"
+msgid "Let's leave Kamurocho."
+msgstr ""
+
+msgctxt "20220"
+msgid "It's too dangerous."
+msgstr ""
+
+msgctxt "20224"
+msgid "What should we do?"
+msgstr ""
+
+msgctxt "20228"
+msgid "One of the employees just ran away."
+msgstr ""
+
+msgctxt "20232"
+msgid "There's something going on!"
+msgstr ""
+
+msgctxt "20236"
+msgid "I'm going to go ahead!"
+msgstr ""
+
+msgctxt "20240"
+msgid "What should we do from now on?"
+msgstr ""
+
+msgctxt "20244"
+msgid "Hurry up! Let's go!"
+msgstr ""
+
+msgctxt "20248"
+msgid "I don't have money..."
+msgstr ""
+
+msgctxt "20332"
+msgid "I wonder what I should eat."
+msgstr ""
+
+msgctxt "20336"
+msgid "Is it too late?"
+msgstr ""
+
+msgctxt "20340"
+msgid "Let's go somewhere safe!"
+msgstr ""
+
+msgctxt "20344"
+msgid "This isn't good!"
+msgstr ""
+
+msgctxt "20348"
+msgid "Seriously!? This isn't funny!"
+msgstr ""
+
+msgctxt "20352"
+msgid "Uhh..."
+msgstr ""
+
+msgctxt "20356"
+msgid "What should I order today."
+msgstr ""
+
+msgctxt "20360"
+msgid "I can't decide..."
+msgstr ""
+
+msgctxt "20428"
+msgid "Let's eat at home."
+msgstr ""
+
+msgctxt "20432"
+msgid "Let's go home."
+msgstr ""
+
+msgctxt "20452"
+msgid "It's fine..."
+msgstr ""
+
+msgctxt "20456"
+msgid "Let's go home!"
+msgstr ""
+
+msgctxt "20476"
+msgid "I don't have time for this."
+msgstr ""
+
+msgctxt "20480"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "20484"
+msgid "Still red?"
+msgstr ""
+
+msgctxt "20488"
+msgid "I wish it would turn green already."
+msgstr ""
+
+msgctxt "20492"
+msgid "Come on!"
+msgstr ""
+
+msgctxt "20496"
+msgid "The place is right"
+msgstr ""
+
+msgctxt "20500"
+msgid "over there."
+msgstr ""
+
+msgctxt "20504"
+msgid "......"
+msgstr ""
+
+msgctxt "20572"
+msgid "Every time I'm in a hurry..."
+msgstr ""
+
+msgctxt "20576"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "20580"
+msgid "It's just ahead."
+msgstr ""
+
+msgctxt "20584"
+msgid "......"
+msgstr ""
+
+msgctxt "20620"
+msgid "Oh why now...?"
+msgstr ""
+
+msgctxt "20624"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "20628"
+msgid "When is it going to change?"
+msgstr ""
+
+msgctxt "20632"
+msgid "......"
+msgstr ""
+
+msgctxt "20668"
+msgid "I don't have time for this."
+msgstr ""
+
+msgctxt "20672"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "20676"
+msgid "Any day now..."
+msgstr ""
+
+msgctxt "20680"
+msgid "Hurry up! Green, green!"
+msgstr ""
+
+msgctxt "20684"
+msgid "Man!"
+msgstr ""
+
+msgctxt "20688"
+msgid "It's just ahead."
+msgstr ""
+
+msgctxt "20692"
+msgid "Yeah it's at the end of the street."
+msgstr ""
+
+msgctxt "20696"
+msgid "......"
+msgstr ""
+
+msgctxt "20764"
+msgid "I may not make it in time..."
+msgstr ""
+
+msgctxt "20768"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "20772"
+msgid "Well?"
+msgstr ""
+
+msgctxt "20776"
+msgid "Is it going to change or what?"
+msgstr ""
+
+msgctxt "20780"
+msgid "Hurry up!"
+msgstr ""
+
+msgctxt "20784"
+msgid "Let's go!"
+msgstr ""
+
+msgctxt "20788"
+msgid "......"
+msgstr ""
+
+msgctxt "20848"
+msgid "This light takes too long..."
+msgstr ""
+
+msgctxt "20852"
+msgid "It sure is taking a while."
+msgstr ""
+
+msgctxt "20856"
+msgid "Phew!"
+msgstr ""
+
+msgctxt "20860"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "20864"
+msgid "Aw..."
+msgstr ""
+
+msgctxt "20908"
+msgid "How long do I have to sit here?"
+msgstr ""
+
+msgctxt "20912"
+msgid "Hurry up and change!"
+msgstr ""
+
+msgctxt "20916"
+msgid "Whew..."
+msgstr ""
+
+msgctxt "20920"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "20924"
+msgid "Come on!"
+msgstr ""
+
+msgctxt "20968"
+msgid "This is great."
+msgstr ""
+
+msgctxt "20972"
+msgid "Pretty cheap!"
+msgstr ""
+
+msgctxt "20976"
+msgid "Wow!"
+msgstr ""
+
+msgctxt "20980"
+msgid "Nice!"
+msgstr ""
+
+msgctxt "20984"
+msgid "How nice."
+msgstr ""
+
+msgctxt "20988"
+msgid "This one."
+msgstr ""
+
+msgctxt "20992"
+msgid "Not bad..."
+msgstr ""
+
+msgctxt "20996"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "21000"
+msgid "Should I pick this up?"
+msgstr ""
+
+msgctxt "21004"
+msgid "What's this?"
+msgstr ""
+
+msgctxt "21008"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "21012"
+msgid "Might be nice."
+msgstr ""
+
+msgctxt "21112"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "21116"
+msgid "This is just right."
+msgstr ""
+
+msgctxt "21120"
+msgid "How affordable!"
+msgstr ""
+
+msgctxt "21124"
+msgid "Pretty good, huh?"
+msgstr ""
+
+msgctxt "21128"
+msgid "Hmph."
+msgstr ""
+
+msgctxt "21132"
+msgid "Should I buy it?"
+msgstr ""
+
+msgctxt "21136"
+msgid "Great!"
+msgstr ""
+
+msgctxt "21140"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "21208"
+msgid "Well this might be nice."
+msgstr ""
+
+msgctxt "21212"
+msgid "Oh!"
+msgstr ""
+
+msgctxt "21216"
+msgid "Wonderful."
+msgstr ""
+
+msgctxt "21220"
+msgid "Don't you think this'll work?"
+msgstr ""
+
+msgctxt "21224"
+msgid "Should I buy it?"
+msgstr ""
+
+msgctxt "21268"
+msgid "This is great."
+msgstr ""
+
+msgctxt "21272"
+msgid "Surprised how cheap this is."
+msgstr ""
+
+msgctxt "21276"
+msgid "Oh yah!"
+msgstr ""
+
+msgctxt "21280"
+msgid "This is great!"
+msgstr ""
+
+msgctxt "21284"
+msgid "Looks nice."
+msgstr ""
+
+msgctxt "21288"
+msgid "Here we go!"
+msgstr ""
+
+msgctxt "21292"
+msgid "Hey... nice..."
+msgstr ""
+
+msgctxt "21296"
+msgid "Hmm... I dunno"
+msgstr ""
+
+msgctxt "21300"
+msgid "How about this one? "
+msgstr ""
+
+msgctxt "21304"
+msgid "Oh! Look at this!"
+msgstr ""
+
+msgctxt "21308"
+msgid "Hm? "
+msgstr ""
+
+msgctxt "21312"
+msgid "Here we are."
+msgstr ""
+
+msgctxt "21412"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "21416"
+msgid "It's quite cheap!"
+msgstr ""
+
+msgctxt "21420"
+msgid "Hehe..."
+msgstr ""
+
+msgctxt "21424"
+msgid "I like it."
+msgstr ""
+
+msgctxt "21428"
+msgid "Nice..."
+msgstr ""
+
+msgctxt "21432"
+msgid "This one."
+msgstr ""
+
+msgctxt "21436"
+msgid "Pretty nice..."
+msgstr ""
+
+msgctxt "21440"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "21444"
+msgid "Is this worth it?"
+msgstr ""
+
+msgctxt "21448"
+msgid "What's this?"
+msgstr ""
+
+msgctxt "21452"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "21456"
+msgid "All right."
+msgstr ""
+
+msgctxt "21556"
+msgid "This'd work."
+msgstr ""
+
+msgctxt "21560"
+msgid "Now this I can afford."
+msgstr ""
+
+msgctxt "21580"
+msgid "Hehehe."
+msgstr ""
+
+msgctxt "21584"
+msgid "I like it."
+msgstr ""
+
+msgctxt "21604"
+msgid "Hope I make it.  "
+msgstr ""
+
+msgctxt "21608"
+msgid "I didn't set my DVR!  "
+msgstr ""
+
+msgctxt "21612"
+msgid "Where's the station?  "
+msgstr ""
+
+msgctxt "21616"
+msgid "Same place!  "
+msgstr ""
+
+msgctxt "21620"
+msgid "Oh, stop it!  "
+msgstr ""
+
+msgctxt "21624"
+msgid "Hello...  "
+msgstr ""
+
+msgctxt "21628"
+msgid "I'm hungry."
+msgstr ""
+
+msgctxt "21632"
+msgid "Urgh...  "
+msgstr ""
+
+msgctxt "21636"
+msgid "Awright!  "
+msgstr ""
+
+msgctxt "21640"
+msgid "What's this smell..."
+msgstr ""
+
+msgctxt "21644"
+msgid "Are the bars still opened?"
+msgstr ""
+
+msgctxt "21648"
+msgid "Is the subway still running?"
+msgstr ""
+
+msgctxt "21652"
+msgid "Let's go somewhere else..."
+msgstr ""
+
+msgctxt "21656"
+msgid "Look at the wall!"
+msgstr ""
+
+msgctxt "21660"
+msgid "Last night was terrible."
+msgstr ""
+
+msgctxt "21664"
+msgid "We still can't get inside?"
+msgstr ""
+
+msgctxt "21668"
+msgid "What's happening in there?"
+msgstr ""
+
+msgctxt "21672"
+msgid "Look! It's the army!"
+msgstr ""
+
+msgctxt "21676"
+msgid "I saw a tank just now!"
+msgstr ""
+
+msgctxt "21680"
+msgid "I think I hear gun shots coming from inside..."
+msgstr ""
+
+msgctxt "21684"
+msgid "What is that wall!?"
+msgstr ""
+
+msgctxt "21688"
+msgid "What's going on inside!?"
+msgstr ""
+
+msgctxt "21692"
+msgid "I'm sure all stores are closed."
+msgstr ""
+
+msgctxt "21696"
+msgid "Hello? Hello!?"
+msgstr ""
+
+msgctxt "21700"
+msgid "Am I drunk...?"
+msgstr ""
+
+msgctxt "21704"
+msgid "Please help!"
+msgstr ""
+
+msgctxt "21708"
+msgid "Where did he go?"
+msgstr ""
+
+msgctxt "21712"
+msgid "I should get home...  "
+msgstr ""
+
+msgctxt "21716"
+msgid "It's spring already...  "
+msgstr ""
+
+msgctxt "21720"
+msgid "Gotta work tomorrow.  "
+msgstr ""
+
+msgctxt "21724"
+msgid "Hmph, young people!  "
+msgstr ""
+
+msgctxt "21728"
+msgid "What's going on?"
+msgstr ""
+
+msgctxt "21732"
+msgid "Something is burning..."
+msgstr ""
+
+msgctxt "21736"
+msgid "Should I take the taxi back?"
+msgstr ""
+
+msgctxt "21740"
+msgid "What is this noise?"
+msgstr ""
+
+msgctxt "21744"
+msgid "I should really get going..."
+msgstr ""
+
+msgctxt "21748"
+msgid "This is the first time I've seen something like this..."
+msgstr ""
+
+msgctxt "21752"
+msgid "What's going on!?"
+msgstr ""
+
+msgctxt "21756"
+msgid "Are we under attack?"
+msgstr ""
+
+msgctxt "21760"
+msgid "Oh, these days...  "
+msgstr ""
+
+msgctxt "21764"
+msgid "In the old days...  "
+msgstr ""
+
+msgctxt "21768"
+msgid "It's like back in the war..."
+msgstr ""
+
+msgctxt "21772"
+msgid "This is scary..."
+msgstr ""
+
+msgctxt "21776"
+msgid "What is happening...?"
+msgstr ""
+
+msgctxt "21780"
+msgid "Honey? Where are you!?"
+msgstr ""
+
+msgctxt "21784"
+msgid "Aw, c'mon."
+msgstr ""
+
+msgctxt "21788"
+msgid "I'm gonna be late!  "
+msgstr ""
+
+msgctxt "21792"
+msgid "I'm beat...  "
+msgstr ""
+
+msgctxt "21796"
+msgid "So...full...  "
+msgstr ""
+
+msgctxt "21800"
+msgid "About the Hills...  "
+msgstr ""
+
+msgctxt "21804"
+msgid "Ha ha!  "
+msgstr ""
+
+msgctxt "21808"
+msgid "Had one too many!  "
+msgstr ""
+
+msgctxt "21812"
+msgid "Whoops...  "
+msgstr ""
+
+msgctxt "21816"
+msgid "Really!?  "
+msgstr ""
+
+msgctxt "21820"
+msgid "Hold on...  "
+msgstr ""
+
+msgctxt "21824"
+msgid "It's crowded!  "
+msgstr ""
+
+msgctxt "21828"
+msgid "Just chill out!  "
+msgstr ""
+
+msgctxt "21832"
+msgid "Let's play mahjong!  "
+msgstr ""
+
+msgctxt "21836"
+msgid "Wa ha ha!  "
+msgstr ""
+
+msgctxt "21840"
+msgid "Back in college...  "
+msgstr ""
+
+msgctxt "21844"
+msgid "My boss is an ass!  "
+msgstr ""
+
+msgctxt "21848"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "21852"
+msgid "Let's go already!"
+msgstr ""
+
+msgctxt "21856"
+msgid "Should we go get a drink?"
+msgstr ""
+
+msgctxt "21860"
+msgid "Oh! This store is open"
+msgstr ""
+
+msgctxt "21864"
+msgid "Time for a drink..."
+msgstr ""
+
+msgctxt "21868"
+msgid "Let's go home."
+msgstr ""
+
+msgctxt "21872"
+msgid "We better not stay here."
+msgstr ""
+
+msgctxt "21876"
+msgid "We should get outta here while we can."
+msgstr ""
+
+msgctxt "21880"
+msgid "Let's go already..."
+msgstr ""
+
+msgctxt "21884"
+msgid "There are still stores that are open?"
+msgstr ""
+
+msgctxt "21888"
+msgid "I don't think they will be open."
+msgstr ""
+
+msgctxt "21892"
+msgid "I don't think I can make it today."
+msgstr ""
+
+msgctxt "21896"
+msgid "Should we stop by?"
+msgstr ""
+
+msgctxt "21900"
+msgid "Let's go see the wall."
+msgstr ""
+
+msgctxt "21904"
+msgid "That's a real rifle!"
+msgstr ""
+
+msgctxt "21908"
+msgid "We still can't get through?"
+msgstr ""
+
+msgctxt "21912"
+msgid "What's this? Terrorist?"
+msgstr ""
+
+msgctxt "21916"
+msgid "Wow, I'm getting excited!"
+msgstr ""
+
+msgctxt "21920"
+msgid "Huh? Are they shooting a movie?"
+msgstr ""
+
+msgctxt "21924"
+msgid "That looks so real..."
+msgstr ""
+
+msgctxt "21928"
+msgid "Huh? Cancel that!"
+msgstr ""
+
+msgctxt "21932"
+msgid "I'm telling you it's real!"
+msgstr ""
+
+msgctxt "21936"
+msgid "Was that a dead body?"
+msgstr ""
+
+msgctxt "21940"
+msgid "Smells like something is burning..."
+msgstr ""
+
+msgctxt "21944"
+msgid "You didn't hear that? The scream..."
+msgstr ""
+
+msgctxt "21948"
+msgid "Wait! Don't go there!"
+msgstr ""
+
+msgctxt "21952"
+msgid "Is that the sound of a gun?"
+msgstr ""
+
+msgctxt "21956"
+msgid "Is this for some drama?"
+msgstr ""
+
+msgctxt "21960"
+msgid "I'll send you a photo to show you!"
+msgstr ""
+
+msgctxt "21964"
+msgid "What's that!? That looks serious..."
+msgstr ""
+
+msgctxt "21968"
+msgid "Is that a dead body?"
+msgstr ""
+
+msgctxt "21972"
+msgid "Take a look at the news!"
+msgstr ""
+
+msgctxt "21976"
+msgid "Should I call a cab?  "
+msgstr ""
+
+msgctxt "21980"
+msgid "I should hurry..."
+msgstr ""
+
+msgctxt "21984"
+msgid "Last train's running late...  "
+msgstr ""
+
+msgctxt "21988"
+msgid "I lost my wallet!  "
+msgstr ""
+
+msgctxt "21992"
+msgid "Come pick me up...  "
+msgstr ""
+
+msgctxt "21996"
+msgid "Seriously...  "
+msgstr ""
+
+msgctxt "22000"
+msgid "I'm so angry!  "
+msgstr ""
+
+msgctxt "22004"
+msgid "Hee hee...  "
+msgstr ""
+
+msgctxt "22008"
+msgid "Look, look!  "
+msgstr ""
+
+msgctxt "22012"
+msgid "My phone's dying.  "
+msgstr ""
+
+msgctxt "22016"
+msgid "Anyway...  "
+msgstr ""
+
+msgctxt "22020"
+msgid "Yeah, I saw that!  "
+msgstr ""
+
+msgctxt "22024"
+msgid "It's so in!  "
+msgstr ""
+
+msgctxt "22028"
+msgid "You crack me up!  "
+msgstr ""
+
+msgctxt "22032"
+msgid "Ow!  "
+msgstr ""
+
+msgctxt "22036"
+msgid "That story again?  "
+msgstr ""
+
+msgctxt "22040"
+msgid "My throat hurts...  "
+msgstr ""
+
+msgctxt "22044"
+msgid "Be careful..."
+msgstr ""
+
+msgctxt "22048"
+msgid "This is scary..."
+msgstr ""
+
+msgctxt "22052"
+msgid "This is bad..."
+msgstr ""
+
+msgctxt "22056"
+msgid "Something is burning..."
+msgstr ""
+
+msgctxt "22060"
+msgid "Let's go!"
+msgstr ""
+
+msgctxt "22064"
+msgid "Let's go already!"
+msgstr ""
+
+msgctxt "22068"
+msgid "Wow..."
+msgstr ""
+
+msgctxt "22072"
+msgid "The police are everywhere."
+msgstr ""
+
+msgctxt "22076"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "22080"
+msgid "I can't get through!"
+msgstr ""
+
+msgctxt "22084"
+msgid "What is that wall?"
+msgstr ""
+
+msgctxt "22088"
+msgid "This is bad!!"
+msgstr ""
+
+msgctxt "22092"
+msgid "I said let's go!"
+msgstr ""
+
+msgctxt "22096"
+msgid "What's going on the other side of the wall?"
+msgstr ""
+
+msgctxt "22100"
+msgid "They are closed!"
+msgstr ""
+
+msgctxt "22104"
+msgid "What's all this smoke?"
+msgstr ""
+
+msgctxt "22108"
+msgid "Why are all these people here...?"
+msgstr ""
+
+msgctxt "22112"
+msgid "I can't get a taxi..."
+msgstr ""
+
+msgctxt "22116"
+msgid "Huh? What's going on?"
+msgstr ""
+
+msgctxt "22120"
+msgid "I can't hear anything?"
+msgstr ""
+
+msgctxt "22124"
+msgid "Look! What is that!?"
+msgstr ""
+
+msgctxt "22128"
+msgid "My friend is still inside..."
+msgstr ""
+
+msgctxt "22132"
+msgid "There was a person covered in blood..."
+msgstr ""
+
+msgctxt "22136"
+msgid "You gotta be kidding!!"
+msgstr ""
+
+msgctxt "22140"
+msgid "The person's eyes were red..."
+msgstr ""
+
+msgctxt "22144"
+msgid "What's going on!?"
+msgstr ""
+
+msgctxt "22148"
+msgid "Now is not the time!"
+msgstr ""
+
+msgctxt "22152"
+msgid "Where should we go?"
+msgstr ""
+
+msgctxt "22156"
+msgid "Huh? It's blocked?"
+msgstr ""
+
+msgctxt "22160"
+msgid "Are they open?"
+msgstr ""
+
+msgctxt "22164"
+msgid "That's some special makeup right?"
+msgstr ""
+
+msgctxt "22168"
+msgid "What's going on!?"
+msgstr ""
+
+msgctxt "22172"
+msgid "Did you hear that scream?"
+msgstr ""
+
+msgctxt "22176"
+msgid "Is that smoke...?"
+msgstr ""
+
+msgctxt "22180"
+msgid "Buy it for me!  "
+msgstr ""
+
+msgctxt "22184"
+msgid "Hey! Were you here long?"
+msgstr ""
+
+msgctxt "22188"
+msgid "I kept coughing..."
+msgstr ""
+
+msgctxt "22192"
+msgid "I'm scared!"
+msgstr ""
+
+msgctxt "22196"
+msgid "I'm scared!"
+msgstr ""
+
+msgctxt "22200"
+msgid "That man..."
+msgstr ""
+
+msgctxt "22204"
+msgid "Look, look!"
+msgstr ""
+
+msgctxt "22208"
+msgid "You know..."
+msgstr ""
+
+msgctxt "22212"
+msgid "Let's go home..."
+msgstr ""
+
+msgctxt "22216"
+msgid "What is that smell?"
+msgstr ""
+
+msgctxt "22220"
+msgid "Hey..."
+msgstr ""
+
+msgctxt "22224"
+msgid "Wait! Don't leave me here!"
+msgstr ""
+
+msgctxt "22228"
+msgid "Heh... Scared'a me?"
+msgstr ""
+
+msgctxt "22232"
+msgid "You wimp!"
+msgstr ""
+
+msgctxt "22236"
+msgid "Aw, you gonna piss\n"
+"your pants?"
+msgstr ""
+
+msgctxt "22240"
+msgid "You little shit!"
+msgstr ""
+
+msgctxt "22244"
+msgid "Get away!"
+msgstr ""
+
+msgctxt "22248"
+msgid "Beat it!"
+msgstr ""
+
+msgctxt "22252"
+msgid "Get the fuck outta\n"
+"my sight!"
+msgstr ""
+
+msgctxt "22256"
+msgid "You piss me off!"
+msgstr ""
+
+msgctxt "22260"
+msgid "Don't you ever\n"
+"come back!"
+msgstr ""
+
+msgctxt "22264"
+msgid "You ain't no\n"
+"friend of mine!"
+msgstr ""
+
+msgctxt "22268"
+msgid "You think you're\n"
+"hot shit, eh?"
+msgstr ""
+
+msgctxt "22272"
+msgid "I don't wanna see your butt-ugly face!"
+msgstr ""
+
+msgctxt "22372"
+msgid "Any closer and your ass is grass!"
+msgstr ""
+
+msgctxt "22376"
+msgid "Losers like you oughta stay at home!"
+msgstr ""
+
+msgctxt "22380"
+msgid "Chickened out? Idiot..."
+msgstr ""
+
+msgctxt "22384"
+msgid "Get lost, dumbass!"
+msgstr ""
+
+msgctxt "22388"
+msgid "Back the fuck up!"
+msgstr ""
+
+msgctxt "22392"
+msgid "You make me sick!"
+msgstr ""
+
+msgctxt "22396"
+msgid "Heh, you look real scared!"
+msgstr ""
+
+msgctxt "22400"
+msgid "You tryin' to run!?"
+msgstr ""
+
+msgctxt "22404"
+msgid "Bring it on!"
+msgstr ""
+
+msgctxt "22408"
+msgid "I bet you pissed your pants!"
+msgstr ""
+
+msgctxt "22412"
+msgid "Don't try and act tough, punk!"
+msgstr ""
+
+msgctxt "22416"
+msgid "Don't act all tough, bitch!"
+msgstr ""
+
+msgctxt "22516"
+msgid "Get outta my sight!"
+msgstr ""
+
+msgctxt "22520"
+msgid "You got no balls, do ya? "
+msgstr ""
+
+msgctxt "22524"
+msgid "Get the hell out of here!"
+msgstr ""
+
+msgctxt "22528"
+msgid "Heh... You ain't nothin' but a bitch..."
+msgstr ""
+
+msgctxt "22532"
+msgid "Get out of here dumbass!"
+msgstr ""
+
+msgctxt "22536"
+msgid "You scared little pansy..."
+msgstr ""
+
+msgctxt "22540"
+msgid "Any closer, and your ass is grass!"
+msgstr ""
+
+msgctxt "22544"
+msgid "You're just a punk-ass bitch!"
+msgstr ""
+
+msgctxt "22548"
+msgid "If I see you again, you're dead!"
+msgstr ""
+
+msgctxt "22552"
+msgid "Damn, this guy is fast."
+msgstr ""
+
+msgctxt "22556"
+msgid "Whew..."
+msgstr ""
+
+msgctxt "22560"
+msgid "Yeah, a bitch like you would run!"
+msgstr ""
+

@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "820"
+msgid "adv4_305_03/daigo_4_305_040"
+msgstr ""
+

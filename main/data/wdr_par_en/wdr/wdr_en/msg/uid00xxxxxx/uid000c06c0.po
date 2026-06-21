@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "348"
+msgid "Panicked Man"
+msgstr ""
+
+msgctxt "72_Panicked Man"
+msgid "My bike key's gone? What the heck? Where's my bag? Where'd I leave it!?"
+msgstr ""
+

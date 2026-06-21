@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "320"
+msgid "Lonely Nerd"
+msgstr ""
+
+msgctxt "60_Lonely Nerd"
+msgid "I knew this place would be full of couples this time of year, but... Dammit! I'm so jealous!"
+msgstr ""
+

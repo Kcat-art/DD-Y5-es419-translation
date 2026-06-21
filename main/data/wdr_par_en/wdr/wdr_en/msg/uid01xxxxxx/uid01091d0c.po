@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "324"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Saejima"
+msgid "(Narumi dropped bait in eight spots, supposedly. I just gotta gather 'em all up... and watch out for bears...)"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "316"
+msgid "Lonely Man"
+msgstr ""
+
+msgctxt "72_Lonely Man"
+msgid "Aren't there any women waiting to be found? Of course, they're likely not worth finding."
+msgstr ""
+

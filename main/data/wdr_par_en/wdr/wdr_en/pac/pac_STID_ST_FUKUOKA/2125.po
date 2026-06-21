@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "100"
+msgid "What do we even talk about?"
+msgstr ""
+

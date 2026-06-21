@@ -1,0 +1,46 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	 	 		142	957	815"
+msgid "Wrong, wrong, wrong!\\r\n"
+"How many lectures is this gonna take!?"
+msgstr ""
+
+msgctxt " 	 	 	　	74	1039	965"
+msgid "Ya gotta stick to the rhythm!"
+msgstr ""
+
+msgctxt "			　	60	1113	1053"
+msgid "Take it from the top!"
+msgstr ""
+
+msgctxt "	 	 	　	60	1187	1127"
+msgid "Yes, sir!"
+msgstr ""
+
+msgctxt "	 	 	テキスト修正	107	1600	1493"
+msgid "Wrong again.\\r\n"
+"Ya just ain't gettin' it."
+msgstr ""
+
+msgctxt "	 	 	　	60	1756	1696"
+msgid "Not good enough!"
+msgstr ""
+
+msgctxt "	 	 	　	161	2016	1855"
+msgid "Haruka. If that drivel's all ya got,\\r\n"
+"you're better off never steppin' foot on a stage."
+msgstr ""
+
+msgctxt "	 	 	　	73	2111	2038"
+msgid "How 'bout ya just call it quits?"
+msgstr ""
+
+msgctxt "	 	 	　	60	2235	2175"
+msgid "I can do this."
+msgstr ""
+
+msgctxt "	 		　	60	2315	2255"
+msgid "Please, let me try again!"
+msgstr ""
+

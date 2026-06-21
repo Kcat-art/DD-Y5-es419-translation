@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "252"
+msgid "Midnight Athlete"
+msgstr ""
+
+msgctxt "72_Midnight Athlete"
+msgid "Whew. This bridge is a good place to jog!"
+msgstr ""
+

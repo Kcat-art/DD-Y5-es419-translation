@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "180"
+msgid "Hey, big daddy, let's party."
+msgstr ""
+
+msgctxt "192"
+msgid "Sure! How much?"
+msgstr ""
+
+msgctxt "240"
+msgid "Want to party, big boy?"
+msgstr ""
+
+msgctxt "3892"
+msgid "F_YNG_SET_sitgrd_talkstand"
+msgstr ""
+

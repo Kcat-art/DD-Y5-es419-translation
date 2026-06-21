@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "76"
+msgid "It's my last chance..."
+msgstr ""
+

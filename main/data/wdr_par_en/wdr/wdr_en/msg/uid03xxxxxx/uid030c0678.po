@@ -1,0 +1,103 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "2876"
+msgid "Wada"
+msgstr ""
+
+msgctxt "2880"
+msgid "<BZA@Option:Circle>I've learned the ropes."
+msgstr ""
+
+msgctxt "2884"
+msgid "<BZA@Option:Triangle>Still getting the hang of things."
+msgstr ""
+
+msgctxt "2888"
+msgid "<BZA@Option:Square>I have no idea what I'm doing."
+msgstr ""
+
+msgctxt "2892"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2896"
+msgid "<BZA@Option:Circle>Yes, things are going well."
+msgstr ""
+
+msgctxt "2900"
+msgid "<BZA@Option:Triangle>It's still a bit difficult."
+msgstr ""
+
+msgctxt "2904"
+msgid "<BZA@Option:Square>I'm having a really hard time."
+msgstr ""
+
+msgctxt "120_Wada"
+msgid "Pick up the pace, Suzuki-san."
+msgstr ""
+
+msgctxt "132_Wada"
+msgid "You all settled in at work now?"
+msgstr ""
+
+msgctxt "156_Wada"
+msgid "Yes. I've pretty much learned the ropes."
+msgstr ""
+
+msgctxt "168_Wada"
+msgid "Good to hear."
+msgstr ""
+
+msgctxt "180_Wada"
+msgid "I'm still trying to get the hang of things."
+msgstr ""
+
+msgctxt "192_Wada"
+msgid "Don't worry, you'll get there."
+msgstr ""
+
+msgctxt "204_Wada"
+msgid "I have no idea what I'm doing."
+msgstr ""
+
+msgctxt "216_Wada"
+msgid "Hm. Well, I hope you find your feet soon."
+msgstr ""
+
+msgctxt "228_Wada"
+msgid "Hey, don't ignore the question!"
+msgstr ""
+
+msgctxt "240_Wada"
+msgid "Enjoying taxi driving?"
+msgstr ""
+
+msgctxt "264_Wada"
+msgid "Yes, things are going well."
+msgstr ""
+
+msgctxt "276_Wada"
+msgid "Yeah? Guess you're made for the job, Suzuki-san."
+msgstr ""
+
+msgctxt "288_Wada"
+msgid "It's still a bit difficult."
+msgstr ""
+
+msgctxt "300_Wada"
+msgid "Yeah, it can be rough sometimes."
+msgstr ""
+
+msgctxt "312_Wada"
+msgid "I'm having a really hard time."
+msgstr ""
+
+msgctxt "324_Wada"
+msgid "Don't sweat it. You gotta start somewhere."
+msgstr ""
+
+msgctxt "336_Wada"
+msgid "Hey, don't ignore the question!"
+msgstr ""
+

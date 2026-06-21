@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "This place is like a maze..."
+msgstr ""
+

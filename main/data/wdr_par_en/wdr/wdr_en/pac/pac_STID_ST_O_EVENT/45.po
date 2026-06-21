@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "144"
+msgid "adv4_120/fujita_0001a"
+msgstr ""
+

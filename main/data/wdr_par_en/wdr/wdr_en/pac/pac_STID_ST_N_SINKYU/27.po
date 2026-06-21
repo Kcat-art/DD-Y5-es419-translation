@@ -1,0 +1,35 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1808"
+msgid "adv4_210/uno_0068a"
+msgstr ""
+
+msgctxt "1812"
+msgid "adv4_180/shinada_0248"
+msgstr ""
+
+msgctxt "1816"
+msgid "ACDEV0040"
+msgstr ""
+
+msgctxt "1820"
+msgid "M_YKZS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "1824"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "1828"
+msgid "M_ykzs_stand"
+msgstr ""
+
+msgctxt "1832"
+msgid "adv4_170/uno_0038a"
+msgstr ""
+
+msgctxt "1836"
+msgid "adv4_150_01/shinada_4_150_010"
+msgstr ""
+

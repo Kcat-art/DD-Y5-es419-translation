@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1496"
+msgid "Player"
+msgstr ""
+
+msgctxt "1500"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1504"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1508"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1512"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "1516"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "(A new menu item, the <Color:8>Chashu Rice Bowl<Color:Default>, huh? Sounds good.)"
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "(A new menu item, the <Color:8>Chashu Rice Bowl<Color:Default>, huh? It sounds pretty tasty.)"
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "(A new menu item, the <Color:8>Chashu Rice Bowl<Color:Default>, huh? Sounds good.)"
+msgstr ""
+
+msgctxt "92_Shinada"
+msgid "(A new menu item, the <Color:8>Chashu Rice Bowl<Color:Default>, huh? That sounds good.)"
+msgstr ""
+
+msgctxt "104_Haruka"
+msgid "(A new menu item, the <Color:8>Chashu Rice Bowl<Color:Default>, huh? That sounds tasty!)"
+msgstr ""
+

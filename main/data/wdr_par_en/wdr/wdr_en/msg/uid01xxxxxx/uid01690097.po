@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "548"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "552"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Okudera"
+msgid "Saejima, we passed the hunting hut."
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "Sorry."
+msgstr ""
+

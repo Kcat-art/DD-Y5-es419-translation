@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "(Let's head to the patriarch's room on the top floor.)"
+msgstr ""
+
+msgctxt "328"
+msgid "Player"
+msgstr ""
+

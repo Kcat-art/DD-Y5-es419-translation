@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "I'm out of options..."
+msgstr ""
+
+msgctxt "240"
+msgid "Not again..."
+msgstr ""
+

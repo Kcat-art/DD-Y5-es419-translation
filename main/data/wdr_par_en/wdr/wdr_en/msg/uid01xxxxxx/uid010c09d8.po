@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1492"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1496"
+msgid "P_SAE_TLK_stand_tlk_hashigo"
+msgstr ""
+

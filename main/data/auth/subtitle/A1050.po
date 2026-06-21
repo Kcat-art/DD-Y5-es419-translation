@@ -1,0 +1,92 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		98	1241	1143"
+msgid "Thank ya kindly.\\r\n"
+"Bowl of kake!"
+msgstr ""
+
+msgctxt " 	　	　	88	1706	1618"
+msgid "Slim pickings again.\\r\n"
+"Same as always."
+msgstr ""
+
+msgctxt "				1803	1707"
+msgid "When's this economy gonna"
+msgstr ""
+
+msgctxt "		 	　	96	get out of the gutter?"
+msgid "分"
+msgstr ""
+
+msgctxt " 	　	　	162	1969	1807"
+msgid "Even the jobs I <Italic>do</Italic> get are regular ol'\\r\n"
+"one-way fares. It's just not right."
+msgstr ""
+
+msgctxt " 	　	　	67	2066	1999"
+msgid "Kakesoba's ready!"
+msgstr ""
+
+msgctxt " 	　	　	106	2546	2440"
+msgid "These shows've been sproutin'\\r\n"
+"up a lot lately, huh?"
+msgstr ""
+
+msgctxt " 	　	　	145	2703	2558"
+msgid "Y'can say that again.\\r\n"
+"My daughter's glued to the things."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	59	2834	2775"
+msgid "Think I've seen this one."
+msgstr ""
+
+msgctxt " 	　	OK	186	3021	2835"
+msgid "They call it the Princess League. Some kinda\\r\n"
+"competition for amateur idols to strut their stuff."
+msgstr ""
+
+msgctxt " 	　	　	92	3120	3028"
+msgid "Pretty sure the winner gets\\r\n"
+"signed to some big-time label."
+msgstr ""
+
+msgctxt " 	　	　	142	3312	3170"
+msgid "Bet they gotta strut their stuff\\r\n"
+"in the bedroom, too, if you get me."
+msgstr ""
+
+msgctxt " 	　	　	93	3406	3313"
+msgid "All these idol types sleep\\r\n"
+"their way up the ladder."
+msgstr ""
+
+msgctxt " 	　	分	121	3528	3407"
+msgid "Stay too long in the biz and it's gonna\\r\n"
+"twist you up somethin' fierce."
+msgstr ""
+
+msgctxt " 	　	　	60	3589	3529"
+msgid "No doubt about that."
+msgstr ""
+
+msgctxt " 	　	　	162	3773	3611"
+msgid "Not a fly's chance in a farmstead\\r\n"
+"I'd let my daughter on somethin' like this."
+msgstr ""
+
+msgctxt " 	　	OK	196	3984	3788"
+msgid "Y'ask me, it comes down to the parents. Dig a bit and\\r\n"
+"you'll find they're all chasin' some long lost dream."
+msgstr ""
+
+msgctxt " 	　	　	125	4110	3985"
+msgid "Not a single thought fer the wolves\\r\n"
+"they're tossing their kid into."
+msgstr ""
+
+msgctxt " 	　	　	60	4332	4272"
+msgid "Come again!"
+msgstr ""
+

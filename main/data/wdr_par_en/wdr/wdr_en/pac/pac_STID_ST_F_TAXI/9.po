@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "612"
+msgid "adv1_050_2/nakajima_0033a"
+msgstr ""
+
+msgctxt "616"
+msgid "M_NML_SET_sitchr_nml_f_01"
+msgstr ""
+

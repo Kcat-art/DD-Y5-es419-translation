@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "364"
+msgid "Idle Man"
+msgstr ""
+
+msgctxt "72_Idle Man"
+msgid "I want my buddy to pay back the money I loaned him, but I don't want to pester him. It's a fair amount of money, though..."
+msgstr ""
+

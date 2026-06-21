@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "That's interesting."
+msgstr ""
+
+msgctxt "320"
+msgid "You're born in Hokkaido..."
+msgstr ""
+

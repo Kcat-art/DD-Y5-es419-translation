@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "74	1693	1619"
+msgid "Sorry, Haruka."
+msgstr ""
+

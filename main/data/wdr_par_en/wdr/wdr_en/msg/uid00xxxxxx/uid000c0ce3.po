@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "252"
+msgid "Chattering Man"
+msgstr ""
+
+msgctxt "72_Chattering Man"
+msgid "Going on a date. Waiting for my girl now."
+msgstr ""
+

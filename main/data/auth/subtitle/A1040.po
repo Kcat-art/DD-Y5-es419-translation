@@ -1,0 +1,132 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "				 	 		109	571	462"
+msgid "Where are we? I never said\\r\n"
+"anything about stopping."
+msgstr ""
+
+msgctxt "				 	 	　	60	676	616"
+msgid "You can forget about the fare."
+msgstr ""
+
+msgctxt "				 	 	　	150	855	705"
+msgid "I can't keep driving you without\\r\n"
+"a concrete destination, sir."
+msgstr ""
+
+msgctxt "				 	 	　	91	985	894"
+msgid "You're telling me to just walk home, then?"
+msgstr ""
+
+msgctxt "				 	 	　	24	1082	1058"
+msgid "<Italic>Occupied</Italic>"
+msgstr ""
+
+msgctxt "				 	 	　	34	1118	1084"
+msgid "<Italic>Available</Italic>"
+msgstr ""
+
+msgctxt "				 	 	　	152	1393	1241"
+msgid "I get it. I need to learn how to\\r\n"
+"find my own way forward."
+msgstr ""
+
+msgctxt "				 	 	　	60	1652	1592"
+msgid "It may not always seem it..."
+msgstr ""
+
+msgctxt "2963				 	 	　	71	1761	1690"
+msgid "But I'm trying my best to walk this path."
+msgstr ""
+
+msgctxt "2940+265f	結合後フレーム		結合前フレーム	 	 	　	60	1879	1819"
+msgid "Fourth Chairman."
+msgstr ""
+
+msgctxt "4469	4371	1241	1143					4469	4371"
+msgid "Thank ya kindly.\\r\n"
+"Bowl of kake!"
+msgstr ""
+
+msgctxt "4934	4846	1706	1618					4934	4846"
+msgid "Slim pickings again.\\r\n"
+"Same as always."
+msgstr ""
+
+msgctxt "5031	4935	1803	1707					5031	4935"
+msgid "When's this economy gonna\\r\n"
+"get out of the gutter?"
+msgstr ""
+
+msgctxt "5197	5035	1969	1807					5197	5035"
+msgid "Even the jobs I <Italic>do</Italic> get are regular ol'\\r\n"
+"one-way fares. It's just not right."
+msgstr ""
+
+msgctxt "5294	5227	2066	1999					5294	5227"
+msgid "Kakesoba's ready!"
+msgstr ""
+
+msgctxt "5774	5668	2546	2440					5774	5668"
+msgid "These shows've been sproutin'\\r\n"
+"up a lot lately, huh?"
+msgstr ""
+
+msgctxt "5931	5786	2703	2558					5931	5786"
+msgid "Y'can say that again.\\r\n"
+"My daughter's glued to the things."
+msgstr ""
+
+msgctxt "6062	6003	2834	2775					6062	6003"
+msgid "Think I've seen this one."
+msgstr ""
+
+msgctxt "6249	6063	3021	2835					6249	6063"
+msgid "They call it the Princess League. Some kinda\\r\n"
+"competition for amateur idols to strut their stuff."
+msgstr ""
+
+msgctxt "6348	6256	3120	3028					6348	6256"
+msgid "Pretty sure the winner gets\\r\n"
+"signed to some big-time label."
+msgstr ""
+
+msgctxt "6540	6398	3312	3170					6540	6398"
+msgid "Bet they gotta strut their stuff\\r\n"
+"in the bedroom, too, if you get me."
+msgstr ""
+
+msgctxt "6634	6541	3406	3313					6634	6541"
+msgid "All these idol types sleep\\r\n"
+"their way up the ladder."
+msgstr ""
+
+msgctxt "6756	6635	3528	3407					6756	6635"
+msgid "Stay too long in the biz and it's gonna\\r\n"
+"twist you up somethin' fierce."
+msgstr ""
+
+msgctxt "6817	6757	3589	3529					6817	6757"
+msgid "No doubt about that."
+msgstr ""
+
+msgctxt "7001	6839	3773	3611					7001	6839"
+msgid "Not a fly's chance in a farmstead\\r\n"
+"I'd let my daughter on somethin' like this."
+msgstr ""
+
+msgctxt "7212	7016	3984	3788					7212	7016"
+msgid "Y'ask me, it comes down to the parents. Dig a bit and\\r\n"
+"you'll find they're all chasin' some long lost dream."
+msgstr ""
+
+msgctxt "7338	7213	4110	3985					7338	7213"
+msgid "Not a single thought fer the wolves\\r\n"
+"they're tossing their kid to."
+msgstr ""
+
+msgctxt "7560	7500	4332	4272					7560	7500"
+msgid "Come again!"
+msgstr ""
+

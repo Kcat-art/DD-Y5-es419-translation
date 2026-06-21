@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "236"
+msgid "dummy"
+msgstr ""
+
+msgctxt "44_dummy"
+msgid "名古屋コーチンのブリーダーにアイテムを渡します。"
+msgstr ""
+

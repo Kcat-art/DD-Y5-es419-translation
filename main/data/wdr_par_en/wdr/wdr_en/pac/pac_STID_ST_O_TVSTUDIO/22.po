@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3116"
+msgid "cp-110/yamaura_1042a"
+msgstr ""
+
+msgctxt "3120"
+msgid "kaiwabgm_happy02"
+msgstr ""
+
+msgctxt "3124"
+msgid "cp-110/yamaura_1042ba"
+msgstr ""
+
+msgctxt "3128"
+msgid "cp-100/yamaura_1039"
+msgstr ""
+
+msgctxt "3132"
+msgid "cp-100/yamaura_1036a"
+msgstr ""
+
+msgctxt "3136"
+msgid "cp-030/yamaura_1010a"
+msgstr ""
+
+msgctxt "3140"
+msgid "cp-020/yamaura_1008a"
+msgstr ""
+
+msgctxt "3144"
+msgid "cp-020/yamaura_1004a"
+msgstr ""
+
+msgctxt "3148"
+msgid "cp-010/haruka_1004"
+msgstr ""
+

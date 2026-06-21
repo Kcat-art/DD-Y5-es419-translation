@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "572"
+msgid "adv4_305_03/shinada_4_305_070"
+msgstr ""
+
+msgctxt "576"
+msgid "adv4_285_02/daigo_4_285_030"
+msgstr ""
+

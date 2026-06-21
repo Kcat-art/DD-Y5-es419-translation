@@ -1,0 +1,1994 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "0	189	1	CHK"
+msgid "Continue the game without saving the System Data?\n"
+"(Please be aware that if you do not save the System Data, then you may lose settings and game clear information.)"
+msgstr ""
+
+msgctxt "0	353	2	CHK"
+msgid "Continue without saving?"
+msgstr ""
+
+msgctxt "0	378	3	CHK"
+msgid "If you do not save the Clear Data, then the additional menus that appear after a clear will not be saved.\n"
+"Return to title without saving Clear Data?"
+msgstr ""
+
+msgctxt "0	527	4	CHK"
+msgid "Delete other data?"
+msgstr ""
+
+msgctxt "0	546	5	CHK"
+msgid "Save data?"
+msgstr ""
+
+msgctxt "0	557	6	CHK"
+msgid "You cannot turn back from this point. It is recommended to not overwrite the Save Data and create a new file.\n"
+"Do you want to save?"
+msgstr ""
+
+msgctxt "0	688	7	CHK"
+msgid "You will create data that will be used for the newly unlocked post-clear mode.\n"
+"This will save all elements, but if you begin a \"New Game using Clear Data,\" then elements such as substory progression will not be saved.\n"
+"It is recommended to create a new Save Data. Please be aware of this when overwriting an existing Save Data.\n"
+"Save this Clear Data? "
+msgstr ""
+
+msgctxt "0	1038	8	CHK"
+msgid "Received \"Gion Bell\" as a present."
+msgstr ""
+
+msgctxt "0	1073	9	CHK"
+msgid "Received \"Nishikigoi Amulet\" as a present."
+msgstr ""
+
+msgctxt "0	1116	10	CHK"
+msgid "Received \"Yellow Dragon's Binding\" as a present."
+msgstr ""
+
+msgctxt "0	1165	11	CHK"
+msgid "Received \"Morning Glory Scarf\" as a present."
+msgstr ""
+
+msgctxt "0	1210	12	CHK"
+msgid "No new updates found."
+msgstr ""
+
+msgctxt "0	1232	13	CHK"
+msgid "Update canceled."
+msgstr ""
+
+msgctxt "0	1249	14	CHK"
+msgid "An error occurred."
+msgstr ""
+
+msgctxt "0	1268	15	CHK"
+msgid "Failed to acquire trophy."
+msgstr ""
+
+msgctxt "0	1294	16	CHK"
+msgid "A trophy error occurred."
+msgstr ""
+
+msgctxt "0	1319	17	CHK"
+msgid "Save completed."
+msgstr ""
+
+msgctxt "0	1335	18	CHK"
+msgid "New System Data"
+msgstr ""
+
+msgctxt "0	1351	19	CHK"
+msgid "New Save Data"
+msgstr ""
+
+msgctxt "0	1365	20	CHK"
+msgid "Saving..."
+msgstr ""
+
+msgctxt "0	1375	21	CHK"
+msgid "Loading..."
+msgstr ""
+
+msgctxt "0	1386	22	CHK"
+msgid "System Data"
+msgstr ""
+
+msgctxt "0	1398	23	SUS"
+msgid "★"
+msgstr ""
+
+msgctxt "0	1402	24	CHK"
+msgid "This is the system data for Yakuza 5"
+msgstr ""
+
+msgctxt "0	1439	25	CHK"
+msgid "Cancel saving?"
+msgstr ""
+
+msgctxt "0	1454	26	CHK"
+msgid "Cancel loading?"
+msgstr ""
+
+msgctxt "0	1470	27	CHK"
+msgid "Load completed."
+msgstr ""
+
+msgctxt "0	1486	28	CHK"
+msgid "Save Data"
+msgstr ""
+
+msgctxt "0	1496	29	CHK"
+msgid "${title}\n"
+"Play time: ${hour}:${min}:${sec}\n"
+"Number of saves: ${save} times\n"
+"Number of continues: ${continue} times\n"
+"Difficulty: ${difficulty}\n"
+"${hint}"
+msgstr ""
+
+msgctxt "0	1642	30	CHK"
+msgid "Clear Data\n"
+"Clear time: ${hour}:${min}:${sec}\n"
+"Number of saves: ${save} times\n"
+"Number of continues: ${continue} times\n"
+"Difficulty: ${difficulty}"
+msgstr ""
+
+msgctxt "0	1783	31	CHK"
+msgid "Premium Adventure\n"
+"Play time: ${hour}:${min}:${sec}\n"
+"Number of saves: ${save} times\n"
+"Number of continues: ${continue} times\n"
+"${hint}"
+msgstr ""
+
+msgctxt "0	1912	32	CHK"
+msgid "Save Data ${value}"
+msgstr ""
+
+msgctxt "0	1931	33	CHK"
+msgid "Premium Adventure"
+msgstr ""
+
+msgctxt "0	1949	34	CHK"
+msgid "Go where you want to go and do what you want to do."
+msgstr ""
+
+msgctxt "0	2001	35	CHK"
+msgid "There is no Save Data."
+msgstr ""
+
+msgctxt "0	2024	36	CHK"
+msgid "There is no System Data."
+msgstr ""
+
+msgctxt "0	2049	37	CHK"
+msgid "There is no Clear Data."
+msgstr ""
+
+msgctxt "0	2073	38	CHK"
+msgid "YAKUZA 5"
+msgstr ""
+
+msgctxt "0	2082	39	CHK"
+msgid "To load this Save Data,\n"
+"you will need to wait for the game to be installed first."
+msgstr ""
+
+msgctxt "0	2164	40	CHK"
+msgid "This Save Data is not compatible with the trial version."
+msgstr ""
+
+msgctxt "0	2221	41	CHK"
+msgid "Easy"
+msgstr ""
+
+msgctxt "0	2226	42	CHK"
+msgid "Normal"
+msgstr ""
+
+msgctxt "0	2233	43	CHK"
+msgid "Hard"
+msgstr ""
+
+msgctxt "0	2238	44	CHK"
+msgid "Legend"
+msgstr ""
+
+msgctxt "0	2245	45	CHK"
+msgid "The 7th Omi Alliance Captain Watase Masaru"
+msgstr ""
+
+msgctxt "0	2288	46	CHK"
+msgid "Maximum Grand Prix"
+msgstr ""
+
+msgctxt "0	2307	47	CHK"
+msgid "Twin Dragon Grand Prix"
+msgstr ""
+
+msgctxt "0	2330	48	CHK"
+msgid "Weapon Master Grand Prix"
+msgstr ""
+
+msgctxt "0	2355	49	CHK"
+msgid "Street Fight Grand Prix"
+msgstr ""
+
+msgctxt "0	2379	50	CHK"
+msgid "Limited Berserk"
+msgstr ""
+
+msgctxt "0	2395	51	CHK"
+msgid "King of Kings"
+msgstr ""
+
+msgctxt "0	2409	52	CHK"
+msgid "H Deathmatch"
+msgstr ""
+
+msgctxt "0	2422	53	CHK"
+msgid "Breakout"
+msgstr ""
+
+msgctxt "0	2431	54	CHK"
+msgid "Ranked Arena Grand Prix"
+msgstr ""
+
+msgctxt "0	2455	55	CHK"
+msgid "Legendary Arena Grand Prix"
+msgstr ""
+
+msgctxt "0	2482	56	CHK"
+msgid "Heat Bomber Grand Prix"
+msgstr ""
+
+msgctxt "0	2505	57	CHK"
+msgid "Victory Road Finals Tournament"
+msgstr ""
+
+msgctxt "0	2536	58	CHK"
+msgid "Round 1"
+msgstr ""
+
+msgctxt "0	2544	59	CHK"
+msgid "Round 2"
+msgstr ""
+
+msgctxt "0	2552	60	CHK"
+msgid "Semifinals"
+msgstr ""
+
+msgctxt "0	2563	61	CHK"
+msgid "Finals"
+msgstr ""
+
+msgctxt "0	2570	62	CHK"
+msgid "Installation must complete to proceed.\n"
+"Time remaining: ${hour} hour(s), ${min} minute(s)"
+msgstr ""
+
+msgctxt "0	2659	63	CHK"
+msgid "Received \"Fat Stacks Amulet\" as a present."
+msgstr ""
+
+msgctxt "0	2702	64	CHK"
+msgid "System Data from Fist of the North Star: Lost Paradise has been found.\n"
+"Received \"Gold Plate\" as a present."
+msgstr ""
+
+msgctxt "0	2809	65	CHK"
+msgid "Equipment Confirmation"
+msgstr ""
+
+msgctxt "0	2832	66	CHK"
+msgid "Ready"
+msgstr ""
+
+msgctxt "0	2838	67	CHK"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "0	2846	68	CHK"
+msgid "Back"
+msgstr ""
+
+msgctxt "0	2851	69	CHK"
+msgid "Unattempted"
+msgstr ""
+
+msgctxt "0	2863	70	CHK"
+msgid "Defeat"
+msgstr ""
+
+msgctxt "0	2870	71	CHK"
+msgid "Victory"
+msgstr ""
+
+msgctxt "0	2878	72	CHK"
+msgid "Cancel the outing to the mountain?"
+msgstr ""
+
+msgctxt "0	2913	73	CHK"
+msgid "System Data from Judgment has been found.\n"
+"Received \"Gold Plate\" as a present."
+msgstr ""
+
+msgctxt "0	2991	74	CHK"
+msgid "Yahata"
+msgstr ""
+
+msgctxt "0	2998	75	CHK"
+msgid "Kugihara"
+msgstr ""
+
+msgctxt "0	3007	76	CHK"
+msgid "Mai"
+msgstr ""
+
+msgctxt "0	3011	77	CHK"
+msgid "Ogita"
+msgstr ""
+
+msgctxt "0	3017	78	CHK"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "0	3023	79	CHK"
+msgid "Yama-oroshi"
+msgstr ""
+
+msgctxt "0	3035	80	CHK"
+msgid "PLACEHOLDER"
+msgstr ""
+
+msgctxt "0	3047	81	CHK"
+msgid "Aim"
+msgstr ""
+
+msgctxt "0	3051	82	CHK"
+msgid "Adjust Position / Spin Level Down"
+msgstr ""
+
+msgctxt "0	3085	83	CHK"
+msgid "Adjust Position / Spin Level Left"
+msgstr ""
+
+msgctxt "0	3119	84	CHK"
+msgid "Adjust Position / Spin Level Right"
+msgstr ""
+
+msgctxt "0	3154	85	CHK"
+msgid "Adjust Position / Spin Level Up"
+msgstr ""
+
+msgctxt "0	3186	86	CHK"
+msgid "Adjust Shot Direction "
+msgstr ""
+
+msgctxt "0	3209	87	CHK"
+msgid "Adjust Throw Strength"
+msgstr ""
+
+msgctxt "0	3231	88	CHK"
+msgid "Adjust Trajectory / Ball Placement Down"
+msgstr ""
+
+msgctxt "0	3271	89	CHK"
+msgid "Adjust Trajectory / Ball Placement Left"
+msgstr ""
+
+msgctxt "0	3311	90	CHK"
+msgid "Adjust Trajectory / Ball Placement Right"
+msgstr ""
+
+msgctxt "0	3352	91	CHK"
+msgid "Adjust Trajectory / Ball Placement Up"
+msgstr ""
+
+msgctxt "0	3390	92	CHK"
+msgid "Back (in menus)"
+msgstr ""
+
+msgctxt "0	3406	93	CHK"
+msgid "Bash"
+msgstr ""
+
+msgctxt "0	3411	94	CHK"
+msgid "Camera Control Down"
+msgstr ""
+
+msgctxt "0	3431	95	CHK"
+msgid "Camera Control Left"
+msgstr ""
+
+msgctxt "0	3451	96	CHK"
+msgid "Camera Control Right"
+msgstr ""
+
+msgctxt "0	3472	97	CHK"
+msgid "Camera Control Up"
+msgstr ""
+
+msgctxt "0	3490	98	CHK"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "0	3497	99	CHK"
+msgid "Cancel / Close Item Screen"
+msgstr ""
+
+msgctxt "0	3524	100	CHK"
+msgid "Cancel / Close Item Use Screen / Close Item Screen"
+msgstr ""
+
+msgctxt "0	3575	101	CHK"
+msgid "Cancel / Roll History / Close Item Screen"
+msgstr ""
+
+msgctxt "0	3617	102	CHK"
+msgid "Center View "
+msgstr ""
+
+msgctxt "0	3630	103	CHK"
+msgid "Change Score Display"
+msgstr ""
+
+msgctxt "0	3651	104	CHK"
+msgid "Change Shot Direction"
+msgstr ""
+
+msgctxt "0	3673	105	CHK"
+msgid "Change Shot Range"
+msgstr ""
+
+msgctxt "0	3691	106	CHK"
+msgid "Change View"
+msgstr ""
+
+msgctxt "0	3703	107	CHK"
+msgid "Change View Left"
+msgstr ""
+
+msgctxt "0	3720	108	CHK"
+msgid "Change View Right"
+msgstr ""
+
+msgctxt "0	3738	109	CHK"
+msgid "Character Movement Down"
+msgstr ""
+
+msgctxt "0	3762	110	CHK"
+msgid "Character Movement Left"
+msgstr ""
+
+msgctxt "0	3786	111	CHK"
+msgid "Character Movement Right"
+msgstr ""
+
+msgctxt "0	3811	112	CHK"
+msgid "Character Movement Up"
+msgstr ""
+
+msgctxt "0	3833	113	CHK"
+msgid "Chase Heat Action"
+msgstr ""
+
+msgctxt "0	3851	114	CHK"
+msgid "Check Discard"
+msgstr ""
+
+msgctxt "0	3865	115	CHK"
+msgid "Clap"
+msgstr ""
+
+msgctxt "0	3870	116	CHK"
+msgid "Confirm / Pull Rod"
+msgstr ""
+
+msgctxt "0	3889	117	CHK"
+msgid "Confirm Bet"
+msgstr ""
+
+msgctxt "0	3901	118	CHK"
+msgid "Confirm Bet / Roll Dice"
+msgstr ""
+
+msgctxt "0	3925	119	CHK"
+msgid "Controls"
+msgstr ""
+
+msgctxt "0	3934	120	CHK"
+msgid "Dash"
+msgstr ""
+
+msgctxt "0	3939	121	CHK"
+msgid "Decrease Gauge"
+msgstr ""
+
+msgctxt "0	3954	122	CHK"
+msgid "Display 10 Frames"
+msgstr ""
+
+msgctxt "0	3972	123	CHK"
+msgid "Display / Hide Ball Number"
+msgstr ""
+
+msgctxt "0	3999	124	CHK"
+msgid "Display / Hide Info"
+msgstr ""
+
+msgctxt "0	4019	125	CHK"
+msgid "Display Item Screen"
+msgstr ""
+
+msgctxt "0	4039	126	CHK"
+msgid "Display Roll History Screen"
+msgstr ""
+
+msgctxt "0	4067	127	CHK"
+msgid "Display Scores"
+msgstr ""
+
+msgctxt "0	4082	128	CHK"
+msgid "Enter Shot Mode"
+msgstr ""
+
+msgctxt "0	4098	129	CHK"
+msgid "Examine / Use / Talk "
+msgstr ""
+
+msgctxt "0	4120	130	CHK"
+msgid "Exit minigame"
+msgstr ""
+
+msgctxt "0	4134	131	CHK"
+msgid "Fighting Stance"
+msgstr ""
+
+msgctxt "0	4150	132	CHK"
+msgid "Finisher A"
+msgstr ""
+
+msgctxt "0	4161	133	CHK"
+msgid "Finisher A - Left"
+msgstr ""
+
+msgctxt "0	4179	134	CHK"
+msgid "Finisher A - Right"
+msgstr ""
+
+msgctxt "0	4198	135	CHK"
+msgid "Finisher B"
+msgstr ""
+
+msgctxt "0	4209	136	CHK"
+msgid "Finisher B - Left"
+msgstr ""
+
+msgctxt "0	4227	137	CHK"
+msgid "Finisher B - Right"
+msgstr ""
+
+msgctxt "0	4246	138	CHK"
+msgid "First Person View "
+msgstr ""
+
+msgctxt "0	4265	139	CHK"
+msgid "Focus"
+msgstr ""
+
+msgctxt "0	4271	140	CHK"
+msgid "Forward"
+msgstr ""
+
+msgctxt "0	4279	141	CHK"
+msgid "Give Reel Slack"
+msgstr ""
+
+msgctxt "0	4295	142	CHK"
+msgid "Guard / Change Grab Type"
+msgstr ""
+
+msgctxt "0	4320	143	CHK"
+msgid "Help"
+msgstr ""
+
+msgctxt "0	4325	144	CHK"
+msgid "Hide / Drop Weapon"
+msgstr ""
+
+msgctxt "0	4344	145	CHK"
+msgid "Increase Gauge"
+msgstr ""
+
+msgctxt "0	4359	146	CHK"
+msgid "Insert Coin"
+msgstr ""
+
+msgctxt "0	4371	147	CHK"
+msgid "Jump"
+msgstr ""
+
+msgctxt "0	4376	148	CHK"
+msgid "Left"
+msgstr ""
+
+msgctxt "0	4381	149	CHK"
+msgid "Line"
+msgstr ""
+
+msgctxt "0	4386	150	CHK"
+msgid "Look Back while Dashing"
+msgstr ""
+
+msgctxt "0	4410	151	CHK"
+msgid "Look Back while Dashing (Right)"
+msgstr ""
+
+msgctxt "0	4442	152	CHK"
+msgid "Look Back while Dashing (Left)"
+msgstr ""
+
+msgctxt "0	4473	153	CHK"
+msgid "Look / Investigate"
+msgstr ""
+
+msgctxt "0	4492	154	CHK"
+msgid "Maracas"
+msgstr ""
+
+msgctxt "0	4500	155	CHK"
+msgid "MiniMap Size"
+msgstr ""
+
+msgctxt "0	4513	156	CHK"
+msgid "Move Bat Down"
+msgstr ""
+
+msgctxt "0	4527	157	CHK"
+msgid "Move Bat Left"
+msgstr ""
+
+msgctxt "0	4541	158	CHK"
+msgid "Move Bat Right"
+msgstr ""
+
+msgctxt "0	4556	159	CHK"
+msgid "Move Bat Up"
+msgstr ""
+
+msgctxt "0	4568	160	CHK"
+msgid "Move Camera (Left)"
+msgstr ""
+
+msgctxt "0	4587	161	CHK"
+msgid "Move Camera (Right)"
+msgstr ""
+
+msgctxt "0	4607	162	CHK"
+msgid "Move Camera Left"
+msgstr ""
+
+msgctxt "0	4624	163	CHK"
+msgid "Move Camera Right"
+msgstr ""
+
+msgctxt "0	4642	164	CHK"
+msgid "Move Crane"
+msgstr ""
+
+msgctxt "0	4653	165	CHK"
+msgid "Move Cursor (Down)"
+msgstr ""
+
+msgctxt "0	4672	166	CHK"
+msgid "Move Cursor (Down) / Change Category (Down)"
+msgstr ""
+
+msgctxt "0	4716	167	CHK"
+msgid "Move Cursor (Left)"
+msgstr ""
+
+msgctxt "0	4735	168	CHK"
+msgid "Move Cursor (Left) / Change Category (Left) "
+msgstr ""
+
+msgctxt "0	4780	169	CHK"
+msgid "Move Cursor (Right)"
+msgstr ""
+
+msgctxt "0	4800	170	CHK"
+msgid "Move Cursor (Right) / Change Category (Right) "
+msgstr ""
+
+msgctxt "0	4847	171	CHK"
+msgid "Move Cursor (Up)"
+msgstr ""
+
+msgctxt "0	4864	172	CHK"
+msgid "Move Cursor (Up) / Change Category (Up) "
+msgstr ""
+
+msgctxt "0	4905	173	CHK"
+msgid "Move Cursor / Change Bet Down"
+msgstr ""
+
+msgctxt "0	4935	174	CHK"
+msgid "Move Cursor / Change Bet Left"
+msgstr ""
+
+msgctxt "0	4965	175	CHK"
+msgid "Move Cursor / Change Bet Right"
+msgstr ""
+
+msgctxt "0	4996	176	CHK"
+msgid "Move Cursor / Change Bet Up"
+msgstr ""
+
+msgctxt "0	5024	177	CHK"
+msgid "Move Cursor Down / Change Category Down"
+msgstr ""
+
+msgctxt "0	5064	178	CHK"
+msgid "Move Cursor Left / Change Category Left"
+msgstr ""
+
+msgctxt "0	5104	179	CHK"
+msgid "Move Cursor Right / Change Category Right"
+msgstr ""
+
+msgctxt "0	5146	180	CHK"
+msgid "Move Cursor Up / Change Category Up"
+msgstr ""
+
+msgctxt "0	5182	181	CHK"
+msgid "Move Cursor / Rod Down"
+msgstr ""
+
+msgctxt "0	5205	182	CHK"
+msgid "Move Cursor / Rod Left"
+msgstr ""
+
+msgctxt "0	5228	183	CHK"
+msgid "Move Cursor / Rod Right"
+msgstr ""
+
+msgctxt "0	5252	184	CHK"
+msgid "Move Cursor / Rod Up"
+msgstr ""
+
+msgctxt "0	5273	185	CHK"
+msgid "Move Cursor Down"
+msgstr ""
+
+msgctxt "0	5290	186	CHK"
+msgid "Move Cursor Left"
+msgstr ""
+
+msgctxt "0	5307	187	CHK"
+msgid "Move Cursor Right"
+msgstr ""
+
+msgctxt "0	5325	188	CHK"
+msgid "Move Cursor Up"
+msgstr ""
+
+msgctxt "0	5340	189	CHK"
+msgid "Move Down"
+msgstr ""
+
+msgctxt "0	5350	190	CHK"
+msgid "Move Up"
+msgstr ""
+
+msgctxt "0	5358	191	CHK"
+msgid "Move Left"
+msgstr ""
+
+msgctxt "0	5368	192	CHK"
+msgid "Move Right"
+msgstr ""
+
+msgctxt "0	5379	193	CHK"
+msgid "Move Ship Down"
+msgstr ""
+
+msgctxt "0	5394	194	CHK"
+msgid "Move Ship Left"
+msgstr ""
+
+msgctxt "0	5409	195	CHK"
+msgid "Move Ship Right"
+msgstr ""
+
+msgctxt "0	5425	196	CHK"
+msgid "Move Ship Up"
+msgstr ""
+
+msgctxt "0	5438	197	CHK"
+msgid "Move Impact Point"
+msgstr ""
+
+msgctxt "0	5456	198	CHK"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "0	5469	199	CHK"
+msgid "Pause Menu "
+msgstr ""
+
+msgctxt "0	5481	200	CHK"
+msgid "Pick Up / Throw"
+msgstr ""
+
+msgctxt "0	5497	201	CHK"
+msgid "Place the Same Bet"
+msgstr ""
+
+msgctxt "0	5516	202	CHK"
+msgid "Quickstep"
+msgstr ""
+
+msgctxt "0	5526	203	CHK"
+msgid "Quickturn"
+msgstr ""
+
+msgctxt "0	5536	204	CHK"
+msgid "Quit / Back"
+msgstr ""
+
+msgctxt "0	5548	205	CHK"
+msgid "Reel In"
+msgstr ""
+
+msgctxt "0	5556	206	CHK"
+msgid "Reset Camera"
+msgstr ""
+
+msgctxt "0	5569	207	CHK"
+msgid "Result Table Controls"
+msgstr ""
+
+msgctxt "0	5591	208	CHK"
+msgid "Return to Title menu"
+msgstr ""
+
+msgctxt "0	5612	209	CHK"
+msgid "Reverse Up and Down"
+msgstr ""
+
+msgctxt "0	5632	210	CHK"
+msgid "Right"
+msgstr ""
+
+msgctxt "0	5638	211	CHK"
+msgid "Scroll Through History Left"
+msgstr ""
+
+msgctxt "0	5666	212	CHK"
+msgid "Scroll Through History Right"
+msgstr ""
+
+msgctxt "0	5695	213	CHK"
+msgid "Select Action"
+msgstr ""
+
+msgctxt "0	5709	214	CHK"
+msgid "Select Action Down"
+msgstr ""
+
+msgctxt "0	5728	215	CHK"
+msgid "Select Action Up"
+msgstr ""
+
+msgctxt "0	5745	216	CHK"
+msgid "Select Down"
+msgstr ""
+
+msgctxt "0	5757	217	CHK"
+msgid "Select Left"
+msgstr ""
+
+msgctxt "0	5769	218	CHK"
+msgid "Select Next Club"
+msgstr ""
+
+msgctxt "0	5786	219	CHK"
+msgid "Select Previous Club"
+msgstr ""
+
+msgctxt "0	5807	220	CHK"
+msgid "Select Right"
+msgstr ""
+
+msgctxt "0	5820	221	CHK"
+msgid "Select Tile Down"
+msgstr ""
+
+msgctxt "0	5837	222	CHK"
+msgid "Select Tile Left"
+msgstr ""
+
+msgctxt "0	5854	223	CHK"
+msgid "Select Tile Right"
+msgstr ""
+
+msgctxt "0	5872	224	CHK"
+msgid "Select Tile Up"
+msgstr ""
+
+msgctxt "0	5887	225	CHK"
+msgid "Select Up"
+msgstr ""
+
+msgctxt "0	5897	226	CHK"
+msgid "Serve OK / Normal Shot / Sinking Shot (hold)"
+msgstr ""
+
+msgctxt "0	5942	227	CHK"
+msgid "Shoot"
+msgstr ""
+
+msgctxt "0	5948	228	CHK"
+msgid "Shout, Interject"
+msgstr ""
+
+msgctxt "0	5965	229	CHK"
+msgid "Show Rules"
+msgstr ""
+
+msgctxt "0	5976	230	CHK"
+msgid "Show Rules	"
+msgstr ""
+
+msgctxt "0	5988	231	CHK"
+msgid "Show / Hide"
+msgstr ""
+
+msgctxt "0	6000	232	CHK"
+msgid "Smash (Only in Heat Mode)"
+msgstr ""
+
+msgctxt "0	6026	233	CHK"
+msgid "Sprint"
+msgstr ""
+
+msgctxt "0	6033	234	CHK"
+msgid "Squeeze"
+msgstr ""
+
+msgctxt "0	6041	235	CHK"
+msgid "Staring Mode (Press and hold)"
+msgstr ""
+
+msgctxt "0	6071	236	CHK"
+msgid "Strong Attack / Heat Action"
+msgstr ""
+
+msgctxt "0	6099	237	CHK"
+msgid "Swing Bat"
+msgstr ""
+
+msgctxt "0	6109	238	CHK"
+msgid "Switch to Camera Mode"
+msgstr ""
+
+msgctxt "0	6131	239	CHK"
+msgid "Take Back"
+msgstr ""
+
+msgctxt "0	6141	240	CHK"
+msgid "Take Weapon 1 Out"
+msgstr ""
+
+msgctxt "0	6159	241	CHK"
+msgid "Take Weapon 2 Out"
+msgstr ""
+
+msgctxt "0	6177	242	CHK"
+msgid "Take Weapon 3 Out"
+msgstr ""
+
+msgctxt "0	6195	243	CHK"
+msgid "Tambourine"
+msgstr ""
+
+msgctxt "0	6206	244	CHK"
+msgid "Taunt"
+msgstr ""
+
+msgctxt "0	6212	245	CHK"
+msgid "Throw"
+msgstr ""
+
+msgctxt "0	6218	246	CHK"
+msgid "Use Item"
+msgstr ""
+
+msgctxt "0	6227	247	CHK"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "0	6241	248	CHK"
+msgid "View Controls	"
+msgstr ""
+
+msgctxt "0	6256	249	CHK"
+msgid "View Hands"
+msgstr ""
+
+msgctxt "0	6267	250	CHK"
+msgid "View Tutorial"
+msgstr ""
+
+msgctxt "0	6281	251	CHK"
+msgid "Walk"
+msgstr ""
+
+msgctxt "0	6286	252	CHK"
+msgid "Weak Attack"
+msgstr ""
+
+msgctxt "0	6298	253	CHK"
+msgid "<Action:Button_R3,Darts> + <Action:Button_LS_Down,Darts>"
+msgstr ""
+
+msgctxt "0	6355	254	CHK"
+msgid "<Action:Button_RS_Down,Darts>"
+msgstr ""
+
+msgctxt "0	6385	255	CHK"
+msgid "Reel In Alt."
+msgstr ""
+
+msgctxt "0	6398	256	CHK"
+msgid "Release Reel"
+msgstr ""
+
+msgctxt "0	6411	257	CHK"
+msgid "Release Reel Alt."
+msgstr ""
+
+msgctxt "0	6429	258	CHK"
+msgid "Wind Reel (Double Speed)"
+msgstr ""
+
+msgctxt "0	6454	259	CHK"
+msgid "Release Reel (Double Speed)"
+msgstr ""
+
+msgctxt "0	6482	260	CHK"
+msgid "Replenish Snowballs"
+msgstr ""
+
+msgctxt "0	6502	261	CHK"
+msgid "Throw Snowball"
+msgstr ""
+
+msgctxt "0	6517	262	CHK"
+msgid "Throw Scattershot"
+msgstr ""
+
+msgctxt "0	6535	263	CHK"
+msgid "Move Camera (Up)"
+msgstr ""
+
+msgctxt "0	6552	264	CHK"
+msgid "Move Camera (Down)"
+msgstr ""
+
+msgctxt "0	6571	265	CHK"
+msgid "Run (Double-tap to Dodge)"
+msgstr ""
+
+msgctxt "0	6597	266	CHK"
+msgid "Peek Left"
+msgstr ""
+
+msgctxt "0	6607	267	CHK"
+msgid "Peek Right"
+msgstr ""
+
+msgctxt "0	6618	268	CHK"
+msgid "Shoot Beam"
+msgstr ""
+
+msgctxt "0	6629	269	CHK"
+msgid "Hit"
+msgstr ""
+
+msgctxt "0	6633	270	CHK"
+msgid "Stare Mode"
+msgstr ""
+
+msgctxt "0	6644	271	CHK"
+msgid "Slow Mode"
+msgstr ""
+
+msgctxt "0	6654	272	CHK"
+msgid "Heat Smash (in Heat Mode)"
+msgstr ""
+
+msgctxt "0	6680	273	CHK"
+msgid "Control Mallet / Perspective"
+msgstr ""
+
+msgctxt "0	6709	274	CHK"
+msgid "Pose"
+msgstr ""
+
+msgctxt "0	6714	275	CHK"
+msgid "Pose 1"
+msgstr ""
+
+msgctxt "0	6721	276	CHK"
+msgid "Pose 2"
+msgstr ""
+
+msgctxt "0	6728	277	CHK"
+msgid "Pose 3"
+msgstr ""
+
+msgctxt "0	6735	278	CHK"
+msgid "Pose 4"
+msgstr ""
+
+msgctxt "0	6742	279	CHK"
+msgid "Preselect Frame"
+msgstr ""
+
+msgctxt "0	6758	280	CHK"
+msgid "Remove Noodles"
+msgstr ""
+
+msgctxt "0	6773	281	CHK"
+msgid "Remove Noodles 1"
+msgstr ""
+
+msgctxt "0	6790	282	CHK"
+msgid "Remove Noodles 2"
+msgstr ""
+
+msgctxt "0	6807	283	CHK"
+msgid "Remove Noodles 3"
+msgstr ""
+
+msgctxt "0	6824	284	CHK"
+msgid "Remove Noodles 4"
+msgstr ""
+
+msgctxt "0	6841	285	CHK"
+msgid "Confirm / Egg On"
+msgstr ""
+
+msgctxt "0	6858	286	CHK"
+msgid "Left Answer"
+msgstr ""
+
+msgctxt "0	6870	287	CHK"
+msgid "Up Answer"
+msgstr ""
+
+msgctxt "0	6880	288	CHK"
+msgid "Right Answer"
+msgstr ""
+
+msgctxt "0	6893	289	CHK"
+msgid "Crouch"
+msgstr ""
+
+msgctxt "0	6900	290	CHK"
+msgid "Dodge"
+msgstr ""
+
+msgctxt "0	6906	291	CHK"
+msgid "Fire Gun"
+msgstr ""
+
+msgctxt "0	6915	292	CHK"
+msgid "Melee Attack"
+msgstr ""
+
+msgctxt "0	6928	293	CHK"
+msgid "Strafe Move / Shoot"
+msgstr ""
+
+msgctxt "0	6948	294	CHK"
+msgid "Reload"
+msgstr ""
+
+msgctxt "0	6955	295	CHK"
+msgid "Command NPC"
+msgstr ""
+
+msgctxt "0	6967	296	CHK"
+msgid "Throw Out Bear Bait"
+msgstr ""
+
+msgctxt "0	6987	297	CHK"
+msgid "Answer"
+msgstr ""
+
+msgctxt "0	6994	298	CHK"
+msgid "Answer Up"
+msgstr ""
+
+msgctxt "0	7004	299	CHK"
+msgid "Answer Down"
+msgstr ""
+
+msgctxt "0	7016	300	CHK"
+msgid "Answer Left"
+msgstr ""
+
+msgctxt "0	7028	301	CHK"
+msgid "Answer Right"
+msgstr ""
+
+msgctxt "0	7041	302	CHK"
+msgid "Accelerator"
+msgstr ""
+
+msgctxt "0	7053	303	CHK"
+msgid "Brake"
+msgstr ""
+
+msgctxt "0	7059	304	CHK"
+msgid "Move Taxi Left"
+msgstr ""
+
+msgctxt "0	7074	305	CHK"
+msgid "Move Taxi Right"
+msgstr ""
+
+msgctxt "0	7090	306	CHK"
+msgid "Reposition"
+msgstr ""
+
+msgctxt "0	7101	307	CHK"
+msgid "Toggle Blinkers Left"
+msgstr ""
+
+msgctxt "0	7122	308	CHK"
+msgid "Toggle Blinkers Right"
+msgstr ""
+
+msgctxt "0	7144	309	CHK"
+msgid "Horn"
+msgstr ""
+
+msgctxt "0	7149	310	CHK"
+msgid "Turbo"
+msgstr ""
+
+msgctxt "0	7155	311	CHK"
+msgid "Drift"
+msgstr ""
+
+msgctxt "0	7161	312	CHK"
+msgid "Drag Heat Action"
+msgstr ""
+
+msgctxt "0	7178	313	CHK"
+msgid "Avoid"
+msgstr ""
+
+msgctxt "0	7184	314	CHK"
+msgid "Move the Swing Cursor Up"
+msgstr ""
+
+msgctxt "0	7209	315	CHK"
+msgid "Move the Swing Cursor Down"
+msgstr ""
+
+msgctxt "0	7236	316	CHK"
+msgid "Move the Swing Cursor Left"
+msgstr ""
+
+msgctxt "0	7263	317	CHK"
+msgid "Move the Swing Cursor Right"
+msgstr ""
+
+msgctxt "0	7291	318	CHK"
+msgid "Swing Up"
+msgstr ""
+
+msgctxt "0	7300	319	CHK"
+msgid "Swing Right"
+msgstr ""
+
+msgctxt "0	7312	320	CHK"
+msgid "Swing Down"
+msgstr ""
+
+msgctxt "0	7323	321	CHK"
+msgid "Swing Left"
+msgstr ""
+
+msgctxt "0	7334	322	CHK"
+msgid "Dance Move"
+msgstr ""
+
+msgctxt "0	7345	323	CHK"
+msgid "Dance Move 1"
+msgstr ""
+
+msgctxt "0	7358	324	CHK"
+msgid "Dance Move 2"
+msgstr ""
+
+msgctxt "0	7371	325	CHK"
+msgid "Dance Move 3"
+msgstr ""
+
+msgctxt "0	7384	326	CHK"
+msgid "Dance Move 4"
+msgstr ""
+
+msgctxt "0	7397	327	CHK"
+msgid "Arrow"
+msgstr ""
+
+msgctxt "0	7403	328	CHK"
+msgid "Arrow Left"
+msgstr ""
+
+msgctxt "0	7414	329	CHK"
+msgid "Arrow Right"
+msgstr ""
+
+msgctxt "0	7426	330	CHK"
+msgid "Arrow Up"
+msgstr ""
+
+msgctxt "0	7435	331	CHK"
+msgid "Arrow Down"
+msgstr ""
+
+msgctxt "0	7446	332	CHK"
+msgid "Idol Heat"
+msgstr ""
+
+msgctxt "0	7456	333	CHK"
+msgid "Cloth Change"
+msgstr ""
+
+msgctxt "0	7469	334	CHK"
+msgid "Shake Hands"
+msgstr ""
+
+msgctxt "0	7481	335	CHK"
+msgid "Flash a \"Wait a sec\" smile"
+msgstr ""
+
+msgctxt "0	7508	336	CHK"
+msgid "Select Row"
+msgstr ""
+
+msgctxt "0	7519	337	CHK"
+msgid "Heat"
+msgstr ""
+
+msgctxt "0	7524	338	CHK"
+msgid "Beat Rim Left"
+msgstr ""
+
+msgctxt "0	7538	339	CHK"
+msgid "Beat Rim Right"
+msgstr ""
+
+msgctxt "0	7553	340	CHK"
+msgid "Beat Front Left"
+msgstr ""
+
+msgctxt "0	7569	341	CHK"
+msgid "Beat Front Right"
+msgstr ""
+
+msgctxt "0	7586	342	CHK"
+msgid "Lever Up"
+msgstr ""
+
+msgctxt "0	7595	343	CHK"
+msgid "Lever Down"
+msgstr ""
+
+msgctxt "0	7606	344	CHK"
+msgid "Lever Left"
+msgstr ""
+
+msgctxt "0	7617	345	CHK"
+msgid "Lever Right"
+msgstr ""
+
+msgctxt "0	7629	346	CHK"
+msgid "P"
+msgstr ""
+
+msgctxt "0	7631	347	CHK"
+msgid "G"
+msgstr ""
+
+msgctxt "0	7633	348	CHK"
+msgid "K"
+msgstr ""
+
+msgctxt "0	7635	349	CHK"
+msgid "P + K"
+msgstr ""
+
+msgctxt "0	7641	350	CHK"
+msgid "K + G"
+msgstr ""
+
+msgctxt "0	7647	351	CHK"
+msgid "P + G"
+msgstr ""
+
+msgctxt "0	7653	352	CHK"
+msgid "P + K + G"
+msgstr ""
+
+msgctxt "0	7663	353	CHK"
+msgid "Wave Hands Left"
+msgstr ""
+
+msgctxt "0	7679	354	CHK"
+msgid "Wave Hands Right"
+msgstr ""
+
+msgctxt "0	7696	355	CHK"
+msgid "Wave Hands Left Alt."
+msgstr ""
+
+msgctxt "0	7717	356	CHK"
+msgid "Wave Hands Right Alt."
+msgstr ""
+
+msgctxt "0	7739	357	CHK"
+msgid "Select Ball Up"
+msgstr ""
+
+msgctxt "0	7754	358	CHK"
+msgid "Select Ball Down"
+msgstr ""
+
+msgctxt "0	7771	359	CHK"
+msgid "Left Option"
+msgstr ""
+
+msgctxt "0	7783	360	CHK"
+msgid "Up Option"
+msgstr ""
+
+msgctxt "0	7793	361	CHK"
+msgid "Right Option"
+msgstr ""
+
+msgctxt "0	7806	362	CHK"
+msgid "Do Something"
+msgstr ""
+
+msgctxt "0	7819	363	CHK"
+msgid "Do Nothing"
+msgstr ""
+
+msgctxt "0	7830	364	CHK"
+msgid "Super Take Back"
+msgstr ""
+
+msgctxt "0	7846	365	CHK"
+msgid "Move pointer Up"
+msgstr ""
+
+msgctxt "0	7862	366	CHK"
+msgid "Move pointer Down"
+msgstr ""
+
+msgctxt "0	7880	367	CHK"
+msgid "Move pointer Left"
+msgstr ""
+
+msgctxt "0	7898	368	CHK"
+msgid "Move pointer Right"
+msgstr ""
+
+msgctxt "0	7917	369	CHK"
+msgid "Display Rules"
+msgstr ""
+
+msgctxt "0	7931	370	CHK"
+msgid "Confirm Discarded Tiles"
+msgstr ""
+
+msgctxt "0	7955	371	CHK"
+msgid "Select Action Left"
+msgstr ""
+
+msgctxt "0	7974	372	CHK"
+msgid "Select Action Right"
+msgstr ""
+
+msgctxt "0	7994	373	CHK"
+msgid "Select Action (Up)"
+msgstr ""
+
+msgctxt "0	8013	374	CHK"
+msgid "Select Action (Down)"
+msgstr ""
+
+msgctxt "0	8034	375	CHK"
+msgid "Select Action (Left)"
+msgstr ""
+
+msgctxt "0	8055	376	CHK"
+msgid "Select Action (Right)"
+msgstr ""
+
+msgctxt "0	8077	377	CHK"
+msgid "Place The Same Bet / Retrieve chips"
+msgstr ""
+
+msgctxt "0	8113	378	CHK"
+msgid "Move Result Sheet"
+msgstr ""
+
+msgctxt "0	8131	379	CHK"
+msgid "Player / History Info"
+msgstr ""
+
+msgctxt "0	8153	380	CHK"
+msgid "Change Position Up"
+msgstr ""
+
+msgctxt "0	8172	381	CHK"
+msgid "Change Position Down"
+msgstr ""
+
+msgctxt "0	8193	382	CHK"
+msgid "Change Position Left"
+msgstr ""
+
+msgctxt "0	8214	383	CHK"
+msgid "Change Position Right"
+msgstr ""
+
+msgctxt "0	8236	384	CHK"
+msgid "Shoot / Confirm"
+msgstr ""
+
+msgctxt "0	8252	385	CHK"
+msgid "Change Direction"
+msgstr ""
+
+msgctxt "0	8269	386	CHK"
+msgid "Change Direction Up"
+msgstr ""
+
+msgctxt "0	8289	387	CHK"
+msgid "Change Direction Down"
+msgstr ""
+
+msgctxt "0	8311	388	CHK"
+msgid "Change Direction Left"
+msgstr ""
+
+msgctxt "0	8333	389	CHK"
+msgid "Change Direction Right"
+msgstr ""
+
+msgctxt "0	8356	390	CHK"
+msgid "One-roll Triple"
+msgstr ""
+
+msgctxt "0	8372	391	CHK"
+msgid "Selecting Row Up"
+msgstr ""
+
+msgctxt "0	8389	392	CHK"
+msgid "Selecting Row Down"
+msgstr ""
+
+msgctxt "0	8408	393	CHK"
+msgid "Selecting Row Left"
+msgstr ""
+
+msgctxt "0	8427	394	CHK"
+msgid "Selecting Row Right"
+msgstr ""
+
+msgctxt "0	8447	395	CHK"
+msgid "Heat Move 1"
+msgstr ""
+
+msgctxt "0	8459	396	CHK"
+msgid "Heat Move 2"
+msgstr ""
+
+msgctxt "0	8471	397	CHK"
+msgid "Heat Move 3"
+msgstr ""
+
+msgctxt "0	8483	398	CHK"
+msgid "Heat Move 4"
+msgstr ""
+
+msgctxt "0	8495	399	CHK"
+msgid "Alt."
+msgstr ""
+
+msgctxt "0	8500	400	CHK"
+msgid "Alternative"
+msgstr ""
+
+msgctxt "0	8512	401	CHK"
+msgid "Drop Kick"
+msgstr ""
+
+msgctxt "0	8522	402	CHK"
+msgid "Side-step Left"
+msgstr ""
+
+msgctxt "0	8537	403	CHK"
+msgid "Side-step Right"
+msgstr ""
+
+msgctxt "0	8553	404	CHK"
+msgid "Pause"
+msgstr ""
+
+msgctxt "0	8559	405	CHK"
+msgid "Open Pause Menu"
+msgstr ""
+
+msgctxt "0	8575	406	CHK"
+msgid "Grab / Throw / Special Attack"
+msgstr ""
+
+msgctxt "0	8605	407	CHK"
+msgid "Taunt / Put Away Weapon"
+msgstr ""
+
+msgctxt "0	8629	408	CHK"
+msgid "End Bet / Cancel"
+msgstr ""
+
+msgctxt "0	8646	409	CHK"
+msgid "Skip Guest Bet / Cancel"
+msgstr ""
+
+msgctxt "0	8670	410	CHK"
+msgid "Confirm / Throw"
+msgstr ""
+
+msgctxt "0	8686	411	CHK"
+msgid "Dance / Heat Move 1"
+msgstr ""
+
+msgctxt "0	8706	412	CHK"
+msgid "Dance / Heat Move 2"
+msgstr ""
+
+msgctxt "0	8726	413	CHK"
+msgid "Dance / Heat Move 3"
+msgstr ""
+
+msgctxt "0	8746	414	CHK"
+msgid "Dance / Heat Move 4"
+msgstr ""
+
+msgctxt "0	8766	415	CHK"
+msgid "Cancel (Menu)"
+msgstr ""
+
+msgctxt "0	8780	416	CHK"
+msgid "Display / Hide Action Commands"
+msgstr ""
+
+msgctxt "0	8811	417	CHK"
+msgid "Cancel / Close"
+msgstr ""
+
+msgctxt "0	8826	418	CHK"
+msgid "OK / Send Message"
+msgstr ""
+
+msgctxt "0	8844	419	CHK"
+msgid "Attack"
+msgstr ""
+
+msgctxt "0	8851	420	CHK"
+msgid "Result Table Controls Left"
+msgstr ""
+
+msgctxt "0	8878	421	CHK"
+msgid "Result Table Controls Right"
+msgstr ""
+
+msgctxt "0	8906	422	CHK"
+msgid "Control Mallet / Perspective Left"
+msgstr ""
+
+msgctxt "0	8940	423	CHK"
+msgid "Control Mallet / Perspective Right"
+msgstr ""
+
+msgctxt "0	8975	424	CHK"
+msgid "Control Mallet / Perspective Up"
+msgstr ""
+
+msgctxt "0	9007	425	CHK"
+msgid "Control Mallet / Perspective Down"
+msgstr ""
+
+msgctxt "0	9041	426	CHK"
+msgid "Start Game / Insert Coin"
+msgstr ""
+
+msgctxt "0	9066	427	CHK"
+msgid "Fast Forward Dialogues"
+msgstr ""
+
+msgctxt "0	9089	428	CHK"
+msgid "View Help"
+msgstr ""
+
+msgctxt "0	9099	429	CHK"
+msgid "Move Character Left"
+msgstr ""
+
+msgctxt "0	9119	430	CHK"
+msgid "Move Character Right"
+msgstr ""
+
+msgctxt "0	9140	431	CHK"
+msgid "Tackle (+ Move Character)"
+msgstr ""
+
+msgctxt "0	9166	432	CHK"
+msgid "Guard"
+msgstr ""
+
+msgctxt "0	9172	433	CHK"
+msgid "Stance"
+msgstr ""
+
+msgctxt "0	9179	434	CHK"
+msgid "Grab"
+msgstr ""
+
+msgctxt "0	9184	435	CHK"
+msgid "Rush Combo"
+msgstr ""
+
+msgctxt "0	9195	436	CHK"
+msgid "Finishing Blow"
+msgstr ""
+
+msgctxt "0	9210	437	CHK"
+msgid "Close-range Attack"
+msgstr ""
+
+msgctxt "0	9229	438	CHK"
+msgid "Love Shine / Long-range Attack"
+msgstr ""
+
+msgctxt "0	9260	439	CHK"
+msgid "Fast Forward"
+msgstr ""
+
+msgctxt "0	9273	440	CHK"
+msgid "Move Cursor (Down) (Alt.)"
+msgstr ""
+
+msgctxt "0	9299	441	CHK"
+msgid "Move Cursor (Left) (Alt.)"
+msgstr ""
+
+msgctxt "0	9325	442	CHK"
+msgid "Move Cursor (Right) (Alt.)"
+msgstr ""
+
+msgctxt "0	9352	443	CHK"
+msgid "Move Cursor (Up) (Alt.)"
+msgstr ""
+
+msgctxt "0	9376	444	CHK"
+msgid "Move Cursor Down / Change Category Down Alt."
+msgstr ""
+
+msgctxt "0	9421	445	CHK"
+msgid "Move Cursor Left / Change Category Left Alt."
+msgstr ""
+
+msgctxt "0	9466	446	CHK"
+msgid "Move Cursor Right / Change Category Right Alt."
+msgstr ""
+
+msgctxt "0	9513	447	CHK"
+msgid "Move Cursor Up / Change Category Up Alt."
+msgstr ""
+
+msgctxt "0	9554	448	CHK"
+msgid "Select Tile Down Alt."
+msgstr ""
+
+msgctxt "0	9576	449	CHK"
+msgid "Select Tile Left Alt."
+msgstr ""
+
+msgctxt "0	9598	450	CHK"
+msgid "Select Tile Right Alt."
+msgstr ""
+
+msgctxt "0	9621	451	CHK"
+msgid "Select Tile Up Alt."
+msgstr ""
+
+msgctxt "0	9641	452	CHK"
+msgid "Move pointer Up Alt."
+msgstr ""
+
+msgctxt "0	9662	453	CHK"
+msgid "Move pointer Down Alt."
+msgstr ""
+
+msgctxt "0	9685	454	CHK"
+msgid "Move pointer Left Alt."
+msgstr ""
+
+msgctxt "0	9708	455	CHK"
+msgid "Move pointer Right Alt."
+msgstr ""
+
+msgctxt "0	9732	456	CHK"
+msgid "Select Action Up Alt."
+msgstr ""
+
+msgctxt "0	9754	457	CHK"
+msgid "Select Action Down Alt."
+msgstr ""
+
+msgctxt "0	9778	458	CHK"
+msgid "Select Action Left Alt."
+msgstr ""
+
+msgctxt "0	9802	459	CHK"
+msgid "Select Action Right Alt."
+msgstr ""
+
+msgctxt "0	9827	460	CHK"
+msgid "Fast Forward Dialogue"
+msgstr ""
+
+msgctxt "0	9849	461	CHK"
+msgid "Heat Eye"
+msgstr ""
+
+msgctxt "0	9858	462	CHK"
+msgid "Move Camera Left / Select Left Alt."
+msgstr ""
+
+msgctxt "0	9894	463	CHK"
+msgid "Move Camera Right / Select Right Alt."
+msgstr ""
+
+msgctxt "0	9932	464	CHK"
+msgid "Move Rod Left"
+msgstr ""
+
+msgctxt "0	9946	465	CHK"
+msgid "Move Rod Right"
+msgstr ""
+
+msgctxt "0	9961	466	CHK"
+msgid "Select Up Alt."
+msgstr ""
+
+msgctxt "0	9976	467	CHK"
+msgid "Select Down Alt."
+msgstr ""
+
+msgctxt "0	9993	468	CHK"
+msgid "Select Left Alt."
+msgstr ""
+
+msgctxt "0	10010	469	CHK"
+msgid "Select Right Alt."
+msgstr ""
+
+msgctxt "0	10028	470	CHK"
+msgid "List of Hands"
+msgstr ""
+
+msgctxt "0	10042	471	CHK"
+msgid "Command Up"
+msgstr ""
+
+msgctxt "0	10053	472	CHK"
+msgid "Command Down"
+msgstr ""
+
+msgctxt "0	10066	473	CHK"
+msgid "Adjust Trajectory / Ball Placement Down Alt."
+msgstr ""
+
+msgctxt "0	10111	474	CHK"
+msgid "Adjust Trajectory / Ball Placement Left Alt."
+msgstr ""
+
+msgctxt "0	10156	475	CHK"
+msgid "Adjust Trajectory / Ball Placement Right Alt."
+msgstr ""
+
+msgctxt "0	10202	476	CHK"
+msgid "Adjust Trajectory / Ball Placement Up Alt."
+msgstr ""
+
+msgctxt "0	10245	477	CHK"
+msgid "Move Camera Up"
+msgstr ""
+
+msgctxt "0	10260	478	CHK"
+msgid "Move Camera Down"
+msgstr ""
+
+msgctxt "0	10277	479	CHK"
+msgid "Replenish Snowballs Alt."
+msgstr ""
+
+msgctxt "0	10302	480	CHK"
+msgid "Throw Snowball Alt."
+msgstr ""
+
+msgctxt "0	10322	481	CHK"
+msgid "Throw Scattershot Alt."
+msgstr ""
+
+msgctxt "0	10345	482	CHK"
+msgid "Move Cursor Down Alt."
+msgstr ""
+
+msgctxt "0	10367	483	CHK"
+msgid "Move Cursor Left Alt."
+msgstr ""
+
+msgctxt "0	10389	484	CHK"
+msgid "Move Cursor Right Alt."
+msgstr ""
+
+msgctxt "0	10412	485	CHK"
+msgid "Move Cursor Up Alt."
+msgstr ""
+
+msgctxt "0	10432	486	CHK"
+msgid "Move the Swing Cursor Up Alt."
+msgstr ""
+
+msgctxt "0	10462	487	CHK"
+msgid "Move the Swing Cursor Down Alt."
+msgstr ""
+
+msgctxt "0	10494	488	CHK"
+msgid "Move the Swing Cursor Left Alt."
+msgstr ""
+
+msgctxt "0	10526	489	CHK"
+msgid "Move the Swing Cursor Right Alt."
+msgstr ""
+
+msgctxt "0	10559	490	CHK"
+msgid "Run (Double-tap to Dodge) Alt."
+msgstr ""
+
+msgctxt "0	10590	491	CHK"
+msgid "Change bet amount"
+msgstr ""
+
+msgctxt "0	10608	492	CHK"
+msgid "Change Item/Entry"
+msgstr ""
+

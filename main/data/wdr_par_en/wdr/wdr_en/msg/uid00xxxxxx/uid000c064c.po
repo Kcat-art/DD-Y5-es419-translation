@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "396"
+msgid "Scatterbrain"
+msgstr ""
+
+msgctxt "72_Scatterbrain"
+msgid "My gal's takin' forever to come. It's way past the time we promised. Wait... What am I sayin'? I ain't got a girlfriend."
+msgstr ""
+

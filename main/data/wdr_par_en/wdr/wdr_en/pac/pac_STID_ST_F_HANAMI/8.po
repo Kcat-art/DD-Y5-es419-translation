@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "420"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+

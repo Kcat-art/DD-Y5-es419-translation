@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "116"
+msgid "Sign of the times..."
+msgstr ""
+
+msgctxt "392"
+msgid "Bookstores..."
+msgstr ""
+

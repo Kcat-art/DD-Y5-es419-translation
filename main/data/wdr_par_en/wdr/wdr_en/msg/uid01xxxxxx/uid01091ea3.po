@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "320"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "(That's the trapmaster guy from the village. What's he doin'?)"
+msgstr ""
+

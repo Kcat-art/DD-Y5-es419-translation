@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "308"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "44_Shinada"
+msgid "(They've got a 200 yen sale today... My one shot at redemption!)"
+msgstr ""
+

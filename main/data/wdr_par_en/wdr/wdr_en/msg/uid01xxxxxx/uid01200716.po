@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "56"
+msgid "You earned a total of <Color:8>%s<Color:Default> points on this drive."
+msgstr ""
+

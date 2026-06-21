@@ -1,0 +1,153 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "			 	 		60	147	87"
+msgid "I'm back."
+msgstr ""
+
+msgctxt "			 	 	　	130	349	219"
+msgid "What the heck... Guess Hana-chan's out."
+msgstr ""
+
+msgctxt "			 	 	　	60	619	559"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "			 	 	　	81	801	720"
+msgid "Hey you, what are you doing in here!?"
+msgstr ""
+
+msgctxt "			 	 	　	172	975	803"
+msgid "What do you mean, \"Hey, you?\"\\r\n"
+"I've been waiting here alone for two hours."
+msgstr ""
+
+msgctxt "			 	 	　	60	1043	983"
+msgid "You work here, don't you?"
+msgstr ""
+
+msgctxt "			 	 	　	86	1137	1051"
+msgid "Yeah, guess I do."
+msgstr ""
+
+msgctxt "			60ｆ以下です		　	48	1233	1185"
+msgid "What do you want?"
+msgstr ""
+
+msgctxt "			 	 	　	105	1339	1234"
+msgid "Yeah well, actually I'm looking\\r\n"
+"to borrow some money."
+msgstr ""
+
+msgctxt "			 	 	　	74	1448	1374"
+msgid "Well that's tricky, you see..."
+msgstr ""
+
+msgctxt "			 		　	149	1619	1470"
+msgid "Our head office in Kamurocho is\\r\n"
+"run by Hana-chan, the clerk..."
+msgstr ""
+
+msgctxt "			60ｆ以下です		　	39	1659	1620"
+msgid "Or maybe secretary..."
+msgstr ""
+
+msgctxt "			 	 	　	123	1783	1660"
+msgid "Whatever. Regardless, she's the manager here."
+msgstr ""
+
+msgctxt "			 	 	　	125	1917	1792"
+msgid "I'm not at liberty to be handing\\r\n"
+"out money at my own discretion."
+msgstr ""
+
+msgctxt "			 		　	105	2078	1973"
+msgid "Oh, for real? Guess I'm screwed."
+msgstr ""
+
+msgctxt "			 	 	　	101	2191	2090"
+msgid "Out of curiosity, how much do you need?"
+msgstr ""
+
+msgctxt "			60ｆ以下です		　	53	2281	2228"
+msgid "If you wound up here..."
+msgstr ""
+
+msgctxt "			 	 	　	90	2372	2282"
+msgid "I'm guessing you got turned down\\r\n"
+"everywhere else, right?"
+msgstr ""
+
+msgctxt "			 	 	　	60	2452	2392"
+msgid "Well, it's about..."
+msgstr ""
+
+msgctxt "はい	2543	2516	 	 	　	60	2604	2544"
+msgid "Right, let's see here..."
+msgstr ""
+
+msgctxt "			 		　	75	2688	2613"
+msgid "About 320 million yen."
+msgstr ""
+
+msgctxt "			 	 	　	89	2800	2711"
+msgid "Oh, 320 mil..."
+msgstr ""
+
+msgctxt "			 		　	60	2869	2809"
+msgid "Say what!?"
+msgstr ""
+
+msgctxt "			 	 	　	152	3095	2943"
+msgid "Please! I heard you give zero interest\\r\n"
+"loans with no payment terms here!"
+msgstr ""
+
+msgctxt "			60ｆ以下です		　	58	3159	3101"
+msgid "The extra 20 mil can wait until later."
+msgstr ""
+
+msgctxt "			 		　	146	3306	3160"
+msgid "But if I don't scrape up 300 million today,\\r\n"
+"a lot of lives are going to be in danger!"
+msgstr ""
+
+msgctxt "			 		　	60	3375	3315"
+msgid "Lives in danger?"
+msgstr ""
+
+msgctxt "			 		　	151	3550	3399"
+msgid "Trust me, I really need that\\r\n"
+"300 million yen! Help!"
+msgstr ""
+
+msgctxt "			 		　	106	3687	3581"
+msgid "Yeah, I can see you mean business..."
+msgstr ""
+
+msgctxt "			 		　	106	3800	3694"
+msgid "But what would you need that much for?"
+msgstr ""
+
+msgctxt "			 		　	138	3973	3835"
+msgid "The Japan Dome is hosting a major debut\\r\n"
+"concert for this singer the day after tomorrow."
+msgstr ""
+
+msgctxt "			 		　	89	4065	3976"
+msgid "I have to get it canceled by any means possible!"
+msgstr ""
+
+msgctxt "			 		　	60	4165	4105"
+msgid "Wait, you mean..."
+msgstr ""
+
+msgctxt "			 		　	121	4330	4209"
+msgid "The 300 million yen is the cancellation fee\\r\n"
+"that would go to the event organizers!"
+msgstr ""
+
+msgctxt "			 		　	60	4395	4335"
+msgid "You've gotta lend me that money!"
+msgstr ""
+

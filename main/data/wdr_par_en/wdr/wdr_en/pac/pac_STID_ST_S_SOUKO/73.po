@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "284"
+msgid "adv2_900/nishina_2_900_260"
+msgstr ""
+

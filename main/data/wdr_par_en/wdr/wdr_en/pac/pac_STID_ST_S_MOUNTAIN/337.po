@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Gotta follow the footprints."
+msgstr ""
+
+msgctxt "72"
+msgid "Gotta stick with Kihachi."
+msgstr ""
+
+msgctxt "456"
+msgid "Saejima"
+msgstr ""
+

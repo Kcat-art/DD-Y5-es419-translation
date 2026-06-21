@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "860"
+msgid "How about a snowball fight?"
+msgstr ""
+

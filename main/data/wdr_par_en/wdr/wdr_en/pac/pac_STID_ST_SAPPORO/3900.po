@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1056"
+msgid "C5240_KRU_TLK_tired_to_nml"
+msgstr ""
+

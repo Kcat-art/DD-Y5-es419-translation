@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "304"
+msgid "Local"
+msgstr ""
+
+msgctxt "72_Local"
+msgid "Are you here for the snow festival? It lifts the spirits of the whole town."
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "332"
+msgid "The air's so damn dry..."
+msgstr ""
+

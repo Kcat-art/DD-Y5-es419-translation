@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "2340"
+msgid "0"
+msgstr ""
+
+msgctxt "2344"
+msgid "dummy"
+msgstr ""
+

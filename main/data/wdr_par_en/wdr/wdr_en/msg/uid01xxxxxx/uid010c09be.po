@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "748"
+msgid "Player"
+msgstr ""
+
+msgctxt "752"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "108_Player"
+msgid "(I came here already. Let's go somewhere else.)"
+msgstr ""
+
+msgctxt "132_Player"
+msgid "(Kani Douraku, huh? I could tell Tatsuya about this place.)"
+msgstr ""
+
+msgctxt "156_Haruka"
+msgid "(I'm going to Club SEGA with Park-san now.)"
+msgstr ""
+

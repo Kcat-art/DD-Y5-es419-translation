@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "364"
+msgid "Jilted Man"
+msgstr ""
+
+msgctxt "72_Jilted Man"
+msgid "I finally asked my crush out... and got shot down. Damn! I need to drown my sorrows with a couple drinks."
+msgstr ""
+

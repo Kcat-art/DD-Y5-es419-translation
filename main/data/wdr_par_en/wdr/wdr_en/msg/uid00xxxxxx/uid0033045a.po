@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "604"
+msgid "Employee"
+msgstr ""
+
+msgctxt "608"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "44_Employee"
+msgid "Hello. You can trade in your chips for prizes here."
+msgstr ""
+
+msgctxt "68_Employee"
+msgid "Thank you. Please do come again."
+msgstr ""
+
+msgctxt "80_Employee"
+msgid "I see. We look forward to your next visit."
+msgstr ""
+

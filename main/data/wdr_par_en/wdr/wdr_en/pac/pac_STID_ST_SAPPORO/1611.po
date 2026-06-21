@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "So beautiful..."
+msgstr ""
+
+msgctxt "264"
+msgid "This sunset..."
+msgstr ""
+

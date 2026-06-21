@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "252"
+msgid "たむろ_立ち上がり挑発"
+msgstr ""
+
+msgctxt "256"
+msgid "E9790_tamuro_chohatsu"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "(Got separated somehow. Where's Okudera-han?)"
+msgstr ""
+
+msgctxt "304"
+msgid "Player"
+msgstr ""
+

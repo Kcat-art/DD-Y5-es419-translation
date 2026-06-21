@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "476"
+msgid "Lovesick Man"
+msgstr ""
+
+msgctxt "480"
+msgid "Laid-back Man"
+msgstr ""
+
+msgctxt "60_Lovesick Man"
+msgid "Having a crush is so hard. It'd be a lot more efficient for reproduction of the species if I could just get over her and move on."
+msgstr ""
+
+msgctxt "72_Lovesick Man"
+msgid "You think a lot, don't you?"
+msgstr ""
+

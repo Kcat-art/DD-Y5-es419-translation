@@ -1,0 +1,249 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	 	 		60	819	759"
+msgid "You still breathing, Shinada?"
+msgstr ""
+
+msgctxt "	 	　	　	60	923	863"
+msgid "Somehow."
+msgstr ""
+
+msgctxt "	 	　	　	60	1089	1029"
+msgid "Then tell me."
+msgstr ""
+
+msgctxt "	 	　	　	120	1238	1118"
+msgid "How'd you do it?\\r\n"
+"How'd you hit that home run?"
+msgstr ""
+
+msgctxt "	 	　	　	71	1472	1401"
+msgid "Let me ask you something first."
+msgstr ""
+
+msgctxt "	 	　	　	164	1700	1536"
+msgid "It's about that fastball.\\r\n"
+"Why'd Fujita-san tell you to throw it?"
+msgstr ""
+
+msgctxt "	 	　	　	60	1884	1824"
+msgid "I need to know, please."
+msgstr ""
+
+msgctxt "	 	　	　	127	2226	2099"
+msgid "He was... conflicted."
+msgstr ""
+
+msgctxt "調整	 	　	　	76	2368	2292"
+msgid "Conflicted?"
+msgstr ""
+
+msgctxt "	 	　	　	60	2432	2372"
+msgid "He told me as much."
+msgstr ""
+
+msgctxt "	 	　	分	114	2572	2458"
+msgid "Over at a bar in Kineicho,\\r\n"
+"the night before the game."
+msgstr ""
+
+msgctxt "	 	　	　	178	2859	2681"
+msgid "Sawada. These four years...\\r\n"
+"They've been hell."
+msgstr ""
+
+msgctxt "	 	　	　	137	3048	2911"
+msgid "I can't bear making a pitcher of\\r\n"
+"your stature resort to this deception."
+msgstr ""
+
+msgctxt "	 	　	　	150	3211	3061"
+msgid "What are you talking about, Fujita-san?\\r\n"
+"We did the only thing we could."
+msgstr ""
+
+msgctxt "	 	　	　	63	3285	3222"
+msgid "No point regretting it now."
+msgstr ""
+
+msgctxt "	 	　	分	114	3429	3315"
+msgid "So, even if I go up against Shinada tomorrow..."
+msgstr ""
+
+msgctxt "	 	　	　	81	3525	3444"
+msgid "I'll do just what you told me, Fujita-san."
+msgstr ""
+
+msgctxt "	 	　	　	60	3603	3543"
+msgid "The curveball?"
+msgstr ""
+
+msgctxt "	 	　	分	67	3690	3623"
+msgid "Breaking balls do give him trouble."
+msgstr ""
+
+msgctxt "	 	　	　	148	3878	3730"
+msgid "But be honest. You want to see\\r\n"
+"how he can handle your fastball."
+msgstr ""
+
+msgctxt "	 	　	　	179	4097	3918"
+msgid "I know Shinada's your bitter rival.\\r\n"
+"Are you really throwing that away?"
+msgstr ""
+
+msgctxt "	 	　	　	75	4370	4295"
+msgid "What's done is done."
+msgstr ""
+
+msgctxt "	 	　	分	97	4494	4397"
+msgid "And if we fail, it's all over."
+msgstr ""
+
+msgctxt "	 	　	　	133	4633	4500"
+msgid "I know that. I really do."
+msgstr ""
+
+msgctxt "	 	　	分	60	4694	4634"
+msgid "Still..."
+msgstr ""
+
+msgctxt "	 	　	　	110	4841	4731"
+msgid "This is what Fujita-san said next."
+msgstr ""
+
+msgctxt "				156	5039	4883"
+msgid "I won't let Shinada end up a tool for\\r\n"
+"match fixing. He's far too special for that."
+msgstr ""
+
+msgctxt "				144	5206	5062"
+msgid "I'd rather retire from the league\\r\n"
+"than tarnish that talent."
+msgstr ""
+
+msgctxt "	 	　	　	60	5328	5268"
+msgid "He said all that?"
+msgstr ""
+
+msgctxt "	 	　	　	64	5488	5424"
+msgid "That game 15 years ago."
+msgstr ""
+
+msgctxt "	 	　	分	96	5614	5518"
+msgid "Even if you hadn't hit that home run..."
+msgstr ""
+
+msgctxt "	 	　	　	160	5786	5626"
+msgid "Sooner or later, the world would've\\r\n"
+"found out the Wyverns were fixing matches."
+msgstr ""
+
+msgctxt "	 	　	　	138	5973	5835"
+msgid "The Kuroha Family planned to bring it\\r\n"
+"all out in the open eventually anyway."
+msgstr ""
+
+msgctxt "	 	　		128	6106	5978"
+msgid "And in the ensuing police crackdown,\\r\n"
+"they'd finally push both the Omi Alliance..."
+msgstr ""
+
+msgctxt "	 	　	分	95	6202	6107"
+msgid "And the Tojo Clan out of Nagoya for good."
+msgstr ""
+
+msgctxt "	 	　	　	73	6478	6405"
+msgid "So Fujita-san made a decision."
+msgstr ""
+
+msgctxt "	 	　	　	86	6605	6519"
+msgid "In return for selling his soul to the Kuroha..."
+msgstr ""
+
+msgctxt "	 	　	分	112	6732	6620"
+msgid "He'd protect the one thing he held dearest."
+msgstr ""
+
+msgctxt "	 	　	　	60	6887	6827"
+msgid "Which was what?"
+msgstr ""
+
+msgctxt "	 	　	　	81	7038	6957"
+msgid "His love of the game."
+msgstr ""
+
+msgctxt "	 	　	分	83	7157	7074"
+msgid "And the man who could keep that love alive."
+msgstr ""
+
+msgctxt "	 	　	　	65	7379	7314"
+msgid "For Fujita-san, you represented hope."
+msgstr ""
+
+msgctxt "	 	　	分	125	7513	7388"
+msgid "The one clean act in the entire Wyverns lineup."
+msgstr ""
+
+msgctxt "	 	　	　	82	7608	7526"
+msgid "The only light in a world of dark.　"
+msgstr ""
+
+msgctxt "	 	　	　	135	7793	7658"
+msgid "That's why he embraced our rivalry.\\r\n"
+"Let us go at it for real."
+msgstr ""
+
+msgctxt "	 	　	　	154	8085	7931"
+msgid "Before Fujita-san walked out from the love\\r\n"
+"of his life, he wanted to see it one last time."
+msgstr ""
+
+msgctxt "	 	　	　	110	8260	8150"
+msgid "Pure, genuine baseball."
+msgstr ""
+
+msgctxt "	 	　	　	60	8488	8428"
+msgid "That's the truth."
+msgstr ""
+
+msgctxt "	 	　	　	151	8795	8644"
+msgid "We should get moving.\\r\n"
+"More Kuroha thugs will be here any minute."
+msgstr ""
+
+msgctxt "	 	　	　	117	8937	8820"
+msgid "You can tell me all about that home run later."
+msgstr ""
+
+msgctxt "	 	　	　	60	9198	9138"
+msgid "Shinada?"
+msgstr ""
+
+msgctxt "	 	　	　	77	9787	9710"
+msgid "Hey, Shinada.\\r\n"
+"What are you doing!?"
+msgstr ""
+
+msgctxt "	 	　	　	79	9919	9840"
+msgid "Don't want these guys getting in the way."
+msgstr ""
+
+msgctxt "	 	　	　	111	10148	10037"
+msgid "Come on and help me.\\r\n"
+"They don't belong on the diamond anyway."
+msgstr ""
+
+msgctxt "	 	　	　	60	10266	10206"
+msgid "Just what are you up to?"
+msgstr ""
+
+msgctxt "	 	　		60	10378	10318"
+msgid "We're settling this."
+msgstr ""
+
+msgctxt "	 	　	分	60	10463	10403"
+msgid "Our rivalry, that is."
+msgstr ""
+

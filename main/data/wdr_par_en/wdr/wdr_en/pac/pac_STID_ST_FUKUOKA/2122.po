@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "72"
+msgid "Oh no... It's gone!?"
+msgstr ""
+
+msgctxt "1068"
+msgid "ACDEV0080"
+msgstr ""
+

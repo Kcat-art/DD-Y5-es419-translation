@@ -1,0 +1,122 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "								 	　	分	85	280	195"
+msgid "<Italic>Princess League</Italic>"
+msgstr ""
+
+msgctxt "		780+1473			結合後		結合前	 	 		120	650	530"
+msgid "How's everybody doing out there? It's showtime!"
+msgstr ""
+
+msgctxt "								 	　	分	84	735	651"
+msgid "I'm your host, Dolce Kamiya!"
+msgstr ""
+
+msgctxt "				1002	806	222	26	 	　	　	196	1002	806"
+msgid "Your idols have been fighting with everything\\r\n"
+"they've got, exciting the entire nation! "
+msgstr ""
+
+msgctxt "				1110	1007	330	227	 	　	　	103	1110	1007"
+msgid "The air is absolutely crackling with tension!"
+msgstr ""
+
+msgctxt "				1210	1117	430	337	 	　	　	93	1210	1117"
+msgid "For our lucky top idol,\\r\n"
+"the Princess League will open doors."
+msgstr ""
+
+msgctxt "				1323	1211	543	431	 	　	　	112	1323	1211"
+msgid "And now it's time for round two of our finals!"
+msgstr ""
+
+msgctxt "				1433	1365	653	585	 	　	　	68	1433	1365"
+msgid "The rules are the same as before."
+msgstr ""
+
+msgctxt "				1598	1434	818	654	 	　	　	164	1598	1434"
+msgid "The fans here in our studio audience\\r\n"
+"will decide which performance is better."
+msgstr ""
+
+msgctxt "				1674	1599	894	819	 	　	　	75	1674	1599"
+msgid "And they'll move closer to that contestant's stage."
+msgstr ""
+
+msgctxt "				1928	1692	1148	912	 	　	　	236	1928	1692"
+msgid "Audience members, this is your chance\\r\n"
+"to lend alllll your support to your favorite idol!"
+msgstr ""
+
+msgctxt "				2150	1944	1370	1164	 	　	　	206	2150	1944"
+msgid "Let me introduce the two teams who gave\\r\n"
+"such electrifying performances in round one!"
+msgstr ""
+
+msgctxt "	結合後		結合前	2248	2155	1468	1375	 	　	　	93	2248	2155"
+msgid "First up, these contestants!"
+msgstr ""
+
+msgctxt "2418	2366	165	113					60ｆ以下です	　	　	52	2418	2366"
+msgid "Their personalities are unique, but\\r\n"
+"they complement each other perfectly!"
+msgstr ""
+
+msgctxt "2495	2419	242	166					 	　	　	76	2495	2419"
+msgid "They hold the hearts of the nation\\r\n"
+"in their lovely hands!"
+msgstr ""
+
+msgctxt "2550	2502	297	249					60ｆ以下です	　	　	48	2550	2502"
+msgid "Their graceful dance moves..."
+msgstr ""
+
+msgctxt "2631	2551	378	298					 	　	　	80	2631	2551"
+msgid "flaunt a noble elegance that is unmatched!"
+msgstr ""
+
+msgctxt "2719	2639	466	386					 	　	　	80	2719	2639"
+msgid "Ready to soar into your heart,\\r\n"
+"it's the impeccable duo..."
+msgstr ""
+
+msgctxt "2833	2728	580	475					 	　	　	105	2833	2728"
+msgid "T-Set!"
+msgstr ""
+
+msgctxt "3115	2978	862	725					 	　	　	137	3115	2978"
+msgid "On the other stage, this diamond\\r\n"
+"in the rough has allowed us to see her sparkle."
+msgstr ""
+
+msgctxt "3193	3118	940	865					 	　	　	75	3193	3118"
+msgid "She's new on the scene, glowing brighter\\r\n"
+"than even her original fans could've imagined."
+msgstr ""
+
+msgctxt "3311	3194	1058	941					 	　	　	117	3311	3194"
+msgid "She gets better every time\\r\n"
+"she steps foot on stage..."
+msgstr ""
+
+msgctxt "3448	3321	1195	1068					 	　	　	127	3448	3321"
+msgid "Haruka Sawamura!"
+msgstr ""
+
+msgctxt "3653	3529	1400	1276					 	　	　	124	3653	3529"
+msgid "Which idol team will attract the most fans..."
+msgstr ""
+
+msgctxt "3730	3654	1477	1401					 	　	　	76	3730	3654"
+msgid "With the most dazzling performance!?"
+msgstr ""
+
+msgctxt "3795	3734	1542	1481					 	　	　	61	3795	3734"
+msgid "It's time to find out!"
+msgstr ""
+
+msgctxt "3898	3799	1645	1546					 	　	　	99	3898	3799"
+msgid "Let's goooo!"
+msgstr ""
+

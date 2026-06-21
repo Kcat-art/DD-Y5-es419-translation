@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "592"
+msgid "Player"
+msgstr ""
+
+msgctxt "92_Player"
+msgid "(I came here already. Let's go somewhere else.)"
+msgstr ""
+
+msgctxt "116_Player"
+msgid "(Zuboraya, huh? I could tell Tatsuya about this place.)"
+msgstr ""
+

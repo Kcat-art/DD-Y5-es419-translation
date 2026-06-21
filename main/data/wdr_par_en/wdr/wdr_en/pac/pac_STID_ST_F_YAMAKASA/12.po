@@ -1,0 +1,59 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "56"
+msgid "A lookout. Last thing we need is him calling his friends over."
+msgstr ""
+
+msgctxt "68"
+msgid "Yes, it's best to avoid trouble if possible. Hm?"
+msgstr ""
+
+msgctxt "80"
+msgid "If we go in through that door, we might be able to circle around behind the lookout."
+msgstr ""
+
+msgctxt "92"
+msgid "Good thinking. Let's give it a try."
+msgstr ""
+
+msgctxt "1128"
+msgid "adv1_124/kiryu_1_124_030"
+msgstr ""
+
+msgctxt "1132"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1136"
+msgid "Player"
+msgstr ""
+
+msgctxt "1140"
+msgid "adv1_124/kiryu_1_124_040"
+msgstr ""
+
+msgctxt "1144"
+msgid "Morinaga"
+msgstr ""
+
+msgctxt "1148"
+msgid "adv1_124/morinaga_1_124_020"
+msgstr ""
+
+msgctxt "1152"
+msgid "adv1_124/morinaga_1_124_030"
+msgstr ""
+
+msgctxt "1156"
+msgid "adv1_124/kiryu_1_124_050"
+msgstr ""
+
+msgctxt "1160"
+msgid "7e008000"
+msgstr ""
+

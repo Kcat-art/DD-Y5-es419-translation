@@ -1,0 +1,49 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "			114	137	23"
+msgid "Haruka-chan! T-Set! Thank you very much!"
+msgstr ""
+
+msgctxt "		　	106	244	138"
+msgid "Those were two stellar\\r\n"
+"performances we won't soon forget!"
+msgstr ""
+
+msgctxt "		　	107	368	261"
+msgid "I simply can't contain my excitement."
+msgstr ""
+
+msgctxt "		　	108	481	373"
+msgid "Both sides gave us a truly flawless show."
+msgstr ""
+
+msgctxt "		　	130	612	482"
+msgid "Wouldn't you agree, ladies and gentlemen!?"
+msgstr ""
+
+msgctxt "		　	108	803	695"
+msgid "However! As you all know..."
+msgstr ""
+
+msgctxt "		　	152	956	804"
+msgid "The results are coming up, and at long\\r\n"
+"last we'll finally crown our winner!"
+msgstr ""
+
+msgctxt "		　	99	1115	1016"
+msgid "I know you're all very excited!"
+msgstr ""
+
+msgctxt "		　	60	1181	1121"
+msgid "But before that..."
+msgstr ""
+
+msgctxt "		　	115	1376	1261"
+msgid "I see. Well, folks..."
+msgstr ""
+
+msgctxt "		　	93	1478	1385"
+msgid "The results are in!"
+msgstr ""
+

@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1632"
+msgid "Hinata"
+msgstr ""
+
+msgctxt "1636"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1640"
+msgid "F_SXY_TLK_stand_quest"
+msgstr ""
+
+msgctxt "44_Hinata"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "80_Hinata"
+msgid "Um... Who's that?"
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid "Oh, yeah."
+msgstr ""
+
+msgctxt "104_Hinata"
+msgid "If you've got something to do, come back after you've finished things up."
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "All right."
+msgstr ""
+
+msgctxt "128_Hinata"
+msgid "That's alright! I've been hoping to see you. There was stuff I wanted to talk to you about. Let's go hang out for a bit!"
+msgstr ""
+
+msgctxt "140_Kiryu"
+msgid "Okay, shall we get going?"
+msgstr ""
+

@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "308"
+msgid "adv1_070_3/taxi_guest2_1_070_010"
+msgstr ""
+
+msgctxt "312"
+msgid "dummy"
+msgstr ""
+
+msgctxt "316"
+msgid "kaiwabgm_fuon01"
+msgstr ""
+

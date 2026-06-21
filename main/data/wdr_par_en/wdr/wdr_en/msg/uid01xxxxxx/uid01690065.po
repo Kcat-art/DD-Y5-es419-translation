@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "604"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "Bear tracks. Pretty close to the village..."
+msgstr ""
+

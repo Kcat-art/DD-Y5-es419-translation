@@ -1,0 +1,57 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60ｆ以下です	　		48	816	768"
+msgid "Just a second!"
+msgstr ""
+
+msgctxt " 	　	　	129	946	817"
+msgid "Hold on, Mayumi.\\r\n"
+"Sit tight, I got it."
+msgstr ""
+
+msgctxt " 	　	　	60	1094	1034"
+msgid "What's wrong!?"
+msgstr ""
+
+msgctxt " 	　	　	80	1473	1393"
+msgid "You've got to help us, Kir⑬"
+msgstr ""
+
+msgctxt " 	　	分	60	1534	1474"
+msgid "I mean, Suzuki-san!"
+msgstr ""
+
+msgctxt " 	　	　	69	1614	1545"
+msgid "How'd you find me here?"
+msgstr ""
+
+msgctxt " 	　	　	64	1700	1636"
+msgid "I can explain later."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	54	1771	1717"
+msgid "Right now, my aniki..."
+msgstr ""
+
+msgctxt " 	　	分	89	1861	1772"
+msgid "Morinaga-aniki needs somewhere to rest!"
+msgstr ""
+
+msgctxt " 	　	　	60	1981	1921"
+msgid "Sorry for this."
+msgstr ""
+
+msgctxt " 	　	分	178	2160	1982"
+msgid "I told him not to impose\\r\n"
+"on you, Suzuki-san..."
+msgstr ""
+
+msgctxt "60ｆ以下です	　		38	2209	2171"
+msgid "Aniki?"
+msgstr ""
+
+msgctxt " 	　	分	78	2288	2210"
+msgid "Stay with me, Aniki!"
+msgstr ""
+

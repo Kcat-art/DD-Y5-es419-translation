@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "544"
+msgid "Troubled Businessman"
+msgstr ""
+
+msgctxt "548"
+msgid "Supportive Businessman"
+msgstr ""
+
+msgctxt "72_Troubled Businessman"
+msgid "Some clients, huh? Callin' me to Tokyo on such short notice. I'll never get a plane ticket, so I guess I'll have to take a train."
+msgstr ""
+
+msgctxt "84_Supportive Businessman"
+msgid "Then we'd better hurry to Shin-Osaka Station. A cab can get us there in no time."
+msgstr ""
+

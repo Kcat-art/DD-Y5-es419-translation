@@ -1,0 +1,207 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		130	881	751"
+msgid "The Nagoya Wyverns have\\r\n"
+"announced a pinch hitter."
+msgstr ""
+
+msgctxt " 	　	　	117	1007	890"
+msgid "Sakai, playing second base and batting\\r\n"
+"seventh in the lineup, is coming out."
+msgstr ""
+
+msgctxt " 	　	　	168	1176	1008"
+msgid "Coming in to bat is Tatsuo Shinada, number 47."
+msgstr ""
+
+msgctxt " 	　	　	133	1310	1177"
+msgid "It's the bottom of the ninth, two outs.\\r\n"
+"The Wyverns send Tatsuo Shinada to pinch hit."
+msgstr ""
+
+msgctxt " 	　	　	121	1432	1311"
+msgid "He's a 22-year-old from Tokyo who\\r\n"
+"spent the last four years on the farm."
+msgstr ""
+
+msgctxt " 	　	　	97	1530	1433"
+msgid "And today's his chance to prove\\r\n"
+"himself in the big leagues."
+msgstr ""
+
+msgctxt " 	　	　	175	1714	1539"
+msgid "For his very first at bat, he'll be taking over\\r\n"
+"for Sakai, the core of the Wyverns' defense."
+msgstr ""
+
+msgctxt " 	　	　	95	1820	1725"
+msgid "A bold decision on their manager Fujita's part."
+msgstr ""
+
+msgctxt " 	　	　	132	1953	1821"
+msgid "I'll say. Maybe Sakai's hurting\\r\n"
+"after the slugfest we witnessed today."
+msgstr ""
+
+msgctxt " 	　	　	88	2042	1954"
+msgid "Or it's a move with\\r\n"
+"extra innings in mind."
+msgstr ""
+
+msgctxt " 	　	　	172	2215	2043"
+msgid "Either way, it's safe to assume that\\r\n"
+"there must be some logical reason for it."
+msgstr ""
+
+msgctxt " 	　	　	152	2368	2216"
+msgid "On the Gigants' side, Sawada's relentless\\r\n"
+"pitching has held the Wyverns at bay."
+msgstr ""
+
+msgctxt " 	　	　	172	2541	2369"
+msgid "As long as he doesn't give up a big hit,\\r\n"
+"this should be good news for him."
+msgstr ""
+
+msgctxt " 	　	　	79	2621	2542"
+msgid "And here's the first pitch!"
+msgstr ""
+
+msgctxt " 	　	　	60	2682	2622"
+msgid "The ball veers left! Foul!"
+msgstr ""
+
+msgctxt " 	　	　	128	2846	2718"
+msgid "Sawada doesn't want to give up a big hit here."
+msgstr ""
+
+msgctxt " 	　	　	104	2951	2847"
+msgid "His curveball's breaking sharp today.\\r\n"
+"You can tell he's confident."
+msgstr ""
+
+msgctxt " 	　	　	115	3079	2964"
+msgid "Here's Sawada's second pitch.\\r\n"
+"What's he gonna throw?"
+msgstr ""
+
+msgctxt " 	　	　	60	3140	3080"
+msgid "He winds up..."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	38	3190	3152"
+msgid "And throws!"
+msgstr ""
+
+msgctxt " 	　	　	101	3292	3191"
+msgid "Another curveball.\\r\n"
+"Cut cleanly by Shinada."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	21	3401	3390"
+msgid "Foul!            "
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	18	3420	3402"
+msgid "Foul! Foul!      "
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	3478	3421"
+msgid "Foul! Foul! Foul!"
+msgstr ""
+
+msgctxt " 	　	　	69	3548	3479"
+msgid "Shinada fouls off the sixth pitch as well."
+msgstr ""
+
+msgctxt " 	　	　	70	3619	3549"
+msgid "The count remains 0 and 2."
+msgstr ""
+
+msgctxt " 	　	　	142	3762	3620"
+msgid "This Shinada kid's something else.\\r\n"
+"He's swinging like a beast out there."
+msgstr ""
+
+msgctxt " 	　	　	106	3869	3763"
+msgid "You can tell he's trying to zero in\\r\n"
+"on Sawada's tricky curveballs."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	25	3895	3870"
+msgid "That he is."
+msgstr ""
+
+msgctxt " 	　	　	64	3960	3896"
+msgid "So far that's all he's been throwing."
+msgstr ""
+
+msgctxt " 	　		138	4099	3961"
+msgid "Would you say this is smart pitching, given how\\r\n"
+"the batter's so focused on getting a hit?"
+msgstr ""
+
+msgctxt " 	　	　	96	4196	4100"
+msgid "That, and he's getting better at his timing."
+msgstr ""
+
+msgctxt " 	　	　	60	4257	4197"
+msgid "He's waiting for that signature curve."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	36	4476	4406"
+msgid "The seventh pitch..."
+msgstr ""
+
+msgctxt " 	　	　	60	4726	4690"
+msgid "It's a hit!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	47	4774	4727"
+msgid "That's got some power!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	42	4817	4775"
+msgid "It's going, going..."
+msgstr ""
+
+msgctxt " 	　	　	60	4878	4818"
+msgid "And gone! Home run!"
+msgstr ""
+
+msgctxt " 	　	　	22	4902	4880"
+msgid "Incredible."
+msgstr ""
+
+msgctxt " 	　	　	68	4972	4904"
+msgid "He really crushed that one!"
+msgstr ""
+
+msgctxt " 	　	　	129	5102	4973"
+msgid "How's that for drama!\\r\n"
+"Welcome to the big time, Shinada!"
+msgstr ""
+
+msgctxt " 	　	　	130	5236	5106"
+msgid "His first at bat as a pro ends up a home run⑬\\r\n"
+"and a walk-off, to boot!"
+msgstr ""
+
+msgctxt " 	　	　	63	5300	5237"
+msgid "All those curves, then a fastball."
+msgstr ""
+
+msgctxt " 	　	　	127	5428	5301"
+msgid "That would cause most batters to choke.\\r\n"
+"I'm honestly amazed he hit it."
+msgstr ""
+
+msgctxt " 	　	　	105	5534	5429"
+msgid "And so begins the story of a new baseball legend!"
+msgstr ""
+
+msgctxt " 	　	　	95	5630	5535"
+msgid "Tatsuo Shinada of the Wyverns!"
+msgstr ""
+

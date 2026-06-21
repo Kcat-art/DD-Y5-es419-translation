@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "404"
+msgid "Busybody"
+msgstr ""
+
+msgctxt "72_Busybody"
+msgid "Not from around here? So where are you from? If you're visitin', you should know Nagoya's famous for the food. Enjoy your stay!"
+msgstr ""
+

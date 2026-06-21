@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "120"
+msgid "Nobody cares about me..."
+msgstr ""
+
+msgctxt "144"
+msgid "Nobody cares..."
+msgstr ""
+
+msgctxt "2144"
+msgid "M_nml_sitcnt"
+msgstr ""
+
+msgctxt "2148"
+msgid "M_NML_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "2152"
+msgid "P_SAE_TLK_stand_kamae"
+msgstr ""
+

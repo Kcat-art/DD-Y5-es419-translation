@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "84"
+msgid "You got 2,500 experience points."
+msgstr ""
+
+msgctxt "2176"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "2180"
+msgid "Groan of Pain"
+msgstr ""
+
+msgctxt "2184"
+msgid "Student"
+msgstr ""
+
+msgctxt "60_Saejima"
+msgid "(Sodachi's turned into a proper dojo master. He'll keep the place safe. I'm countin' on ya, Sodachi.)"
+msgstr ""
+
+msgctxt "108_Saejima"
+msgid "(Been a while. I wonder how Sodachi's doin'. Maybe I'll drop in on him.)"
+msgstr ""
+
+msgctxt "120_Groan of Pain"
+msgid "Urrggh..."
+msgstr ""
+
+msgctxt "132_Saejima"
+msgid "(That's a Sodachi Dojo uniform!)"
+msgstr ""
+
+msgctxt "144_Saejima"
+msgid "Hey! What happened to ya?"
+msgstr ""
+
+msgctxt "156_Student"
+msgid "Urrggh... A bunch of guys showed up at the dojo... Master Sodachi's in trouble..."
+msgstr ""
+
+msgctxt "168_Saejima"
+msgid "(Trouble? Gotta get to the dojo now!)"
+msgstr ""
+

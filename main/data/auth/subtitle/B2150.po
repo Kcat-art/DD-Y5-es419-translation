@@ -1,0 +1,160 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "				 	 		65	218	187"
+msgid "Saejima-aniki!"
+msgstr ""
+
+msgctxt "				 	 		65	252	220"
+msgid "Saejima-san!"
+msgstr ""
+
+msgctxt "				 	　	　	127	390	263"
+msgid "If you're in here... then everythin'\\r\n"
+"worked out with the frame job, huh?"
+msgstr ""
+
+msgctxt "				60ｆ以下です	　	　	56	471	415"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "				 	　	　	70	542	472"
+msgid "Thank you so much!"
+msgstr ""
+
+msgctxt "				 	　	　	131	749	618"
+msgid "I, um... What can I even say?"
+msgstr ""
+
+msgctxt "				 	　	　	148	900	752"
+msgid "Just seein' ya safe is enough.\\r\n"
+"So, how's the parole lookin'?"
+msgstr ""
+
+msgctxt "				 	　	　	153	1103	950"
+msgid "I got the all clear. I think\\r\n"
+"the deputy warden pushed it through."
+msgstr ""
+
+msgctxt "				 	　	　	60	1164	1104"
+msgid "That's great news."
+msgstr ""
+
+msgctxt "				 	　	　	120	1319	1199"
+msgid "I have to wonder, Saejima.\\r\n"
+"How are you back so quick?"
+msgstr ""
+
+msgctxt "				 	　	　	112	1469	1357"
+msgid "Scuffles like that would usually\\r\n"
+"net you at least half a week of solitary."
+msgstr ""
+
+msgctxt "				 	　	　	109	1591	1482"
+msgid "Got swept under the rug. By Kosaka."
+msgstr ""
+
+msgctxt "				 	　	　	60	1652	1592"
+msgid "Kosaka!?"
+msgstr ""
+
+msgctxt "				 	　	　	84	1791	1707"
+msgid "First Baba-chan, now Saejima-san..."
+msgstr ""
+
+msgctxt "				 	　	分	95	1887	1792"
+msgid "Feels like we got ourselves a guardian angel."
+msgstr ""
+
+msgctxt "				 	　	　	60	1954	1894"
+msgid "It's 'cause I got expelled."
+msgstr ""
+
+msgctxt "				 	　	　	60	2016	1956"
+msgid "Expelled?"
+msgstr ""
+
+msgctxt "				 	　	　	156	2202	2046"
+msgid "You can't be serious.\\r\n"
+"They kicked you out of your own family?"
+msgstr ""
+
+msgctxt "				 	　	　	60	2263	2203"
+msgid "Sure did."
+msgstr ""
+
+msgctxt "				60ｆ以下です	　	　	56	2349	2293"
+msgid "Aniki, you..."
+msgstr ""
+
+msgctxt "				 	　	分	78	2457	2379"
+msgid "What did you do to deserve that!?"
+msgstr ""
+
+msgctxt "				 	　	　	60	2533	2473"
+msgid "Couldn't say."
+msgstr ""
+
+msgctxt "2624	2544			 	　		80	2671	2544"
+msgid "But me gettin' expelled don't matter now.\\r\n"
+"Dunno why, but..."
+msgstr ""
+
+msgctxt "2668	2654				　	　	60	2729	2672"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "				 	　	　	60	2812	2752"
+msgid "Somethin' don't feel right."
+msgstr ""
+
+msgctxt "				 	　	　	60	2997	2937"
+msgid "Delivery!"
+msgstr ""
+
+msgctxt "				 	　	　	60	3326	3266"
+msgid "What the?"
+msgstr ""
+
+msgctxt "				 	　	　	60	3410	3350"
+msgid "What's wrong, Himura?"
+msgstr ""
+
+msgctxt "				 	　	　	60	3475	3415"
+msgid "Take a look."
+msgstr ""
+
+msgctxt "				 	　	分	118	3605	3487"
+msgid "Isn't this your old crew, Saejima-san?"
+msgstr ""
+
+msgctxt "				 	　	　	159	3999	3840"
+msgid "Top officer with the Tojo Clan,\\r\n"
+"Goro Majima-shi... Found dead!?"
+msgstr ""
+
+msgctxt "				 	　	　	60	4085	4025"
+msgid "Aniki, that guy..."
+msgstr ""
+
+msgctxt "				 	　	　	72	4344	4272"
+msgid "Guess my feelin' was legit."
+msgstr ""
+
+msgctxt "				 	　	　	140	4518	4378"
+msgid "Right after you were expelled, too.\\r\n"
+"Do you think this is related?"
+msgstr ""
+
+msgctxt "				 	　	　	60	4583	4523"
+msgid "Aniki!"
+msgstr ""
+
+msgctxt "				 	　	　	60	4645	4585"
+msgid "Naw..."
+msgstr ""
+
+msgctxt "				 	　	　	72	4743	4671"
+msgid "I ain't believin' it!"
+msgstr ""
+

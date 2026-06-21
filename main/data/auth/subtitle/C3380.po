@@ -1,0 +1,56 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60ｆ以下です	 		41	393	352"
+msgid "It's you!"
+msgstr ""
+
+msgctxt " 	　	分	60	454	394"
+msgid "Ogita!"
+msgstr ""
+
+msgctxt " 	　	　	138	704	566"
+msgid "You're... that guy who jumped me at Dyna Chair."
+msgstr ""
+
+msgctxt " 	　	　	60	798	738"
+msgid "Why're ya...?"
+msgstr ""
+
+msgctxt " 	　	　	74	874	800"
+msgid "You first. What happened to you?"
+msgstr ""
+
+msgctxt " 	　	　	62	1166	1104"
+msgid "Kanai happened to me."
+msgstr ""
+
+msgctxt " 	　	　	115	1293	1178"
+msgid "Kanai? I thought you two were buddy-buddy."
+msgstr ""
+
+msgctxt " 	　	　	60	1440	1380"
+msgid "Shit..."
+msgstr ""
+
+msgctxt " 	　	分	60	1533	1473"
+msgid "I ain't ready to die."
+msgstr ""
+
+msgctxt " 	　	　	68	1631	1563"
+msgid "Not like this!"
+msgstr ""
+
+msgctxt " 	　	　	97	1931	1834"
+msgid "Please. Ya gotta help me!"
+msgstr ""
+
+msgctxt " 	　	　	144	2086	1942"
+msgid "I'll tell ya everything!\\r\n"
+"I'll talk to the cops if I gotta!"
+msgstr ""
+
+msgctxt " 	　	　	111	2229	2118"
+msgid "Just please. Get me outta here!"
+msgstr ""
+

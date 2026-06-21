@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "280"
+msgid "Woman Covered in Takoyaki Sauce"
+msgstr ""
+
+msgctxt "72_Woman Covered in Takoyaki Sauce"
+msgid "Who has the best takoyaki? Personally, I think Magutako's hard to top."
+msgstr ""
+

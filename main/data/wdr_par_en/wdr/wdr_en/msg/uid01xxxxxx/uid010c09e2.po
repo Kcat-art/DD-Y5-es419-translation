@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "272"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "76_Haruka"
+msgid "(Park-san wants me to go to Le Marche with her.)"
+msgstr ""
+

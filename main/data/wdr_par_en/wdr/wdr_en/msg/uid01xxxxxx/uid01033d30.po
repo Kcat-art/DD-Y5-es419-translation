@@ -1,0 +1,20 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "620"
+msgid "品田"
+msgstr ""
+
+msgctxt "624"
+msgid "dummy"
+msgstr ""
+
+msgctxt "60_品田"
+msgid "くそっ、見失ったか……"
+msgstr ""
+
+msgctxt "96_品田"
+msgid "はぁ……はぁ……\\r\n"
+"もう走れない……"
+msgstr ""
+

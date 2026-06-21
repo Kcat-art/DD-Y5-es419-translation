@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "384"
+msgid "HAL_TLK_sitcntR_kamae"
+msgstr ""
+

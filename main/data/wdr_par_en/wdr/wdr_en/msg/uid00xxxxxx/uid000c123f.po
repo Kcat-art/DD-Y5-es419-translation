@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "492"
+msgid "Cheerful Girl"
+msgstr ""
+
+msgctxt "496"
+msgid "Unsophisticated Girl"
+msgstr ""
+
+msgctxt "72_Cheerful Girl"
+msgid "Didja see \"Love to See You Smile\" last night? It was so good!"
+msgstr ""
+
+msgctxt "84_Cheerful Girl"
+msgid "Yeah, yeah, yeah! I saw it, too! That new pop star's a cutie!"
+msgstr ""
+

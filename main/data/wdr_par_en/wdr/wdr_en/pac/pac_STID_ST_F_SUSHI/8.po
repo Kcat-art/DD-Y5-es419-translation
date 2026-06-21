@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "372"
+msgid "adv1_140/furumichi_1_140_010"
+msgstr ""
+
+msgctxt "376"
+msgid "P_TLK_sitcnt_kamae"
+msgstr ""
+

@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "268"
+msgid "E9510_look_booing"
+msgstr ""
+

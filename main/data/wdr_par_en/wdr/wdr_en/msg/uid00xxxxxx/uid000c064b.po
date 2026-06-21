@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "292"
+msgid "Forgetful Woman"
+msgstr ""
+
+msgctxt "72_Forgetful Woman"
+msgid "Where'd I leave that bike o' mine? Why's this always happen to me?"
+msgstr ""
+

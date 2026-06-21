@@ -1,0 +1,12 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "240"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "44_Akiyama"
+msgid "(This is the Shofuku Sotenbori Building. I should see how\\r\n"
+"Nanako's doing.)"
+msgstr ""
+

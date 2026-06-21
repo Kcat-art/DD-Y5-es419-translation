@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "2632"
+msgid "F_NML_TLK_damage_kamae"
+msgstr ""
+

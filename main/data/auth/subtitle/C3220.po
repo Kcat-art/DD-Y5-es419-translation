@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "			55	1615	1560"
+msgid "<Italic>Hana-chan</Italic>"
+msgstr ""
+
+msgctxt "			60	1890	1830"
+msgid "Uh... Hello?"
+msgstr ""
+

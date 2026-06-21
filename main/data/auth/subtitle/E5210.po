@@ -1,0 +1,189 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		115	206	91"
+msgid "What are you thinking!?\\r\n"
+"Daigo, don't do it!"
+msgstr ""
+
+msgctxt " 	　	　	61	285	224"
+msgid "Kiryu-san! Saejima-san!"
+msgstr ""
+
+msgctxt " 	　	　	60	390	330"
+msgid "I leave the rest in your hands."
+msgstr ""
+
+msgctxt " 	　	　	73	486	413"
+msgid "Daigo. No..."
+msgstr ""
+
+msgctxt " 	　	　	131	720	589"
+msgid "Maybe I can finally say I lived\\r\n"
+"up to the title of sixth chairman."
+msgstr ""
+
+msgctxt " 	　	分	60	819	759"
+msgid "Kiryu-san."
+msgstr ""
+
+msgctxt " 	　	　	60	1770	1710"
+msgid "Why not go for the kill?"
+msgstr ""
+
+msgctxt " 	　	　	60	2162	2102"
+msgid "I'm giving you a choice."
+msgstr ""
+
+msgctxt " 	　	　	149	2320	2171"
+msgid "Take responsibility for all this,\\r\n"
+"and end it yourself like a real yakuza."
+msgstr ""
+
+msgctxt " 	　	　	60	2412	2352"
+msgid "Alternatively..."
+msgstr ""
+
+msgctxt " 	　	　	111	2590	2479"
+msgid "You can put the weight of\\r\n"
+"that responsibility in my hand."
+msgstr ""
+
+msgctxt " 	　	　	60	2766	2706"
+msgid "The choice is yours."
+msgstr ""
+
+msgctxt " 	　	分	60	2854	2794"
+msgid "Choose!"
+msgstr ""
+
+msgctxt " 	　	　	140	3050	2910"
+msgid "I'm afraid neither of those options suits me."
+msgstr ""
+
+msgctxt " 	　	　	60	3165	3105"
+msgid "I see."
+msgstr ""
+
+msgctxt " 	　	　	68	3338	3270"
+msgid "You're still too green."
+msgstr ""
+
+msgctxt " 	　	分	105	3454	3349"
+msgid "Showing mercy is the surest\\r\n"
+"way to get yourself killed."
+msgstr ""
+
+msgctxt " 	　	　	60	3929	3869"
+msgid "Daigo!"
+msgstr ""
+
+msgctxt " 	　	　	60	4170	4110"
+msgid "Who's he!?"
+msgstr ""
+
+msgctxt " 	　	　	112	4362	4250"
+msgid "It's that Ousaka Enterprises bootlicker!"
+msgstr ""
+
+msgctxt " 	　	　	130	4554	4424"
+msgid "The hell ya think you're doin' over there, Kanai!?"
+msgstr ""
+
+msgctxt " 	　	　	205	4966	4761"
+msgid "So you're betraying Katsuya?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	52	5095	5043"
+msgid "Daigo!?"
+msgstr ""
+
+msgctxt " 	　	　	73	5169	5096"
+msgid "Daigo!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	32	5202	5170"
+msgid "Kiryu!"
+msgstr ""
+
+msgctxt " 	　	　	105	5308	5203"
+msgid "Let me go! Daigo...\\r\n"
+"I've gotta get to Daigo!"
+msgstr ""
+
+msgctxt " 	　	　	90	5580	5490"
+msgid "Well, that about wraps it up."
+msgstr ""
+
+msgctxt " 	　	　	83	5666	5583"
+msgid "Not by a longshot!\\r\n"
+"Where do you think you're going!?"
+msgstr ""
+
+msgctxt " 	　	分	75	5750	5675"
+msgid "When I get over there,\\r\n"
+"I'm going to tear you apart!"
+msgstr ""
+
+msgctxt " 	　	　	187	6018	5831"
+msgid "Throw all the tantrums you want.\\r\n"
+"It won't help him in the end."
+msgstr ""
+
+msgctxt " 	　	　	114	6150	6036"
+msgid "I'd worry more about what's still to come."
+msgstr ""
+
+msgctxt " 	　	分	117	6280	6163"
+msgid "That cute little girl of yours, for starters."
+msgstr ""
+
+msgctxt " 	　	　	60	6355	6295"
+msgid "Haruka?"
+msgstr ""
+
+msgctxt " 	　	　	149	6553	6404"
+msgid "What are you going to do to her!? Answer me!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	51	6726	6675"
+msgid "Tell me, Kurosawa!"
+msgstr ""
+
+msgctxt " 	　	　	85	6812	6727"
+msgid "Answer me! Kurosawa!"
+msgstr ""
+
+msgctxt " 	　	　	81	6894	6813"
+msgid "Kurosawa!"
+msgstr ""
+
+msgctxt " 	　	　	79	7235	7156"
+msgid "Answer me..."
+msgstr ""
+
+msgctxt " 	　	　	60	7343	7283"
+msgid "Kiryu..."
+msgstr ""
+
+msgctxt " 	　	　	60	7410	7350"
+msgid "Why?"
+msgstr ""
+
+msgctxt " 	　	分	78	7513	7435"
+msgid "Why does this happen whenever I get involved?"
+msgstr ""
+
+msgctxt " 	　	　	146	7710	7564"
+msgid "Why does someone else\\r\n"
+"always have to pay the price?"
+msgstr ""
+
+msgctxt " 	　	　	60	7806	7746"
+msgid "Why..."
+msgstr ""
+
+msgctxt " 	　	分	61	7901	7840"
+msgid "Why is it like this!?"
+msgstr ""
+

@@ -1,0 +1,24 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1068"
+msgid "Ultimate Move: Dragon Spirit"
+msgstr ""
+
+msgctxt "120_Ultimate Move: Dragon Spirit"
+msgid "\\r\n"
+"<Color:7>Dragon Spirit<Color:Default> Tutorial\\r\n"
+"\\r\n"
+"In this battle, you can only damage Sosuke\\r\n"
+"using <Color:7>Dragon Spirit<Color:Default>."
+msgstr ""
+
+msgctxt "132_Ultimate Move: Dragon Spirit"
+msgid "\\r\n"
+"Press <Action:Battle_Extreme_Heat@Combat> in Heat Mode to activate\\r\n"
+"<Color:7>Dragon Spirit<Color:Default>.\\r\n"
+"\\r\n"
+"Try attacking Sosuke after pressing <Action:Battle_Extreme_Heat@Combat> to\\r\n"
+"trigger <Color:7>Dragon Spirit<Color:Default>."
+msgstr ""
+

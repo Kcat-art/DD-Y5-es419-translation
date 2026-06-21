@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "940"
+msgid "H10120_tojyokai"
+msgstr ""
+
+msgctxt "944"
+msgid "dummy"
+msgstr ""
+
+msgctxt "948"
+msgid "A10440_tojyokai_shotzako"
+msgstr ""
+

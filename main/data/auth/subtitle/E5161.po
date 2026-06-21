@@ -1,0 +1,62 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		97	656	559"
+msgid "You must be Katsuya."
+msgstr ""
+
+msgctxt " 	　	　	118	784	666"
+msgid "I've been expecting you, Taiga Saejima-san."
+msgstr ""
+
+msgctxt " 	　	　	60	912	852"
+msgid "Kiryu!"
+msgstr ""
+
+msgctxt " 	　	　	60	1046	986"
+msgid "You made it too."
+msgstr ""
+
+msgctxt " 	　	　	151	1258	1107"
+msgid "Talk, Katsuya. Whaddaya\\r\n"
+"got to say for yourself?"
+msgstr ""
+
+msgctxt " 	　	　	81	1383	1302"
+msgid "You're making a move on the Tojo Clan, no?"
+msgstr ""
+
+msgctxt " 	　	分	83	1481	1398"
+msgid "What do you gain by luring us out?"
+msgstr ""
+
+msgctxt " 	　	　	169	1708	1539"
+msgid "We're still waiting for one more to\\r\n"
+"arrive. He'll be here any time now."
+msgstr ""
+
+msgctxt " 	　	　	68	1828	1760"
+msgid "What the hell ya playin' at!?"
+msgstr ""
+
+msgctxt " 	　	分	68	1897	1829"
+msgid "Katsuya, you sneaky fuck!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	43	2025	1982"
+msgid "Kiryu-han!?"
+msgstr ""
+
+msgctxt " 	　	分	93	2119	2026"
+msgid "And aren't you... Saejima?"
+msgstr ""
+
+msgctxt " 	　	　	85	2248	2163"
+msgid "Now all the pieces are in play."
+msgstr ""
+
+msgctxt " 	　	　	149	2452	2303"
+msgid "It's getting a little cramped in here.\\r\n"
+"Shall we take this elsewhere?"
+msgstr ""
+

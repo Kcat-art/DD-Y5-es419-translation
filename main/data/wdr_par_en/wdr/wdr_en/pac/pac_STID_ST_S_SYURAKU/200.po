@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "476"
+msgid "adv2_900/saejima_2_900_540"
+msgstr ""
+
+msgctxt "480"
+msgid "M_NML_TLK_stand_shijyo_kamae"
+msgstr ""
+

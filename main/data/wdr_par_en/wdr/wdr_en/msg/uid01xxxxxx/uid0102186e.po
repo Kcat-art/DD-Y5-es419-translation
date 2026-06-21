@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "348"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "44_Akiyama"
+msgid "(Well, I got some time. I suppose I could take a stroll around Kamurocho.)"
+msgstr ""
+

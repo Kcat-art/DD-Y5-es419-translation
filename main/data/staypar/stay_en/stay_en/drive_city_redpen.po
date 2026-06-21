@@ -1,0 +1,143 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "272	ACTION"
+msgid "Perfect Service"
+msgstr ""
+
+msgctxt "288	ACTION"
+msgid "Good Service"
+msgstr ""
+
+msgctxt "301	ACTION"
+msgid "Bad Service"
+msgstr ""
+
+msgctxt "313	ACTION"
+msgid "Passenger Ignored"
+msgstr ""
+
+msgctxt "331	ACTION"
+msgid "Perfect Service 2"
+msgstr ""
+
+msgctxt "349	ACTION"
+msgid "Good Service 2"
+msgstr ""
+
+msgctxt "364	ACTION"
+msgid "Bad Service 2"
+msgstr ""
+
+msgctxt "378	ACTION"
+msgid "Passenger Ignored 2"
+msgstr ""
+
+msgctxt "398	ACTION"
+msgid "Very Happy (Speed)"
+msgstr ""
+
+msgctxt "417	ACTION"
+msgid "Happy (Speed)"
+msgstr ""
+
+msgctxt "431	ACTION"
+msgid "Unhappy (Speed)"
+msgstr ""
+
+msgctxt "447	ACTION"
+msgid "Very Happy (Safety)"
+msgstr ""
+
+msgctxt "467	ACTION"
+msgid "Happy (Safety)"
+msgstr ""
+
+msgctxt "482	ACTION"
+msgid "Unhappy (Safety)"
+msgstr ""
+
+msgctxt "499	ACTION"
+msgid "Repositioning"
+msgstr ""
+
+msgctxt "513	ACTION"
+msgid "Sudden Acceleration"
+msgstr ""
+
+msgctxt "533	ACTION"
+msgid "Sudden Braking"
+msgstr ""
+
+msgctxt "548	ACTION"
+msgid "Sudden Swerve"
+msgstr ""
+
+msgctxt "562	ACTION"
+msgid "Leaving the Road"
+msgstr ""
+
+msgctxt "579	ACTION"
+msgid "Contact"
+msgstr ""
+
+msgctxt "587	ACTION"
+msgid "Pedestrian Warning"
+msgstr ""
+
+msgctxt "606	ACTION"
+msgid "Driving Wrong Way"
+msgstr ""
+
+msgctxt "624	ACTION"
+msgid "Turning With Signal"
+msgstr ""
+
+msgctxt "644	ACTION"
+msgid "Turning Without Signal"
+msgstr ""
+
+msgctxt "667	ACTION"
+msgid "Unnecessary Signal"
+msgstr ""
+
+msgctxt "686	ACTION"
+msgid "Coming to Full Stop"
+msgstr ""
+
+msgctxt "706	ACTION"
+msgid "Failure to Stop"
+msgstr ""
+
+msgctxt "722	ACTION"
+msgid "Stopping at Red Light"
+msgstr ""
+
+msgctxt "744	ACTION"
+msgid "Ignoring Traffic Light"
+msgstr ""
+
+msgctxt "767	ACTION"
+msgid "Avoiding Sudden Hazard"
+msgstr ""
+
+msgctxt "790	ACTION"
+msgid "20 Sec. Safe Driving"
+msgstr ""
+
+msgctxt "811	ACTION"
+msgid "No Repositioning"
+msgstr ""
+
+msgctxt "828	ACTION"
+msgid "Quick Arrival"
+msgstr ""
+
+msgctxt "842	ACTION"
+msgid "Early Arrival"
+msgstr ""
+
+msgctxt "856	ACTION"
+msgid "On-Time Arrival"
+msgstr ""
+

@@ -1,0 +1,43 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "252"
+msgid "None can halt time's inexorable march!"
+msgstr ""
+
+msgctxt "264"
+msgid "Carbonated drinks are the future!"
+msgstr ""
+
+msgctxt "276"
+msgid "Who's to say what's real effort and what's not?"
+msgstr ""
+
+msgctxt "288"
+msgid "There are seedless grapes, but no boneless fish!"
+msgstr ""
+
+msgctxt "300"
+msgid "What age do you stop being young!?"
+msgstr ""
+
+msgctxt "312"
+msgid "Where does a river end and the ocean begin!?"
+msgstr ""
+
+msgctxt "324"
+msgid "Carry eggs in a bicycle basket at your own risk!"
+msgstr ""
+
+msgctxt "336"
+msgid "What the heck's Italian!?"
+msgstr ""
+
+msgctxt "348"
+msgid "We should eat the polar ice caps before they melt!"
+msgstr ""
+
+msgctxt "4480"
+msgid "ACYAM2000"
+msgstr ""
+

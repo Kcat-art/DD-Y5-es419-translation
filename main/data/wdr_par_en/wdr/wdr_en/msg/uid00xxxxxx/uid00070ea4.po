@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "56"
+msgid "しゃべってます。"
+msgstr ""
+

@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1048"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "156_Saejima"
+msgid "(There! Should be the last one.)"
+msgstr ""
+
+msgctxt "180_Saejima"
+msgid "(Gunfire. Was that Narumi?)"
+msgstr ""
+
+msgctxt "192_Saejima"
+msgid "(I hafta stop him. Need to catch up, even with this rough terrain...)"
+msgstr ""
+

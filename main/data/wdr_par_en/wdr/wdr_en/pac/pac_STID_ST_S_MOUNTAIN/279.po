@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "92"
+msgid "(Ugh, blew it. Bastard ran away...)"
+msgstr ""
+
+msgctxt "104"
+msgid "(Can't give up. There's still time.)"
+msgstr ""
+
+msgctxt "128"
+msgid "*pant* *huff*"
+msgstr ""
+
+msgctxt "140"
+msgid "So... this is what it's like to kill a bear."
+msgstr ""
+
+msgctxt "152"
+msgid "(Gotta scoop up the bear bile and take it back to the village.)"
+msgstr ""
+
+msgctxt "1304"
+msgid "Saejima"
+msgstr ""
+

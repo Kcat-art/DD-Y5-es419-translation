@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "400"
+msgid "P_SIN_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "404"
+msgid "M_KAW_TLK_sitchr_kamae"
+msgstr ""
+

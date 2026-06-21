@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "436"
+msgid "I wonder where Ta-chan is..."
+msgstr ""
+
+msgctxt "508"
+msgid "What's taking Ta-chan?"
+msgstr ""
+
+msgctxt "8412"
+msgid "Hey there, Ta-chan!"
+msgstr ""
+
+msgctxt "8416"
+msgid "Hey, Ta-chan!"
+msgstr ""
+
+msgctxt "8420"
+msgid "Oh, hello!"
+msgstr ""
+

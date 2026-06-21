@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "This area is fine for teaching you how to trap. No need to go that way."
+msgstr ""
+
+msgctxt "72"
+msgid "Don't let him get close to the village! Stop him here!"
+msgstr ""
+
+msgctxt "488"
+msgid "Okudera"
+msgstr ""
+

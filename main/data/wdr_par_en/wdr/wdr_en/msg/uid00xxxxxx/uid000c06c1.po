@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "384"
+msgid "Ardent Reader"
+msgstr ""
+
+msgctxt "72_Ardent Reader"
+msgid "Oh my goodness, I hate cliffhangers. And the author's taking a break next issue! Get back to work, darn it!"
+msgstr ""
+

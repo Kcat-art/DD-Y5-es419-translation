@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1016"
+msgid "Player"
+msgstr ""
+
+msgctxt "76_Player"
+msgid "(It's... kind of shady. I don't think I should go in.)"
+msgstr ""
+
+msgctxt "88_Player"
+msgid "(It's a business of some sort. I should keep my ears open in town and get more information.)"
+msgstr ""
+
+msgctxt "112_Player"
+msgid "(I should come here alone.)"
+msgstr ""
+

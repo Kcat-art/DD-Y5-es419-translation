@@ -1,0 +1,138 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		146	172	26"
+msgid "Now, before we announce the final results,\\r\n"
+"let's hear from our contestants!"
+msgstr ""
+
+msgctxt " 	 	　	165	340	175"
+msgid "T-Set, how do you feel after delivering\\r\n"
+"such an amazing performance in the finals?"
+msgstr ""
+
+msgctxt " 	 	　	89	465	376"
+msgid "We put every ounce of ourselves\\r\n"
+"into this performance!"
+msgstr ""
+
+msgctxt " 	 	　	65	532	467"
+msgid "We're looking forward to the results!"
+msgstr ""
+
+msgctxt " 	 	　	73	632	559"
+msgid "Haruka-chan, what about you?"
+msgstr ""
+
+msgctxt " 	 	　	189	857	668"
+msgid "I know we haven't heard the results yet,\\r\n"
+"but this whole experience has been just wonderful!"
+msgstr ""
+
+msgctxt " 	 	　	94	993	899"
+msgid "Indeed! Thank you both very much!"
+msgstr ""
+
+msgctxt " 	 	　	125	1135	1010"
+msgid "As much as we'd like to bask in this moment,\\r\n"
+"we simply can't put it off any longer!"
+msgstr ""
+
+msgctxt " 	 	　	137	1295	1158"
+msgid "Haruka-chan, T-Set, members\\r\n"
+"of our lovely audience..."
+msgstr ""
+
+msgctxt " 	 	　	93	1428	1335"
+msgid "Are you ready to hear the results?"
+msgstr ""
+
+msgctxt " 	 	　	103	1583	1480"
+msgid "I'll take that as a yes!"
+msgstr ""
+
+msgctxt " 		　	71	1670	1599"
+msgid "And now, the results!"
+msgstr ""
+
+msgctxt " 	 	　	83	1799	1716"
+msgid "Princess League 2012..."
+msgstr ""
+
+msgctxt " 		　	188	1988	1800"
+msgid "After countless battles, the one who will\\r\n"
+"rise up to claim the Princess League crown is..."
+msgstr ""
+
+msgctxt " 	 	　	143	2501	2358"
+msgid "Haruka Sawamura!"
+msgstr ""
+
+msgctxt " 	 	　	127	2832	2705"
+msgid "Haruka-chan, you are the winner\\r\n"
+"of this year's Princess League!"
+msgstr ""
+
+msgctxt " 	 	　	60	3053	2993"
+msgid "Haruka-chan?"
+msgstr ""
+
+msgctxt " 	 	　	65	3200	3135"
+msgid "I... I won...?"
+msgstr ""
+
+msgctxt " 	 	　	118	3372	3254"
+msgid "That's right! You're this year's big winner!"
+msgstr ""
+
+msgctxt "60ｆ以下です	60ｆ以下です	　	58	3715	3657"
+msgid "Now then, Haruka-chan..."
+msgstr ""
+
+msgctxt " 	 	　	114	3830	3716"
+msgid "It's time for your first task\\r\n"
+"as the Princess League victor!"
+msgstr ""
+
+msgctxt " 	 	　	182	4024	3842"
+msgid "How about a few words for both our\\r\n"
+"audience here and those watching at home?"
+msgstr ""
+
+msgctxt " 	 	　	73	4233	4160"
+msgid "Yes, of course."
+msgstr ""
+
+msgctxt " 	 	　	167	4551	4384"
+msgid "An inexperienced girl like me\\r\n"
+"winning the Princess League..."
+msgstr ""
+
+msgctxt " 	 	　	92	4665	4573"
+msgid "It's all thanks to your support.\\r\n"
+"Each and every one of you."
+msgstr ""
+
+msgctxt " 	 	　	148	4845	4697"
+msgid "Everyone here in the audience,\\r\n"
+"the people rooting for me on TV..."
+msgstr ""
+
+msgctxt " 	 	　	71	4944	4873"
+msgid "All of those who have encouraged me."
+msgstr ""
+
+msgctxt " 	 	　	161	5151	4990"
+msgid "It was you that kept me going.\\r\n"
+"You taught me a very important lesson."
+msgstr ""
+
+msgctxt " 	 	　	167	5360	5193"
+msgid "No matter how near or far you are,\\r\n"
+"your feelings can always reach those you love."
+msgstr ""
+
+msgctxt " 	 	　	110	5619	5509"
+msgid "I hope mine have reached you. All of you."
+msgstr ""
+

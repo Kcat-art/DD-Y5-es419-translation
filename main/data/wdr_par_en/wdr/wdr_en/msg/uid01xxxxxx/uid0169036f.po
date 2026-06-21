@@ -1,0 +1,34 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1060"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1064"
+msgid "Go to the Event Hall"
+msgstr ""
+
+msgctxt "1068"
+msgid "Get Ready First"
+msgstr ""
+
+msgctxt "44_Haruka"
+msgid "(Let's see. This is the event hall where the Dance Battle\\r\n"
+"Summit is being held.)"
+msgstr ""
+
+msgctxt "56_Haruka"
+msgid "(There isn't much time before the summit starts. What should\\r\n"
+"I do?)"
+msgstr ""
+
+msgctxt "68_Haruka"
+msgid "(I'd better make sure I'm prepared for the summit.)"
+msgstr ""
+
+msgctxt "80_Haruka"
+msgid "(I'd better go to the event hall. I wonder if Akari is there\\r\n"
+"yet?)"
+msgstr ""
+

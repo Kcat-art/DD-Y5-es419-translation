@@ -1,0 +1,35 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "620"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "624"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "628"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "632"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid "(The item doesn't seem to work anymore.)"
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid "(The item don't seem to work anymore.)"
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "(The item doesn't seem to work anymore.)"
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "(The item doesn't seem to work anymore.)"
+msgstr ""
+

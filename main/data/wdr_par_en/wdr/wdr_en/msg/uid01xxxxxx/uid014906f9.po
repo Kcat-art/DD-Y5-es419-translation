@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "192"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "44_Haruka"
+msgid "(That's where the magazine interview is.)"
+msgstr ""
+

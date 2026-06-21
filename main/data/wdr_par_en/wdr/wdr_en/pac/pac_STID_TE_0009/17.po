@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "240"
+msgid "独り言"
+msgstr ""
+
+msgctxt "244"
+msgid "adv1_010/nakajima_1_010_010"
+msgstr ""
+
+msgctxt "248"
+msgid "ViewPoint"
+msgstr ""
+

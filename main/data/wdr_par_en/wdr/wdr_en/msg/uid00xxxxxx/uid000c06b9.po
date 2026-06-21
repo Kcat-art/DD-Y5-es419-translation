@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "332"
+msgid "Melancholy Man"
+msgstr ""
+
+msgctxt "72_Melancholy Man"
+msgid "Ah... The river's a lovely place. Heals my soul, it does."
+msgstr ""
+

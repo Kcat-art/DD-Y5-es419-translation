@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "888"
+msgid "F_SXY_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "892"
+msgid "M_NML_SET_sitgrd_down_kamae"
+msgstr ""
+

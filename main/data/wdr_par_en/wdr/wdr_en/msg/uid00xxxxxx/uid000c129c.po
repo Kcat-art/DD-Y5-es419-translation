@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "296"
+msgid "Burned Out Businesswoman"
+msgstr ""
+
+msgctxt "72_Burned Out Businesswoman"
+msgid "I don't want to work anymore! Why can't I meet some business tycoon or an oil magnate?"
+msgstr ""
+

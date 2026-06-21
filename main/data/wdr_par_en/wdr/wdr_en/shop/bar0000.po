@@ -1,0 +1,411 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid "/‐"
+msgstr ""
+
+msgctxt "16"
+msgid "/‐"
+msgstr ""
+
+msgctxt "20"
+msgid "/‐"
+msgstr ""
+
+msgctxt "24"
+msgid "/‐"
+msgstr ""
+
+msgctxt "28"
+msgid "/‐"
+msgstr ""
+
+msgctxt "32"
+msgid "Owned"
+msgstr ""
+
+msgctxt "36"
+msgid "Owned"
+msgstr ""
+
+msgctxt "40"
+msgid "Owned"
+msgstr ""
+
+msgctxt "44"
+msgid "Owned"
+msgstr ""
+
+msgctxt "48"
+msgid "Owned"
+msgstr ""
+
+msgctxt "52"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "60"
+msgid "(Don't got anythin' in mind.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(I've got nothing selected.)  "
+msgstr ""
+
+msgctxt "68"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "72"
+msgid "(I don't have enough money for that.)"
+msgstr ""
+
+msgctxt "76"
+msgid "(Don't have the cash. How am I so broke?)"
+msgstr ""
+
+msgctxt "80"
+msgid "(Don't got the cash for that.)"
+msgstr ""
+
+msgctxt "84"
+msgid "(Don't got enough on me.)  "
+msgstr ""
+
+msgctxt "88"
+msgid "(Looks like I don't have enough.)"
+msgstr ""
+
+msgctxt "92"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "96"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "100"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "104"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "108"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "112"
+msgid "(I can't drink another drop.)"
+msgstr ""
+
+msgctxt "116"
+msgid "(Probably shouldn't. I'm seeing double as is."
+msgstr ""
+
+msgctxt "120"
+msgid "(Gonna explode if I drink any more.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(I can't drink anymore.)  "
+msgstr ""
+
+msgctxt "128"
+msgid "(I'm not old enough to drink.)"
+msgstr ""
+
+msgctxt "132"
+msgid "－"
+msgstr ""
+
+msgctxt "136"
+msgid "－"
+msgstr ""
+
+msgctxt "140"
+msgid "－"
+msgstr ""
+
+msgctxt "144"
+msgid "－"
+msgstr ""
+
+msgctxt "148"
+msgid "－"
+msgstr ""
+
+msgctxt "152"
+msgid "Order"
+msgstr ""
+
+msgctxt "156"
+msgid "Order"
+msgstr ""
+
+msgctxt "160"
+msgid "Order"
+msgstr ""
+
+msgctxt "164"
+msgid "Order"
+msgstr ""
+
+msgctxt "168"
+msgid "Order"
+msgstr ""
+
+msgctxt "412"
+msgid "sitcnt"
+msgstr ""
+
+msgctxt "492"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "524"
+msgid "A rare Japanese whisky with a robust body."
+msgstr ""
+
+msgctxt "540"
+msgid "One of the top premium whiskies in Japan and the whole world. A blend of single malts, featuring whiskies aged for 32 years in a Yamazaki white oak barrel, gives it distinct character."
+msgstr ""
+
+msgctxt "544"
+msgid "Its quality has earned it a grand prize in an international competition. Only about 2,000 bottles are produced each year, making it especially rare. "
+msgstr ""
+
+msgctxt "556"
+msgid "If you really like whisky, this is the bottle you have to experience."
+msgstr ""
+
+msgctxt "596"
+msgid "A single malt whisky aged in sherry barrels for a balanced flavor."
+msgstr ""
+
+msgctxt "612"
+msgid "This limited edition Yamazaki was created in 1999 to commemorate Suntory's 100 year anniversary. A long aging process in sherry wood barrels produces a perfect balance."
+msgstr ""
+
+msgctxt "616"
+msgid "I'm certain anyone fortunate enough to enjoy this rare whisky will experience pure bliss. Its price puts it just within reach, as far as dream whiskies go. "
+msgstr ""
+
+msgctxt "620"
+msgid "I enjoy drinking it on special occasions."
+msgstr ""
+
+msgctxt "668"
+msgid "A Yamazaki whisky made with carefully selected, mature malts for a flavorful, smooth finish."
+msgstr ""
+
+msgctxt "684"
+msgid "This is one of Japan's top single malt whiskies. It's become such a status symbol that whisky aficionados the world over have heard of it. "
+msgstr ""
+
+msgctxt "688"
+msgid "They use carefully selected, perfectly matured single malts to get that great, smooth flavor. It's popular overseas, too."
+msgstr ""
+
+msgctxt "740"
+msgid "A whisky made in the Southern Alps of Japan. Has a fruity flavor with smoky accents."
+msgstr ""
+
+msgctxt "756"
+msgid "This one's made at Suntory's Hakushu distillery in Japan's South Alps, an area famous for its mountain spring water."
+msgstr ""
+
+msgctxt "760"
+msgid "Its fruity, creamy flavor combined with a distinctly smoky accent makes for a superb drinking experience. "
+msgstr ""
+
+msgctxt "764"
+msgid "I recommend taking the first drink straight up, to fully appreciate its quality."
+msgstr ""
+
+msgctxt "812"
+msgid "A carefully distilled spirit with a bright aroma and sweet fullness."
+msgstr ""
+
+msgctxt "828"
+msgid "Another extremely popular Japanese whisky. Malt whisky aged in sherry barrels at the Yamazaki Distillery are blended with carefully selected malt and grain whiskies."
+msgstr ""
+
+msgctxt "832"
+msgid "It has a bright aroma and delivers a sweet fullness in the mouth, and the finish is deep and mellow. "
+msgstr ""
+
+msgctxt "836"
+msgid "A lot of people call it Daruma, because the round shape of its bottle looks like a Daruma doll."
+msgstr ""
+
+msgctxt "884"
+msgid "A 30-year-old whisky with rich sherry notes and profound sweetness."
+msgstr ""
+
+msgctxt "900"
+msgid "By the way, The Macallan has a brand new product called Fine Oak, which is a blend of single malts aged in bourbon and sherry barrels."
+msgstr ""
+
+msgctxt "904"
+msgid "But this one here was aged entirely in sherry barrels, using the traditional Macallan production method."
+msgstr ""
+
+msgctxt "908"
+msgid "The 30 year aging process produces a rich sherry note and a deep sweetness like ripe fruit. There's none of the wood taste of over aging."
+msgstr ""
+
+msgctxt "912"
+msgid "This one's incredibly smooth and it has a freshness you wouldn't expect from a 30 year old whisky. It may be pricey, but one sip and you'll know that it's well worth it."
+msgstr ""
+
+msgctxt "956"
+msgid "A cheaper, yet still tasty, alternative to some of the pricier Macallan whiskies."
+msgstr ""
+
+msgctxt "972"
+msgid "The standard of The Macallan line, aged entirely in sherry barrels. It's perfect for people who want to enjoy The Macallan without breaking the bank. "
+msgstr ""
+
+msgctxt "976"
+msgid "It may be the standard bearer of the line, but it's guaranteed to deliver \"The Macallan\" taste! I recommend you experience its sweet, full flavor and aroma for yourself.  "
+msgstr ""
+
+msgctxt "1028"
+msgid "Uniquely matured in bourbon and sherry oak casks, this Scotch whisky is smooth and delicate with a fruity, oaky finish."
+msgstr ""
+
+msgctxt "1044"
+msgid "The Macallan distillery, nestled in the Scottish highlands, has a storied 190-year history of careful attention to detail."
+msgstr ""
+
+msgctxt "1048"
+msgid "Their Speyside single malt whiskies are crafted from carefully selected wheat, yeast, and the crystal-clear water of the Spey river."
+msgstr ""
+
+msgctxt "1052"
+msgid "This whisky's taste invokes the aroma of dried fruit and the sweetness of cherries."
+msgstr ""
+
+msgctxt "1056"
+msgid "You'll then feel the woodiness of the cask, followed by an aftertaste that invites vivid memories of toffee."
+msgstr ""
+
+msgctxt "1060"
+msgid "This 10-year scotch, born in a cherrywood cask, is meant for casual enjoyment."
+msgstr ""
+
+msgctxt "1100"
+msgid "The best-selling single malt whisky in the world, known for its light and fresh flavor."
+msgstr ""
+
+msgctxt "1116"
+msgid "Glenfiddich 12 Years is the best selling single malt whisky in the world. This bottle set the industry standard for a single malt. You'll find it light and fresh."
+msgstr ""
+
+msgctxt "1120"
+msgid "The nose is full of fruit, and it has a clean finish, making it exceptionally easy to drink. "
+msgstr ""
+
+msgctxt "1124"
+msgid "Its light flavor makes it popular with the ladies and anyone new to single malt whiskies.  "
+msgstr ""
+
+msgctxt "1172"
+msgid "An extraordinary malt Scotch whisky with a tropical body and oaky notes. Aged in bourbon casks since 1964."
+msgstr ""
+
+msgctxt "1188"
+msgid "It has a slightly smoky flavor coupled with a ripe, fruity aroma. Its crisp aftertaste is also quite unique. "
+msgstr ""
+
+msgctxt "1192"
+msgid "Since it was bottled without being overly chilled, you can still enjoy the flavors imparted by the aging process. I think it's considered a collector's item. "
+msgstr ""
+
+msgctxt "1244"
+msgid "A 12-year-old Scotch whisky with ripe, floral overtones."
+msgstr ""
+
+msgctxt "1260"
+msgid "That's the standard of the Bowmore line. Sherry barrels give it its uniquely ripe, floral overtones. Seaweeds unique to Islay give it a distinctive flavor and saltiness."
+msgstr ""
+
+msgctxt "1264"
+msgid "These qualities have earned it the title \"Queen of Islay.\" It stands a cut above the rest of the single malt 12-year-old whiskies.   "
+msgstr ""
+
+msgctxt "1316"
+msgid "The best scotch available, hands down."
+msgstr ""
+
+msgctxt "1332"
+msgid "This bottle is the pinnacle of Scotch whiskies, head and shoulders above the competition."
+msgstr ""
+
+msgctxt "1336"
+msgid "More than thirty different single malts aged over thirty years are hand selected for their mellow character and blended. Truly the king of blended whiskies."
+msgstr ""
+
+msgctxt "1340"
+msgid "You can enjoy the taste of this whisky that can only be achieved by thirty years of aging. The fact that only 2,500 cases are bottled each year makes it quite rare."
+msgstr ""
+
+msgctxt "1388"
+msgid "The crown jewel of the Ballantine's brand, crafted from a combination of over forty single malts."
+msgstr ""
+
+msgctxt "1404"
+msgid "This is the ultimate blended whisky. It boasts a rich and smooth taste only made possible by combining over forty single malts. "
+msgstr ""
+
+msgctxt "1408"
+msgid "This could very well be called the crown jewel of Ballantine's whisky blending skills. It's well loved the world over, to the point of some calling it <Italic>the</Italic> scotch. "
+msgstr ""
+
+msgctxt "1460"
+msgid "Characterized by an intensely smoky flavor and a smooth, dry body."
+msgstr ""
+
+msgctxt "1476"
+msgid "It's safe to say this 10 year Laphroaig is the standard-bearer of the brand. It's characterized by an intensely smoky flavor and a smooth, dry body."
+msgstr ""
+
+msgctxt "1480"
+msgid "And it has more than its share of quirks, so most people either love it or hate it. If you end up loving this one, it'll be one drink you'll never forget. "
+msgstr ""
+
+msgctxt "1532"
+msgid "A premium Japanese beer made with only the finest malts."
+msgstr ""
+
+msgctxt "1548"
+msgid "This beer won Japan's first gold award in international competition, and then defended the title for the next two years. It's a premium beer by Japanese and world standards."
+msgstr ""
+
+msgctxt "1552"
+msgid "Unyielding commitment to quality ingredients and Suntory's years of brewing know-how produce a delicious, almost magical flavor. "
+msgstr ""
+
+msgctxt "1556"
+msgid "A frosty glass of this beer while nibbling sashimi or enjoying a Blu-ray movie on your day off... Now that's what I call living."
+msgstr ""
+
+msgctxt "1604"
+msgid "One of Japan's top brandies, famous for its fruity aroma and smooth flavor."
+msgstr ""
+
+msgctxt "1620"
+msgid "One of Japan's premium brandies, this bestseller has won over countless people with its bright, fruity bouquet and smooth taste."
+msgstr ""
+
+msgctxt "1624"
+msgid "As for the name... V.S.O.P stands for Very Superior Old Pale. But you probably already knew that.  "
+msgstr ""
+

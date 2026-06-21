@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "2924"
+msgid "ACSAI0008"
+msgstr ""
+
+msgctxt "2928"
+msgid "P_AKI_TLK_stand_mail_lp"
+msgstr ""
+

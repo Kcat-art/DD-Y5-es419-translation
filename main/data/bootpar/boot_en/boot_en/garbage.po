@@ -1,0 +1,75 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "372	NAME"
+msgid "Small Garbage"
+msgstr ""
+
+msgctxt "386	NAME"
+msgid "Bulky Garbage"
+msgstr ""
+
+msgctxt "400	NAME"
+msgid "Oversized Garbage"
+msgstr ""
+
+msgctxt "418	NAME"
+msgid "Bulky Garbage"
+msgstr ""
+
+msgctxt "432	NAME"
+msgid "Oversized Garbage"
+msgstr ""
+
+msgctxt "450	NAME"
+msgid "Illegal Waste"
+msgstr ""
+
+msgctxt "464	NAME"
+msgid "Oversized Garbage"
+msgstr ""
+
+msgctxt "482	NAME"
+msgid "Awesome Garbage"
+msgstr ""
+
+msgctxt "498	NAME"
+msgid "Industrial Waste"
+msgstr ""
+
+msgctxt "515	NAME"
+msgid "Small Garbage"
+msgstr ""
+
+msgctxt "529	NAME"
+msgid "Bulky Garbage"
+msgstr ""
+
+msgctxt "543	NAME"
+msgid "Oversized Garbage"
+msgstr ""
+
+msgctxt "561	NAME"
+msgid "Bulky Garbage"
+msgstr ""
+
+msgctxt "575	NAME"
+msgid "Oversized Garbage"
+msgstr ""
+
+msgctxt "593	NAME"
+msgid "Illegal Waste"
+msgstr ""
+
+msgctxt "607	NAME"
+msgid "Oversized Garbage"
+msgstr ""
+
+msgctxt "625	NAME"
+msgid "Awesome Garbage"
+msgstr ""
+
+msgctxt "641	NAME"
+msgid "Industrial Waste"
+msgstr ""
+

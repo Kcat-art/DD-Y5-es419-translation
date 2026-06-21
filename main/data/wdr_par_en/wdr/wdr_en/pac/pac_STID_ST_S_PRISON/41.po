@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1476"
+msgid "adv2_080_2/himura_0047"
+msgstr ""
+
+msgctxt "1480"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1484"
+msgid "adv2_020_2/himura_0001"
+msgstr ""
+

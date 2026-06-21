@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1956"
+msgid "cab_honoka_q_01/honoka_25_0001"
+msgstr ""
+
+msgctxt "1960"
+msgid "cab_honoka_q_02/honoka_26_0001"
+msgstr ""
+
+msgctxt "1964"
+msgid "cab_honoka_q_03/honoka_27_0001"
+msgstr ""
+
+msgctxt "1968"
+msgid "cab_honoka_q_04/honoka_28_0001"
+msgstr ""
+
+msgctxt "1972"
+msgid "cab_honoka_q_05/honoka_29_0001"
+msgstr ""
+

@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "368"
+msgid "Himura"
+msgstr ""
+
+msgctxt "44_Himura"
+msgid "*slurp* *gulp* Damn, this is good!"
+msgstr ""
+
+msgctxt "56_Himura"
+msgid "What a meal!"
+msgstr ""
+

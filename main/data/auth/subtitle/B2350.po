@@ -1,0 +1,269 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		120	225	105"
+msgid "Your boss, huh?\\r\n"
+"Who's that?"
+msgstr ""
+
+msgctxt " 	　	　	75	350	275"
+msgid "You would have to die if you knew that."
+msgstr ""
+
+msgctxt " 	　	分	95	480	385"
+msgid "Of course, so would I if I told you."
+msgstr ""
+
+msgctxt " 	　	　	86	605	519"
+msgid "So, there's only one solution."
+msgstr ""
+
+msgctxt " 	　	　	119	1025	906"
+msgid "To be honest, killing you\\r\n"
+"was never part of our plan."
+msgstr ""
+
+msgctxt " 	　	　	105	1180	1075"
+msgid "But here we are.\\r\n"
+"I have no choice."
+msgstr ""
+
+msgctxt " 	　	　	114	1323	1209"
+msgid "Only one of us gets to walk\\r\n"
+"outta this place alive, huh?"
+msgstr ""
+
+msgctxt " 	　	　	80	1862	1782"
+msgid "What're ya waitin' for? Do it."
+msgstr ""
+
+msgctxt " 	　	　	60	2046	1986"
+msgid "Just pull the damn trigger!"
+msgstr ""
+
+msgctxt " 	　	　	60	2328	2268"
+msgid "Quit hesitatin', Baba-chan!"
+msgstr ""
+
+msgctxt " 	　	　	60	2511	2451"
+msgid "I'm right here!"
+msgstr ""
+
+msgctxt " 	　	　	98	2899	2801"
+msgid "Just... Just tell me something."
+msgstr ""
+
+msgctxt " 	　	　	60	2979	2919"
+msgid "I don't understand."
+msgstr ""
+
+msgctxt " 	　	分	60	3055	2995"
+msgid "Why'd you come back for me?"
+msgstr ""
+
+msgctxt " 	　	　	60	3154	3094"
+msgid "What?"
+msgstr ""
+
+msgctxt " 	　	　	71	3230	3159"
+msgid "When I was lost in that blizzard!"
+msgstr ""
+
+msgctxt " 	　	　	142	3400	3258"
+msgid "You should have abandoned me.\\r\n"
+"Should have gone to Tsukimino alone!"
+msgstr ""
+
+msgctxt " 	　	　	174	3591	3417"
+msgid "But you didn't. You put your life\\r\n"
+"at risk, just to save me."
+msgstr ""
+
+msgctxt " 	　	　	60	3671	3611"
+msgid "Why!?"
+msgstr ""
+
+msgctxt " 	　	　	76	3792	3716"
+msgid "I couldn't leave my brother behind."
+msgstr ""
+
+msgctxt " 	　	　	60	3883	3823"
+msgid "That's all."
+msgstr ""
+
+msgctxt " 	　	　	60	3948	3888"
+msgid "Brother?"
+msgstr ""
+
+msgctxt " 	　	　	60	4014	3954"
+msgid "That's what ya are."
+msgstr ""
+
+msgctxt " 	　	　	142	4209	4067"
+msgid "But... we never swore an oath."
+msgstr ""
+
+msgctxt " 	　	分	60	4330	4245"
+msgid "I only called you aniki\\r\n"
+"because I looked up to you!"
+msgstr ""
+
+msgctxt " 	　	　	67	4470	4384"
+msgid "Yet here you are saying I'm your brother!?"
+msgstr ""
+
+msgctxt " 	　	　	60	4610	4550"
+msgid "'Course."
+msgstr ""
+
+msgctxt " 	　	　	116	4744	4628"
+msgid "Swearin' the oath ain't much\\r\n"
+"more than a dusty ol' ritual."
+msgstr ""
+
+msgctxt " 	　	　	66	4858	4792"
+msgid "The bond we got..."
+msgstr ""
+
+msgctxt " 	　	分	94	4975	4881"
+msgid "It's there even if we didn't make it official."
+msgstr ""
+
+msgctxt " 	　	　	60	5061	5001"
+msgid "Ya got that?"
+msgstr ""
+
+msgctxt " 	　	　	60	5202	5142"
+msgid "Baba-chan."
+msgstr ""
+
+msgctxt " 	　	分	145	5359	5214"
+msgid "In my eyes, we been bros since\\r\n"
+"before we even broke out."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	5506	5449"
+msgid "Stop...!"
+msgstr ""
+
+msgctxt " 	　	　	153	5660	5507"
+msgid "I don't care what your boss is after.\\r\n"
+"You're my bro whether ya like it or not!"
+msgstr ""
+
+msgctxt " 	　	　	66	5758	5692"
+msgid "Stop calling me that!"
+msgstr ""
+
+msgctxt " 	　	　	76	6174	6098"
+msgid "The hell do ya think you're doin'!?"
+msgstr ""
+
+msgctxt " 	　	　	61	6432	6371"
+msgid "Get up, Baba-chan."
+msgstr ""
+
+msgctxt " 	　	　	162	6730	6568"
+msgid "As your aniki, there's a lesson I gotta teach ya."
+msgstr ""
+
+msgctxt " 	　	　	60	6830	6770"
+msgid "What is it?"
+msgstr ""
+
+msgctxt " 	　	　	127	6984	6857"
+msgid "No matter how hard life gets,\\r\n"
+"ya gotta keep livin'."
+msgstr ""
+
+msgctxt " 	　	　	80	7080	7000"
+msgid "Keep on strugglin' for your dream!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	7174	7117"
+msgid "What...?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	58	7233	7175"
+msgid "Ya heard me."
+msgstr ""
+
+msgctxt " 	　	　	71	7305	7234"
+msgid "Even you gotta have one."
+msgstr ""
+
+msgctxt " 	　	分	114	7442	7328"
+msgid "Somethin' ya want worse than\\r\n"
+"anythin' in the world."
+msgstr ""
+
+msgctxt " 	　	　	94	7725	7631"
+msgid "I vowed before I shipped off to Abashiri."
+msgstr ""
+
+msgctxt " 	　	　	115	7880	7765"
+msgid "That people who didn't have\\r\n"
+"no choice but to go yakuza..."
+msgstr ""
+
+msgctxt " 	　	　	170	8075	7905"
+msgid "They wouldn't have to walk\\r\n"
+"the same lonely road I did."
+msgstr ""
+
+msgctxt " 	　	　	89	8200	8111"
+msgid "That's what Majima n' I were fightin' for."
+msgstr ""
+
+msgctxt " 	　	分	79	8327	8248"
+msgid "N' why I'm standin' here now."
+msgstr ""
+
+msgctxt " 	　	　	60	8768	8708"
+msgid "Baba-chan."
+msgstr ""
+
+msgctxt " 	　	分	89	8860	8771"
+msgid "Dyin' ain't gonna magically\\r\n"
+"answer all your problems."
+msgstr ""
+
+msgctxt " 	　	　	109	9006	8897"
+msgid "Guess I'm gonna have to teach ya\\r\n"
+"how heavy death really is."
+msgstr ""
+
+msgctxt " 	　	　	60	9113	9053"
+msgid "What are you going to do?"
+msgstr ""
+
+msgctxt " 	　	　	60	9181	9121"
+msgid "Simple."
+msgstr ""
+
+msgctxt " 	　	　	128	9325	9197"
+msgid "I'm gonna beat the fear o' death\\r\n"
+"straight into your soul."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	9422	9365"
+msgid "No surprise there."
+msgstr ""
+
+msgctxt " 	　	分	72	9495	9423"
+msgid "That's just what I thought you'd say."
+msgstr ""
+
+msgctxt " 	　	　	81	9603	9522"
+msgid "What, got a problem?"
+msgstr ""
+
+msgctxt " 	　	　	91	10038	9947"
+msgid "It's time to settle this.\\r\n"
+"Once and for all."
+msgstr ""
+
+msgctxt " 	　	　	74	10131	10057"
+msgid "Get ready, Baba!"
+msgstr ""
+

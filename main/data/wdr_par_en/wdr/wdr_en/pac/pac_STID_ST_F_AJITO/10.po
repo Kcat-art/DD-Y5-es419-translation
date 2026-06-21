@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "940"
+msgid "adv1_040/mayumi_0008"
+msgstr ""
+
+msgctxt "944"
+msgid "C1040_P_TLK_sitgrd_kamae"
+msgstr ""
+
+msgctxt "948"
+msgid "C1040_F_TLK_sitgrd_kamae"
+msgstr ""
+

@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "128"
+msgid "ワンダラ移動検証用"
+msgstr ""
+

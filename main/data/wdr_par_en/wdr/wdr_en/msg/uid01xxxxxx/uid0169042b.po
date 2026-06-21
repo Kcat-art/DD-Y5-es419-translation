@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "Attention should be paid to the degree to which the cue stick is drawn back, as it affects the power of the shot."
+msgstr ""
+

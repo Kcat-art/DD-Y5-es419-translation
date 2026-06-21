@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "268"
+msgid "adv2_900/sakurai_2_900_010a"
+msgstr ""
+

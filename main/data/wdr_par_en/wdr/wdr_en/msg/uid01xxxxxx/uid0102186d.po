@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "328"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "332"
+msgid "dummy"
+msgstr ""
+
+msgctxt "44_Haruka"
+msgid "(This is a good time to walk around Sotenbori and explore a little.)"
+msgstr ""
+

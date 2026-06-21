@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "564"
+msgid "松下"
+msgstr ""
+
+msgctxt "568"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "572"
+msgid "どうした？"
+msgstr ""
+
+msgctxt "576"
+msgid "じゃあな"
+msgstr ""
+
+msgctxt "580"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "584"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "44_松下"
+msgid "なんだか胸騒ぎがしやがるぜ……"
+msgstr ""
+
+msgctxt "56_松下"
+msgid "昨日から腹の調子が悪いんだ。"
+msgstr ""
+
+msgctxt "68_松下"
+msgid "シカトすんなよー。"
+msgstr ""
+

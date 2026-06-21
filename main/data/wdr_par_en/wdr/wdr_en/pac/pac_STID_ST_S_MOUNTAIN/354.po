@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "That's the way we came. Don't you want to bag something today? Then keep looking for deer tracks."
+msgstr ""
+
+msgctxt "72"
+msgid "(Got separated from Okudera-han. Better go back for 'im.)"
+msgstr ""
+
+msgctxt "572"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "576"
+msgid "Saejima"
+msgstr ""
+

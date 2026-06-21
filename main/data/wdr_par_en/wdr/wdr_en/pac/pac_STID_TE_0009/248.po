@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "188"
+msgid "定点_挑発01_手招き"
+msgstr ""
+
+msgctxt "192"
+msgid "E9500_look_temaneki"
+msgstr ""
+

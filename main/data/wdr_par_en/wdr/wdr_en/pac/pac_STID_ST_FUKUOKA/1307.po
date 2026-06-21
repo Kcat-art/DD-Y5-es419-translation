@@ -1,0 +1,55 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "7184"
+msgid "adv1_030_1/nakajima_0031"
+msgstr ""
+
+msgctxt "7188"
+msgid "adv1_020/nakajima_1_020_010"
+msgstr ""
+
+msgctxt "7192"
+msgid "adv1_016_4/kiryu_1_016_340"
+msgstr ""
+
+msgctxt "7196"
+msgid "adv1_016_2/nakajima_1_016_050"
+msgstr ""
+
+msgctxt "7200"
+msgid "adv1_016_1/charai_1_016_010"
+msgstr ""
+
+msgctxt "7204"
+msgid "M_NML_TLK_btl_after01_lp"
+msgstr ""
+
+msgctxt "7208"
+msgid "M_NML_TLK_btl_after01_st"
+msgstr ""
+
+msgctxt "7212"
+msgid "adv1_015_4/nakajima_1_015_230"
+msgstr ""
+
+msgctxt "7216"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7220"
+msgid "adv1_015_3/nakajima_1_015_110"
+msgstr ""
+
+msgctxt "7224"
+msgid "Suzuki-san!"
+msgstr ""
+
+msgctxt "7228"
+msgid "adv1_015_1/nakajima_1_015_010"
+msgstr ""
+
+msgctxt "7232"
+msgid "adv1_012_1/nakajima_1_012_010"
+msgstr ""
+

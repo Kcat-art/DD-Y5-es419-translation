@@ -1,0 +1,120 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		70	524	454"
+msgid "The bond between sworn brothers ain't broken yet."
+msgstr ""
+
+msgctxt " 	　	分	60	594	534"
+msgid "Ya proved that much."
+msgstr ""
+
+msgctxt " 	　	　	60	742	682"
+msgid "'Course it isn't."
+msgstr ""
+
+msgctxt " 	　	　	130	886	756"
+msgid "Then you gotta put your faith in Morinaga now."
+msgstr ""
+
+msgctxt " 	　	　	100	1125	1025"
+msgid "It ain't about whether or\\r\n"
+"not he cast aside your oath."
+msgstr ""
+
+msgctxt " 	　	　	96	1255	1159"
+msgid "What matters is, are you gonna accept that?"
+msgstr ""
+
+msgctxt " 	　	　	60	1347	1287"
+msgid "And that's it."
+msgstr ""
+
+msgctxt " 	　	　	60	1477	1417"
+msgid "Saejima-san..."
+msgstr ""
+
+msgctxt " 	　	　	147	1850	1703"
+msgid "The fights in that cage have\\r\n"
+"been some real snoozes lately."
+msgstr ""
+
+msgctxt " 	　	　	132	2002	1870"
+msgid "Haven't felt a rush like that\\r\n"
+"in who knows how many years."
+msgstr ""
+
+msgctxt " 	　	　	60	2087	2027"
+msgid "Florist?"
+msgstr ""
+
+msgctxt " 	　	　	71	2160	2089"
+msgid "In return for giving me a real fight..."
+msgstr ""
+
+msgctxt " 	　	分	154	2317	2163"
+msgid "I'll tell you guys where Morinaga is now."
+msgstr ""
+
+msgctxt " 	　	　	60	2454	2394"
+msgid "You mean that?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	59	2521	2462"
+msgid "Yeah."
+msgstr ""
+
+msgctxt " 	　	　	79	2601	2522"
+msgid "But the truth can be cruel."
+msgstr ""
+
+msgctxt " 	　	　	161	2804	2643"
+msgid "I can give you the reality, but\\r\n"
+"you need the courage to face it."
+msgstr ""
+
+msgctxt " 	　	　	60	2905	2845"
+msgid "What're ya gettin' at?"
+msgstr ""
+
+msgctxt " 	　	　	141	3053	2912"
+msgid "So? You really wanna know, Aizawa?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	56	3170	3114"
+msgid "Yes."
+msgstr ""
+
+msgctxt " 	　	分	70	3241	3171"
+msgid "Wherever fate's taken him..."
+msgstr ""
+
+msgctxt " 	　	分	73	3349	3276"
+msgid "I need to know where my aniki is!"
+msgstr ""
+
+msgctxt " 	　	　	128	3506	3378"
+msgid "Otherwise I'll never be able\\r\n"
+"to get my shit together."
+msgstr ""
+
+msgctxt " 	　	　	96	3636	3540"
+msgid "This isn't a path I can walk alone."
+msgstr ""
+
+msgctxt " 	　	　	70	3793	3723"
+msgid "I see. I'll tell you, then."
+msgstr ""
+
+msgctxt " 	　	　	105	3933	3828"
+msgid "If you wanna find Morinaga now, he's..."
+msgstr ""
+
+msgctxt " 	　	　	78	4116	4038"
+msgid "In the Kamurocho PD basement."
+msgstr ""
+
+msgctxt " 	　		60	4208	4148"
+msgid "The morgue, to be precise."
+msgstr ""
+

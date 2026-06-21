@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "112"
+msgid "voice_kind::eID_baba|voice::eID_snowmobile_voice_forced"
+msgstr ""
+

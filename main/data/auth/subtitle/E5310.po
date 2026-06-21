@@ -1,0 +1,45 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		102	689	587"
+msgid "Man, the hype about this concert is crazy high!"
+msgstr ""
+
+msgctxt " 	60ｆ以下です	　	42	732	690"
+msgid "Whoa, really?"
+msgstr ""
+
+msgctxt " 	 	　	60	800	733"
+msgid "Yeah, check it out."
+msgstr ""
+
+msgctxt " 	 	　	60	867	807"
+msgid "Haruka, you listening?"
+msgstr ""
+
+msgctxt " 	 	　	60	961	901"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt " 	 	　	52	1045	975"
+msgid "Kind of a relief, ya know?"
+msgstr ""
+
+msgctxt "		　	98	1144	1046"
+msgid "Here I was thinking we wouldn't\\r\n"
+"have much of a crowd..."
+msgstr ""
+
+msgctxt " 	 	　	60	1207	1147"
+msgid "I know, right?"
+msgstr ""
+
+msgctxt "		　	60	1274	1214"
+msgid "Let's crush it out there."
+msgstr ""
+
+msgctxt "		　	98	1381	1283"
+msgid "Okay, now I'm getting butterflies!\\r\n"
+"Oh man..."
+msgstr ""
+

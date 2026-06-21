@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "160"
+msgid "Where's this Sky Finance place?"
+msgstr ""
+
+msgctxt "172"
+msgid "Sky Finance..."
+msgstr ""
+
+msgctxt "196"
+msgid "Sky Finance..."
+msgstr ""
+
+msgctxt "2616"
+msgid "Talk_Ojigi"
+msgstr ""
+

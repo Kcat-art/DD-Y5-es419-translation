@@ -1,0 +1,51 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "281	SKILL_NAME"
+msgid "Ice Walk"
+msgstr ""
+
+msgctxt "290	SKILL_NAME"
+msgid "Snowman"
+msgstr ""
+
+msgctxt "298	SKILL_NAME"
+msgid "Spotter"
+msgstr ""
+
+msgctxt "306	SKILL_NAME"
+msgid "Stealth"
+msgstr ""
+
+msgctxt "314	SKILL_NAME"
+msgid "Deadeye"
+msgstr ""
+
+msgctxt "322	SKILL_NAME"
+msgid "Mastery"
+msgstr ""
+
+msgctxt "330	SKILL_EXPLANATION"
+msgid "Boost snow walking speed"
+msgstr ""
+
+msgctxt "355	SKILL_EXPLANATION"
+msgid "Cut blizzard health loss"
+msgstr ""
+
+msgctxt "380	SKILL_EXPLANATION"
+msgid "See animals on minimap"
+msgstr ""
+
+msgctxt "403	SKILL_EXPLANATION"
+msgid "Boost camo in crouch"
+msgstr ""
+
+msgctxt "424	SKILL_EXPLANATION"
+msgid "Boost aim"
+msgstr ""
+
+msgctxt "434	SKILL_EXPLANATION"
+msgid "Boost aim/decrease health loss"
+msgstr ""
+

@@ -1,0 +1,829 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "784	CONTENTS"
+msgid "About Network Features"
+msgstr ""
+
+msgctxt "807	CONTENTS"
+msgid "Costume Change A: Kiryu \"Hakata Style\""
+msgstr ""
+
+msgctxt "846	CONTENTS"
+msgid "Costume Change A: Saejima \"Prison Guard\""
+msgstr ""
+
+msgctxt "887	CONTENTS"
+msgid "Costume Change A: Haruka \"High School Girl\""
+msgstr ""
+
+msgctxt "931	CONTENTS"
+msgid "Costume Change A: Akiyama \"Robo Lender\""
+msgstr ""
+
+msgctxt "971	CONTENTS"
+msgid "Costume Change A: Shinada \"Fried Shrimp\""
+msgstr ""
+
+msgctxt "1012	CONTENTS"
+msgid "Costume Change B: Kiryu \"18 Yakuza Killer\""
+msgstr ""
+
+msgctxt "1055	CONTENTS"
+msgid "Costume Change B: Saejima \"Mad Dog of Shimano\""
+msgstr ""
+
+msgctxt "1102	CONTENTS"
+msgid "Costume Change B: Haruka \"Hatsune Miku\""
+msgstr ""
+
+msgctxt "1142	CONTENTS"
+msgid "Costume Change B: Akiyama \"The Unnatural Genius Batter\""
+msgstr ""
+
+msgctxt "1198	CONTENTS"
+msgid "Costume Change B: Shinada \"The Dragon of Dojima\""
+msgstr ""
+
+msgctxt "1247	CONTENTS"
+msgid "Taiko No Tatsujin: Two-player mode"
+msgstr ""
+
+msgctxt "1282	CONTENTS"
+msgid "Virtua Fighter 2: Two-player mode"
+msgstr ""
+
+msgctxt "1316	CONTENTS"
+msgid "Darts: Two-player mode"
+msgstr ""
+
+msgctxt "1339	CONTENTS"
+msgid "Bowling: Two-player mode"
+msgstr ""
+
+msgctxt "1364	CONTENTS"
+msgid "Pool: Two-player mode"
+msgstr ""
+
+msgctxt "1386	CONTENTS"
+msgid "Virtua Fighter 2: Online Matches"
+msgstr ""
+
+msgctxt "1420	CONTENTS"
+msgid "Taxi Driver\" Extra Content"
+msgstr ""
+
+msgctxt "1448	CONTENTS"
+msgid "Hunter and Killer\" Extra Content"
+msgstr ""
+
+msgctxt "1482	CONTENTS"
+msgid "The Road to Fame\" Extra Content"
+msgstr ""
+
+msgctxt "1515	CONTENTS"
+msgid "The Cost of a Swing\" Extra Content"
+msgstr ""
+
+msgctxt "1550	CONTENTS"
+msgid "Princess League Memories \"So Much More!\""
+msgstr ""
+
+msgctxt "1591	CONTENTS"
+msgid "Princess League Memories \"Loneliness Loop\""
+msgstr ""
+
+msgctxt "1634	CONTENTS"
+msgid "Princess League Memories \"Because I Have You\""
+msgstr ""
+
+msgctxt "1680	CONTENTS"
+msgid "Haruka's Requests"
+msgstr ""
+
+msgctxt "1698	CONTENTS"
+msgid "Battle Pack 1"
+msgstr ""
+
+msgctxt "1712	CONTENTS"
+msgid "Battle Pack 2"
+msgstr ""
+
+msgctxt "1726	CONTENTS"
+msgid "Battle Pack 3"
+msgstr ""
+
+msgctxt "1740	CONTENTS"
+msgid "Battle Pack 4"
+msgstr ""
+
+msgctxt "1754	CONTENTS"
+msgid "Battle Pack 5"
+msgstr ""
+
+msgctxt "1768	CONTENTS"
+msgid "Battle Pack 6"
+msgstr ""
+
+msgctxt "1782	CONTENTS"
+msgid "Battle Pack 7"
+msgstr ""
+
+msgctxt "1796	CONTENTS"
+msgid "Battle Pack 8"
+msgstr ""
+
+msgctxt "1810	CONTENTS"
+msgid "Kamurocho Fun Pack 1"
+msgstr ""
+
+msgctxt "1831	CONTENTS"
+msgid "Kamurocho Fun Pack 2"
+msgstr ""
+
+msgctxt "1852	CONTENTS"
+msgid "Kamurocho Fun Pack 3"
+msgstr ""
+
+msgctxt "1873	CONTENTS"
+msgid "Kamurocho Fun Pack 4"
+msgstr ""
+
+msgctxt "1894	CONTENTS"
+msgid "Kamurocho Fun Pack 5"
+msgstr ""
+
+msgctxt "1915	CONTENTS"
+msgid "Kamurocho Fun Pack 6"
+msgstr ""
+
+msgctxt "1936	CONTENTS"
+msgid "Kamurocho Fun Pack 7"
+msgstr ""
+
+msgctxt "1957	CONTENTS"
+msgid "Kamurocho Fun Pack 8"
+msgstr ""
+
+msgctxt "1978	CONTENTS_EXP"
+msgid "Information about network features.  "
+msgstr ""
+
+msgctxt "2016	CONTENTS_EXP"
+msgid "New costume for Kiryu added. Available in Premium Adventure."
+msgstr ""
+
+msgctxt "2077	CONTENTS_EXP"
+msgid "New costume for Saejima added. Available in Premium Adventure."
+msgstr ""
+
+msgctxt "2140	CONTENTS_EXP"
+msgid "New costume for Haruka added. Available in Premium Adventure."
+msgstr ""
+
+msgctxt "2202	CONTENTS_EXP"
+msgid "New costume for Akiyama added. Available in Premium Adventure."
+msgstr ""
+
+msgctxt "2265	CONTENTS_EXP"
+msgid "New costume for Shinada added. Available in Premium Adventure."
+msgstr ""
+
+msgctxt "2328	CONTENTS_EXP"
+msgid "New costume for Kiryu added. Available in Premium Adventure."
+msgstr ""
+
+msgctxt "2389	CONTENTS_EXP"
+msgid "New costume for Saejima added. Available in Premium Adventure."
+msgstr ""
+
+msgctxt "2452	CONTENTS_EXP"
+msgid "New costume for Haruka added. Available in Premium Adventure."
+msgstr ""
+
+msgctxt "2514	CONTENTS_EXP"
+msgid "New costume for Akiyama added. Available in Premium Adventure."
+msgstr ""
+
+msgctxt "2577	CONTENTS_EXP"
+msgid "New costume for Shinada added. Available in Premium Adventure."
+msgstr ""
+
+msgctxt "2640	CONTENTS_EXP"
+msgid "Select Special Contents from the Title Menu to play.  "
+msgstr ""
+
+msgctxt "2695	CONTENTS_EXP"
+msgid "Select Special Contents from the Title Menu to play.  "
+msgstr ""
+
+msgctxt "2750	CONTENTS_EXP"
+msgid "Select Special Contents from the Title Menu to play.  "
+msgstr ""
+
+msgctxt "2805	CONTENTS_EXP"
+msgid "Select Special Contents from the Title Menu to play.  "
+msgstr ""
+
+msgctxt "2860	CONTENTS_EXP"
+msgid "Select Special Contents from the Title Menu to play.  "
+msgstr ""
+
+msgctxt "2915	CONTENTS_EXP"
+msgid "Select Special Contents from the Title Menu to play.  "
+msgstr ""
+
+msgctxt "2970	CONTENTS_EXP"
+msgid "Extra content that is available for Kiryu's Side Story \"Taxi Driver.\""
+msgstr ""
+
+msgctxt "3040	CONTENTS_EXP"
+msgid "Extra content that is available for Saejima's Side Story \"Hunter and Killer.\""
+msgstr ""
+
+msgctxt "3118	CONTENTS_EXP"
+msgid "Extra content that is available for Haruka's Side Story \"The Road to Fame.\""
+msgstr ""
+
+msgctxt "3194	CONTENTS_EXP"
+msgid "Extra content that is available for Shinada's Side Story \"The Cost of a Swing.\""
+msgstr ""
+
+msgctxt "3274	CONTENTS_EXP"
+msgid "Select Special Contents from the Title Menu to play."
+msgstr ""
+
+msgctxt "3327	CONTENTS_EXP"
+msgid "Select Special Contents from the Title Menu to play."
+msgstr ""
+
+msgctxt "3380	CONTENTS_EXP"
+msgid "Select Special Contents from the Title Menu to play."
+msgstr ""
+
+msgctxt "3433	CONTENTS_EXP"
+msgid "You can play this in the Premium Adventure mode."
+msgstr ""
+
+msgctxt "3482	CONTENTS_EXP"
+msgid "You can claim this from a convenience store in any city or from Naomi's Palace."
+msgstr ""
+
+msgctxt "3562	CONTENTS_EXP"
+msgid "You can claim this from a convenience store in any city or from Naomi's Palace."
+msgstr ""
+
+msgctxt "3642	CONTENTS_EXP"
+msgid "You can claim this from a convenience store in any city or from Naomi's Palace."
+msgstr ""
+
+msgctxt "3722	CONTENTS_EXP"
+msgid "You can claim this from a convenience store in any city or from Naomi's Palace."
+msgstr ""
+
+msgctxt "3802	CONTENTS_EXP"
+msgid "You can claim this from a convenience store in any city or from Naomi's Palace."
+msgstr ""
+
+msgctxt "3882	CONTENTS_EXP"
+msgid "You can claim this from a convenience store in any city or from Naomi's Palace."
+msgstr ""
+
+msgctxt "3962	CONTENTS_EXP"
+msgid "You can claim this from a convenience store in any city or from Naomi's Palace."
+msgstr ""
+
+msgctxt "4042	CONTENTS_EXP"
+msgid "You can claim this from a convenience store in any city or from Naomi's Palace."
+msgstr ""
+
+msgctxt "4122	CONTENTS_EXP"
+msgid "Available in New Game+ or Premium Adventure. Claim it at any convenience store\n"
+"in any city or by visiting Naomi's Palace."
+msgstr ""
+
+msgctxt "4244	CONTENTS_EXP"
+msgid "Available in New Game+ or Premium Adventure. Claim it at any convenience store\n"
+"in any city or by visiting Naomi's Palace."
+msgstr ""
+
+msgctxt "4366	CONTENTS_EXP"
+msgid "Available in New Game+ or Premium Adventure. Claim it at any convenience store\n"
+"in any city or by visiting Naomi's Palace."
+msgstr ""
+
+msgctxt "4488	CONTENTS_EXP"
+msgid "Available in New Game+ or Premium Adventure. Claim it at any convenience store\n"
+"in any city or by visiting Naomi's Palace."
+msgstr ""
+
+msgctxt "4610	CONTENTS_EXP"
+msgid "Available in New Game+ or Premium Adventure. Claim it at any convenience store\n"
+"in any city or by visiting Naomi's Palace."
+msgstr ""
+
+msgctxt "4732	CONTENTS_EXP"
+msgid "Available in New Game+ or Premium Adventure. Claim it at any convenience store\n"
+"in any city or by visiting Naomi's Palace."
+msgstr ""
+
+msgctxt "4854	CONTENTS_EXP"
+msgid "Available in New Game+ or Premium Adventure. Claim it at any convenience store\n"
+"in any city or by visiting Naomi's Palace."
+msgstr ""
+
+msgctxt "4976	CONTENTS_EXP"
+msgid "Available in New Game+ or Premium Adventure. Claim it at any convenience store\n"
+"in any city or by visiting Naomi's Palace."
+msgstr ""
+
+msgctxt "5098	MSG_WINDOW"
+msgid "Information about network features.  "
+msgstr ""
+
+msgctxt "5136	MSG_WINDOW"
+msgid "An additional costume for Kiryu."
+msgstr ""
+
+msgctxt "5169	MSG_WINDOW"
+msgid "An additional costume for Saejima."
+msgstr ""
+
+msgctxt "5204	MSG_WINDOW"
+msgid "An additional costume for Haruka."
+msgstr ""
+
+msgctxt "5238	MSG_WINDOW"
+msgid "An additional costume for Akiyama."
+msgstr ""
+
+msgctxt "5273	MSG_WINDOW"
+msgid "An additional costume for Shinada."
+msgstr ""
+
+msgctxt "5308	MSG_WINDOW"
+msgid "An additional costume for Kiryu."
+msgstr ""
+
+msgctxt "5341	MSG_WINDOW"
+msgid "An additional costume for Saejima."
+msgstr ""
+
+msgctxt "5376	MSG_WINDOW"
+msgid "An additional costume for Haruka."
+msgstr ""
+
+msgctxt "5410	MSG_WINDOW"
+msgid "An additional costume for Akiyama."
+msgstr ""
+
+msgctxt "5445	MSG_WINDOW"
+msgid "An additional costume for Shinada."
+msgstr ""
+
+msgctxt "5480	MSG_WINDOW"
+msgid "A 2 player mode for Taiko No Tatsujin."
+msgstr ""
+
+msgctxt "5519	MSG_WINDOW"
+msgid "A 2 player mode for Virtua Fighter 2."
+msgstr ""
+
+msgctxt "5557	MSG_WINDOW"
+msgid "A 2 player mode for Darts."
+msgstr ""
+
+msgctxt "5584	MSG_WINDOW"
+msgid "A 2 player mode for Bowling."
+msgstr ""
+
+msgctxt "5613	MSG_WINDOW"
+msgid "A 2 player mode for Pool."
+msgstr ""
+
+msgctxt "5639	MSG_WINDOW"
+msgid "An online match mode for Virtua Fighter 2."
+msgstr ""
+
+msgctxt "5682	MSG_WINDOW"
+msgid "Extra content that is available for Kiryu's Side Story \"Taxi Driver.\""
+msgstr ""
+
+msgctxt "5752	MSG_WINDOW"
+msgid "Extra content that is available for Saejima's Side Story \"Hunter and Killer.\""
+msgstr ""
+
+msgctxt "5830	MSG_WINDOW"
+msgid "Extra content that is available for Haruka's Side Story \"The Road to Fame.\""
+msgstr ""
+
+msgctxt "5906	MSG_WINDOW"
+msgid "Extra content that is available for Shinada's Side Story \"The Cost of a Swing.\""
+msgstr ""
+
+msgctxt "5986	MSG_WINDOW"
+msgid "Select Special Contents from the Title Menu to play."
+msgstr ""
+
+msgctxt "6039	MSG_WINDOW"
+msgid "Select Special Contents from the Title Menu to play."
+msgstr ""
+
+msgctxt "6092	MSG_WINDOW"
+msgid "Select Special Contents from the Title Menu to play."
+msgstr ""
+
+msgctxt "6145	MSG_WINDOW"
+msgid "You can play this in the Premium Adventure mode."
+msgstr ""
+
+msgctxt "6194	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "6329	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "6464	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "6599	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "6734	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "6869	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "7004	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "7139	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "7274	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "7409	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "7544	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "7679	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "7814	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "7949	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "8084	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "8219	MSG_WINDOW"
+msgid "Item packs can be claimed at a convenience store in any city or from Naomi's Palace\n"
+"on Nakamichi Street. Follow your map to get there."
+msgstr ""
+
+msgctxt "8354	MAIN_EXP"
+msgid "Yakuza 5 includes various network services that\n"
+"can be enjoyed for free by simply connecting to\n"
+"PlayStationNetwork.\n"
+"\n"
+"1. Extras\n"
+"2. Online Ranking Mode\n"
+"\n"
+"~Broadband connection is required."
+msgstr ""
+
+msgctxt "8541	MAIN_EXP"
+msgid "Kiryu: Hakata Style\n"
+"\n"
+"Available only in Premium Adventure. Costumes can be changed inside hideouts."
+msgstr ""
+
+msgctxt "8640	MAIN_EXP"
+msgid "Saejima: Prison Guard\n"
+"\n"
+"Available only in Premium Adventure. Costumes can be changed inside hideouts."
+msgstr ""
+
+msgctxt "8741	MAIN_EXP"
+msgid "Haruka: High School Girl\n"
+"\n"
+"Only available in Premium Adventure. Costumes can be changed inside hideouts."
+msgstr ""
+
+msgctxt "8845	MAIN_EXP"
+msgid "Akiyama: Robo Lender\n"
+"\n"
+"Only available in Premium Adventure. Costumes can be changed at hideouts."
+msgstr ""
+
+msgctxt "8941	MAIN_EXP"
+msgid "Shinada: Fried Shrimp\n"
+"\n"
+"Only available in Premium Adventure. Costumes can be changed at hideouts."
+msgstr ""
+
+msgctxt "9038	MAIN_EXP"
+msgid "Kiryu: 18 Yakuza Killer\n"
+"\n"
+"Only available in Premium Adventure. Costumes can be changed at hideouts."
+msgstr ""
+
+msgctxt "9137	MAIN_EXP"
+msgid "Saejima: Mad Dog of Shimano\n"
+"\n"
+"Only available in Premium Adventure. Costumes can be changed at hideouts."
+msgstr ""
+
+msgctxt "9240	MAIN_EXP"
+msgid "Haruka: Hatsune Miku\n"
+"\n"
+"Only available in Premium Adventure. Costumes can be changed at hideouts."
+msgstr ""
+
+msgctxt "9336	MAIN_EXP"
+msgid "Akiyama: The Unnatural Genius Batter\n"
+"\n"
+"Only available in Premium Adventure. Costumes can be changed at hideouts."
+msgstr ""
+
+msgctxt "9448	MAIN_EXP"
+msgid "Shinada: The Dragon of Dojima\n"
+"\n"
+"Only available in Premium Adventure. Costumes can be changed at hideouts."
+msgstr ""
+
+msgctxt "9553	MAIN_EXP"
+msgid "A versus mode for Taiko No Tatsujin using 2 input devices."
+msgstr ""
+
+msgctxt "9612	MAIN_EXP"
+msgid "A versus mode for Virtua Fighter 2 using 2 input devices."
+msgstr ""
+
+msgctxt "9670	MAIN_EXP"
+msgid "A versus mode for Darts using 2 input devices."
+msgstr ""
+
+msgctxt "9717	MAIN_EXP"
+msgid "A versus mode for Bowling using 2 input devices."
+msgstr ""
+
+msgctxt "9766	MAIN_EXP"
+msgid "A versus mode for Pool using 2 input devices."
+msgstr ""
+
+msgctxt "9812	MAIN_EXP"
+msgid "Play online matches of Virtua Fighter 2 by connecting to the network."
+msgstr ""
+
+msgctxt "9882	MAIN_EXP"
+msgid "You are now able to select the Haruka decal from the customization screen in Kiryu's Side Story \"Taxi Driver.\""
+msgstr ""
+
+msgctxt "9993	MAIN_EXP"
+msgid "After clearing Saejima's Side Story \"Hunter and Killer,\" you can now select a new powerful weapon, the Golden Rifle."
+msgstr ""
+
+msgctxt "10110	MAIN_EXP"
+msgid "You can now change Haruka's work clothes in the Dyna Chair locker room for her Side Story \"The Road to Fame.\""
+msgstr ""
+
+msgctxt "10220	MAIN_EXP"
+msgid "You are now able to select the Fried Shrimp Bat in the Batting Center equipment screen in Shinada's Side Story \"The Cost of a Swing.\""
+msgstr ""
+
+msgctxt "10354	MAIN_EXP"
+msgid "The heated battle that was the Princess League Finals. You can watch the 1st round song \"So Much More!\" as a music video. To watch this, you must have played through \"So Much More!\""
+msgstr ""
+
+msgctxt "10536	MAIN_EXP"
+msgid "The heated battle that was the Princess League Finals. You can watch the 2nd round song \"Loneliness Loop\" as a music video. To watch this, you must have played through \"Loneliness Loop.\""
+msgstr ""
+
+msgctxt "10723	MAIN_EXP"
+msgid "The heated battle that was the Princess League Finals. You can watch the 3rd round song \"Because I Have You\" as a music video. To watch this, you must have played through \"Because I Have You.\""
+msgstr ""
+
+msgctxt "10916	MAIN_EXP"
+msgid "During Premium Adventure, when Kiryu is the player character, you can talk to Haruka in New Serena to go out on a walk with her. While out on the town, Haruka will make various requests. Be warned, Haruka is insatiable and will have you running all across the country! Can you get her everything she wants?"
+msgstr ""
+
+msgctxt "11223	MAIN_EXP"
+msgid "A prize package for the weary warrior!\n"
+"\n"
+"- Staminan Royale\n"
+"- Tauriner ++\n"
+"- Toughness Emperor\n"
+"- Assassin's Spear\n"
+"- Bulletproof Glass Amulet"
+msgstr ""
+
+msgctxt "11361	MAIN_EXP"
+msgid "A prize package for the weary warrior!\n"
+"\n"
+"- Staminan Royale\n"
+"- Tauriner ++\n"
+"- Toughness Emperor\n"
+"- Ballbuster\n"
+"- Battle Mail"
+msgstr ""
+
+msgctxt "11480	MAIN_EXP"
+msgid "A prize package for the weary warrior!\n"
+"\n"
+"- Staminan Royale\n"
+"- Tauriner ++\n"
+"- Toughness Emperor\n"
+"- Brickshitter Beer\n"
+"- Goddess of Children Amulet"
+msgstr ""
+
+msgctxt "11621	MAIN_EXP"
+msgid "A prize package for the weary warrior!\n"
+"\n"
+"- Staminan Royale\n"
+"- Tauriner ++\n"
+"- Toughness Emperor\n"
+"- Patriarch's Driver\n"
+"- Immovable Belt"
+msgstr ""
+
+msgctxt "11751	MAIN_EXP"
+msgid "A prize package for the weary warrior!\n"
+"\n"
+"- Staminan Royale\n"
+"- Tauriner ++\n"
+"- Toughness Emperor\n"
+"- Sakura Storm\n"
+"- Gambler's Binding"
+msgstr ""
+
+msgctxt "11878	MAIN_EXP"
+msgid "A prize package for the weary warrior!\n"
+"\n"
+"- Staminan Royale\n"
+"- Tauriner ++\n"
+"- Toughness Emperor\n"
+"- Double Leeks\n"
+"- Payback Ring"
+msgstr ""
+
+msgctxt "12000	MAIN_EXP"
+msgid "A prize package for the weary warrior!\n"
+"\n"
+"- Staminan Spark\n"
+"- Tauriner Maximum\n"
+"- Toughness Infinity\n"
+"- Zap Gun\n"
+"- Antique Chain Mail"
+msgstr ""
+
+msgctxt "12128	MAIN_EXP"
+msgid "A prize package for the weary warrior!\n"
+"\n"
+"- Staminan Spark\n"
+"- Tauriner Maximum\n"
+"- Toughness Infinity\n"
+"- Drow-Z 55\n"
+"- Yakuza Training Gear"
+msgstr ""
+
+msgctxt "12260	MAIN_EXP"
+msgid "Your friend when challenging pachinko!\n"
+"\n"
+"- High Payout Token \n"
+"- High Win Rate Token \n"
+"- Auto Token  "
+msgstr ""
+
+msgctxt "12359	MAIN_EXP"
+msgid "Now you're the pachinko master!\n"
+"\n"
+"- Get-Rich-Quick Card\n"
+"- Chance Stone\n"
+"- Gambler's Amulet"
+msgstr ""
+
+msgctxt "12448	MAIN_EXP"
+msgid "For an extremely heated experience.\n"
+"\n"
+"- Royal Joker Card\n"
+"- Banker's Piece\n"
+"- Player's Piece"
+msgstr ""
+
+msgctxt "12538	MAIN_EXP"
+msgid "Claim victory in Blackjack!\n"
+"\n"
+"- Blackjack Amulet\n"
+"- Bust Amulet\n"
+"- Lucky Hanafuda Card"
+msgstr ""
+
+msgctxt "12622	MAIN_EXP"
+msgid "There's no way you can lose with these!\n"
+"\n"
+"- 1-1-1 Card\n"
+"- Even Goro's Beads\n"
+"- Lopsider Cigarette"
+msgstr ""
+
+msgctxt "12717	MAIN_EXP"
+msgid "You like roulettes, huh?\n"
+"\n"
+"- Black Jewel\n"
+"- Red Jewel\n"
+"- Zero Jewel"
+msgstr ""
+
+msgctxt "12782	MAIN_EXP"
+msgid "For the gambler in you!\n"
+"\n"
+"- 1-2-3 Gum\n"
+"- Triple Yokan\n"
+"- Lucky Tile"
+msgstr ""
+
+msgctxt "12847	MAIN_EXP"
+msgid "Let's go to the gambling hall!\n"
+"\n"
+"- 10-10-1 Charm\n"
+"- Give-Up Piece\n"
+"- Piss Mountain Stone"
+msgstr ""
+
+msgctxt "12934	MAIN_EXP2"
+msgid "Online Ranking also require you to sign in to a\n"
+"PlayStationNetwork account.\n"
+"\n"
+"For more information on PlayStationNetwork,\n"
+"refer to your PlayStation4 manual, or visit the site below.\n"
+"\n"
+"http://us.playstation.com/psn/"
+msgstr ""
+
+msgctxt "13190	MAIN_EXP3"
+msgid "About Extras (1)\n"
+"Yakuza 5 will have regular updates packed with\n"
+"extras like the following:\n"
+"\n"
+"- Special Games\n"
+"- Item Packs\n"
+"- Character Costume"
+msgstr ""
+
+msgctxt "13371	MAIN_EXP4"
+msgid "About Extras (2)\n"
+"\n"
+"If your PlayStation4 is connected to the\n"
+"Internet, it will automatically update itself\n"
+"when you boot up Yakuza 5.\n"
+"If the update fails due to connectivity issues,\n"
+"go to \"Network\" from the Main Menu and select  \"Manual Update.\""
+msgstr ""
+
+msgctxt "13656	MAIN_EXP5"
+msgid "Visit the official website for content release\n"
+"dates and other information:\n"
+"\n"
+"\n"
+"\n"
+"http://ryu-ga-gotoku.com/"
+msgstr ""
+

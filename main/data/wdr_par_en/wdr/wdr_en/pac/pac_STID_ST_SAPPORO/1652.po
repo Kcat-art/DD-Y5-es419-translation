@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "916"
+msgid "dummy"
+msgstr ""
+
+msgctxt "920"
+msgid "SB14_P_SAE_MOV_ramen_kamae"
+msgstr ""
+
+msgctxt "924"
+msgid "ACDEV0198"
+msgstr ""
+

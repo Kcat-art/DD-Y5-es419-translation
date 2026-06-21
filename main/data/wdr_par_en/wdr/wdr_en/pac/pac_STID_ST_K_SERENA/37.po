@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "716"
+msgid "adv5_015/mama_0001a"
+msgstr ""
+

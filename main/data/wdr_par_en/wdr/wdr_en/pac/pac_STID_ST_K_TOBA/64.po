@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "132"
+msgid "Trade points for prizes here."
+msgstr ""
+

@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "Adjust the camera angle to find the best possible shot angle."
+msgstr ""
+

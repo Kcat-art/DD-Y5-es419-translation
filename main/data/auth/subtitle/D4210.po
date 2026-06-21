@@ -1,0 +1,163 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "追加	 			60	384	324"
+msgid "Ta-chan!"
+msgstr ""
+
+msgctxt "	 	　	　	77	489	412"
+msgid "What happened to your face!?"
+msgstr ""
+
+msgctxt "	 	　	　	64	579	515"
+msgid "Eh, it's nothing."
+msgstr ""
+
+msgctxt "	 	　	　	60	644	584"
+msgid "It doesn't look like nothing."
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	　	59	749	690"
+msgid "Milky-chan..."
+msgstr ""
+
+msgctxt "	 	　	　	81	831	750"
+msgid "Is there anything you've done\\r\n"
+"you wish you could forget?"
+msgstr ""
+
+msgctxt "	 	　	OK	183	1066	883"
+msgid "You know how it is in this industry. I'd have\\r\n"
+"a harder time finding things I want to remember."
+msgstr ""
+
+msgctxt "	 	　	　	60	1155	1095"
+msgid "Right."
+msgstr ""
+
+msgctxt "	 	　	　	148	1317	1169"
+msgid "Every now and then, I dream\\r\n"
+"of starting over somewhere new."
+msgstr ""
+
+msgctxt "	 	　	分	128	1448	1320"
+msgid "Completely reinventing who I am, you know?"
+msgstr ""
+
+msgctxt "	 	　	　	136	1612	1476"
+msgid "I get you. It's already been fifteen years\\r\n"
+"since I came here to do just that."
+msgstr ""
+
+msgctxt "	 	　	　	153	1796	1643"
+msgid "Those were the days. Remember when\\r\n"
+"you first walked into my club?"
+msgstr ""
+
+msgctxt "	 	　	　	82	1892	1810"
+msgid "It was the loneliest day of my life."
+msgstr ""
+
+msgctxt "	 	　	分	127	2038	1911"
+msgid "I needed to talk to someone,\\r\n"
+"anyone who didn't know who I was."
+msgstr ""
+
+msgctxt "	 	　	　	122	2186	2064"
+msgid "Which landed me right at your doorstep.\\r\n"
+"Club Futo Momo."
+msgstr ""
+
+msgctxt "	 	　	　	147	2338	2191"
+msgid "And you got paired up with me.\\r\n"
+"For a whole fifty minutes."
+msgstr ""
+
+msgctxt "	 	　	　	106	2475	2369"
+msgid "You just held me, without saying a single thing."
+msgstr ""
+
+msgctxt "	 	　	　	113	2616	2503"
+msgid "Of course I did.\\r\n"
+"All part of the job."
+msgstr ""
+
+msgctxt "	 	　	　	103	2764	2661"
+msgid "Yup. It was just work for you."
+msgstr ""
+
+msgctxt "	 	　	　	123	2905	2782"
+msgid "But me? Feeling your warmth against my skin..."
+msgstr ""
+
+msgctxt "	 	　	分	86	2997	2911"
+msgid "It might've just saved my life."
+msgstr ""
+
+msgctxt "	 	　	　	60	3088	3028"
+msgid "Even then..."
+msgstr ""
+
+msgctxt "	 	　	　	98	3281	3183"
+msgid "Say, let's run away, just the two of us."
+msgstr ""
+
+msgctxt "	 	　	分	73	3364	3291"
+msgid "We'll skip town on the first train tomorrow!"
+msgstr ""
+
+msgctxt "	 	　	　	84	3452	3368"
+msgid "Ooh, like something out of a movie!"
+msgstr ""
+
+msgctxt "	 	　	　	86	3542	3456"
+msgid "We can find a new town! Build a new life!"
+msgstr ""
+
+msgctxt "	 	　	　	115	3679	3564"
+msgid "If I'm gonna start over, I want\\r\n"
+"to be an elementary school teacher!"
+msgstr ""
+
+msgctxt "	 	　	分	77	3757	3680"
+msgid "That was always my dream as a kid."
+msgstr ""
+
+msgctxt "	 	　	　	101	3859	3758"
+msgid "You can do it! Nothing's stopping you!\\r\n"
+"You can start fresh!"
+msgstr ""
+
+msgctxt "	 	　	　	77	3937	3860"
+msgid "And what should I be?\\r\n"
+"That's a toughie!"
+msgstr ""
+
+msgctxt "	 	　	　	78	4182	4104"
+msgid "Hello? No request, 40 minutes?"
+msgstr ""
+
+msgctxt "	 	　	分	71	4259	4188"
+msgid "Okay! I'll be right down."
+msgstr ""
+
+msgctxt "	 	　	　	60	4639	4579"
+msgid "Thank you, Ta-chan."
+msgstr ""
+
+msgctxt "	 	　	　	84	4878	4794"
+msgid "Well, back to it."
+msgstr ""
+
+msgctxt "	 	　	　	60	4978	4918"
+msgid "Reality."
+msgstr ""
+
+msgctxt "	 	　	　	60	5049	4989"
+msgid "Milky-chan."
+msgstr ""
+
+msgctxt "	 	　	　	119	5351	5232"
+msgid "It's... It's too late to run away."
+msgstr ""
+

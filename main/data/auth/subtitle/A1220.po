@@ -1,0 +1,98 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		94	608	514"
+msgid "Nagasu Taxi's Suzuki-san, yeah?"
+msgstr ""
+
+msgctxt " 	　	　	60	692	632"
+msgid "And you are?"
+msgstr ""
+
+msgctxt " 	　	　	60	818	758"
+msgid "Take a gander."
+msgstr ""
+
+msgctxt " 	　	　	60	1027	967"
+msgid "Osaka Prefectural?"
+msgstr ""
+
+msgctxt " 	　	　	126	1210	1084"
+msgid "I'm lookin' into a yakuza incident, see."
+msgstr ""
+
+msgctxt " 	　	　	89	1342	1253"
+msgid "Seems the Tojo Clan's Chairman Dojima..."
+msgstr ""
+
+msgctxt " 	　	分	108	1475	1367"
+msgid "He up and poof, disappeared\\r\n"
+"here in Fukuoka last night."
+msgstr ""
+
+msgctxt " 	　	　	60	1603	1543"
+msgid "So I've heard."
+msgstr ""
+
+msgctxt " 	　	　	134	1775	1641"
+msgid "Ya wouldn't have any idea\\r\n"
+"where he got off to, would ya?"
+msgstr ""
+
+msgctxt " 	　	　	147	1964	1817"
+msgid "Turns out this Dojima took a nice ride\\r\n"
+"in your taxi last night."
+msgstr ""
+
+msgctxt " 	　	　	65	2030	1965"
+msgid "I've got witnesses."
+msgstr ""
+
+msgctxt " 	　	　	60	2127	2067"
+msgid "Don't even know the guy."
+msgstr ""
+
+msgctxt " 	　	　	66	2255	2189"
+msgid "The passenger you dropped\\r\n"
+"off at Daimyo Bridge."
+msgstr ""
+
+msgctxt " 	　	　	60	2355	2295"
+msgid "Oh, him?"
+msgstr ""
+
+msgctxt " 	　	　	98	2473	2375"
+msgid "Not a clue. I let him out\\r\n"
+"like I do anyone else."
+msgstr ""
+
+msgctxt " 	　	　	81	2570	2489"
+msgid "That was the last I saw of him."
+msgstr ""
+
+msgctxt " 	　	　	60	2776	2716"
+msgid "I don't buy what you're sellin'."
+msgstr ""
+
+msgctxt " 	　	　	60	2845	2785"
+msgid "I know he's an old pal of yours."
+msgstr ""
+
+msgctxt " 	　	　	61	2925	2864"
+msgid "Got that, Kiryu-san?"
+msgstr ""
+
+msgctxt " 	　	　	103	3127	3024"
+msgid "Not wise tryin' to pull a fast one on a cop."
+msgstr ""
+
+msgctxt " 	　	　	101	3249	3148"
+msgid "Now, I don't know why ya\\r\n"
+"came down to Fukuoka..."
+msgstr ""
+
+msgctxt " 	　	分	95	3345	3250"
+msgid "But you bet your ass\\r\n"
+"we've been keepin' tabs on you."
+msgstr ""
+

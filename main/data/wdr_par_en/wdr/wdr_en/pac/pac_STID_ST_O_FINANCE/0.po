@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3340"
+msgid "P_AKI_sitsofa"
+msgstr ""
+
+msgctxt "3344"
+msgid "P_AKI_TLK_sitsofa_kamae"
+msgstr ""
+
+msgctxt "3348"
+msgid "F_NML_TLK_damage_kamae"
+msgstr ""
+

@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "2808"
+msgid "adv2_230/baba_2_230_010"
+msgstr ""
+
+msgctxt "2812"
+msgid "adv2_214/saejima_2_214_080"
+msgstr ""
+
+msgctxt "2816"
+msgid "dummy"
+msgstr ""
+

@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "76"
+msgid "(I should take these guys down so I don't get outflanked.)"
+msgstr ""
+
+msgctxt "88"
+msgid "(I should take these guys down so I don't get outflanked. That heavy equipment might help.)"
+msgstr ""
+
+msgctxt "620"
+msgid "Player"
+msgstr ""
+

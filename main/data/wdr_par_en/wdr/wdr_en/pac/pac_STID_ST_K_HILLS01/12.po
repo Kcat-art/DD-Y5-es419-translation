@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "Hold up! You ain't gonna see the chairman without goin' through us first!"
+msgstr ""
+
+msgctxt "268"
+msgid "Ousaka Enterprises Employee"
+msgstr ""
+

@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "440"
+msgid "Passenger"
+msgstr ""
+
+msgctxt "76_Passenger"
+msgid "Nice driving."
+msgstr ""
+
+msgctxt "88_Passenger"
+msgid "Your driving's all right, I guess."
+msgstr ""
+
+msgctxt "100_Passenger"
+msgid "Your driving's terrible."
+msgstr ""
+

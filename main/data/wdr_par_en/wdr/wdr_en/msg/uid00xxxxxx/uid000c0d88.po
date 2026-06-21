@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "364"
+msgid "Perceptive Man"
+msgstr ""
+
+msgctxt "72_Perceptive Man"
+msgid "People put kids down for being immature, but it's those new and immature ideas that are going to shape the future. That's what I think."
+msgstr ""
+

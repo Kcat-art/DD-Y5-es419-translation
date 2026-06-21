@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "108"
+msgid "......"
+msgstr ""
+
+msgctxt "132"
+msgid "Oh, what I am to do?"
+msgstr ""
+
+msgctxt "2076"
+msgid "ACYAM0103"
+msgstr ""
+
+msgctxt "2080"
+msgid "ACYAM0019"
+msgstr ""
+

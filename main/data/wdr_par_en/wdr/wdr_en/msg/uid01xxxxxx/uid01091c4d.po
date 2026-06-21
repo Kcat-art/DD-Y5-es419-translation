@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "380"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Saejima"
+msgid "(Okudera-han's fever is worryin'. Gotta hurry and take down a bear.)"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "(First, gotta find us some tracks.)"
+msgstr ""
+

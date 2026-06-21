@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "Whoa, seriously?"
+msgstr ""
+
+msgctxt "332"
+msgid "The news..."
+msgstr ""
+

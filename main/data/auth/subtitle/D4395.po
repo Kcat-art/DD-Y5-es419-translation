@@ -1,0 +1,78 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	79	19"
+msgid "Shinada..."
+msgstr ""
+
+msgctxt " 	　	　	106	372	266"
+msgid "Sheesh, he could've made it less obvious."
+msgstr ""
+
+msgctxt " 	　	　	84	468	384"
+msgid "The guy only came here to lose."
+msgstr ""
+
+msgctxt " 	　	　	60	571	511"
+msgid "What's that supposed to mean?"
+msgstr ""
+
+msgctxt " 	　	　	60	641	581"
+msgid "You don't remember?"
+msgstr ""
+
+msgctxt " 	　	　	124	773	649"
+msgid "Manabe-san was the greatest cleanup\\r\n"
+"hitter the Wyverns ever had."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	52	855	803"
+msgid "And like I said before..."
+msgstr ""
+
+msgctxt " 	　	分	159	1015	856"
+msgid "The best batters in the game\\r\n"
+"can always read what's coming next."
+msgstr ""
+
+msgctxt " 	　	　	149	1189	1040"
+msgid "Manabe-san came to this fight\\r\n"
+"well aware that he'd lose."
+msgstr ""
+
+msgctxt " 	　	　	60	1285	1225"
+msgid "Isn't that right?"
+msgstr ""
+
+msgctxt " 	　	　	60	1440	1380"
+msgid "Shut up."
+msgstr ""
+
+msgctxt " 	　	　	70	1581	1511"
+msgid "And he knew his warning would\\r\n"
+"only keep me digging deeper."
+msgstr ""
+
+msgctxt " 	　	　	78	1689	1611"
+msgid "Manabe-san, tell the truth."
+msgstr ""
+
+msgctxt " 	　	OK	195	1905	1710"
+msgid "You <Italic>want</Italic> me to know about the Nagoya Family.\\r\n"
+"About what's really going on here."
+msgstr ""
+
+msgctxt " 	　	　	118	2087	1969"
+msgid "So out with it.\\r\n"
+"Who's behind all this?"
+msgstr ""
+
+msgctxt " 	　	　	75	2177	2102"
+msgid "Who set me up 15 years ago?"
+msgstr ""
+
+msgctxt " 	　	　	120	2318	2198"
+msgid "And who's the bastard making honest\\r\n"
+"people like you do these terrible things!?"
+msgstr ""
+

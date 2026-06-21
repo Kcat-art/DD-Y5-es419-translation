@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "480"
+msgid "adv2_180/saejima_2_180_010"
+msgstr ""
+
+msgctxt "484"
+msgid "C2180_P_SAE_run_close_kamae"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "252"
+msgid "たむろ_立ち上がり指さし"
+msgstr ""
+
+msgctxt "256"
+msgid "E9800_tamuro_yubisashi"
+msgstr ""
+

@@ -1,0 +1,180 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	 	 		72	237	165"
+msgid "Just who do ya think you're talkin' to, bitch?"
+msgstr ""
+
+msgctxt "	 	　	　	106	380	274"
+msgid "The hell's a hack like you know about dancin'!?"
+msgstr ""
+
+msgctxt " 	　	分	83		471	388"
+msgid "Leave the teachin' to the pros, amateur!"
+msgstr ""
+
+msgctxt "	 	　	　	154	639	485"
+msgid "Ogita. I suggest you be more careful\\r\n"
+"about who you mouth off to."
+msgstr ""
+
+msgctxt "	 	　	　	60	704	644"
+msgid "Shut your trap!"
+msgstr ""
+
+msgctxt "	 	　	　	60	819	759"
+msgid "So that's how it is."
+msgstr ""
+
+msgctxt "	 	　	　	95	925	830"
+msgid "You're fired. Gather your things and go."
+msgstr ""
+
+msgctxt "	 	　	　	180	1175	995"
+msgid "As if. The damn sun'll go cold before ya\\r\n"
+"figure out how to teach that brat on your own!"
+msgstr ""
+
+msgctxt "	 	　	　	102	1293	1191"
+msgid "<Italic>I'm</Italic> the only reason she's come as far as she has."
+msgstr ""
+
+msgctxt "	 	　	　	177	1512	1335"
+msgid "Lemme guess. Ya think 'cause you're holdin'\\r\n"
+"the purse strings, you're automatically right."
+msgstr ""
+
+msgctxt "	 	　	　	60	1589	1529"
+msgid "That ain't how the world works!"
+msgstr ""
+
+msgctxt "	 	　	　	128	1745	1617"
+msgid "Believe what you will.\\r\n"
+"But you're sadly mistaken."
+msgstr ""
+
+msgctxt "	 	　	　	163	1935	1772"
+msgid "In this business, the one paying\\r\n"
+"the bills is always right."
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	　	57	2004	1947"
+msgid "What?"
+msgstr ""
+
+msgctxt "	 	　	　	88	2093	2005"
+msgid "You're nothing short of useless to me now."
+msgstr ""
+
+msgctxt "	 	　	　	109	2215	2106"
+msgid "With the funds I have, I could\\r\n"
+"replace you a hundred times over."
+msgstr ""
+
+msgctxt "	 	　	　	60	2331	2271"
+msgid "You little..."
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	　	58	2482	2424"
+msgid "How long are you going to stand there?"
+msgstr ""
+
+msgctxt "	 	　	　	116	2599	2483"
+msgid "Get out of my office, now.\\r\n"
+"You're wasting my time."
+msgstr ""
+
+msgctxt "	 	　	　	60	2767	2707"
+msgid "You bitch!"
+msgstr ""
+
+msgctxt "	 	　	分	104	2881	2777"
+msgid "N' my contract? You're gonna\\r\n"
+"have to pay for breakin' it!"
+msgstr ""
+
+msgctxt "	 	　	　	133	3076	2943"
+msgid "Will I? There isn't a penalty clause, you know."
+msgstr ""
+
+msgctxt "	 	　	　	139	3242	3103"
+msgid "I have no obligation to pay you if you\\r\n"
+"don't complete the work I hired you for."
+msgstr ""
+
+msgctxt "	 	　	　	67	3320	3253"
+msgid "Read your contracts before you sign them."
+msgstr ""
+
+msgctxt "	 	　	　	97	3428	3331"
+msgid "What? I <Italic>did</Italic> read it!"
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	　	50	3501	3451"
+msgid "Wait a sec."
+msgstr ""
+
+msgctxt "	 	　	　	109	3611	3502"
+msgid "That \"tweak\" ya had to make before\\r\n"
+"I signed on the dotted line..."
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	分	45	3668	3623"
+msgid "Ya didn't!"
+msgstr ""
+
+msgctxt "	 	　	　	82	3787	3705"
+msgid "If there's a problem, you can\\r\n"
+"take it up with my lawyer."
+msgstr ""
+
+msgctxt "	 	　	　	60	3887	3827"
+msgid "You double-crossin'...!"
+msgstr ""
+
+msgctxt "	 	　	　	60	4054	3994"
+msgid "Don't have the guts to hit me?"
+msgstr ""
+
+msgctxt "	 	　	　	60	4175	4115"
+msgid "Fuck this!"
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	　	34	4475	4441"
+msgid "Ogita-san!"
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	　	59	4535	4476"
+msgid "Horie!"
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	分	42	4578	4536"
+msgid "Let him go."
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	　	59	4649	4590"
+msgid "Ma'am!"
+msgstr ""
+
+msgctxt "	 	　	　	98	4748	4650"
+msgid "Are you all right, ma'am?\\r\n"
+"I'll go get some ice!"
+msgstr ""
+
+msgctxt "	 	　	　	60	4809	4749"
+msgid "Wait, Haruka!"
+msgstr ""
+
+msgctxt "	 	　	　	60	4935	4875"
+msgid "Haruka. Horie."
+msgstr ""
+
+msgctxt "	 	　	　	83	5057	4974"
+msgid "There's something I need the two\\r\n"
+"of you to take care of."
+msgstr ""
+
+msgctxt "	 	　	　	60	5157	5097"
+msgid "What is it?"
+msgstr ""
+

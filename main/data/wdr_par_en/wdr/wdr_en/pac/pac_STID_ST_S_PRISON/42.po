@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1612"
+msgid "adv2_020_3/oshima_0001"
+msgstr ""
+
+msgctxt "1616"
+msgid "dummy"
+msgstr ""
+

@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "516"
+msgid "adv1_125/morinaga_1_125_010"
+msgstr ""
+
+msgctxt "520"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "524"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+

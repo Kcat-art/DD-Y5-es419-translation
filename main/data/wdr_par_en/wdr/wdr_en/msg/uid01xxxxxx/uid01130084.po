@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "352"
+msgid "dummy"
+msgstr ""
+
+msgctxt "356"
+msgid "A10380_yamakasa_drop"
+msgstr ""
+

@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "572"
+msgid "Carnivorous Girl"
+msgstr ""
+
+msgctxt "576"
+msgid "Crabby Boy"
+msgstr ""
+
+msgctxt "72_Carnivorous Girl"
+msgid "You just gotta have lamb barbeque when you're in Hokkaido. That's, like, their signature dish."
+msgstr ""
+
+msgctxt "84_Carnivorous Girl"
+msgid "No, no, no! Crab! We're having crab tonight!"
+msgstr ""
+

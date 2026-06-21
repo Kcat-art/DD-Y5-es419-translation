@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "108"
+msgid "Nishina's wife..."
+msgstr ""
+
+msgctxt "120"
+msgid "They're still not back..."
+msgstr ""
+

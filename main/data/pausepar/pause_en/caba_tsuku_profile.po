@@ -1,0 +1,235 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "912	NAME"
+msgid "<Name: Nanami Minemura>"
+msgstr ""
+
+msgctxt "945	NAME"
+msgid "<Name: Riona Matsuoka>"
+msgstr ""
+
+msgctxt "977	NAME"
+msgid "<Name: Kyoko Mochizuki>"
+msgstr ""
+
+msgctxt "1010	NAME"
+msgid "f"
+msgstr ""
+
+msgctxt "1012	CLUB"
+msgid "Elise"
+msgstr ""
+
+msgctxt "1027	CLUB"
+msgid "Elise"
+msgstr ""
+
+msgctxt "1042	CLUB"
+msgid "Elise"
+msgstr ""
+
+msgctxt "1058	BIRTHDAY"
+msgid "December 5"
+msgstr ""
+
+msgctxt "1078	BIRTHDAY"
+msgid "July 21"
+msgstr ""
+
+msgctxt "1095	BIRTHDAY"
+msgid "January 15"
+msgstr ""
+
+msgctxt "1116	HEIGHT"
+msgid "156 cm"
+msgstr ""
+
+msgctxt "1132	HEIGHT"
+msgid "160 cm"
+msgstr ""
+
+msgctxt "1148	HEIGHT"
+msgid "158 cm"
+msgstr ""
+
+msgctxt "1200	CONSTELLATION"
+msgid "Sagittarius"
+msgstr ""
+
+msgctxt "1221	CONSTELLATION"
+msgid "Cancer"
+msgstr ""
+
+msgctxt "1237	CONSTELLATION"
+msgid "Capricorn"
+msgstr ""
+
+msgctxt "1257	FAVORITE"
+msgid "Fruit"
+msgstr ""
+
+msgctxt "1272	FAVORITE"
+msgid "Yakiniku"
+msgstr ""
+
+msgctxt "1290	FAVORITE"
+msgid "Junk Food"
+msgstr ""
+
+msgctxt "1310	HATE"
+msgid "Japanese Sweets"
+msgstr ""
+
+msgctxt "1335	HATE"
+msgid "Anything sweet"
+msgstr ""
+
+msgctxt "1359	HATE"
+msgid "Vegetables"
+msgstr ""
+
+msgctxt "1590	ROMAN_NAME"
+msgid "Elise"
+msgstr ""
+
+msgctxt "1605	ROMAN_NAME"
+msgid "Elise"
+msgstr ""
+
+msgctxt "1620	ROMAN_NAME"
+msgid "Elise"
+msgstr ""
+
+msgctxt "1880	EXPLANATION"
+msgid "I got a business card from <Name:Nanami Minemura:Working Name> at Elise. Maybe I'll request her next time I go in."
+msgstr ""
+
+msgctxt "1995	EXPLANATION"
+msgid "I had a great date with <Name: Nanami Minemura>."
+msgstr ""
+
+msgctxt "2044	EXPLANATION"
+msgid "I had a great date with <Name: Nanami Minemura>."
+msgstr ""
+
+msgctxt "2093	EXPLANATION"
+msgid "I had a great date with <Name: Nanami Minemura>."
+msgstr ""
+
+msgctxt "2142	EXPLANATION"
+msgid "I had a great date with <Name: Nanami Minemura>."
+msgstr ""
+
+msgctxt "2191	EXPLANATION"
+msgid "I had a great date with <Name: Nanami Minemura>."
+msgstr ""
+
+msgctxt "2240	EXPLANATION"
+msgid "I had a great date with <Name: Nanami Minemura>."
+msgstr ""
+
+msgctxt "2289	EXPLANATION"
+msgid "Apparently <Name: Nanami Minemura>'s brother isn't showing up to work. Sounds like me might be out playing pachinko instead..."
+msgstr ""
+
+msgctxt "2416	EXPLANATION"
+msgid "<Name: Nanami Minemura>'s brother is having problems with his ex-customers. He might need a helping hand from yours truly."
+msgstr ""
+
+msgctxt "2539	EXPLANATION"
+msgid "I had an amazing time with <Name: Nanami Minemura>."
+msgstr ""
+
+msgctxt "2591	EXPLANATION"
+msgid "I got a business card from <Name:Riona Matsuoka> at Elise.  Maybe I'll request her next time I go in."
+msgstr ""
+
+msgctxt "2693	EXPLANATION"
+msgid "I had a great date with <Name: Riona Matsuoka>."
+msgstr ""
+
+msgctxt "2741	EXPLANATION"
+msgid "I had a great date with <Name: Riona Matsuoka>."
+msgstr ""
+
+msgctxt "2789	EXPLANATION"
+msgid "I had a great date with <Name: Riona Matsuoka>."
+msgstr ""
+
+msgctxt "2837	EXPLANATION"
+msgid "I had a great date with <Name: Riona Matsuoka>."
+msgstr ""
+
+msgctxt "2885	EXPLANATION"
+msgid "I had a great date with <Name: Riona Matsuoka>."
+msgstr ""
+
+msgctxt "2933	EXPLANATION"
+msgid "I had a great date with <Name: Riona Matsuoka>."
+msgstr ""
+
+msgctxt "2981	EXPLANATION"
+msgid "Apparently <Name: Riona Matsuoka>'s father is visiting the club. I should see how she's handling that."
+msgstr ""
+
+msgctxt "3084	EXPLANATION"
+msgid "I should take care of the loan shark that's harassing <Name: Riona Matsuoka>'s father."
+msgstr ""
+
+msgctxt "3171	EXPLANATION"
+msgid "I had an amazing time with <Name: Riona Matsuoka>."
+msgstr ""
+
+msgctxt "3222	EXPLANATION"
+msgid "I got a business card from <Name: Kyoko Mochizuki> at Elise. Maybe I'll request her next time I go in."
+msgstr ""
+
+msgctxt "3325	EXPLANATION"
+msgid "I had a great date with <Name: Kyoko Mochizuki>."
+msgstr ""
+
+msgctxt "3374	EXPLANATION"
+msgid "I had a great date with <Name: Kyoko Mochizuki>."
+msgstr ""
+
+msgctxt "3423	EXPLANATION"
+msgid "I had a great date with <Name: Kyoko Mochizuki>."
+msgstr ""
+
+msgctxt "3472	EXPLANATION"
+msgid "I had a great date with <Name: Kyoko Mochizuki>."
+msgstr ""
+
+msgctxt "3521	EXPLANATION"
+msgid "I had a great date with <Name: Kyoko Mochizuki>."
+msgstr ""
+
+msgctxt "3570	EXPLANATION"
+msgid "I had a great date with <Name: Kyoko Mochizuki>."
+msgstr ""
+
+msgctxt "3619	EXPLANATION"
+msgid "Someone stole <Name: Kyoko Mochizuki>'s guitar. If Bad Flag is behind the theft, they'll probably try to sell the guitar somewhere."
+msgstr ""
+
+msgctxt "3751	EXPLANATION"
+msgid "I found Bad Flag. Better catch them and find out what happened to <Name: Kyoko Mochizuki>'s guitar."
+msgstr ""
+
+msgctxt "3851	EXPLANATION"
+msgid "I had an amazing time with <Name: Kyoko Mochizuki>."
+msgstr ""
+
+msgctxt "3904	CONTENTS_EXP"
+msgid "Can only be requested by Tanimura."
+msgstr ""
+
+msgctxt "3948	CONTENTS_EXP"
+msgid "Can only be requested by Kiryu."
+msgstr ""
+
+msgctxt "3989	CONTENTS_EXP"
+msgid "Can only be requested by Kiryu."
+msgstr ""
+

@@ -1,0 +1,24 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+"　"
+msgstr ""
+
+msgctxt "800"
+msgid "Welcome!"
+msgstr ""
+
+msgctxt "804"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "808"
+msgid "Idle"
+msgstr ""
+

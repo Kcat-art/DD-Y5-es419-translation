@@ -1,0 +1,108 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "		　	60	236	176"
+msgid "Haruka."
+msgstr ""
+
+msgctxt "		　	82	339	257"
+msgid "We hear you cut a deal with Nakai-san."
+msgstr ""
+
+msgctxt "		　	95	445	350"
+msgid "If you lose to us, you'll come join Osaka Talent."
+msgstr ""
+
+msgctxt "		　	121	571	450"
+msgid "Either way the chips fall,\\r\n"
+"it looks like Dyna Chair's done for."
+msgstr ""
+
+msgctxt "		　	102	700	598"
+msgid "Don't ya girls have somewhere to be?"
+msgstr ""
+
+msgctxt "		　	65	780	715"
+msgid "We got better things to do than this."
+msgstr ""
+
+msgctxt "		　	116	940	824"
+msgid "I was wondering who the new face was!\\r\n"
+"This your new manager?"
+msgstr ""
+
+msgctxt "		　	124	1074	950"
+msgid "Oh yeah. I heard that loser you\\r\n"
+"were with before ate it pretty hard."
+msgstr ""
+
+msgctxt "		　	139	1227	1088"
+msgid "That's a real shame, Haruka-chan.\\r\n"
+"Guess you're bad luck for everyone you run into."
+msgstr ""
+
+msgctxt "		　	94	1331	1237"
+msgid "I know, right? What a freak."
+msgstr ""
+
+msgctxt "		　	108	1446	1338"
+msgid "Shut it, you two!\\r\n"
+"Have a little decency, will ya?"
+msgstr ""
+
+msgctxt "		　	105	1555	1450"
+msgid "Ooh, looks like we touched a nerve!"
+msgstr ""
+
+msgctxt "		　	128	1684	1556"
+msgid "Some people just can't take a joke.\\r\n"
+"I mean, dramatic much?"
+msgstr ""
+
+msgctxt "		　	60	1758	1698"
+msgid "Stop it."
+msgstr ""
+
+msgctxt "		　	40	1812	1772"
+msgid "Stop what?"
+msgstr ""
+
+msgctxt "		　	71	1884	1813"
+msgid "You saying we did something wrong?"
+msgstr ""
+
+msgctxt "		　	53	1968	1915"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "		　	160	2129	1969"
+msgid "But if you keep talking like that,\\r\n"
+"I'll make you eat those words."
+msgstr ""
+
+msgctxt "		　	82	2236	2154"
+msgid "What, you really think you can win?"
+msgstr ""
+
+msgctxt "		　	94	2373	2279"
+msgid "C'mon, Haruka. These brats\\r\n"
+"ain't worth the effort."
+msgstr ""
+
+msgctxt "		　	97	2511	2414"
+msgid "I'll win. You'll see."
+msgstr ""
+
+msgctxt "		　	114	2637	2523"
+msgid "Not just for myself, but for Park-san, too."
+msgstr ""
+
+msgctxt "		　	144	2825	2681"
+msgid "Yeah, whatever. Once you join our agency,\\r\n"
+"we promise we'll get along <Italic>real</Italic> well."
+msgstr ""
+
+msgctxt "		　	81	2917	2836"
+msgid "We'll see who comes out on top in the end."
+msgstr ""
+

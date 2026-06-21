@@ -1,0 +1,360 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 		台詞が復活してる？	60	477	417"
+msgid "What the shit..."
+msgstr ""
+
+msgctxt " 	　	　	60	635	575"
+msgid "How!?"
+msgstr ""
+
+msgctxt " 	　	　	67	732	665"
+msgid "I'm done playing with you."
+msgstr ""
+
+msgctxt " 	　	　	126	1007	881"
+msgid "Brother! What do you think you're doing!?"
+msgstr ""
+
+msgctxt " 	　	　	157	1165	1008"
+msgid "Can't have ya firin' that thing and\\r\n"
+"shamin' my rep as a witness."
+msgstr ""
+
+msgctxt " 	　	　	89	1287	1198"
+msgid "Ya don't wanna tarnish my name, do ya?"
+msgstr ""
+
+msgctxt " 	　	　	99	1463	1364"
+msgid "Come on! This wasn't the deal!"
+msgstr ""
+
+msgctxt " 	　	　	139	1602	1463"
+msgid "You're the one who said you want to\\r\n"
+"take Kiryu out! Right, brother!?"
+msgstr ""
+
+msgctxt " 	　	　	69	1675	1606"
+msgid "I ain't your soldier."
+msgstr ""
+
+msgctxt " 	　	分	116	1806	1690"
+msgid "When I fight him, it'll be\\r\n"
+"on my terms, ya fuckwit!"
+msgstr ""
+
+msgctxt " 	　	　	60	1934	1874"
+msgid "Damn you!"
+msgstr ""
+
+msgctxt " 	　	　	94	3045	2951"
+msgid "This isn't what I heard!"
+msgstr ""
+
+msgctxt " 	　	　	87	3282	3195"
+msgid "They said you never kill."
+msgstr ""
+
+msgctxt " 	　	分	86	3380	3294"
+msgid "That you're merciful."
+msgstr ""
+
+msgctxt " 	　	　	60	3454	3394"
+msgid "Who told you that?"
+msgstr ""
+
+msgctxt " 	　	　	60	3548	3488"
+msgid "Well..."
+msgstr ""
+
+msgctxt " 	　	　	82	3632	3550"
+msgid "I said, who told you that?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	58	3729	3671"
+msgid "Some other Tojo men."
+msgstr ""
+
+msgctxt " 	　	　	60	3790	3730"
+msgid "Whatever you heard..."
+msgstr ""
+
+msgctxt " 	　	分	91	3890	3799"
+msgid "I've never been a saint!"
+msgstr ""
+
+msgctxt " 	　	　	84	4161	4077"
+msgid "I can hide from my past all I want."
+msgstr ""
+
+msgctxt " 	　	分	92	4278	4186"
+msgid "But no matter how much I hate it..."
+msgstr ""
+
+msgctxt " 	　	　	101	4394	4293"
+msgid "I'll always be yakuza."
+msgstr ""
+
+msgctxt " 	　	　	136	4581	4445"
+msgid "Being clever only gets you so far in this business."
+msgstr ""
+
+msgctxt " 	　	　	145	4745	4600"
+msgid "Just remember.\\r\n"
+"This is your last warning."
+msgstr ""
+
+msgctxt " 	　	　	68	5048	4980"
+msgid "Why me?"
+msgstr ""
+
+msgctxt " 	　	　	132	5219	5087"
+msgid "Why me of all people?"
+msgstr ""
+
+msgctxt " 	　	　	140	5440	5300"
+msgid "Had I known this would happen,\\r\n"
+"I never would have agreed."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	59	5648	5589"
+msgid "Quit your whimperin'!"
+msgstr ""
+
+msgctxt " 	　	分	149	5798	5649"
+msgid "You wanna helm the Tojo Clan!?\\r\n"
+"Then you're gonna have to grow a pair!"
+msgstr ""
+
+msgctxt " 	　	　	90	5893	5803"
+msgid "Or are ya determined to disappoint me!?"
+msgstr ""
+
+msgctxt " 	　	　	81	6043	5962"
+msgid "What do ya got to say, brother!?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	6107	6050"
+msgid "I did as I was told."
+msgstr ""
+
+msgctxt " 	　	分	132	6240	6108"
+msgid "All I had to do was lure\\r\n"
+"Kiryu-san out of hiding."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	48	6326	6278"
+msgid "Say what?"
+msgstr ""
+
+msgctxt " 	　	　	86	6413	6327"
+msgid "Who told ya that!?\\r\n"
+"Who's givin' ya orders!?"
+msgstr ""
+
+msgctxt " 	　	　	74	6516	6442"
+msgid "It was... your..."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	58	6616	6558"
+msgid "Brother..."
+msgstr ""
+
+msgctxt " 	　	分	60	6677	6617"
+msgid "Hey, bro!"
+msgstr ""
+
+msgctxt " 	　	　	82	6768	6686"
+msgid "You talk too much, Acting Chairman."
+msgstr ""
+
+msgctxt " 	　	　	60	6999	6939"
+msgid "It's you."
+msgstr ""
+
+msgctxt " 	　	　	60	7345	7285"
+msgid "Morinaga!"
+msgstr ""
+
+msgctxt " 	　	　	111	7490	7379"
+msgid "I hadn't planned on seeing\\r\n"
+"you again like this, Fourth Chairman."
+msgstr ""
+
+msgctxt " 	　	　	60	7614	7554"
+msgid "Morinaga!"
+msgstr ""
+
+msgctxt " 	　	　	132	7785	7653"
+msgid "Not another step!\\r\n"
+"Next one's through your brain."
+msgstr ""
+
+msgctxt " 	　	　	60	7899	7839"
+msgid "What's your game here?"
+msgstr ""
+
+msgctxt " 	　	分	117	8025	7908"
+msgid "How long have you been betraying Daigo?"
+msgstr ""
+
+msgctxt " 	　	　	60	8104	8044"
+msgid "Betrayal, you say?"
+msgstr ""
+
+msgctxt " 	　	分	126	8241	8115"
+msgid "The chairman's the one who ran off,\\r\n"
+"left his men to fend for themselves"
+msgstr ""
+
+msgctxt " 	　	　	103	8345	8242"
+msgid "If you ask me, that's the real betrayal."
+msgstr ""
+
+msgctxt " 	　	　	60	8447	8387"
+msgid "And Aoyama shooting you."
+msgstr ""
+
+msgctxt " 	　	分	69	8561	8492"
+msgid "Was that all part of the act!?"
+msgstr ""
+
+msgctxt " 	　	　	120	8698	8578"
+msgid "My job in this was to get\\r\n"
+"you where you needed to be."
+msgstr ""
+
+msgctxt " 	　	　	151	8855	8704"
+msgid "Just like Chairman Madarame,\\r\n"
+"I was prepared for every scenario."
+msgstr ""
+
+msgctxt " 	　	　	105	8990	8885"
+msgid "Then you and Aoyama were in league."
+msgstr ""
+
+msgctxt " 	　	　	97	9125	9028"
+msgid "Why take him out?"
+msgstr ""
+
+msgctxt " 	　	　	76	9230	9154"
+msgid "No one likes a yakuza with loose lips."
+msgstr ""
+
+msgctxt " 	　	　	167	9417	9250"
+msgid "Just a few punches and he was\\r\n"
+"ready to spill all our dirty secrets."
+msgstr ""
+
+msgctxt " 	　	　	60	9520	9460"
+msgid "What secrets?"
+msgstr ""
+
+msgctxt " 	　	　	64	9723	9659"
+msgid "Stop, Morinaga!"
+msgstr ""
+
+msgctxt " 	　	　	167	9970	9803"
+msgid "What is it? I'm not going to tell you\\r\n"
+"what I'm doing, if that's what you want."
+msgstr ""
+
+msgctxt " 	　	　	73	10048	9975"
+msgid "I don't care what you're doing!"
+msgstr ""
+
+msgctxt " 	　	分	98	10165	10067"
+msgid "I only need to know one thing!"
+msgstr ""
+
+msgctxt " 	　	　	89	10314	10225"
+msgid "Where's Aizawa?"
+msgstr ""
+
+msgctxt " 	　	　	121	10520	10399"
+msgid "Aizawa's not the kind of guy\\r\n"
+"for all this backstabbing."
+msgstr ""
+
+msgctxt " 	　	分	87	10630	10543"
+msgid "If he'd known you'd turned on Daigo..."
+msgstr ""
+
+msgctxt " 	　	　	167	10815	10648"
+msgid "He would have told me,\\r\n"
+"no matter the circumstances."
+msgstr ""
+
+msgctxt " 	　	　	60	10905	10845"
+msgid "So answer me, Morinaga."
+msgstr ""
+
+msgctxt " 	　	分	107	11041	10934"
+msgid "I want the truth. Where is Aizawa?"
+msgstr ""
+
+msgctxt " 	　	　	78	11181	11103"
+msgid "He truly was one of the good guys."
+msgstr ""
+
+msgctxt " 	　	　	128	11340	11212"
+msgid "But he knew too much.\\r\n"
+"Too much to turn the other way."
+msgstr ""
+
+msgctxt " 	　	　	130	11505	11375"
+msgid "No... You didn't!"
+msgstr ""
+
+msgctxt " 	　	　	113	11695	11582"
+msgid "He's up on Mount Inuboe.\\r\n"
+"Six feet under."
+msgstr ""
+
+msgctxt " 	　	分	134	11851	11717"
+msgid "I buried him with my own hands.\\r\n"
+"He deserved that much."
+msgstr ""
+
+msgctxt " 	　	　	60	11930	11870"
+msgid "Morinaga..."
+msgstr ""
+
+msgctxt " 	　	分	81	12045	11964"
+msgid "You piece of...!"
+msgstr ""
+
+msgctxt " 	　	　	60	12140	12080"
+msgid "I said, don't move!"
+msgstr ""
+
+msgctxt " 	　	　	89	12265	12176"
+msgid "Stop! Stop, damn you!"
+msgstr ""
+
+msgctxt " 	　	　	68	12541	12473"
+msgid "Leave him! Now ain't the time!"
+msgstr ""
+
+msgctxt " 	　	　	93	12730	12637"
+msgid "There's a lot more I have to do before I die."
+msgstr ""
+
+msgctxt " 	　	　	132	12886	12754"
+msgid "And I can't have you kicking the bucket\\r\n"
+"just yet either, Fourth Chairman."
+msgstr ""
+
+msgctxt " 	　	　	60	12975	12915"
+msgid "Morinaga!"
+msgstr ""
+
+msgctxt " 	　	　	75	13157	13082"
+msgid "You'll find your answers up in Tokyo."
+msgstr ""
+
+msgctxt " 	　	分	69	13244	13175"
+msgid "I'll be waiting, Kiryu-san."
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "292"
+msgid "P_TLK_stand_kyoro_st"
+msgstr ""
+
+msgctxt "296"
+msgid "M_NML_TLK_btl_after01_lp"
+msgstr ""
+

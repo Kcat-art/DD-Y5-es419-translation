@@ -1,0 +1,343 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid "/‐"
+msgstr ""
+
+msgctxt "16"
+msgid "/‐"
+msgstr ""
+
+msgctxt "20"
+msgid "/‐"
+msgstr ""
+
+msgctxt "24"
+msgid "/‐"
+msgstr ""
+
+msgctxt "28"
+msgid "/‐"
+msgstr ""
+
+msgctxt "32"
+msgid "Owned"
+msgstr ""
+
+msgctxt "36"
+msgid "Owned"
+msgstr ""
+
+msgctxt "40"
+msgid "Owned"
+msgstr ""
+
+msgctxt "44"
+msgid "Owned"
+msgstr ""
+
+msgctxt "48"
+msgid "Owned"
+msgstr ""
+
+msgctxt "52"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "60"
+msgid "(Don't got anythin' picked out.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(I haven't selected anything.)  "
+msgstr ""
+
+msgctxt "68"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "72"
+msgid "(I don't have enough for that.)"
+msgstr ""
+
+msgctxt "76"
+msgid "(Don't have the cash. How am I so broke?)"
+msgstr ""
+
+msgctxt "80"
+msgid "(Don't got the cash for that.)"
+msgstr ""
+
+msgctxt "84"
+msgid "(Looks like I'm a little short.)  "
+msgstr ""
+
+msgctxt "88"
+msgid "(Looks like I don't have enough.)"
+msgstr ""
+
+msgctxt "92"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "96"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "100"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "104"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "108"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "112"
+msgid "(I don't have enough room.)"
+msgstr ""
+
+msgctxt "116"
+msgid "(Pockets are jam-packed as is.)"
+msgstr ""
+
+msgctxt "120"
+msgid "(Carryin' too much already.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(I don't have any space.)"
+msgstr ""
+
+msgctxt "128"
+msgid "(I don't have the space for that.)"
+msgstr ""
+
+msgctxt "132"
+msgid "(They're all sold out.)"
+msgstr ""
+
+msgctxt "136"
+msgid "(Fresh out.)"
+msgstr ""
+
+msgctxt "140"
+msgid "(Ain't a single one left.)"
+msgstr ""
+
+msgctxt "144"
+msgid "(I guess it's all sold out.)  "
+msgstr ""
+
+msgctxt "148"
+msgid "(I don't need any of this stuff.)"
+msgstr ""
+
+msgctxt "152"
+msgid "(Oh, I already have one.)"
+msgstr ""
+
+msgctxt "156"
+msgid "(Already have myself one of those.)"
+msgstr ""
+
+msgctxt "160"
+msgid "(Already got my hands on that.)"
+msgstr ""
+
+msgctxt "164"
+msgid "(Already got one of these.)  "
+msgstr ""
+
+msgctxt "168"
+msgid "(I already have one of those.)"
+msgstr ""
+
+msgctxt "172"
+msgid "－"
+msgstr ""
+
+msgctxt "176"
+msgid "－"
+msgstr ""
+
+msgctxt "180"
+msgid "－"
+msgstr ""
+
+msgctxt "184"
+msgid "－"
+msgstr ""
+
+msgctxt "188"
+msgid "－"
+msgstr ""
+
+msgctxt "192"
+msgid "Order"
+msgstr ""
+
+msgctxt "196"
+msgid "Order"
+msgstr ""
+
+msgctxt "200"
+msgid "Order"
+msgstr ""
+
+msgctxt "204"
+msgid "Order"
+msgstr ""
+
+msgctxt "208"
+msgid "Order"
+msgstr ""
+
+msgctxt "524"
+msgid "This new cologne from Dramatic Parfums smells like a black velvet rose, evoking the image of a slick, masculine man."
+msgstr ""
+
+msgctxt "556"
+msgid "This new cologne from Dramatic Parfums has a woody amber scent. It expresses a strength that will put the very night at your mercy."
+msgstr ""
+
+msgctxt "588"
+msgid "This new cologne from Dramatic Parfums has an energetic and dynamic scent that portrays stalwart masculinity."
+msgstr ""
+
+msgctxt "620"
+msgid "This French monogrammed bag would make a fabulous gift."
+msgstr ""
+
+msgctxt "652"
+msgid "This French cologne is popular for its alluring fragrance."
+msgstr ""
+
+msgctxt "684"
+msgid "This French perfume is a popular item. Take in that flowery scent."
+msgstr ""
+
+msgctxt "716"
+msgid "Fine Italian cologne with a sensual aroma."
+msgstr ""
+
+msgctxt "748"
+msgid "Fine Italian perfume with a sensual aroma."
+msgstr ""
+
+msgctxt "780"
+msgid "This French cashmere scarf is a popular gift item."
+msgstr ""
+
+msgctxt "812"
+msgid "This top-brand French wallet is a popular gift item."
+msgstr ""
+
+msgctxt "844"
+msgid "This high-end Italian scarf would make one lucky woman's day as a gift."
+msgstr ""
+
+msgctxt "876"
+msgid "This high-end Italian wallet is a popular gift item."
+msgstr ""
+
+msgctxt "908"
+msgid "This French handbag is a popular gift item."
+msgstr ""
+
+msgctxt "940"
+msgid "This high-end Italian shoulder bag would make the perfect gift."
+msgstr ""
+
+msgctxt "972"
+msgid "This Swiss watch was handcrafted by a skilled watchmaker."
+msgstr ""
+
+msgctxt "1004"
+msgid "This Asian digital watch is very practical but still pairs well with the latest fashions."
+msgstr ""
+
+msgctxt "1036"
+msgid "This high-quality diver's watch is waterproof up to 200-meter depths."
+msgstr ""
+
+msgctxt "1068"
+msgid "This dress is all the rage in Paris."
+msgstr ""
+
+msgctxt "1100"
+msgid "This dress is rather expensive for off-the-rack fashion, but still manages to be popular."
+msgstr ""
+
+msgctxt "1132"
+msgid "This high-end Italian women's suit is a top-brand item known for its use of color."
+msgstr ""
+
+msgctxt "1164"
+msgid "This high-end Italian women's watch is sure to turn heads and make a wonderful gift."
+msgstr ""
+
+msgctxt "1196"
+msgid "This high-end Italian necklace would be a nice gift for a woman of discerning tastes."
+msgstr ""
+
+msgctxt "1228"
+msgid "This caviar leather bag⑬that's a type of calf skin⑬was imported from France. It would make for a wonderful gift."
+msgstr ""
+
+msgctxt "1260"
+msgid "This sleek Italian-made ring would make a fine gift for your special someone."
+msgstr ""
+
+msgctxt "1292"
+msgid "A high-end Italian necklace for men. Crafted of silver and very distinguished. "
+msgstr ""
+
+msgctxt "1324"
+msgid "This luxurious women's coat from Britain would be a nice gift for a woman of discerning tastes."
+msgstr ""
+
+msgctxt "1356"
+msgid "This gold bracelet richly adorns the wrist, and its delicate decorative engravings lend it an air of luxury."
+msgstr ""
+
+msgctxt "1388"
+msgid "This silver bracelet looks chic on any wrist, and goes well with both formal and casual attire."
+msgstr ""
+
+msgctxt "1420"
+msgid "These jewel-studded earrings will gorgeously adorn the ears."
+msgstr ""
+
+msgctxt "1452"
+msgid "Made with glittering gold, these earrings are sure to draw attention."
+msgstr ""
+
+msgctxt "1484"
+msgid "Made of finely crafted leather, this strap is the perfect accessory for any cell phone."
+msgstr ""
+
+msgctxt "1516"
+msgid "This silver strap lends an air of luxury to any cell phone."
+msgstr ""
+
+msgctxt "1548"
+msgid "These famous Italian-brand boots were crafted from soft leather that fit every contour of your feet perfectly."
+msgstr ""
+
+msgctxt "1580"
+msgid "These finely crafted sandals were made by a famous French brand."
+msgstr ""
+
+msgctxt "1612"
+msgid "This famous Italian-brand belt is the very definition of luxury. Wear this work of art around your waist."
+msgstr ""
+

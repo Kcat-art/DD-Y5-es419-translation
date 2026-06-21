@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "132"
+msgid "Can I interest you in baccarat?"
+msgstr ""
+

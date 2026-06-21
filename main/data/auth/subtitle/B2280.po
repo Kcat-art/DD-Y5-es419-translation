@@ -1,0 +1,70 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	236	176"
+msgid "This is the place."
+msgstr ""
+
+msgctxt " 	　		66	345	279"
+msgid "Surprised ya remembered where it was."
+msgstr ""
+
+msgctxt " 	　	　	102	478	376"
+msgid "I used to come here all the time.\\r\n"
+"One of my brothers ran it."
+msgstr ""
+
+msgctxt " 	　	　	101	664	494"
+msgid "I was hoping it would still have a spark of life\\r\n"
+"left, but the only life here now is the rats."
+msgstr ""
+
+msgctxt " 	　	　	111	782	671"
+msgid "Not that it matters.\\r\n"
+"This works out just fine for us."
+msgstr ""
+
+msgctxt " 	　	　	66	966	900"
+msgid "Please. Nice and clean for you."
+msgstr ""
+
+msgctxt " 	　	　	163	1238	1075"
+msgid "It's only been ten years, but\\r\n"
+"Tsukimino's practically a whole new city."
+msgstr ""
+
+msgctxt " 	　	OK	194	1465	1271"
+msgid "Bars like this used to own the town.\\r\n"
+"Sad to see how far the mighty have fallen."
+msgstr ""
+
+msgctxt " 	　	　	129	1741	1612"
+msgid "Got that right. This one\\r\n"
+"musta gone under years ago."
+msgstr ""
+
+msgctxt " 	　	　	60	1991	1931"
+msgid "Found it!"
+msgstr ""
+
+msgctxt " 	　	　	75	2194	2119"
+msgid "The Macallan 1946."
+msgstr ""
+
+msgctxt " 	　	　	60	2312	2252"
+msgid "Just a second."
+msgstr ""
+
+msgctxt " 	　	　	154	2923	2769"
+msgid "It should be fine to drink.\\r\n"
+"The seal wasn't broken or anything."
+msgstr ""
+
+msgctxt " 	　	　	60	3250	3190"
+msgid "Damn, that's good!"
+msgstr ""
+
+msgctxt " 	　	　	60	3354	3294"
+msgid "Real good."
+msgstr ""
+

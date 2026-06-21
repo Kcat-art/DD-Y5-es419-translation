@@ -1,0 +1,16 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "484"
+msgid "Show"
+msgstr ""
+
+msgctxt "488"
+msgid "Hide"
+msgstr ""
+
+msgctxt "44_Show"
+msgid "Show the cue ball's predicted path?\\r\n"
+"(Displaying the trajectory enables easier play.)"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "296"
+msgid "H10120_tojyokai"
+msgstr ""
+
+msgctxt "300"
+msgid "A10500_kanai_shinkansen"
+msgstr ""
+

@@ -1,0 +1,187 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid "/‐"
+msgstr ""
+
+msgctxt "16"
+msgid "/‐"
+msgstr ""
+
+msgctxt "20"
+msgid "/‐"
+msgstr ""
+
+msgctxt "24"
+msgid "/‐"
+msgstr ""
+
+msgctxt "28"
+msgid "/‐"
+msgstr ""
+
+msgctxt "32"
+msgid "Owned"
+msgstr ""
+
+msgctxt "36"
+msgid "Owned"
+msgstr ""
+
+msgctxt "40"
+msgid "Owned"
+msgstr ""
+
+msgctxt "44"
+msgid "Owned"
+msgstr ""
+
+msgctxt "48"
+msgid "Owned"
+msgstr ""
+
+msgctxt "52"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "60"
+msgid "(Don't got anythin' in mind.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(I've got nothing selected.)  "
+msgstr ""
+
+msgctxt "68"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "72"
+msgid "(I don't have enough money for that.)"
+msgstr ""
+
+msgctxt "76"
+msgid "(Don't have the cash. How am I so broke?)"
+msgstr ""
+
+msgctxt "80"
+msgid "(Don't got the cash for that.)"
+msgstr ""
+
+msgctxt "84"
+msgid "(Don't got enough on me.)  "
+msgstr ""
+
+msgctxt "88"
+msgid "(Looks like I don't have enough.)"
+msgstr ""
+
+msgctxt "92"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "96"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "100"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "104"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "108"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "112"
+msgid "(I can't drink another drop.)"
+msgstr ""
+
+msgctxt "116"
+msgid "(Probably shouldn't. I'm seeing double as is."
+msgstr ""
+
+msgctxt "120"
+msgid "(Gonna explode if I drink any more.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(I can't drink anymore.)  "
+msgstr ""
+
+msgctxt "128"
+msgid "(I'm not old enough to drink.)"
+msgstr ""
+
+msgctxt "132"
+msgid "－"
+msgstr ""
+
+msgctxt "136"
+msgid "－"
+msgstr ""
+
+msgctxt "140"
+msgid "－"
+msgstr ""
+
+msgctxt "144"
+msgid "－"
+msgstr ""
+
+msgctxt "148"
+msgid "－"
+msgstr ""
+
+msgctxt "152"
+msgid "Order"
+msgstr ""
+
+msgctxt "156"
+msgid "Order"
+msgstr ""
+
+msgctxt "160"
+msgid "Order"
+msgstr ""
+
+msgctxt "164"
+msgid "Order"
+msgstr ""
+
+msgctxt "168"
+msgid "Order"
+msgstr ""
+
+msgctxt "412"
+msgid "sitcnt"
+msgstr ""
+
+msgctxt "492"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "524"
+msgid "The best scotch available, hands down."
+msgstr ""
+
+msgctxt "540"
+msgid "This bottle is the pinnacle of Scotch whiskies, head and shoulders above the competition."
+msgstr ""
+
+msgctxt "544"
+msgid "More than thirty different single malts aged over thirty years are hand selected for their mellow character and blended. Truly the king of blended whiskies."
+msgstr ""
+
+msgctxt "548"
+msgid "You can enjoy the taste of this whisky that can only be achieved by thirty years of aging. The fact that only 2,500 cases are bottled each year makes it quite rare."
+msgstr ""
+

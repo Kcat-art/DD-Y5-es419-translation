@@ -1,0 +1,121 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		87	357	270"
+msgid "Welcome! Oh, it's you, Shinada."
+msgstr ""
+
+msgctxt " 	　	　	60	425	365"
+msgid "Ushijima-san!"
+msgstr ""
+
+msgctxt " 	　	分	88	525	437"
+msgid "I could cry right now with how nice you're being!"
+msgstr ""
+
+msgctxt " 	　	　	157	683	526"
+msgid "Yeah, spare me the tears. You're not even\\r\n"
+"getting a glass of water 'til you settle your tab."
+msgstr ""
+
+msgctxt " 	　	　	103	800	697"
+msgid "Though... I <Italic>do</Italic> accept gift certificates."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	33	858	825"
+msgid "How'd you know about that!?"
+msgstr ""
+
+msgctxt " 	　	　	104	963	859"
+msgid "Idiot. I'm the chamber of commerce chairman."
+msgstr ""
+
+msgctxt " 	　	　	137	1101	964"
+msgid "I told them to call me first thing\\r\n"
+"if you hit a home run."
+msgstr ""
+
+msgctxt " 	　	　	60	1180	1120"
+msgid "That old blabbermouth..."
+msgstr ""
+
+msgctxt " 	　	　	92	1273	1181"
+msgid "Here. Five grand and it's yours."
+msgstr ""
+
+msgctxt " 	　	　	73	1408	1335"
+msgid "Well, the thing is..."
+msgstr ""
+
+msgctxt " 	　	　	139	1575	1436"
+msgid "What? Don't tell me you spent it already!"
+msgstr ""
+
+msgctxt " 	　	　	94	1799	1705"
+msgid "Please, Ushijima-san!\\r\n"
+"Let it slide just this once!"
+msgstr ""
+
+msgctxt " 	　	分	62	1862	1800"
+msgid "I haven't eaten a bite all day!"
+msgstr ""
+
+msgctxt " 	　	　	142	2007	1865"
+msgid "The exit is thataway. Don't let\\r\n"
+"the door hit you on the way out."
+msgstr ""
+
+msgctxt " 	　	　	106	2114	2008"
+msgid "I'm begging you, Ushijima-san!\\r\n"
+"I'll take <Italic>anything</Italic>!"
+msgstr ""
+
+msgctxt " 	　	　	102	2217	2115"
+msgid "Some nerve you got there, Shinada."
+msgstr ""
+
+msgctxt " 	　	　	91	2309	2218"
+msgid "But you used to let me eat for free all the time!"
+msgstr ""
+
+msgctxt " 	　	　	144	2461	2317"
+msgid "It wasn't free. Do you even realize\\r\n"
+"how big a tab you ran up?"
+msgstr ""
+
+msgctxt " 	　	　	63	2541	2478"
+msgid "Money's tight for everyone these days."
+msgstr ""
+
+msgctxt " 	　	分	123	2665	2542"
+msgid "But if we all help each other out,\\r\n"
+"we can at least live happy."
+msgstr ""
+
+msgctxt " 	　	　	108	2778	2670"
+msgid "You're just feeding off people's generosity."
+msgstr ""
+
+msgctxt " 	　	　	133	2950	2817"
+msgid "Hey! Where's my damn spaghetti!?\\r\n"
+"I'm starvin' here!"
+msgstr ""
+
+msgctxt " 	　	　	67	3018	2951"
+msgid "Yup, coming right up!"
+msgstr ""
+
+msgctxt " 	　	　	125	3179	3054"
+msgid "Weird. Not often you see guys\\r\n"
+"from that line of work in here."
+msgstr ""
+
+msgctxt " 	　	　	130	3337	3207"
+msgid "Looks like they're dressed for\\r\n"
+"a funeral, too. Did something happen?"
+msgstr ""
+
+msgctxt " 	　	　	60	3454	3394"
+msgid "Don't stare."
+msgstr ""
+

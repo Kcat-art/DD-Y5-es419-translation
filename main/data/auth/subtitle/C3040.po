@@ -1,0 +1,178 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		99	200	101"
+msgid "Yes, that's right.\\r\n"
+"She's on Soten TV now."
+msgstr ""
+
+msgctxt "60ｆ以下です	　		39	255	216"
+msgid "Yup, uh-huh."
+msgstr ""
+
+msgctxt " 	　		81	337	256"
+msgid "Haruka Sawamura. She's with us."
+msgstr ""
+
+msgctxt " 	　		60	433	373"
+msgid "Oh, yes! Naturally."
+msgstr ""
+
+msgctxt " 	　		82	527	445"
+msgid "Sawamura is our brightest star."
+msgstr ""
+
+msgctxt "60ｆ以下です	　		53	604	551"
+msgid "Yeah, exactly!"
+msgstr ""
+
+msgctxt " 	　		110	715	605"
+msgid "If she wins the Princess League,\\r\n"
+"she's guaranteed her major debut!"
+msgstr ""
+
+msgctxt " 	　	　	151	894	743"
+msgid "Seriously? You really meant that?\\r\n"
+"That would be wonderful!"
+msgstr ""
+
+msgctxt " 	　	　	60	977	917"
+msgid "Yes, absolutely."
+msgstr ""
+
+msgctxt " 	　		79	1089	1010"
+msgid "I see. That'd be great!"
+msgstr ""
+
+msgctxt " 	　		90	1203	1113"
+msgid "Thanks for calling. Bye, now!"
+msgstr ""
+
+msgctxt " 	　		62	1532	1470"
+msgid "Hey, Horie-chan.\\r\n"
+"Cup o' water, will ya?"
+msgstr ""
+
+msgctxt " 	　		66	1725	1659"
+msgid "...Yes, of course."
+msgstr ""
+
+msgctxt "60ｆ以下です	　		45	1851	1806"
+msgid "With all respect, ma'am."
+msgstr ""
+
+msgctxt " 	　		178	2030	1852"
+msgid "Ya seriously expect me to get her ready for\\r\n"
+"the Princess League with just a week left?"
+msgstr ""
+
+msgctxt " 	　		91	2122	2031"
+msgid "Ain't a chance! We'd need months."
+msgstr ""
+
+msgctxt " 	　	　	60	2402	2342"
+msgid "It's a little late for complaints."
+msgstr ""
+
+msgctxt " 	　	分	89	2501	2412"
+msgid "If you're really a pro, you'll have\\r\n"
+"her ready by the time it starts."
+msgstr ""
+
+msgctxt " 	　	　	109	2639	2530"
+msgid "The deal was that we'd get her\\r\n"
+"shinin' over the course of a year."
+msgstr ""
+
+msgctxt " 	　	　	123	2776	2653"
+msgid "Now you're sayin' it's six months?\\r\n"
+"That just ain't reasonable!"
+msgstr ""
+
+msgctxt " 	　	　	92	2870	2778"
+msgid "Her singin' needs work.\\r\n"
+"Her dancin' needs work."
+msgstr ""
+
+msgctxt " 	　		106	2977	2871"
+msgid "We gotta zero in on one thing\\r\n"
+"at a time if she's gonna make the grade."
+msgstr ""
+
+msgctxt " 	　	　	115	3120	3005"
+msgid "Haruka's far too special to settle\\r\n"
+"for simply \"making the grade.\""
+msgstr ""
+
+msgctxt " 	　	　	81	3236	3155"
+msgid "She's a real diamond in the rough, yeah."
+msgstr ""
+
+msgctxt " 	　		131	3368	3237"
+msgid "Got the moves, the instinct,\\r\n"
+"the looks. Boatload o' grit, too."
+msgstr ""
+
+msgctxt " 	　	　	98	3478	3380"
+msgid "Outta all the girls ya brought\\r\n"
+"'round the past six months..."
+msgstr ""
+
+msgctxt " 	　	分	106	3585	3479"
+msgid "She's the only one who's\\r\n"
+"toughed it out n' stuck around."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	54	3709	3655"
+msgid "Then what's the problem?"
+msgstr ""
+
+msgctxt " 	　	　	165	3875	3710"
+msgid "I'm sayin', <Italic>because</Italic> she's so special,\\r\n"
+"we really oughta give her time to blossom."
+msgstr ""
+
+msgctxt " 	　	　	70	3946	3876"
+msgid "You've said enough, Ogita."
+msgstr ""
+
+msgctxt " 	　	　	75	4031	3956"
+msgid "Now shut your mouth and do as you're told."
+msgstr ""
+
+msgctxt " 	　	分	71	4103	4032"
+msgid "I'm paying you well enough for at least that."
+msgstr ""
+
+msgctxt " 	　	　	136	4320	4184"
+msgid "But, ma'am, he's clearly only saying this\\r\n"
+"out of concern for Haruka's well-being..."
+msgstr ""
+
+msgctxt " 	　	　	92	4782	4690"
+msgid "You and I signed a contract."
+msgstr ""
+
+msgctxt " 	　	　	135	4936	4801"
+msgid "If you can't meet the terms,\\r\n"
+"I'd be glad to terminate it."
+msgstr ""
+
+msgctxt " 	　	　	128	5093	4965"
+msgid "Of course, since you aren't\\r\n"
+"fulfilling your end of the deal..."
+msgstr ""
+
+msgctxt " 	　	　	85	5180	5095"
+msgid "There would be consequences."
+msgstr ""
+
+msgctxt " 	　		60	5280	5220"
+msgid "What do you say?"
+msgstr ""
+
+msgctxt " 	　		128	5555	5427"
+msgid "Whatever, I'll do it.\\r\n"
+"Ya happy now?"
+msgstr ""
+

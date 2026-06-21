@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "168"
+msgid "Where is he...?"
+msgstr ""
+
+msgctxt "192"
+msgid "Where is he...?"
+msgstr ""
+
+msgctxt "216"
+msgid "Please, help!"
+msgstr ""
+
+msgctxt "240"
+msgid "What's wrong with me?"
+msgstr ""
+

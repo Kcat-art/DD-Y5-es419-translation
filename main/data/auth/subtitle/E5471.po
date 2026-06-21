@@ -1,0 +1,237 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1014	950	2528	2464	2621	2557		 	　	　	64	1014	950"
+msgid "Hey, what are you doing?"
+msgstr ""
+
+msgctxt "1110	1029	2624	2543	2717	2636		 	　		81	1110	1029"
+msgid "The next song's gonna start!"
+msgstr ""
+
+msgctxt "1191	1131	2705	2645	2798	2738		 	　	　	60	1191	1131"
+msgid "Haruka?"
+msgstr ""
+
+msgctxt "1781	1721	3295	3235	3388	3328		 	　	　	60	1781	1721"
+msgid "Hi, everyone."
+msgstr ""
+
+msgctxt "1926	1827	3440	3341	3533	3434		 	　	　	99	1926	1827"
+msgid "There's something I have\\r\n"
+"to get off my chest."
+msgstr ""
+
+msgctxt "2182	2063	3696	3577	3789	3670		 	　	　	119	2182	2063"
+msgid "The reason I'm standing on this stage tonight..."
+msgstr ""
+
+msgctxt "2279	2199	3793	3713	3886	3806		 	　		80	2279	2199"
+msgid "Is thanks to the help of so many others."
+msgstr ""
+
+msgctxt "2428	2303	3942	3817	4035	3910		 	　	　	125	2428	2303"
+msgid "The president and the manager of my\\r\n"
+"agency who have always had my back."
+msgstr ""
+
+msgctxt "2588	2476	4102	3990	4195	4083		 	　	　	112	2588	2476"
+msgid "The coaches who stuck with me, even\\r\n"
+"when I couldn't get anything right."
+msgstr ""
+
+msgctxt "2738	2644	4252	4158	4345	4251		 	　	　	94	2738	2644"
+msgid "My rivals, who competed with\\r\n"
+"me in the Princess League."
+msgstr ""
+
+msgctxt "2955	2780	4469	4294	4562	4387		 	　	　	175	2955	2780"
+msgid "And above all, I have to thank the\\r\n"
+"people who have always supported me..."
+msgstr ""
+
+msgctxt "3022	2977	4536	4491	4629	4584		 	　		60	3022	2977"
+msgid "Everyone here tonight."
+msgstr ""
+
+msgctxt "3261	3082	4775	4596	4868	4689		 	　	　	179	3261	3082"
+msgid "But there's something I've\\r\n"
+"been hiding from all of you."
+msgstr ""
+
+msgctxt "3468	3353	4982	4867	5075	4960		 	　	　	115	3468	3353"
+msgid "It's about my family."
+msgstr ""
+
+msgctxt "3680	3552	5194	5066	5287	5159		 	　	　	128	3680	3552"
+msgid "I grew up without knowing\\r\n"
+"what it was like to have parents."
+msgstr ""
+
+msgctxt "3859	3714	5373	5228	5466	5321		 	　	　	145	3859	3714"
+msgid "My only family was the other\\r\n"
+"kids who lived in the orphanage..."
+msgstr ""
+
+msgctxt "4040	3868	5554	5382	5647	5475		 	　	　	172	4040	3868"
+msgid "And the man who looked after us.\\r\n"
+"They mean as much to me as any real family."
+msgstr ""
+
+msgctxt "4189	4092	5703	5606	5796	5699		 	　	　	97	4189	4092"
+msgid "But even though I love them..."
+msgstr ""
+
+msgctxt "4308	4243	5822	5757	5915	5850		 	　		65	4308	4243"
+msgid "I left them all behind."
+msgstr ""
+
+msgctxt "4463	4393	5977	5907	6070	6000		 	　	　	70	4463	4393"
+msgid "To make my debut as an idol."
+msgstr ""
+
+msgctxt "4599	4501	6113	6015	6206	6108		 	　	　	98	4599	4501"
+msgid "What is she doing up there!?\\r\n"
+"Get security to shut her down!"
+msgstr ""
+
+msgctxt "4661	4601	6175	6115	6268	6208		 	　	　	60	4661	4601"
+msgid "On it!"
+msgstr ""
+
+msgctxt "4821	4690	6335	6204	6428	6297		 	　	　	131	4821	4690"
+msgid "Every girl dreams of becoming a star one day."
+msgstr ""
+
+msgctxt "4898	4837	6412	6351	6505	6444		 	　		61	4898	4837"
+msgid "I wasn't any different."
+msgstr ""
+
+msgctxt "5115	4919	6629	6433	6722	6526		 	　	　	196	5115	4919"
+msgid "But the reality is that I had\\r\n"
+"already found what made me whole."
+msgstr ""
+
+msgctxt "5316	5190	6830	6704	6923	6797		 	　	　	126	5316	5190"
+msgid "I thought that if I could make it as an idol..."
+msgstr ""
+
+msgctxt "5440	5341	6954	6855	7047	6948		 	　		99	5440	5341"
+msgid "I'd be able to help keep the orphanage running."
+msgstr ""
+
+msgctxt "5574	5498	7088	7012	7181	7105		 	　	　	76	5574	5498"
+msgid "But it came at a cost."
+msgstr ""
+
+msgctxt "5770	5606	7284	7120	7377	7213		 	　	　	164	5770	5606"
+msgid "I would have to leave behind\\r\n"
+"the very man who raised me..."
+msgstr ""
+
+msgctxt "5852	5787	7366	7301	7459	7394		 	　	分	65	5852	5787"
+msgid "And cut all ties to him."
+msgstr ""
+
+msgctxt "6026	5955	7540	7469	7633	7562		 	　	　	71	6026	5955"
+msgid "This man, who made me who I am today..."
+msgstr ""
+
+msgctxt "6166	6052	7680	7566	7773	7659		 	　		114	6166	6052"
+msgid "Was once a member of the yakuza."
+msgstr ""
+
+msgctxt "6311	6224	7825	7738	7918	7831		 	　	　	87	6311	6224"
+msgid "I know he looks scary to most people..."
+msgstr ""
+
+msgctxt "6531	6357	8045	7871	8138	7964		 	　	　	174	6531	6357"
+msgid "But he always treated me\\r\n"
+"with respect and kindness."
+msgstr ""
+
+msgctxt "6708	6566	8222	8080	8315	8173		 	　	　	142	6708	6566"
+msgid "Even though he was unconventional,\\r\n"
+"I could always rely on him."
+msgstr ""
+
+msgctxt "6900	6785	8414	8299	8507	8392		 	　	　	115	6900	6785"
+msgid "I... I think of him like a father.\\r\n"
+"And I love him."
+msgstr ""
+
+msgctxt "7020	6960	8534	8474	8627	8567		 	　	　	60	7020	6960"
+msgid "I love him very much."
+msgstr ""
+
+msgctxt "7189	7058	8703	8572	8796	8665		 	　	　	131	7189	7058"
+msgid "But now, even as I speak..."
+msgstr ""
+
+msgctxt "7310	7218	8824	8732	8917	8825		 	　		92	7310	7218"
+msgid "I'm not allowed to call him my family anymore."
+msgstr ""
+
+msgctxt "7626	7503	9140	9017	9233	9110		 	　	　	123	7626	7503"
+msgid "I don't regret anything I've done."
+msgstr ""
+
+msgctxt "7794	7665	9308	9179	9401	9272		 	　	　	129	7794	7665"
+msgid "I can't express how grateful I am\\r\n"
+"to the president of my agency..."
+msgstr ""
+
+msgctxt "7909	7819	9423	9333	9516	9426		 	　	分	90	7909	7819"
+msgid "She opened the door to this world for me."
+msgstr ""
+
+msgctxt "8201	8006	9715	9520	9808	9613		 	　	　	195	8201	8006"
+msgid "Every day is a new experience.\\r\n"
+"Happy ones. Fun ones."
+msgstr ""
+
+msgctxt "8389	8229	9903	9743	9996	9836		 	　	　	160	8389	8229"
+msgid "Painful ones. Tragic ones.\\r\n"
+"We were all in it together."
+msgstr ""
+
+msgctxt "8582	8419	10096	9933	10189	10026		 	　	　	163	8582	8419"
+msgid "I admit that it's exciting to think\\r\n"
+"of where this life could take me."
+msgstr ""
+
+msgctxt "8937	8696	10451	10210	10544	10303		 	　	　	241	8937	8696"
+msgid "But I can't bear to live a life where\\r\n"
+"I'm forced to lie to my fans and myself."
+msgstr ""
+
+msgctxt "9060	8969	10574	10483	10667	10576		 	　	　	91	9060	8969"
+msgid "I just can't do that."
+msgstr ""
+
+msgctxt "9248	9148	10762	10662	10855	10755		 	　	　	100	9248	9148"
+msgid "My dream was to become a star."
+msgstr ""
+
+msgctxt "9363	9303	10877	10817	10970	10910		 	　	　	60	9363	9303"
+msgid "But there's something I want even more than that."
+msgstr ""
+
+msgctxt "9569	9426	11083	10940	11176	11033		 	　	　	143	9569	9426"
+msgid "I want to live a happy life\\r\n"
+"with the people I hold closest."
+msgstr ""
+
+msgctxt "9856	9641	11370	11155	11463	11248		 	　	　	215	9856	9641"
+msgid "Standing on this stage, I've finally\\r\n"
+"realized how important that is."
+msgstr ""
+
+msgctxt "10037	9917	11551	11431	11644	11524		 	　	　	120	10037	9917"
+msgid "That's why I can't continue singing."
+msgstr ""
+
+msgctxt "10430	10259	11944	11773	12037	11866		 	　	　	171	10430	10259"
+msgid "To me, Kazuma Kiryu... is family."
+msgstr ""
+

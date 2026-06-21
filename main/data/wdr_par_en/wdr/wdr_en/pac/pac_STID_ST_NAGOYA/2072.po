@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1424"
+msgid "Win fabulous prizes!"
+msgstr ""
+

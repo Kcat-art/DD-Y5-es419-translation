@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "704"
+msgid "Dreaming Driver"
+msgstr ""
+
+msgctxt "708"
+msgid "Sensible Spouse"
+msgstr ""
+
+msgctxt "712"
+msgid "Dreamless Driver"
+msgstr ""
+
+msgctxt "72_Dreaming Driver"
+msgid "One of these days, we're gonna speed around in a flashy, roarin' muscle car, babe."
+msgstr ""
+
+msgctxt "84_Dreaming Driver"
+msgid "If we're going to get married and have kids, a minivan's the ideal choice. We want a boy and a girl, right?"
+msgstr ""
+
+msgctxt "96_Dreaming Driver"
+msgid "......"
+msgstr ""
+

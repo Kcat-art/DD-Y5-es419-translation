@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "632"
+msgid "dummy"
+msgstr ""
+
+msgctxt "84_dummy"
+msgid "You learned <Color:9>Essence of Snowman<Color:Default>!"
+msgstr ""
+
+msgctxt "96_dummy"
+msgid "You weren't inspired."
+msgstr ""
+

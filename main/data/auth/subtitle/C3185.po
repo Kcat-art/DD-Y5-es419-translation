@@ -1,0 +1,256 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		73	148	75"
+msgid "Isn't this your pen, ma'am?"
+msgstr ""
+
+msgctxt " 	　	分	70	238	168"
+msgid "Are you sure? This looks\\r\n"
+"really expensive!"
+msgstr ""
+
+msgctxt " 	　	　	129	385	256"
+msgid "It doesn't just <Italic>look</Italic> expensive.\\r\n"
+"It is. Take good care of it."
+msgstr ""
+
+msgctxt " 	　	　	60	474	414"
+msgid "I'll treasure it."
+msgstr ""
+
+msgctxt " 	　	　	60	556	496"
+msgid "That fountain pen has a story."
+msgstr ""
+
+msgctxt " 	　	分	164	740	576"
+msgid "It was a gift back when my debut was\\r\n"
+"announced, from someone very dear to me."
+msgstr ""
+
+msgctxt " 	　	　	78	849	771"
+msgid "It's been my good luck charm ever since."
+msgstr ""
+
+msgctxt " 	　	　	133	1001	868"
+msgid "I even brought it on stage with me\\r\n"
+"the night of my debut, hidden behind the mic."
+msgstr ""
+
+msgctxt " 	　	　	127	1153	1026"
+msgid "Wow. You must have been really nervous, huh?"
+msgstr ""
+
+msgctxt " 	　	　	85	1285	1200"
+msgid "That night was child's play in hindsight."
+msgstr ""
+
+msgctxt " 	　	分	84	1381	1297"
+msgid "It's what comes after your debut\\r\n"
+"that really matters."
+msgstr ""
+
+msgctxt " 	　	　	117	1545	1428"
+msgid "In my case, my whole life\\r\n"
+"got turned upside down."
+msgstr ""
+
+msgctxt " 	　	　	60	1626	1566"
+msgid "What happened?"
+msgstr ""
+
+msgctxt " 	　	　	123	1817	1694"
+msgid "Well, when I debuted at eighteen..."
+msgstr ""
+
+msgctxt " 	　		60	1896	1836"
+msgid "I was already married."
+msgstr ""
+
+msgctxt " 	　	　	79	2005	1926"
+msgid "To the man who gave me that pen."
+msgstr ""
+
+msgctxt " 	　	分	134	2166	2032"
+msgid "Of course, I kept it a secret from\\r\n"
+"my agency, and the world."
+msgstr ""
+
+msgctxt " 	　	　	153	2348	2195"
+msgid "I was already hiding both my troubled\\r\n"
+"upbringing and my Korean ancestry."
+msgstr ""
+
+msgctxt " 	　	　	155	2504	2349"
+msgid "My marriage was just one more\\r\n"
+"needle in the haystack."
+msgstr ""
+
+msgctxt " 	　	分	60	2600	2540"
+msgid "It went surprisingly fine for a time."
+msgstr ""
+
+msgctxt " 	　	　	60	2691	2631"
+msgid "But one day..."
+msgstr ""
+
+msgctxt " 	　	分	95	2815	2720"
+msgid "I realized I had gotten pregnant."
+msgstr ""
+
+msgctxt " 	　	　	60	2941	2881"
+msgid "I got rid of it right away."
+msgstr ""
+
+msgctxt " 	　	分	73	3033	2960"
+msgid "I didn't hesitate much at the time."
+msgstr ""
+
+msgctxt " 	　	OK	187	3237	3050"
+msgid "I was still so young. I thought it was just\\r\n"
+"a sacrifice I had to make as an idol."
+msgstr ""
+
+msgctxt " 	　	　	67	3335	3268"
+msgid "I didn't tell my husband until afterward."
+msgstr ""
+
+msgctxt " 	　	　	134	3504	3370"
+msgid "He had never hit me before that."
+msgstr ""
+
+msgctxt " 	　	　	143	3778	3635"
+msgid "And then... he left."
+msgstr ""
+
+msgctxt " 	　	　	116	3935	3819"
+msgid "Said he'd just be holding me\\r\n"
+"back from my dream if he stayed."
+msgstr ""
+
+msgctxt " 	　	　	99	4103	4004"
+msgid "I accepted it as another necessary sacrifice."
+msgstr ""
+
+msgctxt " 	　	　	162	4314	4152"
+msgid "But not long after, my agency found out\\r\n"
+"that I had been secretly married."
+msgstr ""
+
+msgctxt " 	　	　	89	4416	4327"
+msgid "They were hesitant to promote me after that."
+msgstr ""
+
+msgctxt " 	　	　	191	4569	4455"
+msgid "My scandal was a ticking timebomb waiting to blow."
+msgstr ""
+
+msgctxt " 	　	分	76	4646	4570"
+msgid "So naturally they didn't want to invest in me."
+msgstr ""
+
+msgctxt " 	　	　	107	4781	4674"
+msgid "Event after event was scratched off my schedule."
+msgstr ""
+
+msgctxt " 	　	　	148	4960	4812"
+msgid "Even a massive concert at the Japan Dome.\\r\n"
+"It would've been spectacular."
+msgstr ""
+
+msgctxt " 	　	　	169	5189	5020"
+msgid "You were such a big deal, ma'am.\\r\n"
+"I had no idea."
+msgstr ""
+
+msgctxt " 	　	　	82	5375	5293"
+msgid "That concert was my dream."
+msgstr ""
+
+msgctxt " 	　	OK	193	5605	5412"
+msgid "I was going to show the world. Show the family\\r\n"
+"that abandoned me... that I'd finally made it."
+msgstr ""
+
+msgctxt " 	　	　	76	5725	5649"
+msgid "A crowd of 55,000."
+msgstr ""
+
+msgctxt " 	　	　	117	5949	5832"
+msgid "Not bad for a girl who wasn't\\r\n"
+"even loved by her own parents."
+msgstr ""
+
+msgctxt " 	　	　	144	6128	5984"
+msgid "I thought maybe, just maybe my ex\\r\n"
+"would come to cheer me on, too."
+msgstr ""
+
+msgctxt " 	　	分	60	6201	6141"
+msgid "Silly, right?"
+msgstr ""
+
+msgctxt " 	　	　	131	6404	6273"
+msgid "But it never came to be.\\r\n"
+"My agency made sure of that."
+msgstr ""
+
+msgctxt " 	　	分	114	6538	6424"
+msgid "Forget the concert. I could\\r\n"
+"barely even book a gig after that."
+msgstr ""
+
+msgctxt " 	　	　	111	6680	6569"
+msgid "Until finally, even the smallest leads dried up."
+msgstr ""
+
+msgctxt " 	　	OK	190	6921	6731"
+msgid "Learning I could no longer bear children\\r\n"
+"was the final insult. I was broken."
+msgstr ""
+
+msgctxt " 	　	　	60	7041	6981"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt " 	　	　	132	7286	7151"
+msgid "I wasn't sure if I'd ever make amends\\r\n"
+"for what I sacrificed to become a star."
+msgstr ""
+
+msgctxt " 	　	　	175	7505	7330"
+msgid "Thinking back on it, maybe that's why\\r\n"
+"I wanted to help develop a successful idol."
+msgstr ""
+
+msgctxt " 	　	　	167	7713	7546"
+msgid "Perhaps I'm just struggling to\\r\n"
+"find some form of redemption."
+msgstr ""
+
+msgctxt " 	　	　	125	7872	7747"
+msgid "Either way, this is all I have left."
+msgstr ""
+
+msgctxt " 	　	　	77	8044	7967"
+msgid "Sorry to have dragged you into this."
+msgstr ""
+
+msgctxt " 	　	　	176	8239	8063"
+msgid "Don't say that! I'll work hard,\\r\n"
+"for you and me both, ma'am."
+msgstr ""
+
+msgctxt " 	　	　	60	8386	8326"
+msgid "Thank you, Haruka."
+msgstr ""
+
+msgctxt " 	　	　	60	8463	8403"
+msgid "And you know..."
+msgstr ""
+
+msgctxt " 	　	分	149	8622	8473"
+msgid "Thanks to you, I may have already\\r\n"
+"gotten back a bit of what I lost."
+msgstr ""
+

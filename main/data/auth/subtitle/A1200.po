@@ -1,0 +1,43 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	1442	1382"
+msgid "The Tojo Clan..."
+msgstr ""
+
+msgctxt " 	 	　	60	1935	1888"
+msgid "Welcome home."
+msgstr ""
+
+msgctxt " 	 		60	1996	1936"
+msgid "Yeah."
+msgstr ""
+
+msgctxt " 	 	　	60	2063	2003"
+msgid "Mayumi."
+msgstr ""
+
+msgctxt " 	 	　	112	2196	2084"
+msgid "Sorry, but you mind heading home for tonight?"
+msgstr ""
+
+msgctxt " 	 	　	60	2273	2213"
+msgid "But..."
+msgstr ""
+
+msgctxt " 	 	改行位置修正	145	2499	2354"
+msgid "These two work with an old friend of mine."
+msgstr ""
+
+msgctxt " 	 	　	105	2608	2503"
+msgid "We have a lot of catching up to do."
+msgstr ""
+
+msgctxt " 	 	　	60	2786	2726"
+msgid "Please."
+msgstr ""
+
+msgctxt " 	 		60	2919	2859"
+msgid "...All right."
+msgstr ""
+

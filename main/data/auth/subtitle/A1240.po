@@ -1,0 +1,187 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	467	407"
+msgid "What a champ."
+msgstr ""
+
+msgctxt " 	　	　	152	628	476"
+msgid "Those boys are no pushovers,\\r\n"
+"but you mopped the damn floor with 'em."
+msgstr ""
+
+msgctxt " 	　	　	76	725	649"
+msgid "Guess ya haven't lost your touch!"
+msgstr ""
+
+msgctxt " 	　	　	125	865	740"
+msgid "So, time to tell me the truth."
+msgstr ""
+
+msgctxt " 	　	　	106	1000	894"
+msgid "Uh... 'Bout what, again?"
+msgstr ""
+
+msgctxt " 	　	　	97	1098	1001"
+msgid "Knock it off.\\r\n"
+"Tell me where Daigo is!"
+msgstr ""
+
+msgctxt " 	　	　	155	1287	1132"
+msgid "If you're really yakuza...\\r\n"
+"you'll know when to get serious."
+msgstr ""
+
+msgctxt " 	　	　	119	1416	1297"
+msgid "Ooh, scary. No need to\\r\n"
+"pull protocol on me."
+msgstr ""
+
+msgctxt " 	　	　	67	1485	1418"
+msgid "Not like we're in a rush."
+msgstr ""
+
+msgctxt " 	　	　	60	1553	1493"
+msgid "Oh, would ya look at that."
+msgstr ""
+
+msgctxt " 	　	　	100	1665	1565"
+msgid "Hey, 'scuse me. Gimme the\\r\n"
+"fanciest bottle on the menu."
+msgstr ""
+
+msgctxt " 	　	　	137	1875	1738"
+msgid "C'mon, Kiryu-han. Lemme treat\\r\n"
+"ya to somethin' nice for yer trouble."
+msgstr ""
+
+msgctxt " 	　	　	138	2435	2297"
+msgid "Why the long face?\\r\n"
+"Go on, pull up a chair."
+msgstr ""
+
+msgctxt " 	　	　	118	2647	2529"
+msgid "Apologies for the wait, sir.\\r\n"
+"Is this to your liking?"
+msgstr ""
+
+msgctxt " 	　	　	104	2755	2651"
+msgid "This your top o' the shelf shit, yeah?"
+msgstr ""
+
+msgctxt " 	　	　	73	2841	2768"
+msgid "Yes. That's right, sir..."
+msgstr ""
+
+msgctxt " 	　	　	60	2902	2842"
+msgid "Then hand it over."
+msgstr ""
+
+msgctxt " 	　	　	89	3041	2952"
+msgid "Crazy to be drinkin' with you, Kiryu-han."
+msgstr ""
+
+msgctxt " 	　	　	143	3185	3042"
+msgid "Wouldn't look good, pourin' any ol'\\r\n"
+"sewer juice for ya."
+msgstr ""
+
+msgctxt " 	　	　	116	3541	3425"
+msgid "C'mon, Kiryu-han. Your turn."
+msgstr ""
+
+msgctxt " 	　	　	72	3815	3743"
+msgid "You're a real charmer."
+msgstr ""
+
+msgctxt " 	　	　	78	3937	3859"
+msgid "I prefer drinking alone."
+msgstr ""
+
+msgctxt " 	　	分	121	4065	3944"
+msgid "Not really interested\\r\n"
+"in sharing a bottle."
+msgstr ""
+
+msgctxt " 	　	　	60	4150	4090"
+msgid "So I see."
+msgstr ""
+
+msgctxt " 	　	分	96	4266	4170"
+msgid "Funny, though. That's not what I heard."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	56	4329	4273"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt " 	　	　	168	4498	4330"
+msgid "Three days back, you n' your boss\\r\n"
+"were havin' a grand ol' time in here."
+msgstr ""
+
+msgctxt " 	　	　	60	4559	4499"
+msgid "Ya shared a drink with <Italic>him</Italic>, yeah?"
+msgstr ""
+
+msgctxt " 	　	　	120	4725	4605"
+msgid "Figured ya'd show me the same courtesy."
+msgstr ""
+
+msgctxt " 	　	　	60	4792	4732"
+msgid "Real punch in the gut."
+msgstr ""
+
+msgctxt " 	　	　	60	4868	4808"
+msgid "Hold on."
+msgstr ""
+
+msgctxt " 	　	分	68	4947	4879"
+msgid "How do you know about that?"
+msgstr ""
+
+msgctxt " 	　	　	76	5075	4999"
+msgid "My sworn brother\\r\n"
+"flyin' the other colors."
+msgstr ""
+
+msgctxt " 	　	分	174	5256	5082"
+msgid "The Tojo Clan chief of HQ,\\r\n"
+"Minoru Aoyama."
+msgstr ""
+
+msgctxt " 	　	　	68	5344	5276"
+msgid "Aoyama?"
+msgstr ""
+
+msgctxt " 	　	　	82	5473	5391"
+msgid "He's Chairman Dojima's pet secretary."
+msgstr ""
+
+msgctxt " 	　	分	127	5615	5488"
+msgid "Everythin' the good chairman knows,\\r\n"
+"Aoyama's gonna know, too."
+msgstr ""
+
+msgctxt " 	　	　	175	5795	5620"
+msgid "Implyin' Aoyama knew all along\\r\n"
+"ya were layin' low in this nothin' town."
+msgstr ""
+
+msgctxt " 	　	　	97	5911	5814"
+msgid "He's been keepin' tabs on ya, you know."
+msgstr ""
+
+msgctxt " 	　	　	93	6015	5922"
+msgid "Makin' sure ya don't try anythin' funny."
+msgstr ""
+
+msgctxt " 	　	　	122	6250	6128"
+msgid "Finally said somethin' to\\r\n"
+"pique your interest, huh?"
+msgstr ""
+
+msgctxt " 	　	　	70	6328	6258"
+msgid "Then c'mon, take a load off."
+msgstr ""
+

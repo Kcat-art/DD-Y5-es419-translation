@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "344"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid "(Hirakawa-san might have some jobs for me. I'll go ask her.)"
+msgstr ""
+

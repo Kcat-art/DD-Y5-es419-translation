@@ -1,0 +1,48 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "								196	222	26"
+msgid "Your idols have been fighting with everything\\r\n"
+"they've got, exciting the entire nation!"
+msgstr ""
+
+msgctxt "							　	103	330	227"
+msgid "The air is absolutely crackling with tension!"
+msgstr ""
+
+msgctxt "							　	93	430	337"
+msgid "For our lucky top idol,\\r\n"
+"the Princess League will open doors."
+msgstr ""
+
+msgctxt "							　	112	543	431"
+msgid "And now it's time for round two of our finals!"
+msgstr ""
+
+msgctxt "							　	68	653	585"
+msgid "The rules are the same as before."
+msgstr ""
+
+msgctxt "							　	164	818	654"
+msgid "The fans here in our studio audience\\r\n"
+"will decide which performance is better."
+msgstr ""
+
+msgctxt "							　	75	894	819"
+msgid "And they'll move closer to that contestant's stage."
+msgstr ""
+
+msgctxt "							　	236	1148	912"
+msgid "Audience members, this is your chance\\r\n"
+"to lend alllll your support to your favorite idol!"
+msgstr ""
+
+msgctxt "							　	206	1370	1164"
+msgid "Let me introduce the two teams who gave\\r\n"
+"such electrifying performances in round one!"
+msgstr ""
+
+msgctxt "							　	93	1468	1375"
+msgid "First up, these contestants!"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "276"
+msgid "Tearful Woman"
+msgstr ""
+
+msgctxt "72_Tearful Woman"
+msgid "How did I end up in the sexy part of town? Kamurocho is so scary!"
+msgstr ""
+

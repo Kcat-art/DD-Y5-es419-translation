@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "356"
+msgid "Sloshed Man"
+msgstr ""
+
+msgctxt "60_Sloshed Man"
+msgid "You can't tell me what to do! Who can go without a drink, I ask you? In this day and age!? Who!?"
+msgstr ""
+

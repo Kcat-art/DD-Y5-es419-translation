@@ -1,0 +1,443 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1931	TSUKKOMI"
+msgid "That's right."
+msgstr ""
+
+msgctxt "1945	TSUKKOMI"
+msgid "Really?"
+msgstr ""
+
+msgctxt "1953	TSUKKOMI"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "1962	TSUKKOMI"
+msgid "Ya don't say?"
+msgstr ""
+
+msgctxt "1976	TSUKKOMI"
+msgid "Wow!"
+msgstr ""
+
+msgctxt "1981	TSUKKOMI"
+msgid "Nice!"
+msgstr ""
+
+msgctxt "1987	TSUKKOMI"
+msgid "That's called getting jumped!"
+msgstr ""
+
+msgctxt "2017	TSUKKOMI"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "2025	TSUKKOMI"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "2031	TSUKKOMI"
+msgid "I'm on the edge of my seat!"
+msgstr ""
+
+msgctxt "2059	TSUKKOMI"
+msgid "More like punching bag!"
+msgstr ""
+
+msgctxt "2083	TSUKKOMI"
+msgid "Here we go again."
+msgstr ""
+
+msgctxt "2101	TSUKKOMI"
+msgid "Wait for it, wait for it..."
+msgstr ""
+
+msgctxt "2130	TSUKKOMI"
+msgid "He\"? So it was a guy?"
+msgstr ""
+
+msgctxt "2152	TSUKKOMI"
+msgid "You still went out with him!?"
+msgstr ""
+
+msgctxt "2182	TSUKKOMI"
+msgid "I'm not surprised!"
+msgstr ""
+
+msgctxt "2201	TSUKKOMI"
+msgid "Thank you very much!"
+msgstr ""
+
+msgctxt "2222	TSUKKOMI"
+msgid "I wanna be an idol."
+msgstr ""
+
+msgctxt "2242	TSUKKOMI"
+msgid "Doesn't seem very practical."
+msgstr ""
+
+msgctxt "2271	TSUKKOMI"
+msgid "You're already grown up."
+msgstr ""
+
+msgctxt "2296	TSUKKOMI"
+msgid "What're ya talkin' about?"
+msgstr ""
+
+msgctxt "2322	TSUKKOMI"
+msgid "That's a bad guy, not a hero."
+msgstr ""
+
+msgctxt "2352	TSUKKOMI"
+msgid "Yup, totally a bad guy!"
+msgstr ""
+
+msgctxt "2376	TSUKKOMI"
+msgid "How do you figure?"
+msgstr ""
+
+msgctxt "2395	TSUKKOMI"
+msgid "That's cool!"
+msgstr ""
+
+msgctxt "2408	TSUKKOMI"
+msgid "So you <Italic>are</Italic> a bad guy!"
+msgstr ""
+
+msgctxt "2447	TSUKKOMI"
+msgid "So much for being the hero!"
+msgstr ""
+
+msgctxt "2475	TSUKKOMI"
+msgid "Sure you are."
+msgstr ""
+
+msgctxt "2489	TSUKKOMI"
+msgid "Got that right."
+msgstr ""
+
+msgctxt "2505	TSUKKOMI"
+msgid "And that would be?"
+msgstr ""
+
+msgctxt "2524	TSUKKOMI"
+msgid "Girls?"
+msgstr ""
+
+msgctxt "2531	TSUKKOMI"
+msgid "Monsters are the bad guys!"
+msgstr ""
+
+msgctxt "2558	TSUKKOMI"
+msgid "What's wrong with you!?"
+msgstr ""
+
+msgctxt "2582	TSUKKOMI"
+msgid "That's all it'd take? Idiot!"
+msgstr ""
+
+msgctxt "2611	TSUKKOMI"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "2617	TSUKKOMI"
+msgid "Not half-bad."
+msgstr ""
+
+msgctxt "2631	TSUKKOMI"
+msgid "Sounds romantic."
+msgstr ""
+
+msgctxt "2648	TSUKKOMI"
+msgid "I like it."
+msgstr ""
+
+msgctxt "2659	TSUKKOMI"
+msgid "Not another word!"
+msgstr ""
+
+msgctxt "2677	TSUKKOMI"
+msgid "Enough, already!"
+msgstr ""
+
+msgctxt "2694	TSUKKOMI"
+msgid "I said, that's enough!"
+msgstr ""
+
+msgctxt "2717	TSUKKOMI"
+msgid "I guess so."
+msgstr ""
+
+msgctxt "2729	TSUKKOMI"
+msgid "That's true."
+msgstr ""
+
+msgctxt "2742	TSUKKOMI"
+msgid "Too much info."
+msgstr ""
+
+msgctxt "2757	TSUKKOMI"
+msgid "<Italic>She's</Italic> driving!?"
+msgstr ""
+
+msgctxt "2790	TSUKKOMI"
+msgid "What the heck!?"
+msgstr ""
+
+msgctxt "2806	TSUKKOMI"
+msgid "Yeah, sure."
+msgstr ""
+
+msgctxt "2818	TSUKKOMI"
+msgid "I had no idea."
+msgstr ""
+
+msgctxt "2833	TSUKKOMI"
+msgid "Sounds like fun."
+msgstr ""
+
+msgctxt "2850	TSUKKOMI"
+msgid "Cut it out!"
+msgstr ""
+
+msgctxt "2862	TSUKKOMI"
+msgid "What does that even mean!?"
+msgstr ""
+
+msgctxt "2889	TSUKKOMI"
+msgid "What're you talking about!?"
+msgstr ""
+
+msgctxt "2917	TSUKKOMI"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "2925	TSUKKOMI"
+msgid "She's driving the car, too!?"
+msgstr ""
+
+msgctxt "2954	TSUKKOMI"
+msgid "I'm done with you!"
+msgstr ""
+
+msgctxt "2973	TSUKKOMI_FULL"
+msgid "That's right."
+msgstr ""
+
+msgctxt "2987	TSUKKOMI_FULL"
+msgid "Really?"
+msgstr ""
+
+msgctxt "2995	TSUKKOMI_FULL"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "3004	TSUKKOMI_FULL"
+msgid "Ya don't say?"
+msgstr ""
+
+msgctxt "3018	TSUKKOMI_FULL"
+msgid "Wow!"
+msgstr ""
+
+msgctxt "3023	TSUKKOMI_FULL"
+msgid "Nice!"
+msgstr ""
+
+msgctxt "3029	TSUKKOMI_FULL"
+msgid "That's called getting jumped!"
+msgstr ""
+
+msgctxt "3059	TSUKKOMI_FULL"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "3067	TSUKKOMI_FULL"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "3073	TSUKKOMI_FULL"
+msgid "I'm on the edge of my seat!"
+msgstr ""
+
+msgctxt "3101	TSUKKOMI_FULL"
+msgid "More like punching bag!"
+msgstr ""
+
+msgctxt "3125	TSUKKOMI_FULL"
+msgid "Here we go again."
+msgstr ""
+
+msgctxt "3143	TSUKKOMI_FULL"
+msgid "Wait for it, wait for it..."
+msgstr ""
+
+msgctxt "3172	TSUKKOMI_FULL"
+msgid "He\"? So it was a guy?"
+msgstr ""
+
+msgctxt "3194	TSUKKOMI_FULL"
+msgid "You still went out with him!?"
+msgstr ""
+
+msgctxt "3224	TSUKKOMI_FULL"
+msgid "I'm not surprised!"
+msgstr ""
+
+msgctxt "3243	TSUKKOMI_FULL"
+msgid "Thank you very much!"
+msgstr ""
+
+msgctxt "3264	TSUKKOMI_FULL"
+msgid "I wanna be an idol."
+msgstr ""
+
+msgctxt "3284	TSUKKOMI_FULL"
+msgid "Doesn't seem very practical."
+msgstr ""
+
+msgctxt "3313	TSUKKOMI_FULL"
+msgid "You're already grown up."
+msgstr ""
+
+msgctxt "3338	TSUKKOMI_FULL"
+msgid "What're ya talkin' about?"
+msgstr ""
+
+msgctxt "3364	TSUKKOMI_FULL"
+msgid "That's a bad guy, not a hero."
+msgstr ""
+
+msgctxt "3394	TSUKKOMI_FULL"
+msgid "Yup, totally a bad guy!"
+msgstr ""
+
+msgctxt "3418	TSUKKOMI_FULL"
+msgid "How do you figure?"
+msgstr ""
+
+msgctxt "3437	TSUKKOMI_FULL"
+msgid "That's cool!"
+msgstr ""
+
+msgctxt "3450	TSUKKOMI_FULL"
+msgid "So you <Italic>are</Italic> a bad guy!"
+msgstr ""
+
+msgctxt "3489	TSUKKOMI_FULL"
+msgid "So much for being the hero!"
+msgstr ""
+
+msgctxt "3517	TSUKKOMI_FULL"
+msgid "Sure you are."
+msgstr ""
+
+msgctxt "3531	TSUKKOMI_FULL"
+msgid "Got that right."
+msgstr ""
+
+msgctxt "3547	TSUKKOMI_FULL"
+msgid "And that would be?"
+msgstr ""
+
+msgctxt "3566	TSUKKOMI_FULL"
+msgid "Girls?"
+msgstr ""
+
+msgctxt "3573	TSUKKOMI_FULL"
+msgid "Monsters are the bad guys!"
+msgstr ""
+
+msgctxt "3600	TSUKKOMI_FULL"
+msgid "What's wrong with you!?"
+msgstr ""
+
+msgctxt "3624	TSUKKOMI_FULL"
+msgid "That's all it'd take? Idiot!"
+msgstr ""
+
+msgctxt "3653	TSUKKOMI_FULL"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "3659	TSUKKOMI_FULL"
+msgid "Not half-bad."
+msgstr ""
+
+msgctxt "3673	TSUKKOMI_FULL"
+msgid "Sounds romantic."
+msgstr ""
+
+msgctxt "3690	TSUKKOMI_FULL"
+msgid "I like it."
+msgstr ""
+
+msgctxt "3701	TSUKKOMI_FULL"
+msgid "Not another word!"
+msgstr ""
+
+msgctxt "3719	TSUKKOMI_FULL"
+msgid "Enough, already!"
+msgstr ""
+
+msgctxt "3736	TSUKKOMI_FULL"
+msgid "I said, that's enough!"
+msgstr ""
+
+msgctxt "3759	TSUKKOMI_FULL"
+msgid "I guess so."
+msgstr ""
+
+msgctxt "3771	TSUKKOMI_FULL"
+msgid "That's true."
+msgstr ""
+
+msgctxt "3784	TSUKKOMI_FULL"
+msgid "Too much info."
+msgstr ""
+
+msgctxt "3799	TSUKKOMI_FULL"
+msgid "<Italic>She's</Italic> driving!?"
+msgstr ""
+
+msgctxt "3832	TSUKKOMI_FULL"
+msgid "What the heck!?"
+msgstr ""
+
+msgctxt "3848	TSUKKOMI_FULL"
+msgid "Yeah, sure."
+msgstr ""
+
+msgctxt "3860	TSUKKOMI_FULL"
+msgid "I had no idea."
+msgstr ""
+
+msgctxt "3875	TSUKKOMI_FULL"
+msgid "Sounds like fun."
+msgstr ""
+
+msgctxt "3892	TSUKKOMI_FULL"
+msgid "Cut it out!"
+msgstr ""
+
+msgctxt "3904	TSUKKOMI_FULL"
+msgid "What does that even mean!?"
+msgstr ""
+
+msgctxt "3931	TSUKKOMI_FULL"
+msgid "What're you talking about!?"
+msgstr ""
+
+msgctxt "3959	TSUKKOMI_FULL"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "3967	TSUKKOMI_FULL"
+msgid "She's driving the car, too!?"
+msgstr ""
+
+msgctxt "3996	TSUKKOMI_FULL"
+msgid "I'm done with you!"
+msgstr ""
+

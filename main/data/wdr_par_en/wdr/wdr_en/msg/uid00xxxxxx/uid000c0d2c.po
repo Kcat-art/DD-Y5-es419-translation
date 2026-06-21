@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "324"
+msgid "Drunkard"
+msgstr ""
+
+msgctxt "60_Drunkard"
+msgid "Urp! *hic* Had a couple too many drinks. The doctor says I shouldn't, but fuggem."
+msgstr ""
+

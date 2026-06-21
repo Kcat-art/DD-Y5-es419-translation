@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "460"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "464"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "44_Haruka"
+msgid "Yamaura-san and Christina-san aren't here..."
+msgstr ""
+
+msgctxt "56_Akiyama"
+msgid "Oh, well. Let's go to Park-san's office, then."
+msgstr ""
+

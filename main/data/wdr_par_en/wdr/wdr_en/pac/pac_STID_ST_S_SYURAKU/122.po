@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1900"
+msgid "adv2_214/baba_2_214_010"
+msgstr ""
+
+msgctxt "1904"
+msgid "ACYAM0003"
+msgstr ""
+
+msgctxt "1908"
+msgid "ACDEV0184"
+msgstr ""
+
+msgctxt "1912"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1916"
+msgid "adv2_172/sakurai_2_172_010"
+msgstr ""
+
+msgctxt "1920"
+msgid "adv2_171/nishina_2_171_010"
+msgstr ""
+

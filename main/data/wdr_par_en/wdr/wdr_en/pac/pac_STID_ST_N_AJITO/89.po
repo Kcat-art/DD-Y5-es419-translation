@@ -1,0 +1,35 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1928"
+msgid "adv4_305_01/daigo_4_305_010"
+msgstr ""
+
+msgctxt "1932"
+msgid "P_TLK_sitgrd_agura_kamae"
+msgstr ""
+
+msgctxt "1936"
+msgid "adv4_300/shinada_0419"
+msgstr ""
+
+msgctxt "1940"
+msgid "adv4_290/daigo_0078a"
+msgstr ""
+
+msgctxt "1944"
+msgid "adv4_285_03/daigo_4_285_050"
+msgstr ""
+
+msgctxt "1948"
+msgid "adv4_285_01/daigo_4_285_010"
+msgstr ""
+
+msgctxt "1952"
+msgid "P_SIN_sitgrd"
+msgstr ""
+
+msgctxt "1956"
+msgid "P_SIN_TLK_sitgrd_kamae"
+msgstr ""
+

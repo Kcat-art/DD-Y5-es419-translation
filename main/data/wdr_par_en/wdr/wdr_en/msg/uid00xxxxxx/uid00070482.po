@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "152"
+msgid "E9740_stand_tsukitobashi"
+msgstr ""
+

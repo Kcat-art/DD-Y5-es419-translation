@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "180"
+msgid "Whatcha want today?"
+msgstr ""
+
+msgctxt "184"
+msgid "December is amberjack season!"
+msgstr ""
+

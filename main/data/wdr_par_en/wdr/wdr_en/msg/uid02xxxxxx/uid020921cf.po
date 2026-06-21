@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1112"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1116"
+msgid "Narumi"
+msgstr ""
+
+msgctxt "1120"
+msgid "dummy"
+msgstr ""
+
+msgctxt "108_Saejima"
+msgid "Ya doin' good. Almost there."
+msgstr ""
+
+msgctxt "120_Narumi"
+msgid "I'm... saved."
+msgstr ""
+

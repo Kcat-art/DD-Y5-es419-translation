@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		175	1212	1088"
+msgid "I see. So Akiyama went and saw the president."
+msgstr ""
+
+msgctxt "				1297	1237"
+msgid "Understood."
+msgstr ""
+
+msgctxt " 	 	　	118	1435	1317"
+msgid "Then proceed with the plan."
+msgstr ""
+

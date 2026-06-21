@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "352"
+msgid "Confident Man"
+msgstr ""
+
+msgctxt "72_Confident Man"
+msgid "Wait till she gets a load of this tonight! Heh! Huh? What are you staring at?"
+msgstr ""
+

@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "				1766	1706"
+msgid "Sawada!"
+msgstr ""
+

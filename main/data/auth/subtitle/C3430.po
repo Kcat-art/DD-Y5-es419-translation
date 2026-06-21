@@ -1,0 +1,154 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		72	170	98"
+msgid "You feeling better, Haruka-chan?"
+msgstr ""
+
+msgctxt " 	　	　	60	269	209"
+msgid "I'm okay now, yeah."
+msgstr ""
+
+msgctxt " 	　	　	153	444	291"
+msgid "Must've been terrifying...\\r\n"
+"And I let it happen. I'm so sorry."
+msgstr ""
+
+msgctxt " 	　	　	60	532	472"
+msgid "No, it's not your fault."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	58	616	558"
+msgid "Hey, Haruka-chan."
+msgstr ""
+
+msgctxt " 	 　	分	140	757	617"
+msgid "This letter from Park-san's ex-husband...\\r\n"
+"Do you have it?"
+msgstr ""
+
+msgctxt " 	　	　	110	907	797"
+msgid "Yes. It's in the safe in her office."
+msgstr ""
+
+msgctxt " 	　	分	60	976	916"
+msgid "The one we found the account book in."
+msgstr ""
+
+msgctxt " 	　	　	60	1127	1067"
+msgid "This pen is the key."
+msgstr ""
+
+msgctxt " 	　	　	60	1210	1150"
+msgid "Wait here. I'll go get it."
+msgstr ""
+
+msgctxt " 	　	　	160	1420	1260"
+msgid "Damn... It's been under our noses\\r\n"
+"this whole time? I should've known."
+msgstr ""
+
+msgctxt " 	　	　	89	1592	1503"
+msgid "Haruka-chan. Have you read it?"
+msgstr ""
+
+msgctxt " 	　	　	60	1675	1615"
+msgid "No, not yet."
+msgstr ""
+
+msgctxt " 	　	　	60	1749	1689"
+msgid "Well all right then."
+msgstr ""
+
+msgctxt " 	　	分	112	1873	1761"
+msgid "Guess I should tell you.\\r\n"
+"You know the guy who sent it."
+msgstr ""
+
+msgctxt " 	　	　	106	2062	1956"
+msgid "It was Goro Majima.\\r\n"
+"The Tojo Clan officer."
+msgstr ""
+
+msgctxt " 	　	　	129	2219	2090"
+msgid "Turns out our wild little friend...\\r\n"
+"is Park-san's ex-husband."
+msgstr ""
+
+msgctxt " 	　	　	60	2322	2262"
+msgid "I had no idea."
+msgstr ""
+
+msgctxt " 	　	　	75	2413	2338"
+msgid "Katsuya's after what's in that letter."
+msgstr ""
+
+msgctxt " 	　	分	109	2547	2438"
+msgid "Majima's gone off the grid,\\r\n"
+"and that thing might just tell us where."
+msgstr ""
+
+msgctxt " 	　	　	78	2652	2574"
+msgid "Naturally, Katsuya wants us to hand it over."
+msgstr ""
+
+msgctxt " 	　	　	62	2802	2740"
+msgid "Found it! Is this the one?"
+msgstr ""
+
+msgctxt " 	　	　	85	2900	2815"
+msgid "<Italic>To Mirei Park</Italic>"
+msgstr ""
+
+msgctxt " 	　	　	105	3151	3046"
+msgid "If you don't mind, I'd like to\\r\n"
+"hold on to it myself."
+msgstr ""
+
+msgctxt " 	　	　	127	3312	3185"
+msgid "Wait, but... they'll just\\r\n"
+"keep gunning for you if you do."
+msgstr ""
+
+msgctxt " 	　	　	102	3415	3313"
+msgid "Don't worry. I have a plan."
+msgstr ""
+
+msgctxt " 	　	分	60	3492	3432"
+msgid "Please, let me handle it."
+msgstr ""
+
+msgctxt " 	　	　	79	3643	3564"
+msgid "Fair enough. It's all yours."
+msgstr ""
+
+msgctxt " 	　	　	108	3795	3687"
+msgid "Well, I should be getting home."
+msgstr ""
+
+msgctxt " 	　	分	65	3873	3808"
+msgid "I'm feeling kinda tired."
+msgstr ""
+
+msgctxt " 	　	　	88	3962	3874"
+msgid "Hey, why don't I give ya a lift?"
+msgstr ""
+
+msgctxt " 	　	　	116	4094	3978"
+msgid "I appreciate that,\\r\n"
+"but I'll be fine on my own."
+msgstr ""
+
+msgctxt " 	　	　	165	4305	4140"
+msgid "Ya sure? Don't forget,\\r\n"
+"we're here to help if ya need it."
+msgstr ""
+
+msgctxt " 	　	　	80	4390	4310"
+msgid "I know. Thank you."
+msgstr ""
+
+msgctxt "	　	　	60	4528	4468"
+msgid "Well, I'll be going now."
+msgstr ""
+

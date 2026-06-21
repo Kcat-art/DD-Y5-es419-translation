@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "632"
+msgid "Fed-up Boss"
+msgstr ""
+
+msgctxt "636"
+msgid "Energetic Subordinate"
+msgstr ""
+
+msgctxt "72_Fed-up Boss"
+msgid "I hate everything! The president reamed me, the old lady's cooking is a biohazard, and it's frickin' cold again! Get me outta here!"
+msgstr ""
+
+msgctxt "84_Fed-up Boss"
+msgid "Oh, cheer up, boss. We'll chug a couple beers and piss away our worries. Sound good?"
+msgstr ""
+

@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "556"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "44_Kiryu"
+msgid "(Riku!?)"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "(Damn. Riku was taken away in that car! I need to stay focused. I'll grab my taxi and go after them.)"
+msgstr ""
+

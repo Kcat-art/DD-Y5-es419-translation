@@ -1,0 +1,67 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	132	72"
+msgid "Akiyama-san."
+msgstr ""
+
+msgctxt " 	　	　	75	221	146"
+msgid "There's no way Park-san committed suicide."
+msgstr ""
+
+msgctxt " 	　	　	60	298	238"
+msgid "If I had to guess, I'd say..."
+msgstr ""
+
+msgctxt " 	　	　	94	415	321"
+msgid "She was murdered.\\r\n"
+"That's the only thing that makes sense."
+msgstr ""
+
+msgctxt " 	　	分	60	487	427"
+msgid "So please..."
+msgstr ""
+
+msgctxt " 	　	　	79	593	514"
+msgid "Please let me investigate with you!"
+msgstr ""
+
+msgctxt " 	　	　	107	762	655"
+msgid "I'm begging you, Akiyama-san. Take me along."
+msgstr ""
+
+msgctxt " 	　	　	112	915	803"
+msgid "I need to know the truth.\\r\n"
+"I need to see it for myself!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	51	985	934"
+msgid "Let me come with you!"
+msgstr ""
+
+msgctxt " 	　	　	60	1046	986"
+msgid "You've gotta be kidding."
+msgstr ""
+
+msgctxt " 	　	　	77	1134	1057"
+msgid "And, uh... just to be sure."
+msgstr ""
+
+msgctxt " 	　	分	101	1241	1140"
+msgid "If the answer was no, would you\\r\n"
+"be a good girl and listen?"
+msgstr ""
+
+msgctxt " 	　	　	62	1403	1341"
+msgid "Yeah, didn't think so."
+msgstr ""
+
+msgctxt " 	　	　	147	1570	1423"
+msgid "Guess when push comes to shove, I wouldn't\\r\n"
+"expect anything else from Kiryu-san's daughter."
+msgstr ""
+
+msgctxt " 	　	　	60	1655	1595"
+msgid "Good."
+msgstr ""
+

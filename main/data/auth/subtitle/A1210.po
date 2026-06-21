@@ -1,0 +1,53 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		65	315	250"
+msgid "You have my thanks, Fourth Chairman."
+msgstr ""
+
+msgctxt " 	　	　	67	407	340"
+msgid "Sorry I couldn't be of more help."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	何フレームあるか調べてみてほしい	42	454	412"
+msgid "Not at all."
+msgstr ""
+
+msgctxt " 	　	あまりにも短いような元のままで。	183	638	455"
+msgid "It's enough to know you haven't given up\\r\n"
+"on Chairman Dojima. Thank you."
+msgstr ""
+
+msgctxt " 	　	　	60	742	682"
+msgid "Stay safe out there."
+msgstr ""
+
+msgctxt " 	　	　	60	814	754"
+msgid "We will. Bye then."
+msgstr ""
+
+msgctxt " 	　	　	143	1202	1059"
+msgid "Ah, right. There's something\\r\n"
+"I should probably tell you, Kiryu-san."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	39	1276	1237"
+msgid "What is it?"
+msgstr ""
+
+msgctxt " 	　	　	87	1364	1277"
+msgid "That girl. Mayumi-san, yes?"
+msgstr ""
+
+msgctxt " 	　	　	60	1449	1389"
+msgid "She's..."
+msgstr ""
+
+msgctxt " 	　		60	1638	1578"
+msgid "So you know."
+msgstr ""
+
+msgctxt " 	　	分	60	1703	1643"
+msgid "Goodnight, then."
+msgstr ""
+

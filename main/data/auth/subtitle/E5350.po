@@ -1,0 +1,112 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	718	658"
+msgid "Kurosawa."
+msgstr ""
+
+msgctxt " 	　	　	80	900	820"
+msgid "I figured you'd show up."
+msgstr ""
+
+msgctxt " 	　	　	82	1005	923"
+msgid "You guys are painfully predictable."
+msgstr ""
+
+msgctxt " 	　	　	60	1088	1028"
+msgid "Almost shocking."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	52	1155	1103"
+msgid "Where's Majima?"
+msgstr ""
+
+msgctxt " 	　	分	60	1216	1156"
+msgid "Tell me where ya got Majima!"
+msgstr ""
+
+msgctxt " 	　	　	60	2018	1958"
+msgid "Bro..."
+msgstr ""
+
+msgctxt " 	　	　	60	2090	2030"
+msgid "Majima!"
+msgstr ""
+
+msgctxt " 	　	　	71	2250	2179"
+msgid "I messed up, bro."
+msgstr ""
+
+msgctxt " 	　	　	117	2410	2293"
+msgid "I'm sorry... I let it get to this."
+msgstr ""
+
+msgctxt " 	　	　	107	2580	2473"
+msgid "Kurosawa! What the hell's this about!?"
+msgstr ""
+
+msgctxt " 	　	　	60	2641	2581"
+msgid "Start talkin'!"
+msgstr ""
+
+msgctxt " 	　	　	60	2733	2673"
+msgid "All in good time."
+msgstr ""
+
+msgctxt " 	　	　	69	2913	2844"
+msgid "The best part's still to come."
+msgstr ""
+
+msgctxt " 	　	　	71	3719	3648"
+msgid "What're you playin' at?"
+msgstr ""
+
+msgctxt " 	　	　	60	3805	3745"
+msgid "There we go."
+msgstr ""
+
+msgctxt " 	　	　	60	3872	3812"
+msgid "Hey."
+msgstr ""
+
+msgctxt " 	　	　	78	4183	4105"
+msgid "Okay. Start the show."
+msgstr ""
+
+msgctxt " 	　	　	140	4598	4458"
+msgid "Majima... Hey...\\r\n"
+"What're ya doin'?"
+msgstr ""
+
+msgctxt " 	　	　	66	4698	4632"
+msgid "Sorry, brother."
+msgstr ""
+
+msgctxt " 	　	　	128	4880	4752"
+msgid "Seems we gotta try to kill each other."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	43	5072	5029"
+msgid "What the hell?"
+msgstr ""
+
+msgctxt " 	　	　	60	5133	5073"
+msgid "I couldn't do it..."
+msgstr ""
+
+msgctxt " 	　	　	95	5247	5152"
+msgid "She means more to Kiryu-chan than life itself."
+msgstr ""
+
+msgctxt " 	　	　	72	5358	5286"
+msgid "I couldn't just let it happen."
+msgstr ""
+
+msgctxt " 	　	　	88	5480	5392"
+msgid "You're not makin' a goddamn lick of sense!"
+msgstr ""
+
+msgctxt " 	　	　	60	5555	5495"
+msgid "This'll clear things up."
+msgstr ""
+

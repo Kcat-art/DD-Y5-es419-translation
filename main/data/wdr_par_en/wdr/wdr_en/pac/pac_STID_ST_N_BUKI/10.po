@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "208"
+msgid "Kamiyama Works Kineicho"
+msgstr ""
+

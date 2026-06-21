@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "392"
+msgid "Stood-up Man"
+msgstr ""
+
+msgctxt "72_Stood-up Man"
+msgid "I got a hot date lined up! She's a hostess, but still. Money can buy you love, you know. That's the lesson of the day."
+msgstr ""
+

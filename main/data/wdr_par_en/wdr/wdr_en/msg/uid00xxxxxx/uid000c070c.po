@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "364"
+msgid "Heavy Smoker"
+msgstr ""
+
+msgctxt "72_Heavy Smoker"
+msgid "My old lady's been on my case to cut down on smoking. I know she means well, but it's not like I can just give them up."
+msgstr ""
+

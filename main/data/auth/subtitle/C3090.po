@@ -1,0 +1,45 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	293	233"
+msgid "It's them!"
+msgstr ""
+
+msgctxt " 	　	　	60	359	299"
+msgid "Horie-san!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	32	499	467"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt " 	　	　	71	571	500"
+msgid "Ow! What's that for?"
+msgstr ""
+
+msgctxt " 	　	　	113	685	572"
+msgid "Don't play dumb with me. I know\\r\n"
+"you tripped Haruka on purpose!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	34	720	686"
+msgid "What's the big idea!?"
+msgstr ""
+
+msgctxt " 	　	　	73	794	721"
+msgid "Let me go!"
+msgstr ""
+
+msgctxt " 	　	分	62	857	795"
+msgid "Nakai-san!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	55	1038	983"
+msgid "Dyna Chair-san."
+msgstr ""
+
+msgctxt "	　	分	107	1146	1039"
+msgid "What's goin' on here?\\r\n"
+"You harassin' our girls?"
+msgstr ""
+

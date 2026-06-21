@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "460"
+msgid "adv1_125/morinaga_1_125_020"
+msgstr ""
+

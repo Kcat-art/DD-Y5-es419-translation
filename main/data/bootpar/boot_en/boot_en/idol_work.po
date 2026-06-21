@@ -1,0 +1,943 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1544	TITLE"
+msgid "Princess League, Round One"
+msgstr ""
+
+msgctxt "1571	TITLE"
+msgid "Princess League, Round Two"
+msgstr ""
+
+msgctxt "1598	TITLE"
+msgid "Princess League, Final Round"
+msgstr ""
+
+msgctxt "1627	TITLE"
+msgid "Princess League, Round One"
+msgstr ""
+
+msgctxt "1654	TITLE"
+msgid "Princess League, Round Two"
+msgstr ""
+
+msgctxt "1681	TITLE"
+msgid "Princess League, Final Round"
+msgstr ""
+
+msgctxt "1710	TITLE"
+msgid "Fan Club Handshake Event"
+msgstr ""
+
+msgctxt "1735	TITLE"
+msgid "Courtesy Calls"
+msgstr ""
+
+msgctxt "1750	TITLE"
+msgid "Courtesy Calls 2"
+msgstr ""
+
+msgctxt "1767	TITLE"
+msgid "Sotenbori Love Check Quiz (Easy)"
+msgstr ""
+
+msgctxt "1800	TITLE"
+msgid "Pre-Meeting"
+msgstr ""
+
+msgctxt "1812	TITLE"
+msgid "Princess League Rehearsal"
+msgstr ""
+
+msgctxt "1838	TITLE"
+msgid "Civic Event"
+msgstr ""
+
+msgctxt "1851	TITLE"
+msgid "Love to See You Smile\" Meeting"
+msgstr ""
+
+msgctxt "1882	TITLE"
+msgid "Meeting about Schedule"
+msgstr ""
+
+msgctxt "1905	TITLE"
+msgid "Idol Handshake Event in Sotenbori 1"
+msgstr ""
+
+msgctxt "1941	TITLE"
+msgid "Idol Handshake Event in Sotenbori 2"
+msgstr ""
+
+msgctxt "1977	TITLE"
+msgid "PrintCircle with an Idol"
+msgstr ""
+
+msgctxt "2002	TITLE"
+msgid "An Idol Comes to Sotenbori 1"
+msgstr ""
+
+msgctxt "2031	TITLE"
+msgid "An Idol Comes to Sotenbori 2"
+msgstr ""
+
+msgctxt "2060	TITLE"
+msgid "An Idol Comes to Sotenbori 3"
+msgstr ""
+
+msgctxt "2089	TITLE"
+msgid "An Idol Comes to Sotenbori 4"
+msgstr ""
+
+msgctxt "2118	TITLE"
+msgid "An Idol Comes to Sotenbori 5"
+msgstr ""
+
+msgctxt "2147	TITLE"
+msgid "Dancing with an Idol in Sotenbori 1"
+msgstr ""
+
+msgctxt "2183	TITLE"
+msgid "Dancing with an Idol in Sotenbori 2"
+msgstr ""
+
+msgctxt "2219	TITLE"
+msgid "Running Girl, Episode 1"
+msgstr ""
+
+msgctxt "2243	TITLE"
+msgid "Running Girl, Episode 2"
+msgstr ""
+
+msgctxt "2267	TITLE"
+msgid "Running Girl, Episode 3"
+msgstr ""
+
+msgctxt "2291	TITLE"
+msgid "Running Girl, Episode 4"
+msgstr ""
+
+msgctxt "2315	TITLE"
+msgid "Running Girl, Episode 5"
+msgstr ""
+
+msgctxt "2339	TITLE"
+msgid "Refuse to Lose: Pool"
+msgstr ""
+
+msgctxt "2360	TITLE"
+msgid "Refuse to Lose: Bowling"
+msgstr ""
+
+msgctxt "2384	TITLE"
+msgid "Refuse to Lose: Darts"
+msgstr ""
+
+msgctxt "2406	TITLE"
+msgid "Refuse to Lose: Air Hockey"
+msgstr ""
+
+msgctxt "2433	TITLE"
+msgid "Fishing Fever, Osaka Edition"
+msgstr ""
+
+msgctxt "2462	TITLE"
+msgid "Catcher Challenge"
+msgstr ""
+
+msgctxt "2480	TITLE"
+msgid "Love to See You Smile 1"
+msgstr ""
+
+msgctxt "2504	TITLE"
+msgid "Love to See You Smile 2"
+msgstr ""
+
+msgctxt "2528	TITLE"
+msgid "Love to See You Smile 3"
+msgstr ""
+
+msgctxt "2552	TITLE"
+msgid "Love to See You Smile 4"
+msgstr ""
+
+msgctxt "2576	TITLE"
+msgid "Love to See You Smile 5"
+msgstr ""
+
+msgctxt "2600	TITLE"
+msgid "Sotenbori Love Check Quiz (Normal)"
+msgstr ""
+
+msgctxt "2635	TITLE"
+msgid "Sotenbori Love Check Quiz (Hard)"
+msgstr ""
+
+msgctxt "2668	TITLE"
+msgid "Sotenbori Love Check Quiz Special 1"
+msgstr ""
+
+msgctxt "2704	TITLE"
+msgid "Sotenbori Love Check Quiz Special 2"
+msgstr ""
+
+msgctxt "2740	TITLE"
+msgid "Magazine Handshake Event 1"
+msgstr ""
+
+msgctxt "2767	TITLE"
+msgid "Magazine Handshake Event 2"
+msgstr ""
+
+msgctxt "2794	TITLE"
+msgid "Soten Town Haruka Mini-concert 1"
+msgstr ""
+
+msgctxt "2827	TITLE"
+msgid "Soten Town Haruka Mini-concert 2"
+msgstr ""
+
+msgctxt "2860	TITLE"
+msgid "Soten Town Haruka Jazz Dance Event"
+msgstr ""
+
+msgctxt "2895	TITLE"
+msgid "Kiss Kiss Interview"
+msgstr ""
+
+msgctxt "2916	TITLE"
+msgid "V Smash Interview"
+msgstr ""
+
+msgctxt "2934	TITLE"
+msgid "Beginner Magazine Interview"
+msgstr ""
+
+msgctxt "2962	TITLE"
+msgid "Sensual Gentleman Interview"
+msgstr ""
+
+msgctxt "2990	TITLE"
+msgid "Gossip Gals Interview"
+msgstr ""
+
+msgctxt "3012	TITLE"
+msgid "Handshake Event in Sotenbori 1"
+msgstr ""
+
+msgctxt "3043	TITLE"
+msgid "Handshake Event in Sotenbori 2"
+msgstr ""
+
+msgctxt "3074	TITLE"
+msgid "Handshake Event in Sotenbori 3"
+msgstr ""
+
+msgctxt "3105	TITLE"
+msgid "Idol Concert in Sotenbori 1"
+msgstr ""
+
+msgctxt "3133	TITLE"
+msgid "Idol Concert in Sotenbori 2"
+msgstr ""
+
+msgctxt "3161	TITLE"
+msgid "Idol Concert in Sotenbori 3"
+msgstr ""
+
+msgctxt "3189	TITLE"
+msgid "Dancing All Night in Sotenbori 1"
+msgstr ""
+
+msgctxt "3222	TITLE"
+msgid "Dancing All Night in Sotenbori 2"
+msgstr ""
+
+msgctxt "3255	NOTE"
+msgid "Take on round one of the Princess League Finals."
+msgstr ""
+
+msgctxt "3304	NOTE"
+msgid "Take on round two of the Princess League Finals."
+msgstr ""
+
+msgctxt "3353	NOTE"
+msgid "Take on the final round of the Princess League Finals."
+msgstr ""
+
+msgctxt "3408	NOTE"
+msgid "Take on round one of the Princess League Finals."
+msgstr ""
+
+msgctxt "3457	NOTE"
+msgid "Take on round two of the Princess League Finals."
+msgstr ""
+
+msgctxt "3506	NOTE"
+msgid "Take on the final round of the Princess League Finals."
+msgstr ""
+
+msgctxt "3561	NOTE"
+msgid "Take part in a handshake event sponsored by the Haruka Sawamura fan club."
+msgstr ""
+
+msgctxt "3635	NOTE"
+msgid "Make the rounds at Soten TV to increase your publicity."
+msgstr ""
+
+msgctxt "3691	NOTE"
+msgid "Make the rounds at Soten TV to increase your publicity."
+msgstr ""
+
+msgctxt "3747	NOTE"
+msgid "Appear on a game show that will test elementary knowledge of Sotenbori."
+msgstr ""
+
+msgctxt "3819	NOTE"
+msgid "Attend a preliminary meeting about a show taping."
+msgstr ""
+
+msgctxt "3869	NOTE"
+msgid "Take part in Princess League rehearsals."
+msgstr ""
+
+msgctxt "3910	NOTE"
+msgid "Appear at a civic event as a sub. Perform \"So Much More!\""
+msgstr ""
+
+msgctxt "3968	NOTE"
+msgid "Attend a preliminary meeting about the taping of \"Love to See You Smile.\""
+msgstr ""
+
+msgctxt "4042	NOTE"
+msgid "Attend a meeting about the schedule for the show you're slated to be on."
+msgstr ""
+
+msgctxt "4115	NOTE"
+msgid "Take part in a handshake event to promote the Merchants Association."
+msgstr ""
+
+msgctxt "4184	NOTE"
+msgid "Take part in a handshake event to promote the Merchants Association."
+msgstr ""
+
+msgctxt "4253	NOTE"
+msgid "Take part in a PrintCircle event to promote the Merchants Association."
+msgstr ""
+
+msgctxt "4324	NOTE"
+msgid "A Merchants Association concert event. Perform \"So Much More!\""
+msgstr ""
+
+msgctxt "4387	NOTE"
+msgid "A Merchants Association concert event. Perform \"So Much More!\""
+msgstr ""
+
+msgctxt "4450	NOTE"
+msgid "A Merchants Association concert event. Perform \"Loneliness Loop.\""
+msgstr ""
+
+msgctxt "4516	NOTE"
+msgid "A Merchants Association concert event. Perform \"Loneliness Loop.\""
+msgstr ""
+
+msgctxt "4582	NOTE"
+msgid "A Merchants Association concert event. Perform \"Because I Have You.\""
+msgstr ""
+
+msgctxt "4651	NOTE"
+msgid "Take part in a hip-hop dance event at the Merchants Association's request."
+msgstr ""
+
+msgctxt "4726	NOTE"
+msgid "Take part in a house dance event at the Merchants Association's request."
+msgstr ""
+
+msgctxt "4799	NOTE"
+msgid "Appear on the late-night show \"Running Girl.\" Run the streets of Sotenbori."
+msgstr ""
+
+msgctxt "4875	NOTE"
+msgid "Appear on the late-night show \"Running Girl.\" Run the streets of Sotenbori."
+msgstr ""
+
+msgctxt "4951	NOTE"
+msgid "Appear on the late-night show \"Running Girl.\" Run the streets of Sotenbori."
+msgstr ""
+
+msgctxt "5027	NOTE"
+msgid "Appear on the late-night show \"Running Girl.\" Run the streets of Sotenbori."
+msgstr ""
+
+msgctxt "5103	NOTE"
+msgid "Appear on the late-night show \"Running Girl.\" Run the streets of Sotenbori."
+msgstr ""
+
+msgctxt "5179	NOTE"
+msgid "Play pool on a competition show featuring all-out battles between idols."
+msgstr ""
+
+msgctxt "5252	NOTE"
+msgid "Bowl on a competition show featuring all-out battles between idols."
+msgstr ""
+
+msgctxt "5320	NOTE"
+msgid "Play darts on a competition show featuring all-out battles between idols."
+msgstr ""
+
+msgctxt "5394	NOTE"
+msgid "Play air hockey on a competition show featuring all-out battles between idols."
+msgstr ""
+
+msgctxt "5473	NOTE"
+msgid "Try river fishing on a fishing show that visits popular spots around the country."
+msgstr ""
+
+msgctxt "5555	NOTE"
+msgid "Try the UFO Catcher on a variety show."
+msgstr ""
+
+msgctxt "5594	NOTE"
+msgid "Appear on \"Love to See You Smile,\" one of Soten TV's flagship shows."
+msgstr ""
+
+msgctxt "5663	NOTE"
+msgid "Appear on \"Love to See You Smile,\" one of Soten TV's flagship shows."
+msgstr ""
+
+msgctxt "5732	NOTE"
+msgid "Appear on \"Love to See You Smile,\" one of Soten TV's flagship shows."
+msgstr ""
+
+msgctxt "5801	NOTE"
+msgid "Appear on \"Love to See You Smile,\" one of Soten TV's flagship shows."
+msgstr ""
+
+msgctxt "5870	NOTE"
+msgid "Appear on \"Love to See You Smile,\" one of Soten TV's flagship shows."
+msgstr ""
+
+msgctxt "5939	NOTE"
+msgid "Appear on a game show that will test intermediate knowledge of Sotenbori."
+msgstr ""
+
+msgctxt "6013	NOTE"
+msgid "Appear on a game show that will test advanced knowledge of Sotenbori."
+msgstr ""
+
+msgctxt "6083	NOTE"
+msgid "Appear on a special edition of Sotenbori Love Check Quiz with general questions."
+msgstr ""
+
+msgctxt "6164	NOTE"
+msgid "Appear on a special edition of Sotenbori Love Check Quiz with general questions."
+msgstr ""
+
+msgctxt "6245	NOTE"
+msgid "Take part in a handshake event put on by Soten Town, a local info magazine."
+msgstr ""
+
+msgctxt "6321	NOTE"
+msgid "Take part in a handshake event put on by Soten Town, a local info magazine."
+msgstr ""
+
+msgctxt "6397	NOTE"
+msgid "Perform \"So Much More!\" at a mini-concert hosted by Soten Town."
+msgstr ""
+
+msgctxt "6461	NOTE"
+msgid "Perform \"Loneliness Loop\" at a mini-concert hosted by Soten Town."
+msgstr ""
+
+msgctxt "6527	NOTE"
+msgid "Take part in a jazz dance event hosted by Soten Town, a town info magazine."
+msgstr ""
+
+msgctxt "6603	NOTE"
+msgid "An interview with Kiss Kiss, a fashion magazine aimed at teens and pre-teens."
+msgstr ""
+
+msgctxt "6681	NOTE"
+msgid "An interview with TV Smash, a magazine focusing on TV personalities and shows."
+msgstr ""
+
+msgctxt "6760	NOTE"
+msgid "An interview with Beginner, a magazine that gives audition information."
+msgstr ""
+
+msgctxt "6832	NOTE"
+msgid "An interview with Sensual Gentleman, a men's magazine that covers racy topics."
+msgstr ""
+
+msgctxt "6911	NOTE"
+msgid "An interview with Gossip Gals, a hard-hitting gossip magazine."
+msgstr ""
+
+msgctxt "6974	NOTE"
+msgid "A handshake event hosted by Dyna Chair to garner fans."
+msgstr ""
+
+msgctxt "7029	NOTE"
+msgid "A handshake event hosted by Dyna Chair to garner more fans."
+msgstr ""
+
+msgctxt "7089	NOTE"
+msgid "A handshake event hosted by Dyna Chair to garner even more fans."
+msgstr ""
+
+msgctxt "7154	NOTE"
+msgid "Perform \"So Much More!\" to garner fans."
+msgstr ""
+
+msgctxt "7194	NOTE"
+msgid "Perform \"Loneliness Loop\" to garner more fans."
+msgstr ""
+
+msgctxt "7241	NOTE"
+msgid "Perform \"Because I Have You\" to garner even more fans."
+msgstr ""
+
+msgctxt "7296	NOTE"
+msgid "An idol dance event to garner fans."
+msgstr ""
+
+msgctxt "7332	NOTE"
+msgid "An idol dance event to garner even more fans."
+msgstr ""
+
+msgctxt "7378	CLIENT"
+msgid "Soten TV"
+msgstr ""
+
+msgctxt "7387	CLIENT"
+msgid "Soten TV"
+msgstr ""
+
+msgctxt "7396	CLIENT"
+msgid "Soten TV"
+msgstr ""
+
+msgctxt "7405	CLIENT"
+msgid "Soten TV"
+msgstr ""
+
+msgctxt "7414	CLIENT"
+msgid "Soten TV"
+msgstr ""
+
+msgctxt "7423	CLIENT"
+msgid "Soten TV"
+msgstr ""
+
+msgctxt "7432	CLIENT"
+msgid "Haruka Sawamura Fan Club"
+msgstr ""
+
+msgctxt "7465	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7480	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7495	CLIENT"
+msgid "Soten TV"
+msgstr ""
+
+msgctxt "7508	CLIENT"
+msgid "Ioka, Soten TV"
+msgstr ""
+
+msgctxt "7523	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7538	CLIENT"
+msgid "Uda, Merch. Assoc."
+msgstr ""
+
+msgctxt "7557	CLIENT"
+msgid "Uda, Merch. Assoc."
+msgstr ""
+
+msgctxt "7576	CLIENT"
+msgid "Uda, Merch. Assoc."
+msgstr ""
+
+msgctxt "7595	CLIENT"
+msgid "Uda, Merch. Assoc."
+msgstr ""
+
+msgctxt "7614	CLIENT"
+msgid "Uda, Merch. Assoc."
+msgstr ""
+
+msgctxt "7633	CLIENT"
+msgid "Uda, Merch. Assoc."
+msgstr ""
+
+msgctxt "7652	CLIENT"
+msgid "Uda, Merch. Assoc."
+msgstr ""
+
+msgctxt "7671	CLIENT"
+msgid "Uda, Merch. Assoc."
+msgstr ""
+
+msgctxt "7690	CLIENT"
+msgid "Uda, Merch. Assoc."
+msgstr ""
+
+msgctxt "7709	CLIENT"
+msgid "Uda, Merch. Assoc."
+msgstr ""
+
+msgctxt "7728	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7743	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7758	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7773	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7788	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7803	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7818	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7833	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7848	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7863	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7878	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7893	CLIENT"
+msgid "Ioka, Soten TV"
+msgstr ""
+
+msgctxt "7908	CLIENT"
+msgid "Ioka, Soten TV"
+msgstr ""
+
+msgctxt "7923	CLIENT"
+msgid "Ioka, Soten TV"
+msgstr ""
+
+msgctxt "7938	CLIENT"
+msgid "Ioka, Soten TV"
+msgstr ""
+
+msgctxt "7953	CLIENT"
+msgid "Ioka, Soten TV"
+msgstr ""
+
+msgctxt "7968	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7983	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "7998	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "8013	CLIENT"
+msgid "Soten TV Prod."
+msgstr ""
+
+msgctxt "8028	CLIENT"
+msgid "Soten Town"
+msgstr ""
+
+msgctxt "8039	CLIENT"
+msgid "Soten Town"
+msgstr ""
+
+msgctxt "8050	CLIENT"
+msgid "Soten Town"
+msgstr ""
+
+msgctxt "8061	CLIENT"
+msgid "Soten Town"
+msgstr ""
+
+msgctxt "8072	CLIENT"
+msgid "Soten Town"
+msgstr ""
+
+msgctxt "8083	CLIENT"
+msgid "Kiss Kiss"
+msgstr ""
+
+msgctxt "8094	CLIENT"
+msgid "V Smash"
+msgstr ""
+
+msgctxt "8102	CLIENT"
+msgid "Beginner"
+msgstr ""
+
+msgctxt "8111	CLIENT"
+msgid "Sensual Gentleman"
+msgstr ""
+
+msgctxt "8129	CLIENT"
+msgid "Gossip Gals"
+msgstr ""
+
+msgctxt "8141	CLIENT"
+msgid "Dyna Chair"
+msgstr ""
+
+msgctxt "8152	CLIENT"
+msgid "Dyna Chair"
+msgstr ""
+
+msgctxt "8163	CLIENT"
+msgid "Dyna Chair"
+msgstr ""
+
+msgctxt "8174	CLIENT"
+msgid "Dyna Chair"
+msgstr ""
+
+msgctxt "8185	CLIENT"
+msgid "Dyna Chair"
+msgstr ""
+
+msgctxt "8196	CLIENT"
+msgid "Dyna Chair"
+msgstr ""
+
+msgctxt "8207	CLIENT"
+msgid "Dyna Chair"
+msgstr ""
+
+msgctxt "8218	CLIENT"
+msgid "Dyna Chair"
+msgstr ""
+
+msgctxt "8265	FAN"
+msgid "180 People"
+msgstr ""
+
+msgctxt "8296	FAN"
+msgid "50 People"
+msgstr ""
+
+msgctxt "8306	FAN"
+msgid "80 People"
+msgstr ""
+
+msgctxt "8316	FAN"
+msgid "90 People"
+msgstr ""
+
+msgctxt "8326	FAN"
+msgid "140 People"
+msgstr ""
+
+msgctxt "8337	FAN"
+msgid "180 People"
+msgstr ""
+
+msgctxt "8348	FAN"
+msgid "210 People"
+msgstr ""
+
+msgctxt "8359	FAN"
+msgid "270 People"
+msgstr ""
+
+msgctxt "8370	FAN"
+msgid "350 People"
+msgstr ""
+
+msgctxt "8381	FAN"
+msgid "150 People"
+msgstr ""
+
+msgctxt "8392	FAN"
+msgid "250 People"
+msgstr ""
+
+msgctxt "8403	FAN"
+msgid "180 People"
+msgstr ""
+
+msgctxt "8414	FAN"
+msgid "330 People"
+msgstr ""
+
+msgctxt "8425	FAN"
+msgid "480 People"
+msgstr ""
+
+msgctxt "8436	FAN"
+msgid "640 People"
+msgstr ""
+
+msgctxt "8447	FAN"
+msgid "800 People"
+msgstr ""
+
+msgctxt "8458	FAN"
+msgid "200 People"
+msgstr ""
+
+msgctxt "8469	FAN"
+msgid "200 People"
+msgstr ""
+
+msgctxt "8480	FAN"
+msgid "200 People"
+msgstr ""
+
+msgctxt "8491	FAN"
+msgid "200 People"
+msgstr ""
+
+msgctxt "8502	FAN"
+msgid "100 People"
+msgstr ""
+
+msgctxt "8513	FAN"
+msgid "120 People"
+msgstr ""
+
+msgctxt "8524	FAN"
+msgid "450 People"
+msgstr ""
+
+msgctxt "8535	FAN"
+msgid "550 People"
+msgstr ""
+
+msgctxt "8546	FAN"
+msgid "650 People"
+msgstr ""
+
+msgctxt "8557	FAN"
+msgid "750 People"
+msgstr ""
+
+msgctxt "8568	FAN"
+msgid "850 People"
+msgstr ""
+
+msgctxt "8579	FAN"
+msgid "250 People"
+msgstr ""
+
+msgctxt "8590	FAN"
+msgid "340 People"
+msgstr ""
+
+msgctxt "8601	FAN"
+msgid "400 People"
+msgstr ""
+
+msgctxt "8612	FAN"
+msgid "490 People"
+msgstr ""
+
+msgctxt "8623	FAN"
+msgid "240 People"
+msgstr ""
+
+msgctxt "8634	FAN"
+msgid "420 People"
+msgstr ""
+
+msgctxt "8645	FAN"
+msgid "480 People"
+msgstr ""
+
+msgctxt "8656	FAN"
+msgid "800 People"
+msgstr ""
+
+msgctxt "8667	FAN"
+msgid "210 People"
+msgstr ""
+
+msgctxt "8678	FAN"
+msgid "140 People"
+msgstr ""
+
+msgctxt "8689	FAN"
+msgid "170 People"
+msgstr ""
+
+msgctxt "8700	FAN"
+msgid "220 People"
+msgstr ""
+
+msgctxt "8711	FAN"
+msgid "250 People"
+msgstr ""
+
+msgctxt "8722	FAN"
+msgid "280 People"
+msgstr ""
+
+msgctxt "8733	FAN"
+msgid "90 People"
+msgstr ""
+
+msgctxt "8743	FAN"
+msgid "130 People"
+msgstr ""
+
+msgctxt "8754	FAN"
+msgid "150 People"
+msgstr ""
+
+msgctxt "8765	FAN"
+msgid "200 People"
+msgstr ""
+
+msgctxt "8776	FAN"
+msgid "250 People"
+msgstr ""
+
+msgctxt "8787	FAN"
+msgid "300 People"
+msgstr ""
+
+msgctxt "8798	FAN"
+msgid "160 People"
+msgstr ""
+
+msgctxt "8809	FAN"
+msgid "200 People"
+msgstr ""
+

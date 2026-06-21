@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "188"
+msgid "定点_脅し03_指さし威嚇"
+msgstr ""
+
+msgctxt "192"
+msgid "E9550_look_ikaku"
+msgstr ""
+

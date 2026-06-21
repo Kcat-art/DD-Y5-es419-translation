@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "156"
+msgid "P_TLK_stand_kyoro_st"
+msgstr ""
+

@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "-Macro:ゴミ本文,0>"
+msgstr ""
+

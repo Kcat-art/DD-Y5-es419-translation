@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "472"
+msgid "Surprised Man"
+msgstr ""
+
+msgctxt "476"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "72_Surprised Man"
+msgid "Man, that was amazin'. Never seen that many fancy black cars in a row."
+msgstr ""
+
+msgctxt "84_Surprised Man"
+msgid "I wonder where they were going. Maybe they were shootin' a commercial or something."
+msgstr ""
+

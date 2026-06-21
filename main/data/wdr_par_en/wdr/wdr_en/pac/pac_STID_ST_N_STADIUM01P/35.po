@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "424"
+msgid "adv4_235/takasugi_0109"
+msgstr ""
+
+msgctxt "428"
+msgid "C4235_SIN_TLK_sign_kamae"
+msgstr ""
+

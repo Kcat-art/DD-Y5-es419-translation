@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3488"
+msgid "cp-070/yamaura_1028bb"
+msgstr ""
+
+msgctxt "3492"
+msgid "cp-050/yamaura_1021"
+msgstr ""
+
+msgctxt "3496"
+msgid "adv3_475_5/yamaura_3_475_010"
+msgstr ""
+

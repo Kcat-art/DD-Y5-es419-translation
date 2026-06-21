@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "812"
+msgid "P_TLK_sitgrd_agura_kamae"
+msgstr ""
+
+msgctxt "816"
+msgid "SB09_F_YAM_nabe_eat"
+msgstr ""
+
+msgctxt "820"
+msgid "ACDEV0184"
+msgstr ""
+
+msgctxt "824"
+msgid "ACYAM0004"
+msgstr ""
+

@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "560"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "564"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Okudera"
+msgid "Saejima, the deer tracks don't go that way."
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "Good point."
+msgstr ""
+

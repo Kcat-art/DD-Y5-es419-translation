@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "(Better use the crosswalk and meet up with Baba-chan.)"
+msgstr ""
+
+msgctxt "236"
+msgid "Player"
+msgstr ""
+

@@ -1,0 +1,73 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	 			45	312	267"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "	 		　	82	395	313"
+msgid "I'm looking for someone.\\r\n"
+"Word is he's in Kineicho."
+msgstr ""
+
+msgctxt "	 		　	96	516	420"
+msgid "You must be the guy Ushijima-san told me about."
+msgstr ""
+
+msgctxt "	 		　	78	651	573"
+msgid "You're really spooking people, you know."
+msgstr ""
+
+msgctxt "	 		　	95	756	661"
+msgid "This town has enough problems already\\r\n"
+"without you skulking around."
+msgstr ""
+
+msgctxt "	 		　	137	955	818"
+msgid "This man I'm looking for...\\r\n"
+"He's blended into his surroundings well."
+msgstr ""
+
+msgctxt "	 		　	61	1045	984"
+msgid "Nobody knows who he used to be."
+msgstr ""
+
+msgctxt "	 		　	78	1167	1089"
+msgid "Of his past as a baseball player."
+msgstr ""
+
+msgctxt "	 		　	60	1307	1247"
+msgid "Ring any bells?"
+msgstr ""
+
+msgctxt "	 		　	60	1388	1328"
+msgid "'Course it doesn't."
+msgstr ""
+
+msgctxt " 		　		66	1492	1426"
+msgid "Are you sure about that?"
+msgstr ""
+
+msgctxt "			　	95	1615	1520"
+msgid "Hard as you try, there's\\r\n"
+"no hiding that Tokyo accent."
+msgstr ""
+
+msgctxt "	 		改行位置を修正	155	1837	1682"
+msgid "I know who you are. Nagoya Wyverns'\\r\n"
+"number 47, Tatsuo Shinada."
+msgstr ""
+
+msgctxt "	 		　	86	1957	1871"
+msgid "And... I have a job for you."
+msgstr ""
+
+msgctxt "	 		　	160	2213	2053"
+msgid "Remember that walk-off home run?\\r\n"
+"The one that cost you everything?"
+msgstr ""
+
+msgctxt "	 		　	70	2315	2245"
+msgid "I want you to find out what really happened."
+msgstr ""
+

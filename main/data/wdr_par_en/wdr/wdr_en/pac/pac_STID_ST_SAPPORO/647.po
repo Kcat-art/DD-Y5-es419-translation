@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "128"
+msgid "This time for sure..."
+msgstr ""
+
+msgctxt "1812"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+

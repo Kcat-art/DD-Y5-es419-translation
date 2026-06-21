@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "536"
+msgid "manzai/manzai_hotal_001_neta"
+msgstr ""
+
+msgctxt "540"
+msgid "dummy"
+msgstr ""
+

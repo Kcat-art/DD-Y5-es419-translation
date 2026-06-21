@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "352"
+msgid "Inattentive Man"
+msgstr ""
+
+msgctxt "72_Inattentive Man"
+msgid "I took a nap on a park bench on my lunch break, and, uh... I just woke up. Sun's settin' huh?"
+msgstr ""
+

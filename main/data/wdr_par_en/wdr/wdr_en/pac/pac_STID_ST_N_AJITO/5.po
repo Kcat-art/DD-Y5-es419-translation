@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1268"
+msgid "adv4_110/shinada_0147"
+msgstr ""
+
+msgctxt "1272"
+msgid "P_SIN_sitgrd"
+msgstr ""
+
+msgctxt "1276"
+msgid "P_SIN_TLK_sitgrd_kamae"
+msgstr ""
+
+msgctxt "1280"
+msgid "C4110_DGO_TLK_bag_kamae"
+msgstr ""
+
+msgctxt "1284"
+msgid "adv4_140_01/shinada_0199"
+msgstr ""
+

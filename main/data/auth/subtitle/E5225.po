@@ -1,0 +1,32 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 	　	75	105	30"
+msgid "Okay, back to your practice, then!"
+msgstr ""
+
+msgctxt " 	　	　	94	207	113"
+msgid "I'm gonna go see some event contractors."
+msgstr ""
+
+msgctxt " 	　	分	93	301	208"
+msgid "Maybe I can talk someone into\\r\n"
+"helpin' us pull something together!"
+msgstr ""
+
+msgctxt " 	　	　	149	532	383"
+msgid "Wow, what's up with this studio? So tiny..."
+msgstr ""
+
+msgctxt " 	　	　	98	631	533"
+msgid "C'mon, Mai. Let's not be rude."
+msgstr ""
+
+msgctxt " 	　	　	69	706	637"
+msgid "Hey, sorry to interrupt."
+msgstr ""
+
+msgctxt " 	　	　	60	780	720"
+msgid "Nakai-san!?"
+msgstr ""
+

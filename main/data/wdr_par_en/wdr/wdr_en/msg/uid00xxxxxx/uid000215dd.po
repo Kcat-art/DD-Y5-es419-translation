@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "504"
+msgid "Young Lad"
+msgstr ""
+
+msgctxt "508"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "44_Young Lad"
+msgid "See the homeless guy over there? Boy, does he love booze!"
+msgstr ""
+
+msgctxt "56_Young Lad"
+msgid "He's a stubborn old fuck, but I bet he'd mellow out if you offered him a drink."
+msgstr ""
+

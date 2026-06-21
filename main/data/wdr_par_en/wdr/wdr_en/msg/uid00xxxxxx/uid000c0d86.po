@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "592"
+msgid "Wistful Man"
+msgstr ""
+
+msgctxt "596"
+msgid "World-weary Man"
+msgstr ""
+
+msgctxt "60_Wistful Man"
+msgid "I want to leave everything behind and go off to Okinawa. That's paradise!"
+msgstr ""
+
+msgctxt "72_Wistful Man"
+msgid "Sounds good. I'll book time off this summer."
+msgstr ""
+
+msgctxt "84_Wistful Man"
+msgid "What are you sayin'? I'm going this weekend."
+msgstr ""
+

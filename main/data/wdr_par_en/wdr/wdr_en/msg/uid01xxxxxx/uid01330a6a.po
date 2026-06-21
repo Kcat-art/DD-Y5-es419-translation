@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "512"
+msgid "2d_yk_zasshi_bassen"
+msgstr ""
+
+msgctxt "516"
+msgid "Player"
+msgstr ""
+
+msgctxt "84_2d_yk_zasshi_bassen"
+msgid "A free monthly newspaper published by the Baseball Times. Loaded with baseball news, it's available at batting centers nationwide."
+msgstr ""
+

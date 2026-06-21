@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "556"
+msgid "adv1_016_3/nakajima_1_016_080"
+msgstr ""
+
+msgctxt "560"
+msgid "P_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "564"
+msgid "P_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "568"
+msgid "M_NML_SET_stand_cook_yakitori"
+msgstr ""
+
+msgctxt "572"
+msgid "dummy"
+msgstr ""
+

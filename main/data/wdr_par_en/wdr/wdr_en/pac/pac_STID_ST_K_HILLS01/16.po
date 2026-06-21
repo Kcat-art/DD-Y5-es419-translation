@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Hey! Gotta settle things with us first if ya wanna go upstairs!"
+msgstr ""
+
+msgctxt "328"
+msgid "Ousaka Enterprises Employee"
+msgstr ""
+

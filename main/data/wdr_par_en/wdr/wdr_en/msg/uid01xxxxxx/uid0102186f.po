@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "312"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "44_Shinada"
+msgid "(Well, I might as well take a stroll around Kineicho.)"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "208"
+msgid "dummy"
+msgstr ""
+
+msgctxt "44_dummy"
+msgid "野球能力確認画面を起動します。"
+msgstr ""
+

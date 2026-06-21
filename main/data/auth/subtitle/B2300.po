@@ -1,0 +1,92 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "					 	 	OK	204	382	178"
+msgid "With all of your help, the 56th Tsukimino\\r\n"
+"Snow Festival has kicked off without a hitch."
+msgstr ""
+
+msgctxt "					 	　	　	115	498	383"
+msgid "Hokkaido's winters are harsher\\r\n"
+"than even the fiercest of beasts."
+msgstr ""
+
+msgctxt "					 	　	分	123	622	499"
+msgid "Our annual deluge of snow is\\r\n"
+"an unavoidable fact of life here."
+msgstr ""
+
+msgctxt "					 	　	　	174	810	636"
+msgid "Yet we welcome it as an old friend.\\r\n"
+"Hold a festival to celebrate its coming."
+msgstr ""
+
+msgctxt "					 	　	OK	181	992	811"
+msgid "That speaks volumes to our tenacity.\\r\n"
+"And the reverence with which we view nature."
+msgstr ""
+
+msgctxt "					 	　	　	60	1187	1127"
+msgid "Kitakata, sir."
+msgstr ""
+
+msgctxt "					 	　	　	158	1451	1293"
+msgid "We've received word on the escaped convict.\\r\n"
+"He's been sighted in the vicinity."
+msgstr ""
+
+msgctxt "					 	　	　	102	1632	1530"
+msgid "Security is tight,\\r\n"
+"but we can never be too careful."
+msgstr ""
+
+msgctxt "					 	　	分	77	1720	1643"
+msgid "Please stay vigilant, sir."
+msgstr ""
+
+msgctxt "					 	　	　	82	2410	2328"
+msgid "Hm? Is there a problem?"
+msgstr ""
+
+msgctxt "					60ｆ以下です	　	　	49	2481	2432"
+msgid "Not at all."
+msgstr ""
+
+msgctxt "					 	　	分	93	2575	2482"
+msgid "Just an appointment I'm looking to keep."
+msgstr ""
+
+msgctxt "					 	　	　	124	2735	2611"
+msgid "Looks like I can finally honor my promise."
+msgstr ""
+
+msgctxt "	キャプション対応		元		 	　	　	63	2932	2869"
+msgid "But I have to wonder..."
+msgstr ""
+
+msgctxt "					 	　	分	67	3024	2957"
+msgid "Where's he gonna come from?"
+msgstr ""
+
+msgctxt "3440	3369	3200	3129		 	　	　	71	3440	3369"
+msgid "Oh, it's nothing.\\r\n"
+"Just an old man's mumblings."
+msgstr ""
+
+msgctxt "3622	3516	3382	3276		 	　	　	106	3622	3516"
+msgid "Well, it's time for the opening air show."
+msgstr ""
+
+msgctxt "4152	4075	3912	3835		 	　	　	77	4152	4075"
+msgid "What do you think?\\r\n"
+"Quite a display, isn't it?"
+msgstr ""
+
+msgctxt "4233	4153	3993	3913		 	　	　	80	4233	4153"
+msgid "We really pushed the boat out this year."
+msgstr ""
+
+msgctxt "441	4359	4179	4119		 	　	　	60	4419	4359"
+msgid "Huh?"
+msgstr ""
+

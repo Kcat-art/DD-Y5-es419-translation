@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "Adjusting the impact point puts a spin on the ball. Adjust the impact point as necessary."
+msgstr ""
+

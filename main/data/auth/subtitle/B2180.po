@@ -1,0 +1,44 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	864	804"
+msgid "Thanks for everythin'."
+msgstr ""
+
+msgctxt " 	　	　	60	973	913"
+msgid "We should get moving."
+msgstr ""
+
+msgctxt " 	　	　	67	1543	1476"
+msgid "It's just like you said."
+msgstr ""
+
+msgctxt " 	　	　	110	1712	1602"
+msgid "Gonna be real lonely without those two."
+msgstr ""
+
+msgctxt " 	　	　	60	1840	1780"
+msgid "Yeah."
+msgstr ""
+
+msgctxt " 	　	　	60	2045	1985"
+msgid "Assuming, of course..."
+msgstr ""
+
+msgctxt " 	　	　	160	2226	2066"
+msgid "That the inmates who transferred in today\\r\n"
+"don't get in their way."
+msgstr ""
+
+msgctxt " 	　	　	124	2375	2251"
+msgid "Eh. The fools can try if they want."
+msgstr ""
+
+msgctxt "60ｆ以下です	　		57	2454	2397"
+msgid "But our boys'll be fine."
+msgstr ""
+
+msgctxt " 	　	分	96	2551	2455"
+msgid "Walls can't contain that kinda willpower."
+msgstr ""
+

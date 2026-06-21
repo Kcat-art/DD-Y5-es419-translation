@@ -1,0 +1,53 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	226	166"
+msgid "Sorry for all the trouble."
+msgstr ""
+
+msgctxt " 	 	　	106	333	227"
+msgid "Please. We should be the ones apologizing."
+msgstr ""
+
+msgctxt "	 	　	66	410	344"
+msgid "I'm not sure I should be saying this..."
+msgstr ""
+
+msgctxt " 	 	　	123	557	434"
+msgid "But I'm glad you ran those\\r\n"
+"Yamagasa thugs out of here."
+msgstr ""
+
+msgctxt " 	 	　	107	675	568"
+msgid "I doubt they'll show their faces\\r\n"
+"in my club again."
+msgstr ""
+
+msgctxt " 	 	　	60	758	698"
+msgid "I hope you're right."
+msgstr ""
+
+msgctxt " 	 	　	60	970	910"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	59	1033	974"
+msgid "Where'd they go?"
+msgstr ""
+
+msgctxt " 	 	　	60	1094	1034"
+msgid "You don't remember?"
+msgstr ""
+
+msgctxt "	 	　	81	1177	1096"
+msgid "You really showed them who's boss, sir."
+msgstr ""
+
+msgctxt " 	 	　	60	1278	1218"
+msgid "I did!?"
+msgstr ""
+
+msgctxt " 	 	　	60	1415	1355"
+msgid "We'll be going now."
+msgstr ""
+

@@ -1,0 +1,290 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		145	175	30"
+msgid "Why'd ya shoot Kitakata?\\r\n"
+"Why put a bullet in your own boss?"
+msgstr ""
+
+msgctxt " 	　	　	155	442	287"
+msgid "Aniki. You know...\\r\n"
+"You're even more naive than I thought."
+msgstr ""
+
+msgctxt " 	　	　	89	577	488"
+msgid "Kitakata's not my boss."
+msgstr ""
+
+msgctxt " 	　	　	126	759	633"
+msgid "Never was. I haven't spent\\r\n"
+"a single day in the Kitakata Family."
+msgstr ""
+
+msgctxt " 	　	　	175	959	784"
+msgid "But I needed you to believe I did.\\r\n"
+"Needed to pretend. All to achieve my goal."
+msgstr ""
+
+msgctxt " 	　	　	60	1049	989"
+msgid "Whaddya mean?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　		46	1101	1055"
+msgid "Well, you see."
+msgstr ""
+
+msgctxt " 	　	分	145	1247	1102"
+msgid "My prison transfer,\\r\n"
+"my placement into your cell..."
+msgstr ""
+
+msgctxt " 	　	　	76	1350	1274"
+msgid "It was all part of the plan."
+msgstr ""
+
+msgctxt " 	　	　	94	1469	1375"
+msgid "Everythin' was just some kinda act, then?"
+msgstr ""
+
+msgctxt " 	　	　	145	1666	1521"
+msgid "That's right. Thankfully, you behaved\\r\n"
+"exactly as we hoped you would."
+msgstr ""
+
+msgctxt " 	　	　	65	1732	1667"
+msgid "So much that it threw me off."
+msgstr ""
+
+msgctxt " 	　	　	92	1855	1763"
+msgid "But, to be honest..."
+msgstr ""
+
+msgctxt " 	　	　	69	1965	1896"
+msgid "I never wanted you to find out about this."
+msgstr ""
+
+msgctxt " 	　	　	60	2083	2023"
+msgid "Baba-chan."
+msgstr ""
+
+msgctxt " 	　	　	116	2382	2164"
+msgid "If I knew it would come to this, well...\\r\n"
+"I'd have just let myself die on that mountain."
+msgstr ""
+
+msgctxt " 	　	　	132	2549	2417"
+msgid "At least then I wouldn't\\r\n"
+"have to feel this pain."
+msgstr ""
+
+msgctxt " 	　	　	60	2621	2561"
+msgid "What're ya drivelin' about?"
+msgstr ""
+
+msgctxt " 	　	　	93	2975	2882"
+msgid "They asked me to keep an eye on you."
+msgstr ""
+
+msgctxt " 	　	分	91	3091	3000"
+msgid "That's why I put myself behind bars."
+msgstr ""
+
+msgctxt " 	　	　	125	3246	3121"
+msgid "Meanin' that whole spiel about\\r\n"
+"ya gettin' a decade for murder..."
+msgstr ""
+
+msgctxt " 	　	　	66	3331	3265"
+msgid "A fabrication, of course."
+msgstr ""
+
+msgctxt " 	　	　	161	3507	3346"
+msgid "I knew a sob story like that\\r\n"
+"would catch your attention, Saejima-san."
+msgstr ""
+
+msgctxt " 	　	　	111	3637	3526"
+msgid "Why do all that just to spy on me?"
+msgstr ""
+
+msgctxt " 	　	分	73	3730	3657"
+msgid "Were ya tryin' to keep me from breakin' out?"
+msgstr ""
+
+msgctxt " 	　	　	70	3825	3755"
+msgid "No, not at all."
+msgstr ""
+
+msgctxt " 	　	分	80	3921	3841"
+msgid "The opposite, in fact."
+msgstr ""
+
+msgctxt " 	　	　	60	4004	3944"
+msgid "What?"
+msgstr ""
+
+msgctxt " 	　	　	138	4234	4096"
+msgid "I had one job: to control\\r\n"
+"the length of your sentence."
+msgstr ""
+
+msgctxt " 	　	分	129	4365	4236"
+msgid "Figure out the right timing,\\r\n"
+"help you find your way to freedom..."
+msgstr ""
+
+msgctxt " 	　	　	100	4467	4367"
+msgid "And finally, bring you here to Tsukimino."
+msgstr ""
+
+msgctxt " 	　	　	152	4653	4501"
+msgid "Quit takin' me for a ride.\\r\n"
+"No chance ya coulda done that."
+msgstr ""
+
+msgctxt " 	　	　	60	4818	4758"
+msgid "Think back for a second."
+msgstr ""
+
+msgctxt " 	　	分	136	4977	4841"
+msgid "You would have been out on parole\\r\n"
+"no problem if someone hadn't interfered."
+msgstr ""
+
+msgctxt " 	　	　	60	5079	5019"
+msgid "But who woulda done that?"
+msgstr ""
+
+msgctxt " 	　	　	60	5230	5170"
+msgid "Ya can't mean..."
+msgstr ""
+
+msgctxt " 	　	　	60	5308	5248"
+msgid "Kugihara."
+msgstr ""
+
+msgctxt " 	　	分	151	5462	5311"
+msgid "He was a tool meant to extend your\\r\n"
+"prison stay until the proper time."
+msgstr ""
+
+msgctxt " 	　	　	107	5585	5478"
+msgid "Oh... And he was working for me."
+msgstr ""
+
+msgctxt " 	　	　	98	5839	5741"
+msgid "I needed a way to delay your release."
+msgstr ""
+
+msgctxt " 	　	　	156	6044	5888"
+msgid "So I used Kugihara, and goaded you\\r\n"
+"into delaying it yourself."
+msgstr ""
+
+msgctxt " 	　	　	154	6239	6085"
+msgid "Then wait. The stabbin' ya got accused of..."
+msgstr ""
+
+msgctxt " 	　	　	117	6357	6240"
+msgid "All fake. I mean, I <Italic>did</Italic> stab him."
+msgstr ""
+
+msgctxt " 	　	　	177	6576	6399"
+msgid "I had to make you lash out at Kugihara\\r\n"
+"somehow, and that was my only option."
+msgstr ""
+
+msgctxt " 	　	　	60	6678	6618"
+msgid "Baba..."
+msgstr ""
+
+msgctxt " 	　	　	132	6844	6712"
+msgid "But after all that, it was\\r\n"
+"finally time to bust you out."
+msgstr ""
+
+msgctxt " 	　	分	86	6934	6848"
+msgid "A waste of effort, but it needed to be done."
+msgstr ""
+
+msgctxt " 	　	OK	181	7160	6979"
+msgid "So, we pulled the necessary strings.\\r\n"
+"Made you <Italic>want</Italic> to break out."
+msgstr ""
+
+msgctxt " 	　	　	104	7351	7247"
+msgid "What're ya gettin' at?\\r\n"
+"Explain!"
+msgstr ""
+
+msgctxt " 	　	　	60	7606	7546"
+msgid "The death of Goro Majima."
+msgstr ""
+
+msgctxt " 	　	分	60	7691	7631"
+msgid "That was our sign."
+msgstr ""
+
+msgctxt " 	　	　	126	7836	7710"
+msgid "It was time for us to\\r\n"
+"set you free, and you obliged."
+msgstr ""
+
+msgctxt " 	　	　	154	8071	7917"
+msgid "Only one thing could spur you on.\\r\n"
+"That's why we needed to kill Majima."
+msgstr ""
+
+msgctxt " 	　	　	76	8180	8104"
+msgid "With him gone, you <Italic>had</Italic> to take action."
+msgstr ""
+
+msgctxt " 	　	分	71	8270	8199"
+msgid "Every bit of it a part of our plan."
+msgstr ""
+
+msgctxt " 	　	　	129	8445	8316"
+msgid "My bro died... 'cause of me?"
+msgstr ""
+
+msgctxt " 	　	分	60	8534	8474"
+msgid "The hell's it all mean?"
+msgstr ""
+
+msgctxt " 	　	OK	184	8752	8568"
+msgid "It wasn't just that. The warden's death, getting\\r\n"
+"the Ministry of Justice to deny your parole..."
+msgstr ""
+
+msgctxt " 	　	OK	208	8963	8755"
+msgid "Everything fit together to give you the\\r\n"
+"willpower to escape. Necessary evils."
+msgstr ""
+
+msgctxt " 	　	　	119	9109	8990"
+msgid "Of course, it wasn't through my power\\r\n"
+"that all that happened."
+msgstr ""
+
+msgctxt " 	　	　	60	9206	9146"
+msgid "But why?"
+msgstr ""
+
+msgctxt " 	　	分	122	9355	9233"
+msgid "What was so important about gettin'\\r\n"
+"me back on the outside?"
+msgstr ""
+
+msgctxt " 	　	　	60	9489	9429"
+msgid "Well..."
+msgstr ""
+
+msgctxt " 	　	分	153	9660	9507"
+msgid "You're part of my boss's plan.\\r\n"
+"The most vital part."
+msgstr ""
+
+msgctxt "This text has no context info. The text is used in B2345.po. Position in file: 66"
+msgid " "
+msgstr ""
+

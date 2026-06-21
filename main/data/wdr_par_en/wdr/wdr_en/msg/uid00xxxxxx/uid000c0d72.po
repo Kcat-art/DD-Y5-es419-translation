@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "632"
+msgid "Engaged Senior Employee"
+msgstr ""
+
+msgctxt "636"
+msgid "Playful Junior Employee"
+msgstr ""
+
+msgctxt "72_Engaged Senior Employee"
+msgid "We might not be able to go out to eat much once I get married."
+msgstr ""
+
+msgctxt "84_Engaged Senior Employee"
+msgid "Oh, don't say that! That would be terrible. Can you maybe break your engagement and marry me instead?"
+msgstr ""
+
+msgctxt "96_Engaged Senior Employee"
+msgid "Haha. That's an option."
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "316"
+msgid "Blissful Woman"
+msgstr ""
+
+msgctxt "72_Blissful Woman"
+msgid "I love barbecue with beer. That B-and-B combo is the greatest... But it's so fattening."
+msgstr ""
+

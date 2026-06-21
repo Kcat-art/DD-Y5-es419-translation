@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "300"
+msgid "Crab Lover"
+msgstr ""
+
+msgctxt "72_Crab Lover"
+msgid "Dang it, what's taking Takkun? I can't wait to crack open some crab legs."
+msgstr ""
+

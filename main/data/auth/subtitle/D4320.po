@@ -1,0 +1,84 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		109	227	118"
+msgid "Sakai-san. Please, I need you to tell me."
+msgstr ""
+
+msgctxt " 	　	　	60	352	292"
+msgid "What was the point of all this?"
+msgstr ""
+
+msgctxt " 	　	　	185	569	384"
+msgid "Back when you got called up...\\r\n"
+"You landed in the wrong place at the wrong time."
+msgstr ""
+
+msgctxt " 	　	　	201	798	597"
+msgid "You were the only one on the team who\\r\n"
+"didn't know the truth. It was so convenient."
+msgstr ""
+
+msgctxt " 	　	　	61	927	866"
+msgid "You should know, Shinada..."
+msgstr ""
+
+msgctxt " 	　	分	84	1025	941"
+msgid "I think we did you wrong."
+msgstr ""
+
+msgctxt " 	　	　	156	1203	1047"
+msgid "But I've never regretted sacrificing you.\\r\n"
+"Not for a second."
+msgstr ""
+
+msgctxt " 	　	　	60	1275	1215"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt " 	　	　	129	1447	1318"
+msgid "We threw you to the wolves,\\r\n"
+"for the good of Nagoya."
+msgstr ""
+
+msgctxt " 	　	　	97	1567	1470"
+msgid "For the good of Nagoya?\\r\n"
+"How's that make sense?"
+msgstr ""
+
+msgctxt " 	　	　	60	1692	1632"
+msgid "What are you talking about!?"
+msgstr ""
+
+msgctxt " 	　	分	63	1781	1718"
+msgid "Give it to me straight, Sakai-san!"
+msgstr ""
+
+msgctxt " 	　	　	60	1884	1824"
+msgid "Well..."
+msgstr ""
+
+msgctxt " 	　	　	60	2195	2135"
+msgid "Sakai-san!"
+msgstr ""
+
+msgctxt " 	　	　	60	2270	2210"
+msgid "Sakai-san! Hey!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	47	2379	2332"
+msgid "No use."
+msgstr ""
+
+msgctxt " 	　	　	60	2440	2380"
+msgid "He's gone."
+msgstr ""
+
+msgctxt " 	　	　	131	2699	2568"
+msgid "They sacrificed me... for Nagoya?"
+msgstr ""
+
+msgctxt " 	　	分	78	2812	2734"
+msgid "What did he mean by that?"
+msgstr ""
+

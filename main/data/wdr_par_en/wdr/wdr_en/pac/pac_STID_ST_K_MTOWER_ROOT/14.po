@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "932"
+msgid "adv5_270/daigo_0162"
+msgstr ""
+
+msgctxt "936"
+msgid "adv5_230/saejima_0653"
+msgstr ""
+
+msgctxt "940"
+msgid "C5230_SAE_TLK_sumaho_kamae"
+msgstr ""
+
+msgctxt "944"
+msgid "ACDEV0260"
+msgstr ""
+

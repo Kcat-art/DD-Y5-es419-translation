@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "940"
+msgid "adv1_170/yahata_0036"
+msgstr ""
+
+msgctxt "944"
+msgid "C1170_P_stand_kabe_kamae"
+msgstr ""
+
+msgctxt "948"
+msgid "C1170_M_YHA_sitsofa_phone_off"
+msgstr ""
+
+msgctxt "952"
+msgid "adv1_160/yahata_buka_0004"
+msgstr ""
+

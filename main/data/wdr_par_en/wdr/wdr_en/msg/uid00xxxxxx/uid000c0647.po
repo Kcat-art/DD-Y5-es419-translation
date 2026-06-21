@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "312"
+msgid "Distracted Woman"
+msgstr ""
+
+msgctxt "72_Distracted Woman"
+msgid "Where was that motsunabe place? I'm starvin' for some good ol' fashioned organ meat!"
+msgstr ""
+

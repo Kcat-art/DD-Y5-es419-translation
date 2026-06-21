@@ -1,0 +1,342 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		132	256	124"
+msgid "Have you ever thought of leaving\\r\n"
+"this place, Kazuma Kiryu-san?"
+msgstr ""
+
+msgctxt " 	　	　	61	338	277"
+msgid "I'm not sure what you're getting at."
+msgstr ""
+
+msgctxt " 	　	　	109	592	483"
+msgid "It's been a week now since I met\\r\n"
+"your daughter in that Ryukyu bookstore."
+msgstr ""
+
+msgctxt " 	　	OK	199	816	617"
+msgid "Since then, I've spent my time researching both\\r\n"
+"her and this orphanage. Quite thorougly."
+msgstr ""
+
+msgctxt " 	　	　	109	955	846"
+msgid "Of course, I'm aware of your history."
+msgstr ""
+
+msgctxt " 	　	　	60	1111	1051"
+msgid "Haruka Sawamura."
+msgstr ""
+
+msgctxt " 	　	　	125	1267	1142"
+msgid "Her appearance and sense of style are unpolished,\\r\n"
+"yes, but she shows undeniable potential."
+msgstr ""
+
+msgctxt " 	　	分	60	1335	1275"
+msgid "She just needs her edges smoothed."
+msgstr ""
+
+msgctxt " 	　	　	179	1520	1341"
+msgid "With time, I'm confident I can make her\\r\n"
+"the most dazzling jewel anyone's ever seen."
+msgstr ""
+
+msgctxt " 	　	　	146	1814	1668"
+msgid "Entrust her to me, and she'll be a star."
+msgstr ""
+
+msgctxt " 	　	　	60	1930	1870"
+msgid "On one condition, right?"
+msgstr ""
+
+msgctxt " 	　	　	77	2035	1958"
+msgid "You want me out of the picture."
+msgstr ""
+
+msgctxt " 	　	　	173	2295	2122"
+msgid "When people fall in love with someone,\\r\n"
+"they naturally want to know every last detail."
+msgstr ""
+
+msgctxt " 	　	　	128	2439	2311"
+msgid "Their blood type, birthplace,\\r\n"
+"fashion preferences, family..."
+msgstr ""
+
+msgctxt " 	　	　	94	2557	2463"
+msgid "The more they learn, the more connected they feel."
+msgstr ""
+
+msgctxt " 	　	　	145	2725	2580"
+msgid "On the contrary, if that person seems unattainable..."
+msgstr ""
+
+msgctxt " 	　	　	100	2833	2733"
+msgid "It only further fuels the thirst for knowledge."
+msgstr ""
+
+msgctxt " 	　	OK	192	3056	2864"
+msgid "They want to know everything. Bring even\\r\n"
+"the slightest little secrets out into the sun."
+msgstr ""
+
+msgctxt " 	　	　	60	3144	3084"
+msgid "You mean Haruka's past."
+msgstr ""
+
+msgctxt " 	　	　	118	3286	3168"
+msgid "Yes. Love can be a cruel thing."
+msgstr ""
+
+msgctxt " 	　	　	176	3495	3319"
+msgid "Once someone feels betrayed by the object\\r\n"
+"of their affection, love can soon turn to hatred."
+msgstr ""
+
+msgctxt " 	　	　	60	3585	3525"
+msgid "Wouldn't you agree?"
+msgstr ""
+
+msgctxt " 	　	　	60	3869	3809"
+msgid "It's for her own good."
+msgstr ""
+
+msgctxt " 	　	　	146	4040	3894"
+msgid "If we erase your connection to Haruka,\\r\n"
+"I'll be able to protect her."
+msgstr ""
+
+msgctxt " 	　	分	60	4106	4046"
+msgid "In short..."
+msgstr ""
+
+msgctxt " 	　	　	82	4199	4117"
+msgid "Got it. I've heard enough."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	56	4281	4225"
+msgid "And your answer?"
+msgstr ""
+
+msgctxt " 	　	　	89	4371	4282"
+msgid "I'm not leaving. Not a chance."
+msgstr ""
+
+msgctxt " 	　	　	171	4634	4463"
+msgid "My kids still need me. They'd be\\r\n"
+"heartbroken if I walked out on them."
+msgstr ""
+
+msgctxt " 	　	　	140	4815	4675"
+msgid "As long as they're living here,\\r\n"
+"I'm not going anywhere."
+msgstr ""
+
+msgctxt " 	　	　	67	5006	4939"
+msgid "So this is a matter of duty."
+msgstr ""
+
+msgctxt " 	　	　	73	5104	5031"
+msgid "It's a lot deeper than that."
+msgstr ""
+
+msgctxt " 	　	　	86	5232	5146"
+msgid "This is the path I've chosen in life."
+msgstr ""
+
+msgctxt " 	　	　	111	5426	5315"
+msgid "Now if you'll excuse me, I have things to do.\\r\n"
+"You can see yourself out."
+msgstr ""
+
+msgctxt " 	　	　	66	5552	5486"
+msgid "I must say, I'm surprised."
+msgstr ""
+
+msgctxt " 	　	　	171	5850	5679"
+msgid "For someone who's led the life you have,\\r\n"
+"you know nothing about how the world works."
+msgstr ""
+
+msgctxt " 	　	Ok	189	6274	6085"
+msgid "You can't even make one little girl's\\r\n"
+"wishes come true. You realize that, yes?"
+msgstr ""
+
+msgctxt " 	　	　	142	6584	6442"
+msgid "And it's not just her. I noticed something\\r\n"
+"during my visit the other day."
+msgstr ""
+
+msgctxt " 	　	　	60	6718	6658"
+msgid "This is where dreams come to die."
+msgstr ""
+
+msgctxt " 	　	分	84	6845	6761"
+msgid "As long as you're here, that is."
+msgstr ""
+
+msgctxt " 	　	　	60	6958	6898"
+msgid "What's that supposed to mean?"
+msgstr ""
+
+msgctxt " 	　	　	157	7194	7037"
+msgid "I asked your children if they were happy...\\r\n"
+"And they all gave me the same response."
+msgstr ""
+
+msgctxt " 	　	　	60	7261	7201"
+msgid "It was yes, of course."
+msgstr ""
+
+msgctxt " 	　	　	145	7436	7291"
+msgid "For a child with no family, this place\\r\n"
+"must feel like heaven on earth."
+msgstr ""
+
+msgctxt " 	　	　	127	7601	7474"
+msgid "But the truth is, they're all afraid."
+msgstr ""
+
+msgctxt " 	　	　	60	7758	7698"
+msgid "Afraid of what?"
+msgstr ""
+
+msgctxt " 	　	　	95	7903	7808"
+msgid "That one day this fragile happiness will shatter."
+msgstr ""
+
+msgctxt " 	　	　	119	8315	8196"
+msgid "Your children clearly love you,\\r\n"
+"from the bottom of their hearts."
+msgstr ""
+
+msgctxt " 	　	　	135	8471	8336"
+msgid "At the same time, they also love\\r\n"
+"the happy, peaceful life you provide for them."
+msgstr ""
+
+msgctxt " 	　	　	109	8581	8472"
+msgid "So much that they'd sacrifice\\r\n"
+"anything just to hang on to it."
+msgstr ""
+
+msgctxt " 	　	　	82	8680	8598"
+msgid "Even their own aspirations."
+msgstr ""
+
+msgctxt " 	　	　	142	9012	8870"
+msgid "Kids should be free to be a little\\r\n"
+"selfish. Free to chase their dreams."
+msgstr ""
+
+msgctxt " 	　	分	60	9074	9014"
+msgid "Free to be true to themselves."
+msgstr ""
+
+msgctxt " 	　	　	158	9278	9120"
+msgid "As long as you're here, your children\\r\n"
+"will never have that freedom."
+msgstr ""
+
+msgctxt " 	　	　	60	9409	9349"
+msgid "Excuse me?"
+msgstr ""
+
+msgctxt " 	　	　	60	9521	9461"
+msgid "You know it deep down."
+msgstr ""
+
+msgctxt " 	　	　	176	9711	9535"
+msgid "If your children are ever going to grow up,\\r\n"
+"they need an ambition to strive for."
+msgstr ""
+
+msgctxt " 	　	OK	183	9935	9752"
+msgid "Say one person clings to the safety of their current\\r\n"
+"circumstance, while another doggedly pursues their goal."
+msgstr ""
+
+msgctxt " 	　	　	72	10031	9959"
+msgid "Who will be stronger in the end?"
+msgstr ""
+
+msgctxt " 	　	　	124	10271	10147"
+msgid "Let Haruka-chan embark on this journey.\\r\n"
+"You have one of your own to make."
+msgstr ""
+
+msgctxt " 	　	　	97	10389	10292"
+msgid "Not for others, but for yourself."
+msgstr ""
+
+msgctxt " 	　	分	60	10459	10399"
+msgid "Pursue your own goal."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	43	10523	10480"
+msgid "But..."
+msgstr ""
+
+msgctxt " 	　	OK	193	10717	10524"
+msgid "Leave your daughter to me. In return, I'll fund\\r\n"
+"the future of every child who calls this place home."
+msgstr ""
+
+msgctxt " 	　	　	152	10894	10742"
+msgid "I'll cover their living expenses.\\r\n"
+"Make sure they can grow and thrive."
+msgstr ""
+
+msgctxt " 	　	　	75	10975	10900"
+msgid "They won't have a want in the world."
+msgstr ""
+
+msgctxt " 	　	　	93	11120	11027"
+msgid "I'll even let you choose your own replacement."
+msgstr ""
+
+msgctxt " 	　	　	123	11385	11262"
+msgid "And I promise you. Haruka-chan will be a star."
+msgstr ""
+
+msgctxt " 	　	　	140	11550	11410"
+msgid "Just grant her this wish.\\r\n"
+"Let her be the singer she wants to be."
+msgstr ""
+
+msgctxt " 	　	　	85	11685	11600"
+msgid "My... wish?"
+msgstr ""
+
+msgctxt " 	　	　	60	11808	11748"
+msgid "What makes you so sure?"
+msgstr ""
+
+msgctxt " 	　	　	154	11994	11840"
+msgid "How could you possibly know what Haruka\\r\n"
+"really wants? Why you, of all people?"
+msgstr ""
+
+msgctxt " 	　	　	60	12086	12026"
+msgid "It's simple."
+msgstr ""
+
+msgctxt " 	　	　	62	12177	12115"
+msgid "Because I wanted the same thing."
+msgstr ""
+
+msgctxt " 	　	　	81	12300	12219"
+msgid "You had... the same dream?"
+msgstr ""
+
+msgctxt " 	　		124	12426	12302"
+msgid "Yes. As long as you find the right successor..."
+msgstr ""
+
+msgctxt " 	　		79	12530	12438"
+msgid "Someone else can pick up the torch.\\r\n"
+"Carry out your dream."
+msgstr ""
+

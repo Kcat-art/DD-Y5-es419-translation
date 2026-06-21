@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "352"
+msgid "Player"
+msgstr ""
+
+msgctxt "60_Player"
+msgid "(Doesn't look like they're using this one right now...)"
+msgstr ""
+
+msgctxt "72_Player"
+msgid "(Doesn't look like they're using this one right now...)"
+msgstr ""
+

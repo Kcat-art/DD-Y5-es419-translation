@@ -1,0 +1,35 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "2356"
+msgid "You ready?"
+msgstr ""
+
+msgctxt "2360"
+msgid "adv3_360/paku_0131a"
+msgstr ""
+
+msgctxt "2364"
+msgid "adv3_350_2/paku_0126a"
+msgstr ""
+
+msgctxt "2368"
+msgid "adv3_350_1/christina_0007a"
+msgstr ""
+
+msgctxt "2372"
+msgid "adv3_280/haruka_3_280_050"
+msgstr ""
+
+msgctxt "2376"
+msgid "adv3_280/christina_3_280_010"
+msgstr ""
+
+msgctxt "2380"
+msgid "adv3_270_1/haruka_0117"
+msgstr ""
+
+msgctxt "2384"
+msgid "dummy"
+msgstr ""
+

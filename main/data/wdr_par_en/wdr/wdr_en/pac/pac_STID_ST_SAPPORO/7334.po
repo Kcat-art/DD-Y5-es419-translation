@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "168"
+msgid "I really recommend it."
+msgstr ""
+
+msgctxt "172"
+msgid "Maybe I should get one too."
+msgstr ""
+

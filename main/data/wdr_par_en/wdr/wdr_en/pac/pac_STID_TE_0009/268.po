@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "188"
+msgid "肩接触_振り向き怒り"
+msgstr ""
+
+msgctxt "192"
+msgid "E9840_kata_angry"
+msgstr ""
+

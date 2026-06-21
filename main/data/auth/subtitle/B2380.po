@@ -1,0 +1,88 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		68	137	69"
+msgid "You wanna help the Tojo Clan, don't you?"
+msgstr ""
+
+msgctxt " 	　	　	60	308	248"
+msgid "'Course you do, big guy."
+msgstr ""
+
+msgctxt " 	　	　	101	467	366"
+msgid "Can't do much if you're not in Tokyo, though."
+msgstr ""
+
+msgctxt " 	　	　	60	541	481"
+msgid "Ya don't gotta tell me that."
+msgstr ""
+
+msgctxt " 	　	分	101	671	570"
+msgid "Ain't a one thing I can do now."
+msgstr ""
+
+msgctxt " 	　	　	82	805	723"
+msgid "Oh yeah. Forgot to mention."
+msgstr ""
+
+msgctxt " 	　	分	109	929	820"
+msgid "This bus is on its way to the airport."
+msgstr ""
+
+msgctxt " 	　	　	60	1060	1000"
+msgid "What?"
+msgstr ""
+
+msgctxt " 	　	　	202	1312	1110"
+msgid "This case is massive. A nationwide yakuza\\r\n"
+"conspiracy of the absolute highest order."
+msgstr ""
+
+msgctxt " 	　	分	79	1400	1321"
+msgid "And the Osaka PD's gonna crack it wide open."
+msgstr ""
+
+msgctxt " 	　	OK	214	1622	1408"
+msgid "To do that, we gotta go after\\r\n"
+"the key players. Morinaga and Baba."
+msgstr ""
+
+msgctxt " 	　	　	67	1705	1638"
+msgid "And we want your help."
+msgstr ""
+
+msgctxt " 	　	　	155	1900	1745"
+msgid "Go to Tokyo. Figure out what's\\r\n"
+"eating away at the corpse of your clan."
+msgstr ""
+
+msgctxt " 	　	分	98	2012	1914"
+msgid "Think you're up for it?"
+msgstr ""
+
+msgctxt " 	　	　	60	2077	2017"
+msgid "Don't fuck with me."
+msgstr ""
+
+msgctxt " 	　	　	74	2178	2104"
+msgid "The Tojo Clan's on its last legs."
+msgstr ""
+
+msgctxt " 	　	　	174	2382	2208"
+msgid "And you were next in line to be captain.\\r\n"
+"Shit'll go down if you show."
+msgstr ""
+
+msgctxt " 	　	　	133	2560	2427"
+msgid "So what, ya want me to be your police rat?"
+msgstr ""
+
+msgctxt " 	　	　	147	2772	2625"
+msgid "If the answer's no, we'll gladly drive you\\r\n"
+"straight on back to your jail cell."
+msgstr ""
+
+msgctxt " 	　	　	90	2917	2827"
+msgid "Well? You in?"
+msgstr ""
+

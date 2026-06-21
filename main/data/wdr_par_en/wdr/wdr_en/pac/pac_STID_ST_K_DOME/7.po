@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "500"
+msgid "adv5_210/mai_0035"
+msgstr ""
+

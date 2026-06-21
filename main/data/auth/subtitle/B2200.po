@@ -1,0 +1,70 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		120	230	110"
+msgid "No... There's no way."
+msgstr ""
+
+msgctxt " 	　	　	60	418	358"
+msgid "I don't get it."
+msgstr ""
+
+msgctxt " 	　	　	97	550	453"
+msgid "This many guys... and we still won?"
+msgstr ""
+
+msgctxt " 	　	　	66	1630	1564"
+msgid "Deal with that how ya want."
+msgstr ""
+
+msgctxt " 	　	分	136	1790	1654"
+msgid "Lop it off if ya gotta.\\r\n"
+"Whatever it takes to keep livin'."
+msgstr ""
+
+msgctxt " 	　	　	104	2195	2091"
+msgid "This is what happens when ya\\r\n"
+"go pickin' fights with a yakuza."
+msgstr ""
+
+msgctxt " 	　	分	79	2302	2223"
+msgid "Shoulda been ready for this since day one."
+msgstr ""
+
+msgctxt " 	　	　	60	2456	2396"
+msgid "Please, don't kill me..."
+msgstr ""
+
+msgctxt " 	　	　	60	2569	2509"
+msgid "Wasn't plannin' on it."
+msgstr ""
+
+msgctxt " 	　	分	64	2659	2595"
+msgid "No breakin' my promise with Kosaka-han."
+msgstr ""
+
+msgctxt " 	　	　	62	2957	2895"
+msgid "Ya good to go, Baba-chan?"
+msgstr ""
+
+msgctxt " 	　	　	60	3056	2996"
+msgid "Yeah."
+msgstr ""
+
+msgctxt " 	　	　	120	3537	3417"
+msgid "Don't think... you're getting off that easy!"
+msgstr ""
+
+msgctxt " 	　	　	109	3736	3627"
+msgid "Now die, Saejima!"
+msgstr ""
+
+msgctxt " 	　	　	132	4375	4243"
+msgid "Who knew they gave our guards\\r\n"
+"such antique hunks of scrap?"
+msgstr ""
+
+msgctxt "		 	　	4468	4408"
+msgid "Surprised I even landed the shot."
+msgstr ""
+

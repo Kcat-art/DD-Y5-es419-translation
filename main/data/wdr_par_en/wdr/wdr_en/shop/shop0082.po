@@ -1,0 +1,315 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid "/‐"
+msgstr ""
+
+msgctxt "16"
+msgid "/‐"
+msgstr ""
+
+msgctxt "20"
+msgid "/‐"
+msgstr ""
+
+msgctxt "24"
+msgid "/‐"
+msgstr ""
+
+msgctxt "28"
+msgid "/‐"
+msgstr ""
+
+msgctxt "32"
+msgid "Owned"
+msgstr ""
+
+msgctxt "36"
+msgid "Owned"
+msgstr ""
+
+msgctxt "40"
+msgid "Owned"
+msgstr ""
+
+msgctxt "44"
+msgid "Owned"
+msgstr ""
+
+msgctxt "48"
+msgid "Owned"
+msgstr ""
+
+msgctxt "52"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "60"
+msgid "(Don't got anythin' picked out.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(I haven't selected anything.)  "
+msgstr ""
+
+msgctxt "68"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "72"
+msgid "(I don't have enough for that.)"
+msgstr ""
+
+msgctxt "76"
+msgid "(Don't have the cash. How am I so broke?)"
+msgstr ""
+
+msgctxt "80"
+msgid "(Don't got the cash for that.)"
+msgstr ""
+
+msgctxt "84"
+msgid "(Looks like I'm a little short.)  "
+msgstr ""
+
+msgctxt "88"
+msgid "(Looks like I don't have enough.)"
+msgstr ""
+
+msgctxt "92"
+msgid "Shall I ring this up now?"
+msgstr ""
+
+msgctxt "96"
+msgid "Shall I ring this up now?"
+msgstr ""
+
+msgctxt "100"
+msgid "Shall I ring this up now?"
+msgstr ""
+
+msgctxt "104"
+msgid "Shall I ring this up now?"
+msgstr ""
+
+msgctxt "108"
+msgid "Shall I ring this up now?"
+msgstr ""
+
+msgctxt "112"
+msgid "(I don't have enough room.)"
+msgstr ""
+
+msgctxt "116"
+msgid "(Pockets are jam-packed as is.)"
+msgstr ""
+
+msgctxt "120"
+msgid "(Carryin' too much already.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(I don't have any space.)"
+msgstr ""
+
+msgctxt "128"
+msgid "(I don't have the space for that.)"
+msgstr ""
+
+msgctxt "132"
+msgid "(They're all sold out.)"
+msgstr ""
+
+msgctxt "136"
+msgid "(Fresh out.)"
+msgstr ""
+
+msgctxt "140"
+msgid "(Ain't a single one left.)"
+msgstr ""
+
+msgctxt "144"
+msgid "(I guess it's all sold out.)  "
+msgstr ""
+
+msgctxt "148"
+msgid "(I don't need any of this stuff.)"
+msgstr ""
+
+msgctxt "152"
+msgid "(Oh, I already have one.)"
+msgstr ""
+
+msgctxt "156"
+msgid "(Already have myself one of those.)"
+msgstr ""
+
+msgctxt "160"
+msgid "(Already got my hands on that.)"
+msgstr ""
+
+msgctxt "164"
+msgid "(Already got one of these.)  "
+msgstr ""
+
+msgctxt "168"
+msgid "(I already have one of those.)"
+msgstr ""
+
+msgctxt "172"
+msgid "－"
+msgstr ""
+
+msgctxt "176"
+msgid "－"
+msgstr ""
+
+msgctxt "180"
+msgid "－"
+msgstr ""
+
+msgctxt "184"
+msgid "－"
+msgstr ""
+
+msgctxt "188"
+msgid "－"
+msgstr ""
+
+msgctxt "192"
+msgid "Order"
+msgstr ""
+
+msgctxt "196"
+msgid "Order"
+msgstr ""
+
+msgctxt "200"
+msgid "Order"
+msgstr ""
+
+msgctxt "204"
+msgid "Order"
+msgstr ""
+
+msgctxt "208"
+msgid "Order"
+msgstr ""
+
+msgctxt "524"
+msgid "Restores your health to its maximum."
+msgstr ""
+
+msgctxt "556"
+msgid "Charges your Heat to its maximum level."
+msgstr ""
+
+msgctxt "588"
+msgid "Restores health and charges Heat completely. "
+msgstr ""
+
+msgctxt "620"
+msgid "Wear these to raise the destructive power of objects you throw."
+msgstr ""
+
+msgctxt "652"
+msgid "Wear this towel to remain calm at all times."
+msgstr ""
+
+msgctxt "684"
+msgid "These scissors were originally made as an implement for eating crab."
+msgstr ""
+
+msgctxt "716"
+msgid "An assassin's spear, just as the name implies. Very sharp."
+msgstr ""
+
+msgctxt "748"
+msgid "A stun gun and a modified lighter fused into one hell of a weapon."
+msgstr ""
+
+msgctxt "780"
+msgid "This makes it easier to slip out of an enemy's grip."
+msgstr ""
+
+msgctxt "812"
+msgid "Made from an extremely strong alloy, this pipe was intended for a construction project until it was sold on the black market."
+msgstr ""
+
+msgctxt "844"
+msgid "These taiko sticks are spiked with nails for more damage."
+msgstr ""
+
+msgctxt "876"
+msgid "Who knows what it's made of, but it provides resistance to blinding and knockouts."
+msgstr ""
+
+msgctxt "908"
+msgid "This sign looks like it might pack a punch. It even has the warning \"Do not swing at people!\" inscribed on it."
+msgstr ""
+
+msgctxt "940"
+msgid "These shoes help you avoid unwanted confrontations around town."
+msgstr ""
+
+msgctxt "972"
+msgid "A platinum ruler with its length sharpened into a blade, making it easier to use. Very sturdy."
+msgstr ""
+
+msgctxt "1004"
+msgid "This firework includes a warning about not firing it at people. Once you take it out, you can't put it away again."
+msgstr ""
+
+msgctxt "1036"
+msgid "This bracelet heals your wounds when all is calm."
+msgstr ""
+
+msgctxt "1068"
+msgid "When people see this, they'll probably want it so badly they'll be willing to pick a fight with you."
+msgstr ""
+
+msgctxt "1100"
+msgid "The latest in cutting-edge physical fitness gear. Even endorsed by top athletes."
+msgstr ""
+
+msgctxt "1132"
+msgid "This block of platinum evokes the elegance of rare metals."
+msgstr ""
+
+msgctxt "1164"
+msgid "Stings the eyes and stinks up whomever it strikes. But unfortunately, you can't eat them if you're hungry."
+msgstr ""
+
+msgctxt "1196"
+msgid "The ultimate symbol of strength. Enemies will flock to you to challenge your bold claim."
+msgstr ""
+
+msgctxt "1228"
+msgid "This bloody binding gives off an ominous feeling. Use with caution."
+msgstr ""
+
+msgctxt "1260"
+msgid "Dragon talons are shed every few thousand years. If used right, they are said to summon the spirits of the dead."
+msgstr ""
+
+msgctxt "1292"
+msgid "A fang said to be from a dragon that sacked a Chinese kingdom long ago. The hero who vanquished it met an untimely death."
+msgstr ""
+
+msgctxt "1324"
+msgid "This stone reflects light an eerie, diffuse manner. Maybe you could use it for something."
+msgstr ""
+
+msgctxt "1356"
+msgid "A legendary blade made by a swordsmith of extraordinary talent. It is said to sometimes drink in the blood of its victims."
+msgstr ""
+
+msgctxt "1388"
+msgid "This gunpowder has an excellent burn rate and destructive force. Maybe you could use it for something."
+msgstr ""
+

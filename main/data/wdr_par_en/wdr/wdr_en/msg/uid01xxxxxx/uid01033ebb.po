@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "436"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "440"
+msgid "dummy"
+msgstr ""
+
+msgctxt "60_Akiyama"
+msgid "Damn. Lost him."
+msgstr ""
+
+msgctxt "84_Akiyama"
+msgid "*pant* *pant* I'm beat."
+msgstr ""
+

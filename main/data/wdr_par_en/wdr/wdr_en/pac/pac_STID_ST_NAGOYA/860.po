@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "164"
+msgid "Isn't there anyone who will listen?"
+msgstr ""
+
+msgctxt "200"
+msgid "Fellow citizens!"
+msgstr ""
+
+msgctxt "212"
+msgid "Lend me your ears!"
+msgstr ""
+
+msgctxt "3080"
+msgid "ACYAM7000"
+msgstr ""
+
+msgctxt "3084"
+msgid "SE13_P_SIN_TLK_senkyo_kamae"
+msgstr ""
+

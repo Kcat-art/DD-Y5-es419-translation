@@ -1,0 +1,28 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "			77	109	32"
+msgid "Did everyone enjoy the show!?"
+msgstr ""
+
+msgctxt "		テキスト修正	124	234	110"
+msgid "The crowd is cheering wildly!\\r\n"
+"They can't get enough of you girls!"
+msgstr ""
+
+msgctxt "			143	384	241"
+msgid "But I'm afraid we've just about run out of time."
+msgstr ""
+
+msgctxt "			89	477	388"
+msgid "It's been such fun for us all. Now..."
+msgstr ""
+
+msgctxt "			82	560	478"
+msgid "See you next stage!"
+msgstr ""
+
+msgctxt "This text has no context info. The text is used in C3545.po. Position in file: 7"
+msgid " "
+msgstr ""
+

@@ -1,0 +1,198 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	442	382"
+msgid "What gives, Ka-chan?"
+msgstr ""
+
+msgctxt " 	　	分	102	556	454"
+msgid "Ain't exactly your style\\r\n"
+"to be picking a fight, is it?"
+msgstr ""
+
+msgctxt " 	　	　	60	632	572"
+msgid "Ya fired up?"
+msgstr ""
+
+msgctxt " 	　	　	76	724	648"
+msgid "Not every day this happens."
+msgstr ""
+
+msgctxt " 	　	タイミングが遅い	147	889	742"
+msgid "Logic aside, could any yakuza\\r\n"
+"turn down a fight like this?"
+msgstr ""
+
+msgctxt " 	　	　	60	1034	974"
+msgid "Watase-aniki?"
+msgstr ""
+
+msgctxt " 	　	　	70	1174	1104"
+msgid "Well, I s'pose not."
+msgstr ""
+
+msgctxt " 	　	　	60	1443	1383"
+msgid "How 'bout you, Kiryu-han?"
+msgstr ""
+
+msgctxt " 	　	分	136	1595	1459"
+msgid "Feel like playin' right into the enemy's hand?"
+msgstr ""
+
+msgctxt " 	　	　	60	1706	1646"
+msgid "Watase..."
+msgstr ""
+
+msgctxt " 	　	　	148	1863	1715"
+msgid "You and I were gonna have to\\r\n"
+"duke it out sooner than later."
+msgstr ""
+
+msgctxt " 	　	　	81	1975	1894"
+msgid "Might as well be now, right?"
+msgstr ""
+
+msgctxt " 	　	　	150	2205	2055"
+msgid "If the four of us take off the gloves,\\r\n"
+"there's no telling how it ends."
+msgstr ""
+
+msgctxt " 	　	　	74	2291	2217"
+msgid "Worst case, we all fall."
+msgstr ""
+
+msgctxt " 	　	　	153	2488	2335"
+msgid "We could kill each other, exactly as\\r\n"
+"our common foe is hoping we will."
+msgstr ""
+
+msgctxt " 	　	OK	231	2895	2664"
+msgid "But if at least one of us makes it out\\r\n"
+"alive, he'll learn who's behind all this."
+msgstr ""
+
+msgctxt " 	　	　	82	3036	2954"
+msgid "I have a proposal for you."
+msgstr ""
+
+msgctxt " 	　	　	87	3156	3069"
+msgid "Whoever makes it out alive..."
+msgstr ""
+
+msgctxt " 	　		239	3403	3164"
+msgid "Has to wipe up this mess\\r\n"
+"between the Tojo and the Omi."
+msgstr ""
+
+msgctxt " 	　	　	60	3962	3902"
+msgid "Sounds good to me."
+msgstr ""
+
+msgctxt " 	　	　	60	4030	3970"
+msgid "Saejima..."
+msgstr ""
+
+msgctxt " 	　	　	80	4125	4045"
+msgid "But if I'm the last man standin'..."
+msgstr ""
+
+msgctxt " 	　	分	134	4274	4140"
+msgid "I'm just as likely to end up crushin'\\r\n"
+"both the Tojo Clan and the Omi Alliance."
+msgstr ""
+
+msgctxt " 	　	　	145	4454	4309"
+msgid "Subtlety ain't exactly my thing.\\r\n"
+"That work for you?"
+msgstr ""
+
+msgctxt " 	　	　	60	4581	4521"
+msgid "It'll be your call."
+msgstr ""
+
+msgctxt " 	　	分	122	4704	4582"
+msgid "Whoever wins can settle this however they wish."
+msgstr ""
+
+msgctxt " 	　	　	60	4849	4789"
+msgid "Great."
+msgstr ""
+
+msgctxt " 	　	　	72	4986	4914"
+msgid "You idiots need to listen to yourselves."
+msgstr ""
+
+msgctxt " 	　	　	119	5176	5057"
+msgid "You think you're itching for a fight?"
+msgstr ""
+
+msgctxt " 	　	　	60	5567	5507"
+msgid "You've forgotten one thing."
+msgstr ""
+
+msgctxt " 	　	　	72	5702	5630"
+msgid "Amongst the lot of us..."
+msgstr ""
+
+msgctxt " 	　	分	74	5805	5731"
+msgid "Nobody's waited longer to fight than me."
+msgstr ""
+
+msgctxt " 	　	　	60	5905	5845"
+msgid "Kiryu-han..."
+msgstr ""
+
+msgctxt " 	　	　	65	6002	5937"
+msgid "Who's going first?"
+msgstr ""
+
+msgctxt " 	　	　	60	6093	6033"
+msgid "I'm ready when you are."
+msgstr ""
+
+msgctxt " 	　	分	63	6180	6117"
+msgid "And I'll take on any of you."
+msgstr ""
+
+msgctxt " 	　	　	118	6381	6263"
+msgid "I'll step up to that.\\r\n"
+"That good with you, Katsuya?"
+msgstr ""
+
+msgctxt " 	　	　	60	6478	6418"
+msgid "By all means."
+msgstr ""
+
+msgctxt " 	　	　	161	6647	6486"
+msgid "That leaves Saejima-san to me.\\r\n"
+"Is that acceptable, Saejima-san?"
+msgstr ""
+
+msgctxt " 	　	　	60	6743	6683"
+msgid "Have it your way."
+msgstr ""
+
+msgctxt " 	　	　	60	6927	6867"
+msgid "Let's put an end to this."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	58	7012	6954"
+msgid "Right."
+msgstr ""
+
+msgctxt " 	　	　	121	7134	7013"
+msgid "Let's find out who's strongest. And then..."
+msgstr ""
+
+msgctxt " 	　	　	98	7273	7175"
+msgid "He gets to unmask the mastermind."
+msgstr ""
+
+msgctxt " 	　	　	60	7407	7347"
+msgid "No holding back."
+msgstr ""
+
+msgctxt " 	　	　	84	7540	7456"
+msgid "If you wanna die, come at me!"
+msgstr ""
+

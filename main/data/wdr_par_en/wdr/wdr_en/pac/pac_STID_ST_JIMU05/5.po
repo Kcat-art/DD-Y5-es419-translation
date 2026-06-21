@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1056"
+msgid "M_NML_SET_stand_teatama"
+msgstr ""
+

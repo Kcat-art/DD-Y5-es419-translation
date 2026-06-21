@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "372"
+msgid "Overly Friendly Man"
+msgstr ""
+
+msgctxt "100_Overly Friendly Man"
+msgid "Did you see the news? It's getting rough out here. Take care, pal."
+msgstr ""
+

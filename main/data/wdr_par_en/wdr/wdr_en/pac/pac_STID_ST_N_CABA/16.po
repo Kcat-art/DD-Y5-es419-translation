@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1956"
+msgid "cab_shion_q_01/shion_25_0001"
+msgstr ""
+
+msgctxt "1960"
+msgid "cab_shion_q_02/shion_26_0001"
+msgstr ""
+
+msgctxt "1964"
+msgid "cab_shion_q_03/shion_27_0001"
+msgstr ""
+
+msgctxt "1968"
+msgid "cab_shion_q_04/shion_28_0001"
+msgstr ""
+
+msgctxt "1972"
+msgid "cab_shion_q_05/shion_29_0001"
+msgstr ""
+

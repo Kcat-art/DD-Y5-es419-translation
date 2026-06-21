@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3856"
+msgid "Ready to head up?"
+msgstr ""
+
+msgctxt "3860"
+msgid "P_TLK_sitgrd_agura_kamae"
+msgstr ""
+
+msgctxt "3864"
+msgid "dummy"
+msgstr ""
+

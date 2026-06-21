@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "408"
+msgid "E9720_stand_tosenbo"
+msgstr ""
+

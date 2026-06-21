@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "244"
+msgid "Crab"
+msgstr ""
+
+msgctxt "44_Crab"
+msgid "Crab is delicious!"
+msgstr ""
+

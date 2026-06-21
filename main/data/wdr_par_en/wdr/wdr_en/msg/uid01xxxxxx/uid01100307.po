@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1852"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "188_Dealer"
+msgid "You're not bad. So how about it? Wanna try and guess the number on one of the dice?"
+msgstr ""
+
+msgctxt "200_Dealer"
+msgid "You're pretty good. So how about it? Wanna try and guess the numbers on both dice?"
+msgstr ""
+
+msgctxt "212_Dealer"
+msgid "Nice one... If you can win again, do you wanna try playing against the house, one-on-one?"
+msgstr ""
+
+msgctxt "224_Dealer"
+msgid "Didn't think you'd be this good. I'm impressed. Listen, I let my best customers bet on the difference. Are you interested?"
+msgstr ""
+
+msgctxt "236_Dealer"
+msgid "Heh, you're a tough one, aren't you?"
+msgstr ""
+
+msgctxt "248_Dealer"
+msgid "Heh, you're a tough one, aren't you?"
+msgstr ""
+
+msgctxt "260_Dealer"
+msgid "Heh, you're a tough one, aren't you?"
+msgstr ""
+
+msgctxt "272_Dealer"
+msgid "Don't go and disappoint me now."
+msgstr ""
+
+msgctxt "284_Dealer"
+msgid "Don't go and disappoint me now."
+msgstr ""
+
+msgctxt "296_Dealer"
+msgid "Don't go and disappoint me now."
+msgstr ""
+

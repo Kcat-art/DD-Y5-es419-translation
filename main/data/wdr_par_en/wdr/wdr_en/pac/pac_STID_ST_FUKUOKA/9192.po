@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "180"
+msgid "Don't like tonkotsu much..."
+msgstr ""
+
+msgctxt "184"
+msgid "Ya right in the head?"
+msgstr ""
+

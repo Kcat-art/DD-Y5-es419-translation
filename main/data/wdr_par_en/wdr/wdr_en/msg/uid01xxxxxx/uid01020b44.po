@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1540"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1544"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1548"
+msgid "Yes"
+msgstr ""
+
+msgctxt "1552"
+msgid "No"
+msgstr ""
+
+msgctxt "1556"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "(Katsuya is here. Am I ready to confront him?)"
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "(Katsuya's here. Am I ready to go after him?)"
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid "(I should be better prepared.)"
+msgstr ""
+
+msgctxt "104_Saejima"
+msgid "(Gotta get ready first.)"
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "(This is it.)"
+msgstr ""
+
+msgctxt "128_Saejima"
+msgid "(Let's go.)"
+msgstr ""
+

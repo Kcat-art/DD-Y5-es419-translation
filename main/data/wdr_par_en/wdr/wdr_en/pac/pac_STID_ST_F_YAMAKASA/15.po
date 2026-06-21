@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "(Their numbers have thinned out. Guess I won't be needing this after all.)"
+msgstr ""
+
+msgctxt "420"
+msgid "Player"
+msgstr ""
+

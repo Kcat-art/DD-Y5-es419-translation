@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "You cannot go beyond this point in the Demo."
+msgstr ""
+
+msgctxt "588"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "76_Haruka"
+msgid "(I shouldn't go very far.)"
+msgstr ""
+
+msgctxt "100_Haruka"
+msgid "(I'm supposed to be out shopping with Yui-chan. I wonder if she's finished with that yet. I should ask.)"
+msgstr ""
+

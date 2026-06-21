@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "484"
+msgid "Winter-loving Woman"
+msgstr ""
+
+msgctxt "488"
+msgid "Northern Man"
+msgstr ""
+
+msgctxt "60_Winter-loving Woman"
+msgid "Having ice cream while toasty in a kotatsu... That's decadence you can only enjoy in winter."
+msgstr ""
+
+msgctxt "72_Northern Man"
+msgid "I know exactly where you're comin' from. There's a sense of guilty pleasure that makes it even sweeter."
+msgstr ""
+

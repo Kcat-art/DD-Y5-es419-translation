@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "932"
+msgid "This is the reception"
+msgstr ""
+

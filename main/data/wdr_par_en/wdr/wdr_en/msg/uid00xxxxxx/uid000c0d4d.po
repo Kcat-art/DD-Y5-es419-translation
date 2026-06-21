@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "552"
+msgid "Superstitious Girl"
+msgstr ""
+
+msgctxt "556"
+msgid "Unflappable Woman"
+msgstr ""
+
+msgctxt "72_Superstitious Girl"
+msgid "I heard my doorbell, so I answered the door right away... but there was no one there. It had to have been a ghost."
+msgstr ""
+
+msgctxt "84_Superstitious Girl"
+msgid "Don't be silly. You just imagined it. Or it's just electrical trouble."
+msgstr ""
+

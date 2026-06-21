@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "168"
+msgid "So pretty! ♪"
+msgstr ""
+
+msgctxt "172"
+msgid "Yer mom really pushed the boat out!"
+msgstr ""
+

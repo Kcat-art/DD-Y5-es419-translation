@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "168"
+msgid "I'm feeling rather peckish."
+msgstr ""
+
+msgctxt "172"
+msgid "They gotta have one in Sotenbori."
+msgstr ""
+

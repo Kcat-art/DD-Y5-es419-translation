@@ -1,0 +1,443 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid "/‐"
+msgstr ""
+
+msgctxt "16"
+msgid "/‐"
+msgstr ""
+
+msgctxt "20"
+msgid "/‐"
+msgstr ""
+
+msgctxt "24"
+msgid "/‐"
+msgstr ""
+
+msgctxt "28"
+msgid "/‐"
+msgstr ""
+
+msgctxt "32"
+msgid "Owned"
+msgstr ""
+
+msgctxt "36"
+msgid "Owned"
+msgstr ""
+
+msgctxt "40"
+msgid "Owned"
+msgstr ""
+
+msgctxt "44"
+msgid "Owned"
+msgstr ""
+
+msgctxt "48"
+msgid "Owned"
+msgstr ""
+
+msgctxt "52"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "60"
+msgid "(Don't got anythin' in mind.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(I've got nothing selected.)  "
+msgstr ""
+
+msgctxt "68"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "72"
+msgid "(I don't have enough money for that.)"
+msgstr ""
+
+msgctxt "76"
+msgid "(Don't have the cash. How am I so broke?)"
+msgstr ""
+
+msgctxt "80"
+msgid "(Don't got the cash for that.)"
+msgstr ""
+
+msgctxt "84"
+msgid "(Don't got enough on me.)  "
+msgstr ""
+
+msgctxt "88"
+msgid "(Looks like I don't have enough.)"
+msgstr ""
+
+msgctxt "92"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "96"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "100"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "104"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "108"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "112"
+msgid "(I can't drink another drop.)"
+msgstr ""
+
+msgctxt "116"
+msgid "(Probably shouldn't. I'm seeing double as is."
+msgstr ""
+
+msgctxt "120"
+msgid "(Gonna explode if I drink any more.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(I can't drink anymore.)  "
+msgstr ""
+
+msgctxt "128"
+msgid "(I'm not old enough to drink.)"
+msgstr ""
+
+msgctxt "132"
+msgid "－"
+msgstr ""
+
+msgctxt "136"
+msgid "－"
+msgstr ""
+
+msgctxt "140"
+msgid "－"
+msgstr ""
+
+msgctxt "144"
+msgid "－"
+msgstr ""
+
+msgctxt "148"
+msgid "－"
+msgstr ""
+
+msgctxt "152"
+msgid "Order"
+msgstr ""
+
+msgctxt "156"
+msgid "Order"
+msgstr ""
+
+msgctxt "160"
+msgid "Order"
+msgstr ""
+
+msgctxt "164"
+msgid "Order"
+msgstr ""
+
+msgctxt "168"
+msgid "Order"
+msgstr ""
+
+msgctxt "412"
+msgid "sitcnt"
+msgstr ""
+
+msgctxt "492"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "524"
+msgid "Around 80 percent of this whisky is matured in sherry casks, while the other 20 percent spent its time in American and Mizunara oak casks."
+msgstr ""
+
+msgctxt "540"
+msgid "This eighteen-year-old Japanese whisky has earned the loyalty of an ever-increasing international following of Japanese whisky fans abroad."
+msgstr ""
+
+msgctxt "544"
+msgid "Among all of Yamazaki's highly decorated repertoire, this whisky has received the most awards."
+msgstr ""
+
+msgctxt "548"
+msgid "Profound, aged flavor, dry fruitiness imparted by the cherry wood cask..."
+msgstr ""
+
+msgctxt "552"
+msgid "And a fragrant hint of chocolate on your palate will leave you stunned by this full-bodied whisky."
+msgstr ""
+
+msgctxt "556"
+msgid "You've got to try this world-renowned flavor for yourself."
+msgstr ""
+
+msgctxt "596"
+msgid "A Yamazaki whisky made with carefully selected, mature malts for a flavorful, smooth finish."
+msgstr ""
+
+msgctxt "612"
+msgid "This is one of Japan's top single malt whiskies. It's become such a status symbol that whisky aficionados the world over have heard of it. "
+msgstr ""
+
+msgctxt "616"
+msgid "They use carefully selected, perfectly matured single malts to get that great, smooth flavor. It's popular overseas, too."
+msgstr ""
+
+msgctxt "668"
+msgid "A whisky made in the Southern Alps of Japan. Has a fruity flavor with smoky accents."
+msgstr ""
+
+msgctxt "684"
+msgid "This one's made at Suntory's Hakushu distillery in Japan's South Alps, an area famous for its mountain spring water."
+msgstr ""
+
+msgctxt "688"
+msgid "Its fruity, creamy flavor combined with a distinctly smoky accent makes for a superb drinking experience. "
+msgstr ""
+
+msgctxt "692"
+msgid "I recommend taking the first drink straight up, to fully appreciate its quality."
+msgstr ""
+
+msgctxt "740"
+msgid "A blend of malt and mature grains for a clear, delicate flavor."
+msgstr ""
+
+msgctxt "756"
+msgid "In 1946, this whisky was born in Japan, sparking a boom in Western liquor production."
+msgstr ""
+
+msgctxt "760"
+msgid "The \"Torys bars\" of the 1960s derive their namesake from this whisky, and contributed to the popularization of whisky."
+msgstr ""
+
+msgctxt "764"
+msgid "Its brand mascot Uncle Torys was beloved for his humorous and somehow nostalgic appearance."
+msgstr ""
+
+msgctxt "768"
+msgid "Torys Extra continues the legacy of Torys whisky, bringing a gentle and refreshing flavor to your palate."
+msgstr ""
+
+msgctxt "772"
+msgid "It's the perfect base for a highball."
+msgstr ""
+
+msgctxt "812"
+msgid "Characterized by an intensely smoky flavor and a smooth, dry body."
+msgstr ""
+
+msgctxt "828"
+msgid "It's safe to say this 10 year Laphroaig is the standard-bearer of the brand. It's characterized by an intensely smoky flavor and a smooth, dry body."
+msgstr ""
+
+msgctxt "832"
+msgid "And it has more than its share of quirks, so most people either love it or hate it. If you end up loving this one, it'll be one drink you'll never forget. "
+msgstr ""
+
+msgctxt "884"
+msgid "The best-selling single malt whisky in the world, known for its light and fresh flavor."
+msgstr ""
+
+msgctxt "900"
+msgid "Glenfiddich 12 Years is the best selling single malt whisky in the world. This bottle set the industry standard for a single malt. You'll find it light and fresh."
+msgstr ""
+
+msgctxt "904"
+msgid "The nose is full of fruit, and it has a clean finish, making it exceptionally easy to drink. "
+msgstr ""
+
+msgctxt "908"
+msgid "Its light flavor makes it popular with the ladies and anyone new to single malt whiskies.  "
+msgstr ""
+
+msgctxt "956"
+msgid "A rare Japanese whisky with a robust body."
+msgstr ""
+
+msgctxt "972"
+msgid "One of the top premium whiskies in Japan and the whole world. A blend of single malts, featuring whiskies aged for 32 years in a Yamazaki white oak barrel, gives it distinct character."
+msgstr ""
+
+msgctxt "976"
+msgid "Its quality has earned it a grand prize in an international competition. Only about 2,000 bottles are produced each year, making it especially rare. "
+msgstr ""
+
+msgctxt "988"
+msgid "If you really like whisky, this is the bottle you have to experience."
+msgstr ""
+
+msgctxt "1028"
+msgid "One of Japan's premium brands, known internationally for its mellow flavor."
+msgstr ""
+
+msgctxt "1044"
+msgid "This is a premium Japanese whisky that has won over whisky lovers around the world. "
+msgstr ""
+
+msgctxt "1048"
+msgid "This whisky starts with a single malt aged in Japanese Mizunara oak and then blended with over thirty different, painstakingly selected single malts. "
+msgstr ""
+
+msgctxt "1052"
+msgid "The mellow flavor produced by this process has earned it a gold prize in international competition.  "
+msgstr ""
+
+msgctxt "1056"
+msgid "The finish is particularly good."
+msgstr ""
+
+msgctxt "1060"
+msgid "This bottle is popularly given in gift exchanges. Not that I've ever been gifted one..."
+msgstr ""
+
+msgctxt "1100"
+msgid "A carefully distilled spirit with a bright aroma and sweet fullness."
+msgstr ""
+
+msgctxt "1116"
+msgid "Another extremely popular Japanese whisky. Malt whisky aged in sherry barrels at the Yamazaki Distillery are blended with carefully selected malt and grain whiskies."
+msgstr ""
+
+msgctxt "1120"
+msgid "It has a bright aroma and delivers a sweet fullness in the mouth, and the finish is deep and mellow. "
+msgstr ""
+
+msgctxt "1124"
+msgid "A lot of people call it Daruma, because the round shape of its bottle looks like a Daruma doll."
+msgstr ""
+
+msgctxt "1172"
+msgid "The best scotch available, hands down."
+msgstr ""
+
+msgctxt "1188"
+msgid "This bottle is the pinnacle of Scotch whiskies, head and shoulders above the competition."
+msgstr ""
+
+msgctxt "1192"
+msgid "More than thirty different single malts aged over thirty years are hand selected for their mellow character and blended. Truly the king of blended whiskies."
+msgstr ""
+
+msgctxt "1196"
+msgid "You can enjoy the taste of this whisky that can only be achieved by thirty years of aging. The fact that only 2,500 cases are bottled each year makes it quite rare."
+msgstr ""
+
+msgctxt "1244"
+msgid "The crown jewel of the Ballantine's brand, crafted from a combination of over forty single malts."
+msgstr ""
+
+msgctxt "1260"
+msgid "This is the ultimate blended whisky. It boasts a rich and smooth taste only made possible by combining over forty single malts. "
+msgstr ""
+
+msgctxt "1264"
+msgid "This could very well be called the crown jewel of Ballantine's whisky blending skills. It's well loved the world over, to the point of some calling it <Italic>the</Italic> scotch. "
+msgstr ""
+
+msgctxt "1316"
+msgid "Standard Ballantine's scotch. Not too heavy, not too light, but just right."
+msgstr ""
+
+msgctxt "1332"
+msgid "That's a standard Scotch, made from a blend of over forty varieties of single malts. Not too heavy, not too light. It's got a great balance to it.   "
+msgstr ""
+
+msgctxt "1336"
+msgid "And the price isn't too high, either. I recommend it to casual Scotch drinkers. It's also a nice intro to blended whiskies, if you've never tried them before."
+msgstr ""
+
+msgctxt "1388"
+msgid "One of Japan's top brandies, famous for its fruity aroma and smooth flavor."
+msgstr ""
+
+msgctxt "1404"
+msgid "One of Japan's premium brandies, this bestseller has won over countless people with its bright, fruity bouquet and smooth taste."
+msgstr ""
+
+msgctxt "1408"
+msgid "As for the name... V.S.O.P stands for Very Superior Old Pale. But you probably already knew that.  "
+msgstr ""
+
+msgctxt "1460"
+msgid "A premium Japanese beer made with only the finest malts."
+msgstr ""
+
+msgctxt "1476"
+msgid "This beer won Japan's first gold award in international competition, and then defended the title for the next two years. It's a premium beer by Japanese and world standards."
+msgstr ""
+
+msgctxt "1480"
+msgid "Unyielding commitment to quality ingredients and Suntory's years of brewing know-how produce a delicious, almost magical flavor. "
+msgstr ""
+
+msgctxt "1484"
+msgid "A frosty glass of this beer while nibbling sashimi or enjoying a Blu-ray movie on your day off... Now that's what I call living."
+msgstr ""
+
+msgctxt "1532"
+msgid "One of the most popular gins in the world, giving you that smooth juniper flavor with every sip."
+msgstr ""
+
+msgctxt "1548"
+msgid "That's the gin drinker's gin, enjoyed in 170 countries the world over. It's popular straight up or in cocktails like the martini. "
+msgstr ""
+
+msgctxt "1552"
+msgid "I'd bet any bar you walk into has at least one bottle of this gin. It's got a full juniper flavor, with a fresh citrus bite to it. I love to drink it as a gin and tonic. "
+msgstr ""
+
+msgctxt "1604"
+msgid "An American vodka quickly rising in popularity due to its pure flavor and elegant design."
+msgstr ""
+
+msgctxt "1620"
+msgid "That's an exceptionally well known vodka. It's the fastest growing vodka brand in the U.S. these days. The elegant bottle design evokes the vast blue skies of California."
+msgstr ""
+
+msgctxt "1624"
+msgid "Their unique process of repeated distillation and filtration gives it a pure, smooth flavor. Maybe that's the secret behind its popularity. Either way, I recommend it."
+msgstr ""
+
+msgctxt "1676"
+msgid "Herradura white tequila, matured briefly before bottling for extra smoothness."
+msgstr ""
+
+msgctxt "1692"
+msgid "Herradura Tequila is a premium tequila, 100%% distilled from the blue agave plant."
+msgstr ""
+
+msgctxt "1696"
+msgid "The Plata variety is barrel-aged for 40 days, and Herradura's best-seller."
+msgstr ""
+
+msgctxt "1700"
+msgid "Tequila has come to stand alongside vodka, gin, and rum as the four pillars of the cocktail world."
+msgstr ""
+
+msgctxt "1704"
+msgid "Before it gained worldwide popularity in the 20th century, it was enjoyed in Mexico as a local liquor."
+msgstr ""
+

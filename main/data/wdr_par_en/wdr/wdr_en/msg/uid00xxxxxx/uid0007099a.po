@@ -1,0 +1,8 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "全力道。\\r\n"
+"この道もまた、全力で走りたくなる道である。"
+msgstr ""
+

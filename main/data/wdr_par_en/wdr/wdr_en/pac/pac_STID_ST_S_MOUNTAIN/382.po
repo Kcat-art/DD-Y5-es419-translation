@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "(Damn, got separated. Gotta backtrack.)"
+msgstr ""
+
+msgctxt "556"
+msgid "Saejima"
+msgstr ""
+

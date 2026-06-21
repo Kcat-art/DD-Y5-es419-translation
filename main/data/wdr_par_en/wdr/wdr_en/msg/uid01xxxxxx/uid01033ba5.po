@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "468"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "472"
+msgid "dummy"
+msgstr ""
+
+msgctxt "60_Shinada"
+msgid "Dang... He got away."
+msgstr ""
+
+msgctxt "84_Shinada"
+msgid "Oof... Argh... I'm all out of steam."
+msgstr ""
+

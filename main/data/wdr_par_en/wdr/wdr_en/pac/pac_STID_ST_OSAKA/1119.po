@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "72"
+msgid "Free introductory class!"
+msgstr ""
+
+msgctxt "84"
+msgid "Specialized training!"
+msgstr ""
+

@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3564"
+msgid "adv3_130/horie_0040a"
+msgstr ""
+
+msgctxt "3568"
+msgid "adv3_115/horie_3_120_010"
+msgstr ""
+
+msgctxt "3572"
+msgid "adv3_115/horie_0033a"
+msgstr ""
+
+msgctxt "3576"
+msgid "kaiwabgm_kanjyonashi04"
+msgstr ""
+
+msgctxt "3580"
+msgid "adv3_010_0/mai_0005a"
+msgstr ""
+
+msgctxt "3584"
+msgid "C3110_MAI_arm_pain_kamae"
+msgstr ""
+
+msgctxt "3588"
+msgid "adv3_090/horie_0022"
+msgstr ""
+
+msgctxt "3592"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3596"
+msgid "adv3_080/horie_0012c"
+msgstr ""
+

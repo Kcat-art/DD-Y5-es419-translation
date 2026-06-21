@@ -1,0 +1,21 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		83	127	44"
+msgid "Oh, I haven't introduced you yet!"
+msgstr ""
+
+msgctxt " 	 	　	193	399	206"
+msgid "This is a friend of Daigo-san. He was\\r\n"
+"a pro ball player, but he got banned."
+msgstr ""
+
+msgctxt " 	 	　	180	580	400"
+msgid "Then he tried to borrow 320 mil from me\\r\n"
+"'cause he's just a nightlife writer in Nagoya."
+msgstr ""
+
+msgctxt " 	 	　	81	673	592"
+msgid "It's Shinada! Nice to meet you, sir!"
+msgstr ""
+

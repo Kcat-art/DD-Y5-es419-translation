@@ -1,0 +1,71 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		93	140	47"
+msgid "Kiryu-san. The times have changed!"
+msgstr ""
+
+msgctxt " 	　	　	122	270	148"
+msgid "A war isn't about who locks\\r\n"
+"fists with whom anymore."
+msgstr ""
+
+msgctxt " 	　	　	74	350	276"
+msgid "You old timers never change."
+msgstr ""
+
+msgctxt " 	　	　	99	665	566"
+msgid "Watch your fuckin' mouth."
+msgstr ""
+
+msgctxt " 	　	　	60	762	702"
+msgid "Watase!?"
+msgstr ""
+
+msgctxt " 	　	　	60	832	772"
+msgid "I accept your conditions!"
+msgstr ""
+
+msgctxt " 	　	　	165	1045	880"
+msgid "If Kiryu-han takes out every one of these Tojo chumps,\\r\n"
+"then there's no war with the Yamagasa."
+msgstr ""
+
+msgctxt " 	　	　	60	1137	1077"
+msgid "You can't do that, Watase!"
+msgstr ""
+
+msgctxt " 	　	　	174	1320	1146"
+msgid "I'm the captain of the Omi Alliance, and\\r\n"
+"patriarch of the Watase Family."
+msgstr ""
+
+msgctxt " 	　	　	106	1443	1337"
+msgid "Ya really wanna challenge me, brother?"
+msgstr ""
+
+msgctxt " 	　	　	74	1625	1551"
+msgid "All right, let's get this shit started!"
+msgstr ""
+
+msgctxt " 	　	分	146	1780	1634"
+msgid "I'll be bearin' witness to this brawl!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	45	1999	1954"
+msgid "What are you waiting for!?"
+msgstr ""
+
+msgctxt " 	　	分	96	2096	2000"
+msgid "Don't be scared because he's\\r\n"
+"the fourth chairman! Get him!"
+msgstr ""
+
+msgctxt " 	　	　	106	2488	2382"
+msgid "He's right. No need to hold back."
+msgstr ""
+
+msgctxt " 	　	　	143	2685	2542"
+msgid "Now if you want to die... bring it!"
+msgstr ""
+

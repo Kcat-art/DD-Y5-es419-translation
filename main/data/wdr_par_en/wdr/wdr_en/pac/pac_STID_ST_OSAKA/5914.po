@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "180"
+msgid "No way that's real."
+msgstr ""
+
+msgctxt "184"
+msgid "I'm serious!"
+msgstr ""
+

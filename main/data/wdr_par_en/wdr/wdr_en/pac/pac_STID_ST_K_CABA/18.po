@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1956"
+msgid "cab_hinata_q_01/hinata_25_0001"
+msgstr ""
+
+msgctxt "1960"
+msgid "cab_hinata_q_02/hinata_26_0001"
+msgstr ""
+
+msgctxt "1964"
+msgid "cab_hinata_q_03/hinata_27_0001"
+msgstr ""
+
+msgctxt "1968"
+msgid "cab_hinata_q_04/hinata_28_0001"
+msgstr ""
+
+msgctxt "1972"
+msgid "cab_hinata_q_05/hinata_29_0001"
+msgstr ""
+

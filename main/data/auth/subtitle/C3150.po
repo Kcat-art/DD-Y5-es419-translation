@@ -1,0 +1,268 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60ｆ以下です			49	77	28"
+msgid "Stop it."
+msgstr ""
+
+msgctxt " 	　	　	88	166	78"
+msgid "What? Just giving some friendly advice."
+msgstr ""
+
+msgctxt " 	　	　	94	269	175"
+msgid "You're just as moody as\\r\n"
+"that old witch you work for."
+msgstr ""
+
+msgctxt " 	　	　	105	385	280"
+msgid "If you put her down again..."
+msgstr ""
+
+msgctxt " 	　	　	69	695	626"
+msgid "What'll you do? Huh?"
+msgstr ""
+
+msgctxt " 	　	　	113	988	875"
+msgid "If you insult Park-san again..."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	52	1052	1000"
+msgid "You'll be sorry."
+msgstr ""
+
+msgctxt " 	　	　	60	1113	1053"
+msgid "Ooh, scary."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	57	1180	1123"
+msgid "But you should know."
+msgstr ""
+
+msgctxt " 	　	　	127	1308	1181"
+msgid "If our agency wanted to,\\r\n"
+"it could crush yours under its heel."
+msgstr ""
+
+msgctxt " 	　	　	60	1369	1309"
+msgid "Just like an ugly little brooch."
+msgstr ""
+
+msgctxt " 	　	　	125	1530	1405"
+msgid "If you want to stick around, I suggest you\\r\n"
+"get down and beg for forgiveness."
+msgstr ""
+
+msgctxt " 	　	　	158	1691	1533"
+msgid "Or do you want to fade into obscurity\\r\n"
+"just like your washed up boss?"
+msgstr ""
+
+msgctxt " 	　	　	70	1809	1739"
+msgid "Think I'll make a little call."
+msgstr ""
+
+msgctxt " 	　	分	82	1912	1830"
+msgid "This is the end for you and that hag."
+msgstr ""
+
+msgctxt " 	　	　	60	2086	2026"
+msgid "Don't..."
+msgstr ""
+
+msgctxt " 	　	　	76	2266	2190"
+msgid "Please, don't do it."
+msgstr ""
+
+msgctxt " 	　	　	60	2421	2361"
+msgid "What, is that it?"
+msgstr ""
+
+msgctxt " 	　	　	94	3051	2957"
+msgid "I'm begging you... Stop."
+msgstr ""
+
+msgctxt " 	　	　	98	3187	3089"
+msgid "Your head's not low enough. \\r\n"
+"Come on, touch the ground."
+msgstr ""
+
+msgctxt " 	　	　	70	3416	3346"
+msgid "Hey! What do you think you're doing!?"
+msgstr ""
+
+msgctxt " 	　	　	60	3517	3457"
+msgid "It's all right, Horie."
+msgstr ""
+
+msgctxt " 	　	　	60	3598	3538"
+msgid "Park-san..."
+msgstr ""
+
+msgctxt " 	　	　	109	3720	3611"
+msgid "It's been a while. You two seem well."
+msgstr ""
+
+msgctxt " 	　	　	60	3792	3732"
+msgid "Yeah, whatever."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	55	3869	3814"
+msgid "Haruka."
+msgstr ""
+
+msgctxt " 	　	分	70	3940	3870"
+msgid "Go ahead and beg for their forgiveness."
+msgstr ""
+
+msgctxt " 	　	　	60	4016	3956"
+msgid "Are you serious?"
+msgstr ""
+
+msgctxt " 	　	　	60	4079	4019"
+msgid "Quite."
+msgstr ""
+
+msgctxt " 	　	　	70	4168	4098"
+msgid "Provided that's what you really want."
+msgstr ""
+
+msgctxt " 	　	　	60	4248	4188"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt " 	　	　	95	4360	4265"
+msgid "Celebrities nowadays don't really get \"time off.\""
+msgstr ""
+
+msgctxt " 	　	　	76	4458	4382"
+msgid "Except when they're at home, maybe."
+msgstr ""
+
+msgctxt " 	　	分	93	4561	4468"
+msgid "As soon as Haruka steps outside, she's on the clock."
+msgstr ""
+
+msgctxt " 	　	OK	193	4772	4579"
+msgid "In blogs, on social media... Rumors both good\\r\n"
+"and bad can spread like wildfire these days."
+msgstr ""
+
+msgctxt " 	　	　	147	4940	4790"
+msgid "Imagine what they'd say about you making another\\r\n"
+"idol apologize like this. I doubt it'd be positive."
+msgstr ""
+
+msgctxt " 	　	　	124	5351	5224"
+msgid "Try to trip your rivals and you may\\r\n"
+"end up tripping yourself instead."
+msgstr ""
+
+msgctxt " 	　	　	69	5450	5381"
+msgid "I've seen it all too many times."
+msgstr ""
+
+msgctxt " 	　	分	75	5542	5467"
+msgid "Will you fall into the same trap?"
+msgstr ""
+
+msgctxt " 	　	　	124	5684	5560"
+msgid "Come on, Mai. These people clearly\\r\n"
+"can't take a joke."
+msgstr ""
+
+msgctxt " 	　	　	70	5755	5685"
+msgid "Yeah. Bunch of idiots."
+msgstr ""
+
+msgctxt " 	　	　	60	5844	5784"
+msgid "Mai. Azusa."
+msgstr ""
+
+msgctxt " 	　	　	96	5962	5866"
+msgid "You used to work for us, so let me\\r\n"
+"give you a little piece of advice."
+msgstr ""
+
+msgctxt " 	　	　	63	6195	6132"
+msgid "Real talent doesn't lie."
+msgstr ""
+
+msgctxt " 	　	分	158	6375	6217"
+msgid "If you're afraid of the competition,\\r\n"
+"it typically means you doubt your own abilities."
+msgstr ""
+
+msgctxt " 	　	　	107	6483	6376"
+msgid "Who, her? I'd hardly call her competition!"
+msgstr ""
+
+msgctxt " 	　	　	165	6649	6484"
+msgid "Then why bother with her at all? You could\\r\n"
+"be using that time to hone your skills."
+msgstr ""
+
+msgctxt " 	　	　	97	6777	6680"
+msgid "People will tire of you before long\\r\n"
+"if a cute face is all you have to offer."
+msgstr ""
+
+msgctxt " 	　	　	60	6916	6856"
+msgid "Come on."
+msgstr ""
+
+msgctxt " 	　	　	63	7169	7106"
+msgid "Haruka. Thank you."
+msgstr ""
+
+msgctxt " 	　	　	60	7404	7344"
+msgid "This is just..."
+msgstr ""
+
+msgctxt " 	　	　	84	7502	7418"
+msgid "Hm? I thought you got me a present."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	46	7583	7537"
+msgid "But it's..."
+msgstr ""
+
+msgctxt " 	　	　	60	7644	7584"
+msgid "Silly me."
+msgstr ""
+
+msgctxt " 	　	　	107	7763	7656"
+msgid "Here I'd assumed you had chosen\\r\n"
+"a sweet, thoughtful gift for me."
+msgstr ""
+
+msgctxt " 	　	　	84	8024	7940"
+msgid "I love it.\\r\n"
+"That design is really something."
+msgstr ""
+
+msgctxt " 	　	　	60	8350	8290"
+msgid "Thank you."
+msgstr ""
+
+msgctxt " 	　	　	60	8420	8360"
+msgid "Park-san..."
+msgstr ""
+
+msgctxt " 	　	　	140	8598	8458"
+msgid "Now, a promise is a promise.\\r\n"
+"It's time we do a bit of shopping."
+msgstr ""
+
+msgctxt " 	　	　	109	8740	8631"
+msgid "I have something to take care of first.\\r\n"
+"Do you mind waiting at the office?"
+msgstr ""
+
+msgctxt " 	　	分	60	8825	8765"
+msgid "I'll be back soon."
+msgstr ""
+
+msgctxt " 	　	　	60	8898	8838"
+msgid "Okay!"
+msgstr ""
+

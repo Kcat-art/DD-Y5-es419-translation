@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "Hey, Shinada! How about a little help here instead of rushing on ahead?"
+msgstr ""
+
+msgctxt "408"
+msgid "Takasugi"
+msgstr ""
+

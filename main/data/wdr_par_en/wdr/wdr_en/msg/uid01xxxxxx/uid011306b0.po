@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "212"
+msgid "dummy"
+msgstr ""
+
+msgctxt "216"
+msgid "A10665_kubota_escape"
+msgstr ""
+
+msgctxt "220"
+msgid "29130205"
+msgstr ""
+

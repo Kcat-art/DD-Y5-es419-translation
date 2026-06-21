@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "232"
+msgid "Isn't there anyone around?"
+msgstr ""
+

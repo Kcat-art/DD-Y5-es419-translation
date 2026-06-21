@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "416"
+msgid "Grinning Man"
+msgstr ""
+
+msgctxt "72_Grinning Man"
+msgid "Man, my girl's gonna go gaga over this. I always get so creative with my texts. Here goes nothin'... \"Love ya!\" And... send!"
+msgstr ""
+

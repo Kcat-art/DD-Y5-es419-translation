@@ -1,0 +1,8 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "92"
+msgid "Man... Doesn't anyone\\r\n"
+"want a taxi today?"
+msgstr ""
+

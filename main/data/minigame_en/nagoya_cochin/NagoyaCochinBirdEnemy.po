@@ -1,0 +1,323 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1040	NAME"
+msgid "Pegasus"
+msgstr ""
+
+msgctxt "1048	NAME"
+msgid "Quicklee"
+msgstr ""
+
+msgctxt "1057	NAME"
+msgid "Cockadoodle Doom"
+msgstr ""
+
+msgctxt "1074	NAME"
+msgid "Crispy"
+msgstr ""
+
+msgctxt "1081	NAME"
+msgid "Big Papa"
+msgstr ""
+
+msgctxt "1090	NAME"
+msgid "Run Like the Wind"
+msgstr ""
+
+msgctxt "1108	NAME"
+msgid "Wingman"
+msgstr ""
+
+msgctxt "1116	NAME"
+msgid "The Devourer"
+msgstr ""
+
+msgctxt "1129	NAME"
+msgid "Yoneda"
+msgstr ""
+
+msgctxt "1136	NAME"
+msgid "The Scrambler"
+msgstr ""
+
+msgctxt "1150	NAME"
+msgid "Bullet"
+msgstr ""
+
+msgctxt "1157	NAME"
+msgid "Karaage Kid"
+msgstr ""
+
+msgctxt "1169	NAME"
+msgid "Starting Line"
+msgstr ""
+
+msgctxt "1183	NAME"
+msgid "Speedy Joe"
+msgstr ""
+
+msgctxt "1194	NAME"
+msgid "Croque Monsieur"
+msgstr ""
+
+msgctxt "1210	NAME"
+msgid "Flight of Fancy"
+msgstr ""
+
+msgctxt "1226	NAME"
+msgid "Jimbo"
+msgstr ""
+
+msgctxt "1232	NAME"
+msgid "Teriyaki"
+msgstr ""
+
+msgctxt "1241	NAME"
+msgid "Drumstick"
+msgstr ""
+
+msgctxt "1251	NAME"
+msgid "The Crusher"
+msgstr ""
+
+msgctxt "1263	NAME"
+msgid "Speed Demon"
+msgstr ""
+
+msgctxt "1275	NAME"
+msgid "Monte Cristo"
+msgstr ""
+
+msgctxt "1288	NAME"
+msgid "Fastfoot"
+msgstr ""
+
+msgctxt "1297	NAME"
+msgid "Oatmeal"
+msgstr ""
+
+msgctxt "1305	NAME"
+msgid "Ol' Grassy"
+msgstr ""
+
+msgctxt "1316	NAME"
+msgid "Pigeon"
+msgstr ""
+
+msgctxt "1323	NAME"
+msgid "The Destroyer"
+msgstr ""
+
+msgctxt "1337	NAME"
+msgid "Lonestar"
+msgstr ""
+
+msgctxt "1346	NAME"
+msgid "Chick Out of Hell"
+msgstr ""
+
+msgctxt "1364	NAME"
+msgid "Daikon"
+msgstr ""
+
+msgctxt "1371	NAME"
+msgid "Chicken Stew"
+msgstr ""
+
+msgctxt "1384	NAME"
+msgid "Beast"
+msgstr ""
+
+msgctxt "1390	NAME"
+msgid "Bon Voyage"
+msgstr ""
+
+msgctxt "1401	NAME"
+msgid "Second Wind"
+msgstr ""
+
+msgctxt "1413	NAME"
+msgid "Last Chance"
+msgstr ""
+
+msgctxt "1425	NAME"
+msgid "Dark Meat"
+msgstr ""
+
+msgctxt "1435	NAME"
+msgid "Nugget VI"
+msgstr ""
+
+msgctxt "1445	NAME"
+msgid "Trigger"
+msgstr ""
+
+msgctxt "1453	NAME"
+msgid "Haystack"
+msgstr ""
+
+msgctxt "1462	NAME"
+msgid "The Grim Reaper"
+msgstr ""
+
+msgctxt "1478	NAME"
+msgid "Nagoya Nightmare"
+msgstr ""
+
+msgctxt "1495	NAME"
+msgid "Cluckin' Around"
+msgstr ""
+
+msgctxt "1511	NAME"
+msgid "Jeremy"
+msgstr ""
+
+msgctxt "1518	NAME"
+msgid "Ivan the Terrible"
+msgstr ""
+
+msgctxt "1536	NAME"
+msgid "Godbeak"
+msgstr ""
+
+msgctxt "1544	NAME"
+msgid "Pillows"
+msgstr ""
+
+msgctxt "1552	NAME"
+msgid "Satin"
+msgstr ""
+
+msgctxt "1558	NAME"
+msgid "Ten Yen Terror"
+msgstr ""
+
+msgctxt "1573	NAME"
+msgid "Chicken Noodle"
+msgstr ""
+
+msgctxt "1588	NAME"
+msgid "Super Spicy"
+msgstr ""
+
+msgctxt "1600	NAME"
+msgid "Quetzalcoatl"
+msgstr ""
+
+msgctxt "1613	NAME"
+msgid "Deerhorn"
+msgstr ""
+
+msgctxt "1622	NAME"
+msgid "Hiro"
+msgstr ""
+
+msgctxt "1627	NAME"
+msgid "Mack Attack"
+msgstr ""
+
+msgctxt "1639	NAME"
+msgid "Ponytail"
+msgstr ""
+
+msgctxt "1648	NAME"
+msgid "Benjamin Flash"
+msgstr ""
+
+msgctxt "1663	NAME"
+msgid "Kung Pao"
+msgstr ""
+
+msgctxt "1672	NAME"
+msgid "Fuzzy"
+msgstr ""
+
+msgctxt "1678	NAME"
+msgid "Five O'Clock Shadow"
+msgstr ""
+
+msgctxt "1698	NAME"
+msgid "Nemesis"
+msgstr ""
+
+msgctxt "1706	NAME"
+msgid "The General"
+msgstr ""
+
+msgctxt "1718	NAME"
+msgid "Peanut"
+msgstr ""
+
+msgctxt "1725	NAME"
+msgid "Ankle Breaker"
+msgstr ""
+
+msgctxt "1739	NAME"
+msgid "Miso"
+msgstr ""
+
+msgctxt "1744	NAME"
+msgid "Fowl Play"
+msgstr ""
+
+msgctxt "1754	NAME"
+msgid "Be Mine"
+msgstr ""
+
+msgctxt "1762	NAME"
+msgid "Hinai"
+msgstr ""
+
+msgctxt "1768	NAME"
+msgid "Hopes and Dreams"
+msgstr ""
+
+msgctxt "1785	NAME"
+msgid "Tofu"
+msgstr ""
+
+msgctxt "1790	NAME"
+msgid "Napoleon"
+msgstr ""
+
+msgctxt "1799	NAME"
+msgid "Imperial"
+msgstr ""
+
+msgctxt "1808	NAME"
+msgid "Justice"
+msgstr ""
+
+msgctxt "1816	NAME"
+msgid "Dreamin' of You"
+msgstr ""
+
+msgctxt "1832	NAME"
+msgid "Kiritanpo"
+msgstr ""
+
+msgctxt "1842	NAME"
+msgid "Little Runner"
+msgstr ""
+
+msgctxt "1856	NAME"
+msgid "Ball Joint"
+msgstr ""
+
+msgctxt "1867	NAME"
+msgid "Coop de Grace"
+msgstr ""
+
+msgctxt "1881	NAME"
+msgid "Ribbon"
+msgstr ""
+
+msgctxt "1888	NAME"
+msgid "Swordsman"
+msgstr ""
+
+msgctxt "1898	NAME"
+msgid "Saturn"
+msgstr ""
+

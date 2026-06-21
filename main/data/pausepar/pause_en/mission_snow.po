@@ -1,0 +1,117 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "473	NAME"
+msgid "Rescue Baba"
+msgstr ""
+
+msgctxt "485	NAME"
+msgid "Gather Food"
+msgstr ""
+
+msgctxt "497	NAME"
+msgid "Get Food and Skins"
+msgstr ""
+
+msgctxt "516	NAME"
+msgid "Locate the Lost Hunter"
+msgstr ""
+
+msgctxt "539	NAME"
+msgid "Temp"
+msgstr ""
+
+msgctxt "544	NAME"
+msgid "Temp"
+msgstr ""
+
+msgctxt "549	NAME"
+msgid "Temp"
+msgstr ""
+
+msgctxt "554	NAME"
+msgid "Temp"
+msgstr ""
+
+msgctxt "559	NAME"
+msgid "Attach the Transmitter"
+msgstr ""
+
+msgctxt "582	NAME"
+msgid "Okudera's Escort"
+msgstr ""
+
+msgctxt "599	NAME"
+msgid "Follow Okudera"
+msgstr ""
+
+msgctxt "614	NAME"
+msgid "Defeat Yama-oroshi"
+msgstr ""
+
+msgctxt "633	EXPLANATION"
+msgid "Temp"
+msgstr ""
+
+msgctxt "638	EXPLANATION"
+msgid "Temp"
+msgstr ""
+
+msgctxt "643	EXPLANATION"
+msgid "Temp"
+msgstr ""
+
+msgctxt "648	EXPLANATION"
+msgid "I guess I should go help that hunter..."
+msgstr ""
+
+msgctxt "688	EXPLANATION"
+msgid "Temp"
+msgstr ""
+
+msgctxt "693	EXPLANATION"
+msgid "Temp"
+msgstr ""
+
+msgctxt "698	EXPLANATION"
+msgid "Temp"
+msgstr ""
+
+msgctxt "703	EXPLANATION"
+msgid "Temp"
+msgstr ""
+
+msgctxt "708	EXPLANATION"
+msgid "I gotta go shoot Yama-oroshi with one of these transmitters"
+msgstr ""
+
+msgctxt "768	EXPLANATION"
+msgid "Looks like we can locate Yama-oroshi. I gotta track 'im down."
+msgstr ""
+
+msgctxt "830	EXPLANATION"
+msgid "Okudera-han went up by himself. The man's still too weak for that. Gotta help him."
+msgstr ""
+
+msgctxt "913	EXPLANATION"
+msgid "I was finally able to locate Yama-oroshi. I'll finish 'im."
+msgstr ""
+
+msgctxt "1188	NOTCOMP_STATE"
+msgid "d/%d\n"
+"兎の肉:%d/%d"
+msgstr ""
+
+msgctxt "1223	NOTCOMP_STATE"
+msgid "d/%d"
+msgstr ""
+
+msgctxt "1259	COMP_STATE"
+msgid "d/%d\n"
+"兎の肉:%d/%d"
+msgstr ""
+
+msgctxt "1294	COMP_STATE"
+msgid "d/%d"
+msgstr ""
+

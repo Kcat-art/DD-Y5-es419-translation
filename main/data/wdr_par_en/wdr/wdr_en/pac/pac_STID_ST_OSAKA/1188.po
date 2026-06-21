@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1656"
+msgid "M_YKZ_TLK_damage_kamae"
+msgstr ""
+
+msgctxt "1660"
+msgid "M_YKZS_TLK_damage_kamae"
+msgstr ""
+

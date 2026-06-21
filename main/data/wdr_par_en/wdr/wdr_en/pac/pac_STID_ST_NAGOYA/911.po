@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "6884"
+msgid "ACDEV0050"
+msgstr ""
+
+msgctxt "6888"
+msgid "M_NML_SET_sitgrd_syagami"
+msgstr ""
+

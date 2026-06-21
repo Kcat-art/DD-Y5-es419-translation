@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "7828"
+msgid "P_SIN_sitsofa"
+msgstr ""
+
+msgctxt "7832"
+msgid "M_nml_sitsofa"
+msgstr ""
+
+msgctxt "7836"
+msgid "P_SIN_TLK_sitsofa_kamae"
+msgstr ""
+
+msgctxt "7840"
+msgid "M_NML_TLK_sitsofa_kamae"
+msgstr ""
+
+msgctxt "7844"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7848"
+msgid "P_SIN_sitchr"
+msgstr ""
+
+msgctxt "7852"
+msgid "M_nml_sitchr"
+msgstr ""
+
+msgctxt "7856"
+msgid "P_SIN_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "7860"
+msgid "M_NML_TLK_sitchr_kamae"
+msgstr ""
+

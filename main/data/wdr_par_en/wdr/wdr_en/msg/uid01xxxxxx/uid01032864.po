@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "120"
+msgid "A10630_forklift_stop"
+msgstr ""
+

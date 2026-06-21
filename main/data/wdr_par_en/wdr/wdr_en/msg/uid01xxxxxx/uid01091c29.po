@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "340"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Saejima"
+msgid "(Did he use dynamite or somethin' to blow up the boulders?)"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "(Narumi musta gone further than this.)"
+msgstr ""
+

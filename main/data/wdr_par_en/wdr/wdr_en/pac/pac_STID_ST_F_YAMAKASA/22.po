@@ -1,0 +1,55 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "What the shit? How'd ya get in here!?"
+msgstr ""
+
+msgctxt "56"
+msgid "So much for avoiding a fight."
+msgstr ""
+
+msgctxt "68"
+msgid "No other choice. Let's finish this quickly."
+msgstr ""
+
+msgctxt "652"
+msgid "adv1_124/yamakasa50_1_124_010"
+msgstr ""
+
+msgctxt "656"
+msgid "Yamagasa Family Member"
+msgstr ""
+
+msgctxt "660"
+msgid "battle"
+msgstr ""
+
+msgctxt "664"
+msgid "voice_kind::eID_hkt_m_gang_l|voice::eID_btllong_enc_notice"
+msgstr ""
+
+msgctxt "668"
+msgid "voice_kind::eID_hkt_m_young_m|voice::eID_btllong_enc_notice"
+msgstr ""
+
+msgctxt "672"
+msgid "voice_kind::eID_hkt_m_yakuza30s|voice::eID_btllong_enc_notice"
+msgstr ""
+
+msgctxt "676"
+msgid "Player"
+msgstr ""
+
+msgctxt "680"
+msgid "adv1_124/kiryu_1_124_060"
+msgstr ""
+
+msgctxt "684"
+msgid "Morinaga"
+msgstr ""
+
+msgctxt "688"
+msgid "adv1_124/morinaga_1_124_040"
+msgstr ""
+

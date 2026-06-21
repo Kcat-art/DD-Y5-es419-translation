@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "124"
+msgid "Got your ticket?"
+msgstr ""
+
+msgctxt "148"
+msgid "Seriously!?"
+msgstr ""
+
+msgctxt "172"
+msgid "I don't believe it!"
+msgstr ""
+

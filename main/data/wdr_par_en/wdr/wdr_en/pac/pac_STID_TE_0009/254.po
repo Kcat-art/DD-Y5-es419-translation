@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "188"
+msgid "見張り_立ちはだかる"
+msgstr ""
+
+msgctxt "192"
+msgid "E9720_stand_tosenbo"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "I need some spending money."
+msgstr ""
+
+msgctxt "272"
+msgid "Hi!"
+msgstr ""
+

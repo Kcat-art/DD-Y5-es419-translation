@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Is this the place?"
+msgstr ""
+
+msgctxt "236"
+msgid "Battery just died."
+msgstr ""
+

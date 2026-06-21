@@ -1,0 +1,118 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		152	256	104"
+msgid "Well, bro? Think I got\\r\n"
+"a shot at survivin' the slammer?"
+msgstr ""
+
+msgctxt " 	　	　	90	415	325"
+msgid "Known that from the very beginnin', bro."
+msgstr ""
+
+msgctxt " 	　	　	139	602	463"
+msgid "Nobody gets how strong ya are better than me."
+msgstr ""
+
+msgctxt " 	　	　	74	715	641"
+msgid "Then why're ya pullin' this bullshit stunt?"
+msgstr ""
+
+msgctxt " 	　	　	151	899	748"
+msgid "Back in the day, you'd be first\\r\n"
+"in line to fling a fist."
+msgstr ""
+
+msgctxt " 	　	　	60	982	922"
+msgid "What's happened to ya?"
+msgstr ""
+
+msgctxt " 	　	　	69	1132	1063"
+msgid "There's no use, bro."
+msgstr ""
+
+msgctxt " 	　	　	132	1403	1271"
+msgid "I just can't dance with ya how I used to."
+msgstr ""
+
+msgctxt " 	　	　	66	1542	1476"
+msgid "I'm the one who's goin' stale."
+msgstr ""
+
+msgctxt " 	　	OK	194	1757	1563"
+msgid "After all these years keepin' the Tojo Clan\\r\n"
+"high n' dry, guess my fangs went n' fell out."
+msgstr ""
+
+msgctxt " 	　	　	105	1907	1802"
+msgid "My time in the sun's over."
+msgstr ""
+
+msgctxt " 	　	　	71	2025	1954"
+msgid "You throwin' a pity party here?"
+msgstr ""
+
+msgctxt " 	　	分	60	2117	2057"
+msgid "Ain't your style, bro."
+msgstr ""
+
+msgctxt " 	　	　	141	2280	2139"
+msgid "I'm yakuza, yeah. 'Course I wanna\\r\n"
+"keep playin' the tough guy."
+msgstr ""
+
+msgctxt " 	　	　	145	2453	2308"
+msgid "But nobody knows me better\\r\n"
+"than I know myself."
+msgstr ""
+
+msgctxt " 	　	　	78	2563	2485"
+msgid "Gotta have the stones\\r\n"
+"to face reality."
+msgstr ""
+
+msgctxt " 	　	　	95	2725	2630"
+msgid "So I had to make sure\\r\n"
+"one of us still had it."
+msgstr ""
+
+msgctxt " 	　	分	81	2838	2757"
+msgid "Weight off my shoulders knowin' ya do."
+msgstr ""
+
+msgctxt " 	　	　	60	2947	2887"
+msgid "Majima."
+msgstr ""
+
+msgctxt " 	　	　	101	3075	2974"
+msgid "Forget money. A yakuza\\r\n"
+"ain't worth dust without strength."
+msgstr ""
+
+msgctxt " 	　	　	152	3253	3101"
+msgid "Ya let that slip, someone else\\r\n"
+"is gonna come gunnin' for your spot."
+msgstr ""
+
+msgctxt " 	　	　	132	3424	3292"
+msgid "Saejima. You're the Tojo Clan's muscle."
+msgstr ""
+
+msgctxt " 	　		156	3612	3456"
+msgid "So get your ass back to Kamurocho,\\r\n"
+"flexin' stronger than ever."
+msgstr ""
+
+msgctxt " 	　	　	60	3758	3698"
+msgid "I will."
+msgstr ""
+
+msgctxt " 	　	　	118	3946	3828"
+msgid "Huh. Hard to tell who's\\r\n"
+"really gettin' the send-off."
+msgstr ""
+
+msgctxt " 	　	　	60	4077	4017"
+msgid "Ya got that right."
+msgstr ""
+

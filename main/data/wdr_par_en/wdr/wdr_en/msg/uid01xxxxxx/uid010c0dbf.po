@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "584"
+msgid "Player"
+msgstr ""
+
+msgctxt "92_Player"
+msgid "(Been here already. Let's try another place.)"
+msgstr ""
+
+msgctxt "116_Player"
+msgid "(Matsuo Lamb Barbeque. This place oughta get Tatsuya's attention.)"
+msgstr ""
+

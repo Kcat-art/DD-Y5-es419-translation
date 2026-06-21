@@ -1,0 +1,36 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		82	1057	975"
+msgid "What's with the floundering?"
+msgstr ""
+
+msgctxt " 	　	　	67	1158	1091"
+msgid "Just finish him already."
+msgstr ""
+
+msgctxt " 	　	　	60	1297	1237"
+msgid "Kubota-san."
+msgstr ""
+
+msgctxt " 	　	　	71	1549	1478"
+msgid "This is for Kineicho, remember."
+msgstr ""
+
+msgctxt " 	　	　	60	1725	1665"
+msgid "No point hesitating."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	39	2218	2179"
+msgid "Listen up, assholes."
+msgstr ""
+
+msgctxt " 	　	分	151	2370	2219"
+msgid "You don't kill a man with no life insurance.\\r\n"
+"Especially when that man's my client!"
+msgstr ""
+
+msgctxt " 	　	　	75	2711	2636"
+msgid "C'mon, Shinada! We're outta here!"
+msgstr ""
+

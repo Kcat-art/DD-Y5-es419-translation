@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "292"
+msgid "E9540_look_kobushi"
+msgstr ""
+

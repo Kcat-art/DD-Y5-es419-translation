@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "388"
+msgid "291302c4"
+msgstr ""
+
+msgctxt "392"
+msgid "291302c5"
+msgstr ""
+
+msgctxt "396"
+msgid "291302c6"
+msgstr ""
+
+msgctxt "400"
+msgid "291302c7"
+msgstr ""
+
+msgctxt "404"
+msgid "291302c8"
+msgstr ""
+
+msgctxt "408"
+msgid "291302c9"
+msgstr ""
+
+msgctxt "412"
+msgid "291302ca"
+msgstr ""
+
+msgctxt "416"
+msgid "291302cb"
+msgstr ""
+
+msgctxt "420"
+msgid "A8100_init_1man"
+msgstr ""
+

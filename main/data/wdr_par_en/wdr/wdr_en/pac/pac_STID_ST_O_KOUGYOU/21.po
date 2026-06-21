@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "(I should probably deal with these guys first so I don't have to deal with them later.)"
+msgstr ""
+
+msgctxt "420"
+msgid "Player"
+msgstr ""
+

@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "512"
+msgid "Out-of-touch Woman"
+msgstr ""
+
+msgctxt "516"
+msgid "Trendy Woman"
+msgstr ""
+
+msgctxt "60_Out-of-touch Woman"
+msgid "I can't. I dunno any new songs that are popular nowadays. You guys go on to karaoke without me."
+msgstr ""
+
+msgctxt "72_Out-of-touch Woman"
+msgid "Come on, it'll be okay! They're all lookin' forward to seein' ya."
+msgstr ""
+

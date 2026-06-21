@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "			98	677	579"
+msgid "No... It can't be."
+msgstr ""
+
+msgctxt "		テキスト修正	88	776	688"
+msgid "She would never! Not Park-san."
+msgstr ""
+
+msgctxt "		　	60	954	894"
+msgid "Park-san..."
+msgstr ""
+

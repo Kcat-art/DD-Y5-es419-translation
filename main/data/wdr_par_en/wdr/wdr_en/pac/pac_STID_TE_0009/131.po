@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "84"
+msgid "お仕事テスト"
+msgstr ""
+

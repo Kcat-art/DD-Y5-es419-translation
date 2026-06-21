@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "392"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Saejima"
+msgid "(What's goin' on there?)"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "(An accident?)"
+msgstr ""
+

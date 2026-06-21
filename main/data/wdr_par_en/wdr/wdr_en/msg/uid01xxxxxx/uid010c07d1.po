@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1180"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1184"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1188"
+msgid "Dry Heaving Man"
+msgstr ""
+
+msgctxt "1192"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1196"
+msgid "0"
+msgstr ""
+
+msgctxt "44_Kiryu"
+msgid "I'm from Nagasu Taxi. Sorry for the wait."
+msgstr ""
+
+msgctxt "56_Dry Heaving Man"
+msgid "Ugh... I don't feel too good. Guess I had too much to drink."
+msgstr ""
+
+msgctxt "68_Dry Heaving Man"
+msgid "Oh geez, I think I'm gonna throw up... Get me to <Color:22>Nagasugawa Street<Color:Default> as gently as you can, please."
+msgstr ""
+
+msgctxt "80_Kiryu"
+msgid "Understood. Let's go."
+msgstr ""
+

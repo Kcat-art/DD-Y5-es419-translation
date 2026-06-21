@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "72"
+msgid "It's not logical."
+msgstr ""
+
+msgctxt "252"
+msgid "Crush's are rough..."
+msgstr ""
+

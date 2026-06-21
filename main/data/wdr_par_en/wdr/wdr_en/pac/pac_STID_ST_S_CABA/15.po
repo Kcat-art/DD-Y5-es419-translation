@@ -1,0 +1,91 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "5488"
+msgid "cab_kaguya_z_01/kaguya_07_0001"
+msgstr ""
+
+msgctxt "5492"
+msgid "cab_kaguya_z_02/kaguya_08_0001"
+msgstr ""
+
+msgctxt "5496"
+msgid "cab_kaguya_z_08/kaguya_14_0001"
+msgstr ""
+
+msgctxt "5500"
+msgid "cab_kaguya_z_04/kaguya_10_0001"
+msgstr ""
+
+msgctxt "5504"
+msgid "cab_kaguya_z_05/kaguya_11_0001"
+msgstr ""
+
+msgctxt "5508"
+msgid "cab_kaguya_z_06/kaguya_12_0001"
+msgstr ""
+
+msgctxt "5512"
+msgid "cab_kaguya_z_07/kaguya_13_0001"
+msgstr ""
+
+msgctxt "5516"
+msgid "cab_kaguya_z_03/kaguya_09_0001"
+msgstr ""
+
+msgctxt "5520"
+msgid "cab_kaguya_z_09/kaguya_15_0001"
+msgstr ""
+
+msgctxt "5524"
+msgid "cab_kaguya_z_10/kaguya_16_0001"
+msgstr ""
+
+msgctxt "5528"
+msgid "cab_kaguya_s_01/kaguya_00_0001"
+msgstr ""
+
+msgctxt "5532"
+msgid "cab_kaguya_s_02/kaguya_01_0001"
+msgstr ""
+
+msgctxt "5536"
+msgid "cab_kaguya_s_03/kaguya_02_0001"
+msgstr ""
+
+msgctxt "5540"
+msgid "cab_kaguya_s_04/kaguya_03_0001"
+msgstr ""
+
+msgctxt "5544"
+msgid "cab_kaguya_s_05/kaguya_04_0001"
+msgstr ""
+
+msgctxt "5548"
+msgid "cab_kaguya_s_06/kaguya_05_0001"
+msgstr ""
+
+msgctxt "5552"
+msgid "cab_kaguya_s_07/kaguya_06_0001"
+msgstr ""
+
+msgctxt "5556"
+msgid "cab_kaguya_r_01/kaguya_17_0001"
+msgstr ""
+
+msgctxt "5560"
+msgid "cab_kaguya_r_02/kaguya_18_0001"
+msgstr ""
+
+msgctxt "5564"
+msgid "cab_kaguya_r_03/kaguya_19_0001"
+msgstr ""
+
+msgctxt "5568"
+msgid "cab_kaguya_r_04/kaguya_20_0001"
+msgstr ""
+
+msgctxt "5572"
+msgid "cab_kaguya_r_05/kaguya_21_0001"
+msgstr ""
+

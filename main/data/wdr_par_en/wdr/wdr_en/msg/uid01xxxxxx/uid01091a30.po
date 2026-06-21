@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "464"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "468"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "44_Saejima"
+msgid "He's right up ahead. Hasn't moved for a while."
+msgstr ""
+
+msgctxt "56_Okudera"
+msgid "He's staying still? That means he could be in his den."
+msgstr ""
+
+msgctxt "68_Okudera"
+msgid "Let's hurry."
+msgstr ""
+

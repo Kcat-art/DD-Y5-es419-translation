@@ -1,0 +1,17 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+"//Player→バーテン\\r\n"
+"//キャバ嬢→バーテン\\r\n"
+"//バーテン→プレイヤー"
+msgstr ""
+

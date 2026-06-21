@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "472"
+msgid "Stifled Suit"
+msgstr ""
+
+msgctxt "72_Stifled Suit"
+msgid "I wish I could quit work, go off somewhere, and cut loose. I really need a break from the grind."
+msgstr ""
+
+msgctxt "84_Stifled Suit"
+msgid "Tomorrow's just another day to endure..."
+msgstr ""
+

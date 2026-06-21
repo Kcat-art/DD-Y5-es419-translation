@@ -1,0 +1,43 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "924"
+msgid "Employee"
+msgstr ""
+
+msgctxt "928"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "932"
+msgid "I'm here to buy."
+msgstr ""
+
+msgctxt "936"
+msgid "I'm here to sell."
+msgstr ""
+
+msgctxt "940"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "944"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "44_Employee"
+msgid "Welcome! What'll it be?"
+msgstr ""
+
+msgctxt "56_Employee"
+msgid "Sure. What can I get you?"
+msgstr ""
+
+msgctxt "80_Employee"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "92_Employee"
+msgid "Sure. What would you like to sell?"
+msgstr ""
+

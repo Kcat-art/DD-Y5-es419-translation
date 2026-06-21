@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "508"
+msgid "Guilt-ridden Man"
+msgstr ""
+
+msgctxt "512"
+msgid "Seething Woman"
+msgstr ""
+
+msgctxt "72_Guilt-ridden Man"
+msgid "I'm telling you, you're blowing this out of proportion. I only went to eat with Akemi. There's nothing going on between us!"
+msgstr ""
+
+msgctxt "84_Guilt-ridden Man"
+msgid "Look me in the eyes and say that."
+msgstr ""
+

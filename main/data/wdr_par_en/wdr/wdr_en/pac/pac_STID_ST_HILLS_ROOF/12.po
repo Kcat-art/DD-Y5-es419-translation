@@ -1,0 +1,35 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1520"
+msgid "adv5_100/kurosawa_0134"
+msgstr ""
+
+msgctxt "1524"
+msgid "C5100_DGO_TLK_gun_walk"
+msgstr ""
+
+msgctxt "1528"
+msgid "adv5_090/watase_0100"
+msgstr ""
+
+msgctxt "1532"
+msgid "C5090_KRU_TLK_dam_kamae"
+msgstr ""
+
+msgctxt "1536"
+msgid "kaiwabgm_fuon03"
+msgstr ""
+
+msgctxt "1540"
+msgid "adv5_078/kiryu_5_078_010"
+msgstr ""
+
+msgctxt "1544"
+msgid "P_SAE_stand_btl_lp"
+msgstr ""
+
+msgctxt "1548"
+msgid "adv5_080/watase_0086"
+msgstr ""
+

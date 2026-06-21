@@ -1,0 +1,46 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	116	56"
+msgid "Okay, good."
+msgstr ""
+
+msgctxt " 	　	分	94	212	118"
+msgid "Right there, yes!\\r\n"
+"Keep your arms out wider!"
+msgstr ""
+
+msgctxt " 	　	　	60	440	380"
+msgid "A penalty!?"
+msgstr ""
+
+msgctxt " 	　	分	60	503	443"
+msgid "What's this all about!?"
+msgstr ""
+
+msgctxt " 	　	　	132	667	535"
+msgid "As I've told you, it ain't our fault the\\r\n"
+"concert tomorrow got canceled."
+msgstr ""
+
+msgctxt " 	　	　	60	728	668"
+msgid "We've been through this!"
+msgstr ""
+
+msgctxt " 	　	　	60	899	839"
+msgid "Yes, that's correct."
+msgstr ""
+
+msgctxt " 	　	分	90	997	907"
+msgid "Even with tomorrow's concert canceled..."
+msgstr ""
+
+msgctxt " 	　	　	139	1141	1002"
+msgid "I can promise we'll hold a live event\\r\n"
+"for Haruka Sawamura in Tokyo soon enough."
+msgstr ""
+
+msgctxt " 	　	　	99	1258	1159"
+msgid "Yes. Right. Bye then."
+msgstr ""
+

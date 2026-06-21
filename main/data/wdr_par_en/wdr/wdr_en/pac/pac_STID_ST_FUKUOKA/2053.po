@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "The low sun gets in the eyes."
+msgstr ""
+

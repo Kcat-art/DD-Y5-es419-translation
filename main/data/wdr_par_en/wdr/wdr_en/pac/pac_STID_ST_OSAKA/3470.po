@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "124"
+msgid "Round two..."
+msgstr ""
+
+msgctxt "148"
+msgid "The finals..."
+msgstr ""
+
+msgctxt "172"
+msgid "The Princess League..."
+msgstr ""
+

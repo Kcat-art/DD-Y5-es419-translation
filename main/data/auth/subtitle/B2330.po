@@ -1,0 +1,57 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		66	168	102"
+msgid "Majima knew something was up."
+msgstr ""
+
+msgctxt " 	 	　	184	365	181"
+msgid "That behind this oath swearing nonsense,\\r\n"
+"someone was working toward something bigger."
+msgstr ""
+
+msgctxt " 	 	　	60	448	388"
+msgid "Somethin' bigger?"
+msgstr ""
+
+msgctxt " 	 	　	60	517	457"
+msgid "You heard me."
+msgstr ""
+
+msgctxt " 	 	　	117	645	528"
+msgid "If the Tojo swore an oath\\r\n"
+"with the Kitakata Family..."
+msgstr ""
+
+msgctxt " 	 	テキスト修正	170	830	660"
+msgid "They'd be playing right into this\\r\n"
+"guy's hands. So said Majima, at least."
+msgstr ""
+
+msgctxt " 	 	　	155	1007	852"
+msgid "N' that's why he was tryin' to\\r\n"
+"stop the alliance? To prevent that?"
+msgstr ""
+
+msgctxt " 	 	　	60	1096	1036"
+msgid "Presumably."
+msgstr ""
+
+msgctxt " 	 	　	105	1212	1107"
+msgid "Then lemme ask. Do ya know\\r\n"
+"who's orchestratin' all this?"
+msgstr ""
+
+msgctxt " 	 	　	60	1458	1398"
+msgid "Well..."
+msgstr ""
+
+msgctxt " 	 	　	93	1770	1677"
+msgid "Kitakata!\\r\n"
+"Hey, hang in there!"
+msgstr ""
+
+msgctxt " 	 		60	1846	1786"
+msgid "Shit!"
+msgstr ""
+

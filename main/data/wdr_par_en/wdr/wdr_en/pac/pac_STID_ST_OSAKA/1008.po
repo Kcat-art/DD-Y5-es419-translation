@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Soak it up..."
+msgstr ""
+
+msgctxt "244"
+msgid "This is..."
+msgstr ""
+

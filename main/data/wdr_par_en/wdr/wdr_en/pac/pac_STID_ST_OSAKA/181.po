@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "2256"
+msgid "ACOKA0176"
+msgstr ""
+
+msgctxt "2260"
+msgid "F_NML_MOV_stand_mail_lp"
+msgstr ""
+
+msgctxt "2264"
+msgid "ACYAM0000"
+msgstr ""
+

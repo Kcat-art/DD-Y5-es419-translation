@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "756"
+msgid "7e008002"
+msgstr ""
+
+msgctxt "760"
+msgid "7e008003"
+msgstr ""
+
+msgctxt "764"
+msgid "adv1_124/kiryu_1_124_010"
+msgstr ""
+
+msgctxt "768"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "772"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "776"
+msgid "dummy"
+msgstr ""
+

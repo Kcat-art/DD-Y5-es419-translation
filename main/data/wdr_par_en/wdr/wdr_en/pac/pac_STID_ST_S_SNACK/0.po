@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1284"
+msgid "adv2_320/baba_2_310_040"
+msgstr ""
+

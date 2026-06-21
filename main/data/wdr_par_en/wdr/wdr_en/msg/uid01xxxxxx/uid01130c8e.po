@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "212"
+msgid "7e008001"
+msgstr ""
+
+msgctxt "216"
+msgid "A8295_STfutou_boss_nige"
+msgstr ""
+
+msgctxt "220"
+msgid "291302d0"
+msgstr ""
+

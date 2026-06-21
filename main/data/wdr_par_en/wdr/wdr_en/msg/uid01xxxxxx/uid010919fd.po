@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "308"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Saejima"
+msgid "(I'll find ya, Yama-oroshi. Just gotta... well, search everywhere, I guess.)"
+msgstr ""
+

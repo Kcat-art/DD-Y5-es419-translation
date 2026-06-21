@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "392"
+msgid "dummy"
+msgstr ""
+
+msgctxt "396"
+msgid "H10150_kuma_attack"
+msgstr ""
+

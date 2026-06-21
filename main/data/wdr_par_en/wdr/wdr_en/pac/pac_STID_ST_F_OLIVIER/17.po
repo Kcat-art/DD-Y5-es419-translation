@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "788"
+msgid "adv1_110/kiryu_0199"
+msgstr ""
+
+msgctxt "792"
+msgid "P_TLK_sitsofa_kamae"
+msgstr ""
+
+msgctxt "796"
+msgid "adv1_100/watase_buka_0001"
+msgstr ""
+

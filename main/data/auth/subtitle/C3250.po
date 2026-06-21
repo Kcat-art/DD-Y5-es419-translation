@@ -1,0 +1,33 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		77	523	446"
+msgid "Hey there. Mind if I come in?"
+msgstr ""
+
+msgctxt " 	　	　	126	748	622"
+msgid "I, uh... I heard you were the last\\r\n"
+"person to see Park-san yesterday."
+msgstr ""
+
+msgctxt " 	　	　	73	855	782"
+msgid "I'd like to chat, if you don't mind."
+msgstr ""
+
+msgctxt " 	　	　	132	1028	896"
+msgid "Though I'm sure you're not really\\r\n"
+"up for talking after what happened."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	41	1295	1254"
+msgid "Wait."
+msgstr ""
+
+msgctxt " 	　	分	94	1390	1296"
+msgid "Haruka-chan? Shouldn't you be with Kiryu-san?"
+msgstr ""
+
+msgctxt " 	　	　	60	1451	1391"
+msgid "Akiyama-san?"
+msgstr ""
+

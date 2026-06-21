@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "816"
+msgid "Man Seeking Employment"
+msgstr ""
+
+msgctxt "820"
+msgid "Kineicho Businessman"
+msgstr ""
+
+msgctxt "72_Man Seeking Employment"
+msgid "I'm looking for work in Kineicho. Know anyone who might be hiring?"
+msgstr ""
+
+msgctxt "84_Kineicho Businessman"
+msgid "Hmm, how about you go and see Ushijima-san? He's got connections all over town."
+msgstr ""
+
+msgctxt "96_Man Seeking Employment"
+msgid "Yeah? That sounds like a good call. Where can I find him?"
+msgstr ""
+
+msgctxt "108_Kineicho Businessman"
+msgid "He runs the Ushijima Dining Bar, over on Kumano Boulevard. Want me to show you where it is?"
+msgstr ""
+

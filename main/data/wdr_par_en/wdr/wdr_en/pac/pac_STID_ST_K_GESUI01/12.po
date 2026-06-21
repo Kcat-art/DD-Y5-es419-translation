@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "104"
+msgid "Hey, Shinada! Stop runnin' off alone and help me out here!"
+msgstr ""
+
+msgctxt "116"
+msgid "Hey, Saejima-san! Can you come help me instead of running ahead!?"
+msgstr ""
+
+msgctxt "680"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "684"
+msgid "Shinada"
+msgstr ""
+

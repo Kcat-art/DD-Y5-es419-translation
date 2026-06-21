@@ -1,0 +1,103 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "384	LIVE_WORD_STR"
+msgid "This silly dream, this ray of hope"
+msgstr ""
+
+msgctxt "419	LIVE_WORD_STR"
+msgid "Fading faster than scribbles on the pavement\n"
+"Should I just give in?"
+msgstr ""
+
+msgctxt "488	LIVE_WORD_STR"
+msgid "Is this what you want?\"\n"
+"\"Are you good enough?\""
+msgstr ""
+
+msgctxt "535	LIVE_WORD_STR"
+msgid "It's all I see when I look in the mirror\n"
+"I can't escape, my own reflection"
+msgstr ""
+
+msgctxt "610	LIVE_WORD_STR"
+msgid "When my tears won't dry\n"
+"Wanna just not even try\n"
+"I'll find the strength inside"
+msgstr ""
+
+msgctxt "688	LIVE_WORD_STR"
+msgid "Hope is all it takes to remake\n"
+"Your dreams into reality"
+msgstr ""
+
+msgctxt "744	LIVE_WORD_STR"
+msgid "So don't let it slip away!"
+msgstr ""
+
+msgctxt "771	LIVE_WORD_STR"
+msgid "Are you ready? Go!\n"
+"It's your time to show"
+msgstr ""
+
+msgctxt "813	LIVE_WORD_STR"
+msgid "That you're so much more than they could know"
+msgstr ""
+
+msgctxt "859	LIVE_WORD_STR"
+msgid "Hold your head up high!\n"
+"Spread your wings and fly!"
+msgstr ""
+
+msgctxt "910	LIVE_WORD_STR"
+msgid "Just a bit of hope and you'll be shining"
+msgstr ""
+
+msgctxt "951	LIVE_WORD_STR"
+msgid "It's all up to me!\n"
+"Just you wait and see!"
+msgstr ""
+
+msgctxt "993	LIVE_WORD_STR"
+msgid "This star is gonna shine so bright it hurts\n"
+"And I will prove to you"
+msgstr ""
+
+msgctxt "1061	LIVE_WORD_STR"
+msgid "That I can be, so much more than what you see right now"
+msgstr ""
+
+msgctxt "1117	LIVE_WORD_STR"
+msgid "Are you on the brink? Want to give it up?\n"
+"Then let me start this over from the top!"
+msgstr ""
+
+msgctxt "1201	LIVE_WORD_STR"
+msgid "You're too young to think, back on what you did"
+msgstr ""
+
+msgctxt "1249	LIVE_WORD_STR"
+msgid "Questioning your every last decision"
+msgstr ""
+
+msgctxt "1286	LIVE_WORD_STR"
+msgid "Whenever you fall, just get up and go"
+msgstr ""
+
+msgctxt "1324	LIVE_WORD_STR"
+msgid "No matter how many times it takes"
+msgstr ""
+
+msgctxt "1358	LIVE_WORD_STR"
+msgid "Your dream will come true, I promise you\n"
+"Hold your head up high and run to it"
+msgstr ""
+
+msgctxt "1436	LIVE_WORD_STR"
+msgid "You just need to believe"
+msgstr ""
+
+msgctxt "1461	LIVE_WORD_STR"
+msgid "That you can be, so much more than what we see right now"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "324"
+msgid "Lost Pedestrian"
+msgstr ""
+
+msgctxt "72_Lost Pedestrian"
+msgid "Huh? This is strange. The batting center is supposed to be around here, isn't it?"
+msgstr ""
+

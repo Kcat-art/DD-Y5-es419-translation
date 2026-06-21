@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "2336"
+msgid "adv1_145/tatsuya_1_145_240"
+msgstr ""
+
+msgctxt "2340"
+msgid "adv1_145/kiryu_1_145_070"
+msgstr ""
+
+msgctxt "2344"
+msgid "adv1_145/kiryu_1_145_010"
+msgstr ""
+

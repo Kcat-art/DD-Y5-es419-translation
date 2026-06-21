@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "488"
+msgid "ACDEV0042"
+msgstr ""
+

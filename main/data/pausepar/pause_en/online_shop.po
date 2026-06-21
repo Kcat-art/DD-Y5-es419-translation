@@ -1,0 +1,35 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "209	SHOP_NAME"
+msgid "D World"
+msgstr ""
+
+msgctxt "217	SHOP_NAME"
+msgid "Import.net"
+msgstr ""
+
+msgctxt "228	SHOP_NAME"
+msgid "Sportsman Web"
+msgstr ""
+
+msgctxt "242	SHOP_NAME"
+msgid "M Store Online"
+msgstr ""
+
+msgctxt "257	SHOP_EXPLANATION"
+msgid "Order CDs online!"
+msgstr ""
+
+msgctxt "275	SHOP_EXPLANATION"
+msgid "An online store for imported goods."
+msgstr ""
+
+msgctxt "311	SHOP_EXPLANATION"
+msgid "For all your sporting goods."
+msgstr ""
+
+msgctxt "340	SHOP_EXPLANATION"
+msgid "Get your M Store products delivered!"
+msgstr ""
+

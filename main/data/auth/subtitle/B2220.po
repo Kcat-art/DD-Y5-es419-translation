@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	1327	1267"
+msgid "Naw..."
+msgstr ""
+
+msgctxt "			117	1451	1334"
+msgid "I ain't dyin' here... I can't!"
+msgstr ""
+

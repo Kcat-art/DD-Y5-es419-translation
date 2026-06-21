@@ -1,0 +1,43 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1700"
+msgid "P_SAE_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "1704"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "1708"
+msgid "P_SAE_stand"
+msgstr ""
+
+msgctxt "1712"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "1716"
+msgid "adv2_200/saejima_0312"
+msgstr ""
+
+msgctxt "1720"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1724"
+msgid "adv2_190/saejima_2_190_010"
+msgstr ""
+
+msgctxt "1728"
+msgid "C2040_P_SAE_agura_kamae"
+msgstr ""
+
+msgctxt "1732"
+msgid "adv2_170/saejima_0282"
+msgstr ""
+
+msgctxt "1736"
+msgid "M_YKZ_TLK_sitgrd_agura_lp"
+msgstr ""
+

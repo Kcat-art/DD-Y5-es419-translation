@@ -1,0 +1,256 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		154	440	286"
+msgid "For the lengths you went through to break out,\\r\n"
+"you came along without even a whimper."
+msgstr ""
+
+msgctxt " 	　	　	60	675	615"
+msgid "You play nice with Kitakata?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	54	805	751"
+msgid "How do ya know about that?"
+msgstr ""
+
+msgctxt " 	　	　	105	911	806"
+msgid "We've been followin' your\\r\n"
+"every move, every objective."
+msgstr ""
+
+msgctxt " 	　	　	60	1000	940"
+msgid "That's how cops work."
+msgstr ""
+
+msgctxt " 	　	　	142	1164	1022"
+msgid "That, and we just brought your buddy\\r\n"
+"Kitakata over to the police hospital."
+msgstr ""
+
+msgctxt " 	　	　	89	1278	1189"
+msgid "Kitakata!? He's alive!?"
+msgstr ""
+
+msgctxt " 	　	　	122	1408	1286"
+msgid "Yup. We rushed in\\r\n"
+"when we heard the shot."
+msgstr ""
+
+msgctxt " 	　	　	103	1546	1443"
+msgid "Don't worry,\\r\n"
+"we know you didn't do it."
+msgstr ""
+
+msgctxt " 	　	　	149	1839	1690"
+msgid "Hospital phoned us up not too long ago.\\r\n"
+"He's gonna pull through."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	59	1921	1862"
+msgid "You can quit frettin'."
+msgstr ""
+
+msgctxt " 	　	　	60	1982	1922"
+msgid "That's great."
+msgstr ""
+
+msgctxt " 	　	　	148	2217	2069"
+msgid "Speakin' of Kitakata... You went to him\\r\n"
+"for the truth about Majima's death, right?"
+msgstr ""
+
+msgctxt " 	　	　	86	2430	2344"
+msgid "Tired of talkin'?\\r\n"
+"Fine by me."
+msgstr ""
+
+msgctxt " 	　	　	80	2545	2465"
+msgid "Gives me a chance to run my mouth a bit."
+msgstr ""
+
+msgctxt " 	　	　	79	2651	2572"
+msgid "Not a soul gonna disturb us here."
+msgstr ""
+
+msgctxt " 	　	　	164	2964	2800"
+msgid "I'm sure Kitakata told you this, but...\\r\n"
+"He and his boys didn't kill Majima."
+msgstr ""
+
+msgctxt " 	　	　	60	3167	3107"
+msgid "It was the Tojo Clan."
+msgstr ""
+
+msgctxt " 	　	　	68	3400	3332"
+msgid "Don't believe me, huh?"
+msgstr ""
+
+msgctxt " 	　	　	88	3539	3451"
+msgid "Try this on for size, then."
+msgstr ""
+
+msgctxt " 	　	　	179	3744	3565"
+msgid "Daigo Dojima disappeared, down in Fukuoka\\r\n"
+"seekin' out an alliance with the Yamagasa Family."
+msgstr ""
+
+msgctxt " 	　	　	60	3873	3813"
+msgid "What?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	50	3951	3901"
+msgid "Thought that'd interest you."
+msgstr ""
+
+msgctxt " 	　	分	183	4135	3952"
+msgid "But it's true. Dojima vanished without\\r\n"
+"so much as a trace just the other day."
+msgstr ""
+
+msgctxt " 	　	分	82	4357	4152"
+msgid "Practically the same instant, Majima dies\\r\n"
+"in Tsukimino and Azumi kicks the bucket in Nagoya."
+msgstr ""
+
+msgctxt " 	　	　	93	4476	4383"
+msgid "Safe to say the Tojo's a little panicked."
+msgstr ""
+
+msgctxt " 	　	　	180	4677	4497"
+msgid "Same goes for the PD. Hear they haven't\\r\n"
+"slept a wink since all this went down."
+msgstr ""
+
+msgctxt " 	　	　	120	4955	4835"
+msgid "As for me, I'm hot on the trail\\r\n"
+"of a guy by the name Morinaga."
+msgstr ""
+
+msgctxt " 	　	　	60	5063	5003"
+msgid "Morinaga?"
+msgstr ""
+
+msgctxt " 	　	　	85	5152	5067"
+msgid "One of Daigo Dojima's personal bodyguards."
+msgstr ""
+
+msgctxt " 	　	分	144	5311	5167"
+msgid "Turns out, he offed the chief of HQ\\r\n"
+"Aoyama down in Fukuoka."
+msgstr ""
+
+msgctxt " 	　	　	60	5405	5345"
+msgid "Aoyama's dead!?"
+msgstr ""
+
+msgctxt " 	　	　	96	5541	5445"
+msgid "First Morinaga's boss Dojima goes missing."
+msgstr ""
+
+msgctxt " 	　	分	123	5678	5555"
+msgid "Then Morinaga puts a bullet in\\r\n"
+"the new acting chairman's head."
+msgstr ""
+
+msgctxt " 	　	　	78	5793	5715"
+msgid "Don't that strike you as odd?"
+msgstr ""
+
+msgctxt " 	　	　	186	6130	5944"
+msgid "And that guy you were with.\\r\n"
+"Baba, was it?"
+msgstr ""
+
+msgctxt " 	　	　	89	6306	6217"
+msgid "How do ya know about that?"
+msgstr ""
+
+msgctxt " 	　	　	127	6498	6371"
+msgid "We've been trackin' him. Good to\\r\n"
+"see it's already paying off."
+msgstr ""
+
+msgctxt " 	　	　	132	6690	6558"
+msgid "What're ya really after here?\\r\n"
+"Thought ya just wanted to haul me back in."
+msgstr ""
+
+msgctxt " 	　	　	80	6832	6752"
+msgid "Well, we do. But not just that."
+msgstr ""
+
+msgctxt " 	　	　	80	6947	6867"
+msgid "My real goal in all this, well..."
+msgstr ""
+
+msgctxt " 	　	分	96	7044	6948"
+msgid "It's finding out who's pulling the strings."
+msgstr ""
+
+msgctxt " 	　	　	98	7157	7059"
+msgid "The wolf among the Tojo Clan sheep."
+msgstr ""
+
+msgctxt " 	　	　	122	7326	7204"
+msgid "Ya mean there's a traitor? In the Tojo?"
+msgstr ""
+
+msgctxt " 	　	　	137	7493	7356"
+msgid "Daigo Dojima's disappearance.\\r\n"
+"Majima's death. And this business with you."
+msgstr ""
+
+msgctxt " 	　	　	125	7635	7510"
+msgid "All signs that the Tojo mountain\\r\n"
+"that's dominated our skyline for decades..."
+msgstr ""
+
+msgctxt " 	　	分	90	7729	7639"
+msgid "Might finally be startin' to crumble."
+msgstr ""
+
+msgctxt " 	　	　	144	7894	7750"
+msgid "Think about it. The timing\\r\n"
+"was too perfect to be a coincidence."
+msgstr ""
+
+msgctxt " 	　	　	119	8124	8005"
+msgid "You ask me, that Baba guy you were with..."
+msgstr ""
+
+msgctxt " 	　	　	176	8326	8150"
+msgid "He's working directly for whoever's\\r\n"
+"trying to bring the Tojo crashing down."
+msgstr ""
+
+msgctxt " 	　	　	106	8479	8373"
+msgid "And this traitor.\\r\n"
+"Ya think it's Morinaga?"
+msgstr ""
+
+msgctxt " 	　	　	60	8604	8544"
+msgid "Chances are high."
+msgstr ""
+
+msgctxt " 	　	　	74	8732	8658"
+msgid "The hell's goin' on?"
+msgstr ""
+
+msgctxt " 	　	　	65	8854	8789"
+msgid "One thing is for certain."
+msgstr ""
+
+msgctxt " 	　	　	147	9036	8889"
+msgid "There's a damn hellstorm brewin'\\r\n"
+"around the Tojo Clan..."
+msgstr ""
+
+msgctxt " 	　	分	60	9109	9049"
+msgid "And you're right in the center."
+msgstr ""
+
+msgctxt " 	　	　	109	9275	9166"
+msgid "An essential piece in this upheaval puzzle."
+msgstr ""
+

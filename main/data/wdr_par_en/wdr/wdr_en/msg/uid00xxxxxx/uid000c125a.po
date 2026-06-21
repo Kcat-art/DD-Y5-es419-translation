@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "276"
+msgid "Employee"
+msgstr ""
+
+msgctxt "72_Employee"
+msgid "Please check us out! Classic games and PrintCircle machines are front and center!"
+msgstr ""
+

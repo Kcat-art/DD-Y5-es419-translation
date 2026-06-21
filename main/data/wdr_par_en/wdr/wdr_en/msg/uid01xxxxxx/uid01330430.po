@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "628"
+msgid "Player"
+msgstr ""
+
+msgctxt "632"
+msgid "dummy"
+msgstr ""
+
+msgctxt "60_Player"
+msgid "(Gotta hustle back to Futo Momo. I'm running out of time here...)"
+msgstr ""
+
+msgctxt "84_Player"
+msgid "(Milky-chan's brother's in trouble. I need to get to... Kubota Security? I think that's where it was.)"
+msgstr ""
+

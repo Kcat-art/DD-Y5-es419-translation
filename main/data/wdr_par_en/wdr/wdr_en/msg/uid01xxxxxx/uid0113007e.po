@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "772"
+msgid "Morinaga"
+msgstr ""
+
+msgctxt "776"
+msgid "adv1_125/morinaga_1_125_010"
+msgstr ""
+
+msgctxt "780"
+msgid "Player"
+msgstr ""
+
+msgctxt "784"
+msgid "adv1_125/kiryu_1_125_010"
+msgstr ""
+
+msgctxt "72_Morinaga"
+msgid "Gunfire!?"
+msgstr ""
+
+msgctxt "84_Player"
+msgid "Let's hurry!"
+msgstr ""
+

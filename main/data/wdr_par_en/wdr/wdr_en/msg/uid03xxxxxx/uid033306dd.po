@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "You can save the game and use the Item Box at pay phones."
+msgstr ""
+
+msgctxt "96"
+msgid "You can save the game and use the Item Box at pay phones."
+msgstr ""
+
+msgctxt "1112"
+msgid "Save"
+msgstr ""
+
+msgctxt "1116"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "1120"
+msgid "Use the Item Box"
+msgstr ""
+
+msgctxt "1124"
+msgid "dummy"
+msgstr ""
+

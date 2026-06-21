@@ -1,0 +1,67 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "4012"
+msgid "adv3_375/haruka_0194"
+msgstr ""
+
+msgctxt "4016"
+msgid "C3375_HAL_TLK_genba_look_kamae"
+msgstr ""
+
+msgctxt "4020"
+msgid "C3375_HAL_TLK_genba_look"
+msgstr ""
+
+msgctxt "4024"
+msgid "adv3_345_1/paku_0125"
+msgstr ""
+
+msgctxt "4028"
+msgid "adv3_340_1/haruka_0140"
+msgstr ""
+
+msgctxt "4032"
+msgid "ACDEV0088"
+msgstr ""
+
+msgctxt "4036"
+msgid "ACDEV0090"
+msgstr ""
+
+msgctxt "4040"
+msgid "adv3_320/yamaura_0018"
+msgstr ""
+
+msgctxt "4044"
+msgid "adv3_310/haruka_0129a"
+msgstr ""
+
+msgctxt "4048"
+msgid "SS3_HAL_stand_aks_sync_02_lp"
+msgstr ""
+
+msgctxt "4052"
+msgid "SS3_M_NML_stand_aks_sync_02_lp"
+msgstr ""
+
+msgctxt "4056"
+msgid "adv3_300/yamaura_0012a"
+msgstr ""
+
+msgctxt "4060"
+msgid "adv3_290/yamaura_0009b"
+msgstr ""
+
+msgctxt "4064"
+msgid "kaiwabgm_happy01"
+msgstr ""
+
+msgctxt "4068"
+msgid "F_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "4072"
+msgid "adv3_290/yamaura_0005"
+msgstr ""
+

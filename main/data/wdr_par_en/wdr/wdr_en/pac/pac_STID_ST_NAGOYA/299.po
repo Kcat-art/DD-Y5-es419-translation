@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Check out our hostess club!"
+msgstr ""
+
+msgctxt "272"
+msgid "Hey, buddy!"
+msgstr ""
+

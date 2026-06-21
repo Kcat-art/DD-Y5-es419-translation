@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1932"
+msgid "F_URA_TLK_stand_kamae"
+msgstr ""
+

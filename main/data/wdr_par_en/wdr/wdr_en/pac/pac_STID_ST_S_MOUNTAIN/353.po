@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "Saejima, you walked right past the hunting hut."
+msgstr ""
+
+msgctxt "240"
+msgid "Okudera"
+msgstr ""
+

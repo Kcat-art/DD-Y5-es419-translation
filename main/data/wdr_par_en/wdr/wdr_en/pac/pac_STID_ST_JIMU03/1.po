@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "556"
+msgid "ACDEV0178"
+msgstr ""
+
+msgctxt "560"
+msgid "P_AKI_TLK_stand_syagamu_lp"
+msgstr ""
+

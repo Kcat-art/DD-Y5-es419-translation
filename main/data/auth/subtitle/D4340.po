@@ -1,0 +1,68 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		140	330	190"
+msgid "So, Mi-chan. How's that job\\r\n"
+"I got you working out?"
+msgstr ""
+
+msgctxt " 	　	　	113	463	350"
+msgid "Just a little bathhouse fun,\\r\n"
+"and all your debts will wash away."
+msgstr ""
+
+msgctxt " 	　	分	109	573	464"
+msgid "Both your body and bank account\\r\n"
+"will be squeaky clean."
+msgstr ""
+
+msgctxt " 	　	　	70	655	585"
+msgid "Hm? Your jaw hurts?"
+msgstr ""
+
+msgctxt " 	　	　	80	742	662"
+msgid "The hell do you expect?"
+msgstr ""
+
+msgctxt " 	　		103	846	743"
+msgid "None of this'd be happening if\\r\n"
+"you'd just paid off your loan!"
+msgstr ""
+
+msgctxt " 	　	　	93	949	856"
+msgid "Ugh, can you shut <Italic>up</Italic> already!?"
+msgstr ""
+
+msgctxt " 	　	　	60	1177	1117"
+msgid "Sorry."
+msgstr ""
+
+msgctxt " 	　	　	80	1260	1180"
+msgid "Nah, just a guy I'm with."
+msgstr ""
+
+msgctxt " 	　	分	96	1365	1269"
+msgid "Anyways, quit whining and get back to work!"
+msgstr ""
+
+msgctxt " 	　	　	60	1432	1372"
+msgid "Or else."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	52	1611	1559"
+msgid "What's up?"
+msgstr ""
+
+msgctxt " 	　	　	162	1774	1612"
+msgid "You're not working today, are you?\\r\n"
+"What you got there on your computer?"
+msgstr ""
+
+msgctxt " 	　	　	104	1909	1805"
+msgid "Sawada's pitching data for the last 15 years."
+msgstr ""
+
+msgctxt " 	　	　	60	2021	1961"
+msgid "Data?"
+msgstr ""
+

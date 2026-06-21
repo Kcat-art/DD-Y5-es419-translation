@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "168"
+msgid "H10130_kugihara_haikan_A"
+msgstr ""
+

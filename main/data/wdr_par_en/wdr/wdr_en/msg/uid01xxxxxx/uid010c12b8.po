@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "624"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "628"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "632"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "636"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "44_Haruka"
+msgid "That was fun!"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "Yeah, let's do that again."
+msgstr ""
+

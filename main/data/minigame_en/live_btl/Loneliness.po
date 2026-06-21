@@ -1,0 +1,89 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "352	LIVE_WORD_STR"
+msgid "A bird without wings, can no longer fly\n"
+"That's what your twisted love has turned me into"
+msgstr ""
+
+msgctxt "441	LIVE_WORD_STR"
+msgid "I just can't escape\n"
+"As hard as I try"
+msgstr ""
+
+msgctxt "478	LIVE_WORD_STR"
+msgid "Your smile it cuts me in two, in its sorrow"
+msgstr ""
+
+msgctxt "522	LIVE_WORD_STR"
+msgid "What can I do to change myself\n"
+"So that you'll look at me, like you look at her?"
+msgstr ""
+
+msgctxt "602	LIVE_WORD_STR"
+msgid "What can I do to change the past"
+msgstr ""
+
+msgctxt "635	LIVE_WORD_STR"
+msgid "So that you'll embrace me\n"
+"As tightly as you always used to?"
+msgstr ""
+
+msgctxt "695	LIVE_WORD_STR"
+msgid "Caught up in a loop of loneliness\n"
+"Never gonna find my way out"
+msgstr ""
+
+msgctxt "757	LIVE_WORD_STR"
+msgid "I'm trying to catch you in the frame\n"
+"But you keep slipping away"
+msgstr ""
+
+msgctxt "821	LIVE_WORD_STR"
+msgid "A bird without wings, can no longer fly\n"
+"That's what your twisted love has turned me into"
+msgstr ""
+
+msgctxt "910	LIVE_WORD_STR"
+msgid "I just can't escape\n"
+"As hard as I try"
+msgstr ""
+
+msgctxt "947	LIVE_WORD_STR"
+msgid "Your smile it cuts me in two, in its sorrow"
+msgstr ""
+
+msgctxt "991	LIVE_WORD_STR"
+msgid "Caught up in a loop, pain and regret\n"
+"just won't let me find my way out"
+msgstr ""
+
+msgctxt "1062	LIVE_WORD_STR"
+msgid "I can't catch myself within the frame\n"
+"It's too painfully blurry"
+msgstr ""
+
+msgctxt "1126	LIVE_WORD_STR"
+msgid "The day's gonna come, that these tears I shed\n"
+"will make you look back at what we could have been"
+msgstr ""
+
+msgctxt "1223	LIVE_WORD_STR"
+msgid "The day's gonna come, that you finally see\n"
+"Just how many wounds that I bear"
+msgstr ""
+
+msgctxt "1299	LIVE_WORD_STR"
+msgid "A bird without wings, can no longer fly\n"
+"That's what your twisted love has turned me into"
+msgstr ""
+
+msgctxt "1388	LIVE_WORD_STR"
+msgid "I just can't escape\n"
+"As hard as I try"
+msgstr ""
+
+msgctxt "1425	LIVE_WORD_STR"
+msgid "Your smile it cuts me in two, in its sorrow"
+msgstr ""
+

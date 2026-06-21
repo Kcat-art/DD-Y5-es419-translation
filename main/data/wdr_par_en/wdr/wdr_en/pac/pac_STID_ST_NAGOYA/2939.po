@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "76"
+msgid "Come on, somebody fight me..."
+msgstr ""
+
+msgctxt "1264"
+msgid "M_NML_SET_stand_drunker_01"
+msgstr ""
+
+msgctxt "1268"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+

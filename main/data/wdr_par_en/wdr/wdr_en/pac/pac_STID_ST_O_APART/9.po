@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "788"
+msgid "adv3_370_1/horie_0107"
+msgstr ""
+
+msgctxt "792"
+msgid "ACDEV0150"
+msgstr ""
+
+msgctxt "796"
+msgid "HAL_sitchr"
+msgstr ""
+
+msgctxt "800"
+msgid "adv3_368/haruka_3_368_010"
+msgstr ""
+

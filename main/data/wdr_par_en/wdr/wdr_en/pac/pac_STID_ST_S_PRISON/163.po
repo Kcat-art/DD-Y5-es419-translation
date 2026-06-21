@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "4408"
+msgid "adv2_100/kugihara_0005"
+msgstr ""
+
+msgctxt "4412"
+msgid "adv2_090_10/oshima_2_090_030"
+msgstr ""
+
+msgctxt "4416"
+msgid "adv2_090_8/oshima_2_090_020"
+msgstr ""
+
+msgctxt "4420"
+msgid "adv2_090_5/himura_2_090_010"
+msgstr ""
+
+msgctxt "4424"
+msgid "adv2_090_1/oshima_0050"
+msgstr ""
+
+msgctxt "4428"
+msgid "adv2_030/kugihara_buka1_0001"
+msgstr ""
+
+msgctxt "4432"
+msgid "P_SAE_TLK_sitchr_kamae"
+msgstr ""
+

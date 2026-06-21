@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "416"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Saejima"
+msgid "(Wonder if that street performer ever found a local angle for his act?)"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "(Somethin' about the snow statues would be a safe bet, but they'd be tough to work into a performance.)"
+msgstr ""
+

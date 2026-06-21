@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "72"
+msgid "I'm burstin'..."
+msgstr ""
+
+msgctxt "236"
+msgid "I'm stuffed."
+msgstr ""
+

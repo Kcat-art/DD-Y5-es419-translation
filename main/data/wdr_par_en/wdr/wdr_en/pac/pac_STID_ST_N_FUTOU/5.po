@@ -1,0 +1,20 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Takasugi-san! I'll buy us some time. You go on ahead!"
+msgstr ""
+
+msgctxt "72"
+msgid "Tch! Don't try to be a hero, man.\\r\n"
+"You better not go getting yourself killed!"
+msgstr ""
+
+msgctxt "672"
+msgid "Player"
+msgstr ""
+
+msgctxt "676"
+msgid "Takasugi"
+msgstr ""
+

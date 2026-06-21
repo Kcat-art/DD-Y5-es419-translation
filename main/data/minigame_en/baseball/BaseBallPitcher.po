@@ -1,0 +1,243 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "4816	NAME"
+msgid "Standard"
+msgstr ""
+
+msgctxt "4825	NAME"
+msgid "Batting Center Beginner Higher angle"
+msgstr ""
+
+msgctxt "4862	NAME"
+msgid "Batting Center Beginner lower angle"
+msgstr ""
+
+msgctxt "4898	NAME"
+msgid "Batting Center Beginner outer angle"
+msgstr ""
+
+msgctxt "4934	NAME"
+msgid "Batting Center Beginner inner angle"
+msgstr ""
+
+msgctxt "4970	NAME"
+msgid "Batting Center Beginner random"
+msgstr ""
+
+msgctxt "5001	NAME"
+msgid "Batting Center Beginner Heat Eye"
+msgstr ""
+
+msgctxt "5034	NAME"
+msgid "Batting Center Intermediate"
+msgstr ""
+
+msgctxt "5062	NAME"
+msgid "Batting Center Advanced"
+msgstr ""
+
+msgctxt "5086	NAME"
+msgid "Batting Center Missions"
+msgstr ""
+
+msgctxt "5110	NAME"
+msgid "Batting Center Sawada"
+msgstr ""
+
+msgctxt "5132	NAME"
+msgid "Batting Center Challenge"
+msgstr ""
+
+msgctxt "5157	NAME"
+msgid "Batting Center Kamurocho"
+msgstr ""
+
+msgctxt "5182	NAME"
+msgid "Main Scenario Batting Center"
+msgstr ""
+
+msgctxt "5211	NAME"
+msgid "Main Scenario Sawada"
+msgstr ""
+
+msgctxt "5232	NAME"
+msgid "Kuroda: Shirakawa's assassin"
+msgstr ""
+
+msgctxt "5261	NAME"
+msgid "Kuroda: Aims to become a high school baseball player"
+msgstr ""
+
+msgctxt "5314	NAME"
+msgid "Haibara: Velocity 145km/h"
+msgstr ""
+
+msgctxt "5340	NAME"
+msgid "Haibara: Shinada's interview"
+msgstr ""
+
+msgctxt "5369	NAME"
+msgid "Shiraki: The shadow of the spotlight"
+msgstr ""
+
+msgctxt "5406	NAME"
+msgid "Shiraki: The battle 20 years ago"
+msgstr ""
+
+msgctxt "5439	NAME"
+msgid "Grunt 01"
+msgstr ""
+
+msgctxt "5448	NAME"
+msgid "Grunt 02"
+msgstr ""
+
+msgctxt "5457	NAME"
+msgid "Grunt 03"
+msgstr ""
+
+msgctxt "5466	NAME"
+msgid "Grunt 04"
+msgstr ""
+
+msgctxt "5475	NAME"
+msgid "Grunt 05"
+msgstr ""
+
+msgctxt "5484	NAME"
+msgid "Grunt 06"
+msgstr ""
+
+msgctxt "5493	NAME"
+msgid "Grunt 07"
+msgstr ""
+
+msgctxt "5502	NAME"
+msgid "Grunt 08"
+msgstr ""
+
+msgctxt "5511	NAME"
+msgid "Grunt 09"
+msgstr ""
+
+msgctxt "5520	NAME"
+msgid "Grunt 10"
+msgstr ""
+
+msgctxt "5529	NAME"
+msgid "Grunt 11"
+msgstr ""
+
+msgctxt "5538	NAME"
+msgid "Grunt 12"
+msgstr ""
+
+msgctxt "5547	NAME"
+msgid "Grunt 13"
+msgstr ""
+
+msgctxt "5556	NAME"
+msgid "Grunt 14"
+msgstr ""
+
+msgctxt "5565	NAME"
+msgid "Grunt 15"
+msgstr ""
+
+msgctxt "5574	NAME"
+msgid "Grunt 16"
+msgstr ""
+
+msgctxt "5583	NAME"
+msgid "Grunt 17"
+msgstr ""
+
+msgctxt "5592	NAME"
+msgid "Grunt 18"
+msgstr ""
+
+msgctxt "5601	NAME"
+msgid "Grunt 19"
+msgstr ""
+
+msgctxt "5610	NAME"
+msgid "Grunt 20"
+msgstr ""
+
+msgctxt "5619	NAME"
+msgid "Sub Scenario: The Mysterious Hitter"
+msgstr ""
+
+msgctxt "5655	NAME"
+msgid "Sub Scenario: Help my Daddy"
+msgstr ""
+
+msgctxt "5683	NAME"
+msgid "Sub Scenario: Ex-Professional Coach"
+msgstr ""
+
+msgctxt "5719	NAME"
+msgid "Sub Scenario: Miracle Pitcher Kid 1"
+msgstr ""
+
+msgctxt "5755	NAME"
+msgid "Sub Scenario: Miracle Pitcher Kid 2"
+msgstr ""
+
+msgctxt "5791	NAME"
+msgid "Sub Scenario: Miracle Pitcher Kid 3"
+msgstr ""
+
+msgctxt "5827	NAME"
+msgid "Sub Scenario: How to Use a Bat"
+msgstr ""
+
+msgctxt "5858	NAME"
+msgid "Sub Scenario: Ball Magnet Bancho"
+msgstr ""
+
+msgctxt "5891	NAME"
+msgid "Sub Scenario: Dreams and Reality 1"
+msgstr ""
+
+msgctxt "5926	NAME"
+msgid "Sub Scenario: Dreams and Reality 2"
+msgstr ""
+
+msgctxt "5961	NAME"
+msgid "Sub Scenario: Sake"
+msgstr ""
+
+msgctxt "5980	NAME"
+msgid "Batting Center Challenger Sub Scenario"
+msgstr ""
+
+msgctxt "6019	NAME"
+msgid "Sub Scenario: To Be a First Class Batter"
+msgstr ""
+
+msgctxt "6060	NAME"
+msgid "Sub Scenario: Operation Phobia"
+msgstr ""
+
+msgctxt "6091	NAME"
+msgid "Sub Scenario: Chosen for the Spring Nationals"
+msgstr ""
+
+msgctxt "6137	NAME"
+msgid "Sub Scenario: Working Behind the Scenes"
+msgstr ""
+
+msgctxt "6177	NAME"
+msgid "Sub Scenario: Additional Missions"
+msgstr ""
+
+msgctxt "6211	NAME"
+msgid "Tutorial"
+msgstr ""
+
+msgctxt "6220	NAME"
+msgid "Shirakawa: Reunion"
+msgstr ""
+

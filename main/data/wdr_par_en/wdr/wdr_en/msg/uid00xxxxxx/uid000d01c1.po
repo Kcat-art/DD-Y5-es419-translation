@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "416"
+msgid "Tipsy Man"
+msgstr ""
+
+msgctxt "420"
+msgid "Drinking Buddy"
+msgstr ""
+
+msgctxt "72_Tipsy Man"
+msgid "I drank way too much. I need a workout to sober up."
+msgstr ""
+
+msgctxt "84_Drinking Buddy"
+msgid "Batting center might be good for that. It's just over in the Hotel District."
+msgstr ""
+

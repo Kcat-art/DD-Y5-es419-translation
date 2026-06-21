@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "308"
+msgid "Chilly Man"
+msgstr ""
+
+msgctxt "72_Chilly Man"
+msgid "The cold's really takin' hold tonight. A man needs a good woman to keep him warm."
+msgstr ""
+

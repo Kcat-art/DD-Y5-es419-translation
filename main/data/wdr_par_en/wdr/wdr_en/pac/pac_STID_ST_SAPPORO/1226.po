@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3748"
+msgid "adv2_334_1/baba_0148"
+msgstr ""
+
+msgctxt "3752"
+msgid "adv2_330/police_02a_0001"
+msgstr ""
+
+msgctxt "3756"
+msgid "adv2_240/baba_0101a"
+msgstr ""
+
+msgctxt "3760"
+msgid "adv2_240/baba_0099a"
+msgstr ""
+

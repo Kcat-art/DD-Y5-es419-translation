@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1072"
+msgid "Slighty Nervous Man"
+msgstr ""
+
+msgctxt "1076"
+msgid "<BZA@Option:Circle>I just focus on driving."
+msgstr ""
+
+msgctxt "1080"
+msgid "<BZA@Option:Triangle>I always keep an eye out."
+msgstr ""
+
+msgctxt "1084"
+msgid "<BZA@Option:Square>Everyone makes mistakes."
+msgstr ""
+
+msgctxt "1088"
+msgid "Slightly Nervous Man"
+msgstr ""
+
+msgctxt "1092"
+msgid "Laid-back Man"
+msgstr ""
+
+msgctxt "44_Slighty Nervous Man"
+msgid "People often walk out in front of you on roads like this. It always makes me nervous."
+msgstr ""
+
+msgctxt "68_Slighty Nervous Man"
+msgid "But what if you hit someone!?"
+msgstr ""
+
+msgctxt "80_Slighty Nervous Man"
+msgid "Good. That sets my mind at ease."
+msgstr ""
+
+msgctxt "92_Slighty Nervous Man"
+msgid "Mistakes? Does that mean what I think it means?"
+msgstr ""
+
+msgctxt "104_Slighty Nervous Man"
+msgid "Fine. Ignore me, then."
+msgstr ""
+

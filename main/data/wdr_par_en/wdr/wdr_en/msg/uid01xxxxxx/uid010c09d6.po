@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "196"
+msgid "P_SAE_TLK_stand_tlk_hashigo"
+msgstr ""
+

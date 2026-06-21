@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "436"
+msgid "Player"
+msgstr ""
+
+msgctxt "76_Player"
+msgid "(Takasugi-san's still around. I can't go home.)"
+msgstr ""
+
+msgctxt "88_Player"
+msgid "(Takasugi-san might still be around. Wouldn't want to run into him.)"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "188"
+msgid "肩接触_振り向き突き飛ばし"
+msgstr ""
+
+msgctxt "192"
+msgid "E9830_kata_tsukitobashi"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "140"
+msgid "Don't you run now..."
+msgstr ""
+
+msgctxt "3020"
+msgid "Cochin Cup Classic"
+msgstr ""
+

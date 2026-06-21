@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "308"
+msgid "Show Your Shooting Skills"
+msgstr ""
+
+msgctxt "60_Show Your Shooting Skills"
+msgid "Without changing position, drop all three deer with just the four shells provided."
+msgstr ""
+

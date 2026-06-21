@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "272"
+msgid "A10400_yamakasa_room"
+msgstr ""
+
+msgctxt "276"
+msgid "battle"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "180"
+msgid "Chomp chomp!"
+msgstr ""
+
+msgctxt "184"
+msgid "You'll burn your tongue!"
+msgstr ""
+

@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "96"
+msgid "能力をみる"
+msgstr ""
+

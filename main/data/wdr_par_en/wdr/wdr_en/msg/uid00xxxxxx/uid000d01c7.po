@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "716"
+msgid "Resigned Inmate"
+msgstr ""
+
+msgctxt "72_Resigned Inmate"
+msgid "Terrible food, biting cold, and cellmates you can't trust as far as you can throw."
+msgstr ""
+
+msgctxt "84_Resigned Inmate"
+msgid "I know I only have myself to blame, but this is hell on Earth."
+msgstr ""
+
+msgctxt "96_Resigned Inmate"
+msgid "Still, I guess it's better than Okinawa Penitentiary No. 2. Hah. Now I'm comparing it to some place that might not even exist."
+msgstr ""
+

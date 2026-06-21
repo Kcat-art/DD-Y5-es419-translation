@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "4084"
+msgid "adv4_220/shinada_0297"
+msgstr ""
+
+msgctxt "4088"
+msgid "0"
+msgstr ""
+
+msgctxt "4092"
+msgid "C4220_UNO_TLK_kimoi_kamae"
+msgstr ""
+
+msgctxt "4096"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4100"
+msgid "adv4_220/shinada_0295"
+msgstr ""
+
+msgctxt "4104"
+msgid "adv4_160_01/fuuzoku_0001"
+msgstr ""
+
+msgctxt "4108"
+msgid "C4160_UNO_TLK_oidasare"
+msgstr ""
+
+msgctxt "4112"
+msgid "adv4_130/nagoya_man1_0005"
+msgstr ""
+
+msgctxt "4116"
+msgid "C4130_SIN_TLK_down_kamae"
+msgstr ""
+
+msgctxt "4120"
+msgid "adv4_120/shinada_0174"
+msgstr ""
+
+msgctxt "4124"
+msgid "adv4_115/salarym_4_115_010"
+msgstr ""
+

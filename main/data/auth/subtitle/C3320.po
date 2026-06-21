@@ -1,0 +1,49 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	128	68"
+msgid "This is the place."
+msgstr ""
+
+msgctxt " 	　	　	101	545	444"
+msgid "I saw your picture on the screen, \\r\n"
+"so I told him I knew you."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	54	600	546"
+msgid "Perked right up once he heard that."
+msgstr ""
+
+msgctxt " 	　	　	93	708	615"
+msgid "He said if I brought you 'round,\\r\n"
+"he'd answer our every question."
+msgstr ""
+
+msgctxt " 	　	　	60	808	748"
+msgid "What is all this?"
+msgstr ""
+
+msgctxt " 	　	　	97	934	837"
+msgid "The hottest new tricks of the forgery trade."
+msgstr ""
+
+msgctxt " 	　	　	65	1008	943"
+msgid "Isn't that right, my fraudulent friend?"
+msgstr ""
+
+msgctxt " 	　	　	81	1364	1283"
+msgid "Wait, weren't you at the event yesterday?"
+msgstr ""
+
+msgctxt " 	　	　	60	1468	1408"
+msgid "Can't forget a face like mine, huh?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	33	1523	1490"
+msgid "You know each other!?"
+msgstr ""
+
+msgctxt " 	　	　	131	1655	1524"
+msgid "Oh, yes. He comes to all my events, without fail."
+msgstr ""
+

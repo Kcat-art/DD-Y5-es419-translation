@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 	　	60	2315	2255"
+msgid "I have to get back..."
+msgstr ""
+
+msgctxt " 	　	　	66	2445	2379"
+msgid "Everyone is waiting for me..."
+msgstr ""
+
+msgctxt " 	　		60	3435	3375"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt " 	　	　	60	3668	3608"
+msgid "Haruka?"
+msgstr ""
+
+msgctxt " 	　	　	77	3787	3710"
+msgid "Hold on, Uncle Kaz!"
+msgstr ""
+
+msgctxt " 	　	　	60	3976	3916"
+msgid "A dream..."
+msgstr ""
+
+msgctxt " 	　	　	60	4124	4064"
+msgid "Am I dreaming?"
+msgstr ""
+
+msgctxt " 	　	　	60	4349	4289"
+msgid "You're not."
+msgstr ""
+
+msgctxt " 	　	　	99	4498	4399"
+msgid "I'm really here with you."
+msgstr ""
+

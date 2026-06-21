@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Solo karaoke's a blast!"
+msgstr ""
+
+msgctxt "272"
+msgid "Hehehe..."
+msgstr ""
+

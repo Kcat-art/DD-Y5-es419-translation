@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "*cough, cough*"
+msgstr ""
+
+msgctxt "232"
+msgid "I..."
+msgstr ""
+

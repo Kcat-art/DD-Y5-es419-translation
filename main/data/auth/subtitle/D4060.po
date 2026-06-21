@@ -1,0 +1,116 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		124	219	95"
+msgid "Looking good, Milky-chan.\\r\n"
+"Radiant as ever!"
+msgstr ""
+
+msgctxt " 	　	　	67	295	228"
+msgid "That's it!\\r\n"
+"Right there!"
+msgstr ""
+
+msgctxt " 	　	　	125	432	307"
+msgid "Come on, Ta-chan...\\r\n"
+"You don't need to flatter me."
+msgstr ""
+
+msgctxt " 	　	　	72	505	433"
+msgid "No one wants photos of an old woman."
+msgstr ""
+
+msgctxt " 	　	　	75	595	520"
+msgid "Can't we just use shots from my glory days?"
+msgstr ""
+
+msgctxt " 	　	　	123	722	599"
+msgid "No way! There was no end to the complaints\\r\n"
+"the last time we tried that."
+msgstr ""
+
+msgctxt " 	　	　	75	832	757"
+msgid "What? People didn't like it?"
+msgstr ""
+
+msgctxt " 	　	　	63	909	846"
+msgid "Oh, it was a nightmare."
+msgstr ""
+
+msgctxt " 	　	分	90	1002	912"
+msgid "Your clients really hounded us after that article."
+msgstr ""
+
+msgctxt " 	　	　	156	1159	1003"
+msgid "Wanted to know why we'd use that old\\r\n"
+"picture when the real thing's so much better."
+msgstr ""
+
+msgctxt " 	　	　	92	1252	1160"
+msgid "Okay, look back at the camera now."
+msgstr ""
+
+msgctxt " 	　	　	60	1322	1262"
+msgid "You liar."
+msgstr ""
+
+msgctxt " 	　	　	154	1505	1351"
+msgid "I say women are like a fine wine.\\r\n"
+"They only get better with age."
+msgstr ""
+
+msgctxt " 	　	　	92	1626	1534"
+msgid "Sure, I thought you were\\r\n"
+"gorgeous fifteen years ago."
+msgstr ""
+
+msgctxt " 	　	分	81	1714	1633"
+msgid "But it doesn't compare\\r\n"
+"to your beauty now, Milky-chan!"
+msgstr ""
+
+msgctxt " 	　	　	60	1800	1740"
+msgid "Ta-chan..."
+msgstr ""
+
+msgctxt " 	　	　	60	1917	1857"
+msgid "Thank you."
+msgstr ""
+
+msgctxt " 	　	　	60	1992	1932"
+msgid "I'm serious, you know."
+msgstr ""
+
+msgctxt " 	　	　	78	2075	1997"
+msgid "Not that. I mean for my brother."
+msgstr ""
+
+msgctxt " 	　	　	72	2209	2137"
+msgid "Oh, it was no biggie."
+msgstr ""
+
+msgctxt " 	　	分	60	2283	2223"
+msgid "Now then, Milky-chan."
+msgstr ""
+
+msgctxt " 	　	　	115	2415	2300"
+msgid "Let's get this off of you."
+msgstr ""
+
+msgctxt " 	　	　	93	2534	2441"
+msgid "Oh, that's so embarrassing! Sorry!"
+msgstr ""
+
+msgctxt " 	　	　	99	2839	2740"
+msgid "Should we... move on to the interview portion?"
+msgstr ""
+
+msgctxt " 	　	　	157	3009	2852"
+msgid "To show you how thankful I am, I'll give\\r\n"
+"you a little <Italic>extra</Italic> service today."
+msgstr ""
+
+msgctxt " 	　	　	62	3160	3098"
+msgid "Then let's hit the showers!"
+msgstr ""
+

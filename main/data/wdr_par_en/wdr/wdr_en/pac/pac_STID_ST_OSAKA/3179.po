@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1312"
+msgid "ACDEV0140"
+msgstr ""
+
+msgctxt "1316"
+msgid "F_NML_TLK_damage_kamae"
+msgstr ""
+

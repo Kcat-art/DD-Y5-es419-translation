@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "108"
+msgid "I have to go..."
+msgstr ""
+
+msgctxt "132"
+msgid "The gold stag..."
+msgstr ""
+

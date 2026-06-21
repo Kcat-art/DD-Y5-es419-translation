@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "104"
+msgid "Can't eat another bite..."
+msgstr ""
+
+msgctxt "128"
+msgid "It's seriously weird!"
+msgstr ""
+

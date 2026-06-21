@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "180"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "44_Haruka"
+msgid "(No. Not them.)"
+msgstr ""
+

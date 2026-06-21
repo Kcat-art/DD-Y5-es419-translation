@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "2708"
+msgid "Oh Suzuki-san."
+msgstr ""
+

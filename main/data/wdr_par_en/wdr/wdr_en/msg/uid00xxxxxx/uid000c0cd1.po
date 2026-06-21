@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "356"
+msgid "Pickup Artist"
+msgstr ""
+
+msgctxt "100_Pickup Artist"
+msgid "According to my calculations, the odds of picking up a girl today are... 32 percent!"
+msgstr ""
+

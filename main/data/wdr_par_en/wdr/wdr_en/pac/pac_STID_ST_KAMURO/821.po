@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "580"
+msgid "adv5_127/baba_0274"
+msgstr ""
+
+msgctxt "584"
+msgid "ACYAM0019"
+msgstr ""
+
+msgctxt "588"
+msgid "ACYAM0103"
+msgstr ""
+

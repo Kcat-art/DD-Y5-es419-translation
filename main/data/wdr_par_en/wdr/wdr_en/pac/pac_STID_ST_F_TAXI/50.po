@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "280"
+msgid "adv1_140/kiryu_1_140_170"
+msgstr ""
+

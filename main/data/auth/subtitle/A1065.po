@@ -1,0 +1,34 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	 	　	40	322	282"
+msgid "<Italic>Suzuki</Italic>"
+msgstr ""
+
+msgctxt "	 	　	37	375	348"
+msgid "<Italic>In</Italic>"
+msgstr ""
+
+msgctxt " 	60ｆ以下です		47	459	412"
+msgid "Here are my fares."
+msgstr ""
+
+msgctxt " 	 	　	77	537	460"
+msgid "Oh, Suzuki-san!\\r\n"
+"Good to see you."
+msgstr ""
+
+msgctxt " 	60ｆ以下です	　	49	689	640"
+msgid "Been waitin' for ya!"
+msgstr ""
+
+msgctxt " 	 	　	88	778	690"
+msgid "Nakajima, sir.\\r\n"
+"Good evening."
+msgstr ""
+
+msgctxt " 	 	　	115	918	803"
+msgid "Got somethin' to talk to you about.\\r\n"
+"Mind steppin' into my \"office\"?"
+msgstr ""
+

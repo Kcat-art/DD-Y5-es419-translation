@@ -1,0 +1,140 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		71	366	295"
+msgid "Well, this sure came outta the blue."
+msgstr ""
+
+msgctxt " 	　	分	116	483	367"
+msgid "Didn't think ya'd come\\r\n"
+"trackin' me down first, Kiryu-han."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	588	531"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt " 	　	　	101	690	589"
+msgid "Ya tellin' me you don't know?"
+msgstr ""
+
+msgctxt " 	　	　	132	839	707"
+msgid "We didn't come all this way\\r\n"
+"for a night on the town. Kiryu-han..."
+msgstr ""
+
+msgctxt " 	　	分	70	910	840"
+msgid "We're here to see you."
+msgstr ""
+
+msgctxt " 	　	　	61	995	934"
+msgid "Don't lie to me."
+msgstr ""
+
+msgctxt " 	　	　	92	1106	1014"
+msgid "Just tell me where Daigo is. Now."
+msgstr ""
+
+msgctxt " 	　	　	70	1189	1119"
+msgid "Huh? Ya don't know?"
+msgstr ""
+
+msgctxt " 	　	　	120	1321	1201"
+msgid "Then I reckon ya better find your\\r\n"
+"Tojo pals and ask 'em yourself."
+msgstr ""
+
+msgctxt " 	　	　	131	1479	1348"
+msgid "Don't play dumb. I know you're\\r\n"
+"the one who kidnapped Daigo."
+msgstr ""
+
+msgctxt " 	　	　	108	1629	1521"
+msgid "You're here to stop the Tojo from\\r\n"
+"swearing the oath with the Yamagasa Family."
+msgstr ""
+
+msgctxt " 	　	　	93	1790	1697"
+msgid "So the sixth chairman's seriously up n' disappeared?"
+msgstr ""
+
+msgctxt " 	　	　	121	1945	1824"
+msgid "I'd heard rumblings, but...\\r\n"
+"Guess it's really true."
+msgstr ""
+
+msgctxt " 	　	　	169	2189	2020"
+msgid "Just drop the act already.\\r\n"
+"I don't have time for your games."
+msgstr ""
+
+msgctxt " 	　	　	60	2274	2214"
+msgid "I get ya, I get ya."
+msgstr ""
+
+msgctxt " 	　	分	72	2350	2278"
+msgid "I'm seein' the full picture now."
+msgstr ""
+
+msgctxt " 	　	　	126	2503	2377"
+msgid "Kiryu-han. That's why ya\\r\n"
+"swung by here, huh?"
+msgstr ""
+
+msgctxt " 	　	　	132	2654	2522"
+msgid "'Cause ya think I went\\r\n"
+"n' made off with Dojima?"
+msgstr ""
+
+msgctxt " 	　	　	60	2726	2666"
+msgid "No reason to believe otherwise."
+msgstr ""
+
+msgctxt " 	　	　	146	2928	2782"
+msgid "Sounds to me like you're not\\r\n"
+"interested in hearin' me out, then."
+msgstr ""
+
+msgctxt " 	　	　	60	3052	2992"
+msgid "Not really, no."
+msgstr ""
+
+msgctxt " 	　	　	60	3184	3124"
+msgid "If looks could kill."
+msgstr ""
+
+msgctxt " 	　	　	136	3333	3197"
+msgid "Try hidin' it all ya want,\\r\n"
+"but I see the real you."
+msgstr ""
+
+msgctxt " 	　	　	124	3475	3351"
+msgid "That dragon on your back's\\r\n"
+"got a spark o' life in it yet."
+msgstr ""
+
+msgctxt " 	　	　	60	3551	3491"
+msgid "I've heard enough."
+msgstr ""
+
+msgctxt " 	　	　	60	3670	3610"
+msgid "It's time to settle this."
+msgstr ""
+
+msgctxt " 	　	　	60	4062	4002"
+msgid "Little pop quiz, first."
+msgstr ""
+
+msgctxt " 	　	　	125	4194	4069"
+msgid "Gotta see if the Dragon of Dojima\\r\n"
+"lives up to the legends."
+msgstr ""
+
+msgctxt " 	　	　	69	4352	4283"
+msgid "Don't pull any punches, boys!"
+msgstr ""
+
+msgctxt " 	　	分	60	4416	4356"
+msgid "He's not leavin' alive!"
+msgstr ""
+

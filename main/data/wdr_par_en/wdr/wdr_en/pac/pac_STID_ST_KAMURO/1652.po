@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "I'm so full!"
+msgstr ""
+
+msgctxt "256"
+msgid "Beef rice..."
+msgstr ""
+

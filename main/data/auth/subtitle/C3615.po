@@ -1,0 +1,139 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "									 	 		60	93	33"
+msgid "Hey, wait up."
+msgstr ""
+
+msgctxt "									 	 	　	98	264	166"
+msgid "You're just gonna leave without saying goodbye?"
+msgstr ""
+
+msgctxt "									 	 	　	60	330	270"
+msgid "What do you two want?"
+msgstr ""
+
+msgctxt "									 	 	　	100	477	377"
+msgid "We just watched a playback of your performance."
+msgstr ""
+
+msgctxt "									 	 	　	132	618	486"
+msgid "We couldn't just let you leave\\r\n"
+"without telling you this first..."
+msgstr ""
+
+msgctxt "									 	60ｆ以下です	　	52	671	619"
+msgid "Just what are you up to?"
+msgstr ""
+
+msgctxt "										 	　	88	760	672"
+msgid "If you're here to kick a girl while she's down,\\r\n"
+"you better just turn and walk away right now."
+msgstr ""
+
+msgctxt "									 	 	　	100	863	763"
+msgid "That's not it. We just have something to say."
+msgstr ""
+
+msgctxt "									 	 	　	159	1109	950"
+msgid "As much as I hate to admit it,\\r\n"
+"your performance really moved us."
+msgstr ""
+
+msgctxt "									 	 	　	60	1200	1140"
+msgid "It was incredible."
+msgstr ""
+
+msgctxt "									 	 	　	104	1326	1222"
+msgid "It wasn't easy for us to come this far, either."
+msgstr ""
+
+msgctxt "										60ｆ以下です	　	50	1385	1335"
+msgid "So we understand."
+msgstr ""
+
+msgctxt "									 	 	　	159	1545	1386"
+msgid "You must have practiced a lot\\r\n"
+"to be able to perform like that."
+msgstr ""
+
+msgctxt "									 	 	　	87	1643	1556"
+msgid "It takes guts, no doubt about it."
+msgstr ""
+
+msgctxt "									 	60ｆ以下です	　	56	1719	1663"
+msgid "Girls..."
+msgstr ""
+
+msgctxt "									 	 	　	70	1790	1720"
+msgid "That's all. See ya."
+msgstr ""
+
+msgctxt "									 	 	　	60	1952	1892"
+msgid "Thank you both for saying that!"
+msgstr ""
+
+msgctxt "									 	 	　	171	2210	2039"
+msgid "I don't think I could have given it my all\\r\n"
+"if I wasn't facing off against you two."
+msgstr ""
+
+msgctxt "									 	 	　	89	2332	2243"
+msgid "So... So..."
+msgstr ""
+
+msgctxt "									 	 	　	60	2438	2378"
+msgid "You really are clueless."
+msgstr ""
+
+msgctxt "									 	 	　	60	2563	2503"
+msgid "Right, Azusa?"
+msgstr ""
+
+msgctxt "									 	 	　	134	2735	2601"
+msgid "You know, we don't think this is the\\r\n"
+"end of the competition or anything."
+msgstr ""
+
+msgctxt "									 	 	　	83	2868	2785"
+msgid "The real thing's just getting started."
+msgstr ""
+
+msgctxt "									 	 	　	141	3040	2899"
+msgid "This is the just the first stepping stone."
+msgstr ""
+
+msgctxt "									 	 	　	60	3131	3071"
+msgid "I think so, too."
+msgstr ""
+
+msgctxt "									 	 	　	67	3385	3318"
+msgid "Anyway, we should get going."
+msgstr ""
+
+msgctxt "									 	60ｆ以下です	　	50	3455	3405"
+msgid "See you around."
+msgstr ""
+
+msgctxt "									 	 	　	67	3523	3456"
+msgid "Yeah. See you!"
+msgstr ""
+
+msgctxt "									 	 	　	114	3732	3618"
+msgid "They're better kids than I thought they were.\\r\n"
+"Gotta say, they've really changed my opinion."
+msgstr ""
+
+msgctxt "									 	60ｆ以下です	　	57	3821	3764"
+msgid "Mine too."
+msgstr ""
+
+msgctxt "									 	 	　	142	3964	3822"
+msgid "We'll have a party when we get\\r\n"
+"back to the office. Sound good?"
+msgstr ""
+
+msgctxt "									 	 	テキスト修正	60	4036	3976"
+msgid "Yes, ma'am!"
+msgstr ""
+

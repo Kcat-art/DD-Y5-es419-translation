@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "256"
+msgid "Player"
+msgstr ""
+
+msgctxt "60_Player"
+msgid "(Been here already. Let's try another place.)"
+msgstr ""
+

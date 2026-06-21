@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "140"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "2588"
+msgid "M_NML_TLK_btl_after01_d_lp"
+msgstr ""
+

@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "76"
+msgid "You got the <Color:8>first floor office key<Color:Default>."
+msgstr ""
+
+msgctxt "668"
+msgid "dummy"
+msgstr ""
+
+msgctxt "672"
+msgid "voice_kind::eID_osk_m_gang_l|voice::eID_btllong_enc_031_ambush"
+msgstr ""
+
+msgctxt "676"
+msgid "voice_kind::eID_osk_m_gang_m|voice::eID_btllong_enc_030_ambush"
+msgstr ""
+
+msgctxt "680"
+msgid "voice_kind::eID_osk_m_ippan30s|voice::eID_btllong_enc_030_ambush"
+msgstr ""
+
+msgctxt "684"
+msgid "voice_kind::eID_osk_m_yakuza_big|voice::eID_btllong_enc_031_ambush"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "328"
+msgid "Waiting Woman"
+msgstr ""
+
+msgctxt "72_Waiting Woman"
+msgid "Why is that girl always late by half an hour? Gotta get that girl to leave thirty minutes earlier..."
+msgstr ""
+

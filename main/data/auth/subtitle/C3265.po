@@ -1,0 +1,97 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60ｆ以下です	60ｆ以下です		41	310	269"
+msgid "It worked."
+msgstr ""
+
+msgctxt " 	　	　	60	371	311"
+msgid "Who would've thought?"
+msgstr ""
+
+msgctxt " 	　	　	75	598	523"
+msgid "A letter and the account book."
+msgstr ""
+
+msgctxt " 	　	　	60	683	623"
+msgid "So this is where it was."
+msgstr ""
+
+msgctxt " 	　	　	60	1311	1251"
+msgid "Park-san..."
+msgstr ""
+
+msgctxt " 	　	　	60	1559	1499"
+msgid "Whoops."
+msgstr ""
+
+msgctxt " 	　	　	63	1663	1600"
+msgid "It's a note from the day she died."
+msgstr ""
+
+msgctxt " 	　	　	123	1822	1699"
+msgid "A list of instructions.\\r\n"
+"Things she wanted done while she was gone."
+msgstr ""
+
+msgctxt " 	　	　	108	2001	1893"
+msgid "I think that's the one.\\r\n"
+"I saw her writing it to Horie-san."
+msgstr ""
+
+msgctxt " 	　	　	90	2100	2010"
+msgid "Meaning she wrote it with her left hand."
+msgstr ""
+
+msgctxt " 	　	　	136	2918	2782"
+msgid "They're not even close. Doesn't take\\r\n"
+"a professional to see that."
+msgstr ""
+
+msgctxt " 	　	　	60	2994	2934"
+msgid "So then..."
+msgstr ""
+
+msgctxt " 	　	　	125	3132	3007"
+msgid "Yeah. The suicide note looks just like\\r\n"
+"handwriting from her right hand."
+msgstr ""
+
+msgctxt " 	　	　	138	3290	3152"
+msgid "In other words, unless her injury\\r\n"
+"magically healed overnight..."
+msgstr ""
+
+msgctxt " 	　	分	74	3376	3302"
+msgid "This thing is a fake."
+msgstr ""
+
+msgctxt " 	　	　	60	3557	3497"
+msgid "Park-san didn't kill herself."
+msgstr ""
+
+msgctxt " 	　	分	60	3633	3573"
+msgid "She was murdered."
+msgstr ""
+
+msgctxt " 	　	　	95	3738	3643"
+msgid "And all this is just an elaborate cover up."
+msgstr ""
+
+msgctxt " 	　	　	60	3849	3789"
+msgid "I knew it."
+msgstr ""
+
+msgctxt " 	　	　	60	4028	3968"
+msgid "What was that!?"
+msgstr ""
+
+msgctxt " 	　	　	60	4365	4305"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt " 	　	　	91	4554	4463"
+msgid "It's a person!\\r\n"
+"Someone fell off the roof!"
+msgstr ""
+

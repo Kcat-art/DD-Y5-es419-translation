@@ -1,0 +1,44 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	60ｆ以下です		45	371	326"
+msgid "I'm beat!"
+msgstr ""
+
+msgctxt " 	 	　	137	509	372"
+msgid "Your first full concert\\r\n"
+"really takes it out of you..."
+msgstr ""
+
+msgctxt " 	 	　	60	595	535"
+msgid "You okay, Haruka?"
+msgstr ""
+
+msgctxt " 	 	　	75	843	768"
+msgid "Whoa, Haruka, what happened!?"
+msgstr ""
+
+msgctxt " 	 	　	61	937	876"
+msgid "That looks pretty bad!"
+msgstr ""
+
+msgctxt " 	60ｆ以下です	　	32	970	938"
+msgid "I'm fine."
+msgstr ""
+
+msgctxt " 	 	　	55	1026	971"
+msgid "That's the opposite of fine!"
+msgstr ""
+
+msgctxt "		　	59	1086	1027"
+msgid "Hang on, I'll go get someone for you."
+msgstr ""
+
+msgctxt " 	60ｆ以下です	　	37	1124	1087"
+msgid "No, really, I'm..."
+msgstr ""
+
+msgctxt " 	 	　	60	1185	1125"
+msgid "You just sit tight for a sec!"
+msgstr ""
+

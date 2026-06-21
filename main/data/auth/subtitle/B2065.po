@@ -1,0 +1,121 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		92	293	201"
+msgid "Saejima-aniki! Aniki!"
+msgstr ""
+
+msgctxt " 	　	　	78	449	371"
+msgid "The hell happened to him?"
+msgstr ""
+
+msgctxt " 	　		85	551	466"
+msgid "Must have been Kugihara and his crew."
+msgstr ""
+
+msgctxt " 	　	　	175	742	567"
+msgid "Kugihara? You mean that bald-headed creep\\r\n"
+"they tossed in here six months ago?"
+msgstr ""
+
+msgctxt " 	　	OK	217	980	763"
+msgid "Not sure why, but he's had his sights set\\r\n"
+"on Saejima for just about three months now."
+msgstr ""
+
+msgctxt " 	　	　	60	1063	1003"
+msgid "Once, sometimes twice a week..."
+msgstr ""
+
+msgctxt " 	　	　	142	1220	1078"
+msgid "They'll call him over during rec time.\\r\n"
+"Thump the living daylights out of him."
+msgstr ""
+
+msgctxt " 	　	　	142	1399	1257"
+msgid "How'd you know all this\\r\n"
+"was going down, Oshima-san?"
+msgstr ""
+
+msgctxt " 	　	OK	187	1633	1446"
+msgid "One time, Saejima asked me for painkillers.\\r\n"
+"So I had him fess up."
+msgstr ""
+
+msgctxt " 	　	　	75	1730	1655"
+msgid "And you didn't think to tell us?"
+msgstr ""
+
+msgctxt " 	　	　	66	1836	1770"
+msgid "He asked me not to."
+msgstr ""
+
+msgctxt " 	　	　	116	2000	1884"
+msgid "More than anything,\\r\n"
+"he wanted to keep this a secret."
+msgstr ""
+
+msgctxt " 	　	　	168	2215	2047"
+msgid "Dammit! We could've kept him from Kugihara\\r\n"
+"no problem if he wasn't so closed off!"
+msgstr ""
+
+msgctxt " 	　	　	161	2399	2238"
+msgid "Not a chance. We would've just given\\r\n"
+"Kugihara's wolves more meat to feed on."
+msgstr ""
+
+msgctxt " 	　	　	146	2605	2459"
+msgid "Besides, Saejima doesn't want to fight back.\\r\n"
+"Hasn't even raised a finger."
+msgstr ""
+
+msgctxt " 	　	　	150	2788	2638"
+msgid "If he felt like it, he could\\r\n"
+"grind thugs like that into paste."
+msgstr ""
+
+msgctxt " 	　	　	137	2948	2811"
+msgid "Then why won't he do it?\\r\n"
+"There's gotta be a reason!"
+msgstr ""
+
+msgctxt " 	　	　	60	3053	2993"
+msgid "It's..."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	54	3232	3178"
+msgid "Kosaka!"
+msgstr ""
+
+msgctxt " 	　	　	112	3345	3233"
+msgid "I mean, Deputy Warden, sir!\\r\n"
+"This was just a little accident."
+msgstr ""
+
+msgctxt " 	　	分	60	3418	3358"
+msgid "Nothing you need to be involved in."
+msgstr ""
+
+msgctxt " 	　		60	3835	3775"
+msgid "Take him away."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	49	3996	3947"
+msgid "Aniki!"
+msgstr ""
+
+msgctxt " 	　	　	88	4085	3997"
+msgid "Where are you taking him?\\r\n"
+"You can't just go and⑬"
+msgstr ""
+
+msgctxt " 	　	　	60	4146	4086"
+msgid "Himura!"
+msgstr ""
+
+msgctxt " 	　	分	84	4241	4157"
+msgid "Deputy Warden, sir!\\r\n"
+"Was this really necessary!?"
+msgstr ""
+

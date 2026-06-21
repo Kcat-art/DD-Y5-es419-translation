@@ -1,0 +1,439 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid "/‐"
+msgstr ""
+
+msgctxt "16"
+msgid "/‐"
+msgstr ""
+
+msgctxt "20"
+msgid "/‐"
+msgstr ""
+
+msgctxt "24"
+msgid "/‐"
+msgstr ""
+
+msgctxt "28"
+msgid "/‐"
+msgstr ""
+
+msgctxt "32"
+msgid "Owned"
+msgstr ""
+
+msgctxt "36"
+msgid "Owned"
+msgstr ""
+
+msgctxt "40"
+msgid "Owned"
+msgstr ""
+
+msgctxt "44"
+msgid "Owned"
+msgstr ""
+
+msgctxt "48"
+msgid "Owned"
+msgstr ""
+
+msgctxt "52"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "60"
+msgid "(Don't got anythin' in mind.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(Ain't got anything selected)  "
+msgstr ""
+
+msgctxt "68"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "72"
+msgid "(I don't have enough money for that.)"
+msgstr ""
+
+msgctxt "76"
+msgid "(Don't have the cash. How am I so broke?)"
+msgstr ""
+
+msgctxt "80"
+msgid "(Don't got the cash for that.)"
+msgstr ""
+
+msgctxt "84"
+msgid "(Looks like I'm a little short.)  "
+msgstr ""
+
+msgctxt "88"
+msgid "(Looks like I don't have enough.)"
+msgstr ""
+
+msgctxt "92"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "96"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "100"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "104"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "108"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "112"
+msgid "(I'm not hungry enough to eat right now.)"
+msgstr ""
+
+msgctxt "116"
+msgid "(I couldn't eat any more if I wanted to.)"
+msgstr ""
+
+msgctxt "120"
+msgid "(Couldn't shove down another bite.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(Can't eat anymore.)  "
+msgstr ""
+
+msgctxt "128"
+msgid "(Phew, I'm stuffed!)"
+msgstr ""
+
+msgctxt "132"
+msgid "(I can't drink another drop.)"
+msgstr ""
+
+msgctxt "136"
+msgid "(Probably shouldn't. I'm seeing double as is."
+msgstr ""
+
+msgctxt "140"
+msgid "(Gonna explode if I drink any more.)"
+msgstr ""
+
+msgctxt "144"
+msgid "(Can't drink anymore.)  "
+msgstr ""
+
+msgctxt "148"
+msgid "(I'm not old enough to drink.)"
+msgstr ""
+
+msgctxt "152"
+msgid "－"
+msgstr ""
+
+msgctxt "156"
+msgid "－"
+msgstr ""
+
+msgctxt "160"
+msgid "－"
+msgstr ""
+
+msgctxt "164"
+msgid "－"
+msgstr ""
+
+msgctxt "168"
+msgid "－"
+msgstr ""
+
+msgctxt "172"
+msgid "Order"
+msgstr ""
+
+msgctxt "176"
+msgid "Order"
+msgstr ""
+
+msgctxt "180"
+msgid "Order"
+msgstr ""
+
+msgctxt "184"
+msgid "Order"
+msgstr ""
+
+msgctxt "188"
+msgid "Order"
+msgstr ""
+
+msgctxt "192"
+msgid "(That's good.)"
+msgstr ""
+
+msgctxt "196"
+msgid "(Tasty as anything.)"
+msgstr ""
+
+msgctxt "200"
+msgid "(Tastes pretty dang good.)"
+msgstr ""
+
+msgctxt "204"
+msgid "(This makes fine eatin'.)  "
+msgstr ""
+
+msgctxt "208"
+msgid "(Wow, this is great!)"
+msgstr ""
+
+msgctxt "212"
+msgid "(I could eat that every day.)"
+msgstr ""
+
+msgctxt "216"
+msgid "(Decent.)"
+msgstr ""
+
+msgctxt "220"
+msgid "(Ain't half bad.)"
+msgstr ""
+
+msgctxt "224"
+msgid "(Mmm, that ain't bad.)  "
+msgstr ""
+
+msgctxt "228"
+msgid "(This is delicious)"
+msgstr ""
+
+msgctxt "232"
+msgid "(Wow, I love that.)"
+msgstr ""
+
+msgctxt "236"
+msgid "(Really hits the spot.)"
+msgstr ""
+
+msgctxt "240"
+msgid "(Yeah, this is the life.)"
+msgstr ""
+
+msgctxt "244"
+msgid "(Just how I like it.)  "
+msgstr ""
+
+msgctxt "248"
+msgid "(Mmmm!)"
+msgstr ""
+
+msgctxt "252"
+msgid "(That's delicious.)"
+msgstr ""
+
+msgctxt "256"
+msgid "(Loving this flavor.)"
+msgstr ""
+
+msgctxt "260"
+msgid "(I'm lovin' this.)"
+msgstr ""
+
+msgctxt "264"
+msgid "(Love the flavor.)  "
+msgstr ""
+
+msgctxt "268"
+msgid "(I've never tasted something this good!)"
+msgstr ""
+
+msgctxt "272"
+msgid "(Huh, that's pretty good.)"
+msgstr ""
+
+msgctxt "276"
+msgid "(I can't get enough of that.)"
+msgstr ""
+
+msgctxt "280"
+msgid "(Mm, likin' the taste of that.)"
+msgstr ""
+
+msgctxt "284"
+msgid "(I could get used to this.)  "
+msgstr ""
+
+msgctxt "288"
+msgid "(Mmm, that was amazing.)"
+msgstr ""
+
+msgctxt "292"
+msgid "(That's great.)"
+msgstr ""
+
+msgctxt "296"
+msgid "(Think I found a new favorite food.)"
+msgstr ""
+
+msgctxt "300"
+msgid "(Pretty good.)"
+msgstr ""
+
+msgctxt "304"
+msgid "(Pretty damn good.)"
+msgstr ""
+
+msgctxt "308"
+msgid "(I didn't realize food could taste this good.)"
+msgstr ""
+
+msgctxt "312"
+msgid "(Pretty tasty.)"
+msgstr ""
+
+msgctxt "316"
+msgid "(Yeah, that's the ticket.)"
+msgstr ""
+
+msgctxt "320"
+msgid "(Ain't too bad.)"
+msgstr ""
+
+msgctxt "324"
+msgid "(Not bad...)"
+msgstr ""
+
+msgctxt "328"
+msgid "(Wow, this is the best!)"
+msgstr ""
+
+msgctxt "332"
+msgid "(I really like that flavor.)"
+msgstr ""
+
+msgctxt "336"
+msgid "(Tastes incredible.)"
+msgstr ""
+
+msgctxt "340"
+msgid "(Likin' this.)"
+msgstr ""
+
+msgctxt "344"
+msgid "(This is pretty good.)"
+msgstr ""
+
+msgctxt "348"
+msgid "(Yum! This flavor is incredible!)"
+msgstr ""
+
+msgctxt "352"
+msgid "(That's even better than I was expecting.)"
+msgstr ""
+
+msgctxt "356"
+msgid "(Yeah... That's good.)"
+msgstr ""
+
+msgctxt "360"
+msgid "(Yeah, that's real good.)"
+msgstr ""
+
+msgctxt "364"
+msgid "(Hmm, not bad.)"
+msgstr ""
+
+msgctxt "368"
+msgid "(That flavor is fascinating.)"
+msgstr ""
+
+msgctxt "372"
+msgid "(Heh, I knew this would be good.)"
+msgstr ""
+
+msgctxt "376"
+msgid "(Mm, that's good.)"
+msgstr ""
+
+msgctxt "380"
+msgid "(Could get used to this.)"
+msgstr ""
+
+msgctxt "384"
+msgid "(This isn't bad at all.)  "
+msgstr ""
+
+msgctxt "388"
+msgid "(I could get used to this flavor.)"
+msgstr ""
+
+msgctxt "392"
+msgid "(Not sure I'd eat that again...)"
+msgstr ""
+
+msgctxt "396"
+msgid "(I'd rather eat a week-old kalbi bento...)"
+msgstr ""
+
+msgctxt "400"
+msgid "(Ugh... Ain't the greatest.)"
+msgstr ""
+
+msgctxt "404"
+msgid "(Hmm... This isn't too great.)"
+msgstr ""
+
+msgctxt "408"
+msgid "(This is... Hm...)"
+msgstr ""
+
+msgctxt "412"
+msgid "sitchr"
+msgstr ""
+
+msgctxt "524"
+msgid "Beautifully translucent and deliciously seasoned with spices that perfectly match our Japanese dashi stock."
+msgstr ""
+
+msgctxt "556"
+msgid "A generous portion of Hokkaido vegetables are cut thick and added to our house-special curry soup."
+msgstr ""
+
+msgctxt "588"
+msgid "This extravagant menu item allows you to enjoy both chicken and vegetable curry soup if you can't decide which one to order."
+msgstr ""
+
+msgctxt "620"
+msgid "Pakistani-style curry that adds plenty of fruits, vegetables, and spices to a slowly sautéed onion base."
+msgstr ""
+
+msgctxt "652"
+msgid "This limited-time only menu item features local seafood in our chicken and vegetable curry soup. Taste the goodness of Hokkaido!"
+msgstr ""
+
+msgctxt "684"
+msgid "If you can't decide between curry and curry soup, why not have both? This well-priced set also includes salad and dessert."
+msgstr ""
+
+msgctxt "716"
+msgid "What drink goes better with curry than a lassi? Enjoy the natural flavor of yogurt sweetened with honey."
+msgstr ""
+
+msgctxt "748"
+msgid "This lassi features honeyberries, a special product of Hokkaido. They are packed with vitamins that your body needs."
+msgstr ""
+

@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1360"
+msgid "WEECP0078"
+msgstr ""
+
+msgctxt "1364"
+msgid "ACDEV0196"
+msgstr ""
+
+msgctxt "1368"
+msgid "SC12_HAL_TLK_sign_kamae"
+msgstr ""
+

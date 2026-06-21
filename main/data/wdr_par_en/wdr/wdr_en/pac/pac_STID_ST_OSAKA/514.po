@@ -1,0 +1,20 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "124"
+msgid "\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+"　"
+msgstr ""
+
+msgctxt "1752"
+msgid "adv3_440/haruka_3_440_030"
+msgstr ""
+
+msgctxt "1756"
+msgid "adv3_437_1a/haruka_3_437_010"
+msgstr ""
+

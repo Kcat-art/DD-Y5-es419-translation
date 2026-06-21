@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "320"
+msgid "Daydreaming Man"
+msgstr ""
+
+msgctxt "72_Daydreaming Man"
+msgid "I wish I had a winning lottery ticket. I better buy some first, though, huh?"
+msgstr ""
+

@@ -1,0 +1,119 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		148	1305	1157"
+msgid "Well? How'd your first bite o' death taste?"
+msgstr ""
+
+msgctxt " 	　	　	62	1531	1469"
+msgid "Not the greatest."
+msgstr ""
+
+msgctxt " 	　	　	60	2475	2415"
+msgid "You're not going to ask?"
+msgstr ""
+
+msgctxt " 	　	　	144	2730	2586"
+msgid "About who dragged you into all this.\\r\n"
+"About my boss."
+msgstr ""
+
+msgctxt " 	　	　	60	3161	3101"
+msgid "Don't give a damn."
+msgstr ""
+
+msgctxt " 	　	　	149	3393	3244"
+msgid "Knowin' the truth... ain't gonna\\r\n"
+"bring Majima back."
+msgstr ""
+
+msgctxt " 	　	　	156	3583	3427"
+msgid "'Sides, I got this feelin'\\r\n"
+"when I met Kitakata."
+msgstr ""
+
+msgctxt " 	　	　	60	3673	3613"
+msgid "A feeling? What is it?"
+msgstr ""
+
+msgctxt " 	　	　	63	3829	3766"
+msgid "My bro's still alive."
+msgstr ""
+
+msgctxt " 	　	　	97	4079	3982"
+msgid "Or maybe I'm just clingin'\\r\n"
+"to the hope that he is."
+msgstr ""
+
+msgctxt " 	　	　	60	4521	4461"
+msgid "Saejima-aniki."
+msgstr ""
+
+msgctxt " 	　	分	60	4594	4534"
+msgid "I'm in no position to ask this..."
+msgstr ""
+
+msgctxt " 	　	　	96	4707	4611"
+msgid "But please, let me go for now."
+msgstr ""
+
+msgctxt " 	　	　	160	5307	5147"
+msgid "If I let the truth slip here,\\r\n"
+"I'm as good as dead."
+msgstr ""
+
+msgctxt " 	　	　	111	5464	5353"
+msgid "But... I'm not ready to die."
+msgstr ""
+
+msgctxt " 	　	　	96	5635	5539"
+msgid "Not till I achieve my dream."
+msgstr ""
+
+msgctxt " 	　	　	60	5760	5700"
+msgid "Good."
+msgstr ""
+
+msgctxt " 	　	　	119	5886	5767"
+msgid "And once I reach the end of that path..."
+msgstr ""
+
+msgctxt " 	　	分	157	6056	5899"
+msgid "I'll be back. We'll see each other\\r\n"
+"again, Saejima-aniki. I promise."
+msgstr ""
+
+msgctxt " 	　	　	160	6236	6076"
+msgid "Maybe then, we can finally swear the oath for real."
+msgstr ""
+
+msgctxt " 	　	　	103	6445	6342"
+msgid "Yeah. Whenever you're ready."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	48	6520	6472"
+msgid "I'll be waitin'."
+msgstr ""
+
+msgctxt " 	　	　	60	6581	6521"
+msgid "Right."
+msgstr ""
+
+msgctxt " 	　	　	60	7221	7161"
+msgid "Not so fast."
+msgstr ""
+
+msgctxt " 	　	　	60	7335	7275"
+msgid "Taiga Saejima."
+msgstr ""
+
+msgctxt " 	　	　	132	7495	7363"
+msgid "You're under arrest for aggravated escape\\r\n"
+"and unlawful possession of a firearm."
+msgstr ""
+
+msgctxt " 	　	　	120	7836	7716"
+msgid "'Bout time, too. Been wanting\\r\n"
+"to talk to you for a while."
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "72"
+msgid "What are you sayin'?"
+msgstr ""
+
+msgctxt "256"
+msgid "Summer's the best."
+msgstr ""
+

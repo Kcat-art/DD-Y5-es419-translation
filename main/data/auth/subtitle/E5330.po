@@ -1,0 +1,210 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	1201	1141"
+msgid "Run!"
+msgstr ""
+
+msgctxt " 	　	　	60	2684	2624"
+msgid "What just happened!?"
+msgstr ""
+
+msgctxt " 	　	　	60	2988	2928"
+msgid "The hell is this!?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	51	3057	3006"
+msgid "What is it?"
+msgstr ""
+
+msgctxt " 	　	　	61	3119	3058"
+msgid "This guy's sigil."
+msgstr ""
+
+msgctxt " 	　	　	60	3191	3131"
+msgid "It's the Majima Family."
+msgstr ""
+
+msgctxt " 	　	　	60	3311	3251"
+msgid "What?"
+msgstr ""
+
+msgctxt " 	　	　	67	3542	3475"
+msgid "I don't get it..."
+msgstr ""
+
+msgctxt " 	　	　	60	3638	3578"
+msgid "I think I do."
+msgstr ""
+
+msgctxt " 	　	　	124	3827	3703"
+msgid "Taking out Kiryu-san and\\r\n"
+"Saejima-san isn't the only goal."
+msgstr ""
+
+msgctxt " 	　	　	140	3985	3845"
+msgid "They're trying to drive the Majima Family\\r\n"
+"and the whole Tojo Clan out of town!"
+msgstr ""
+
+msgctxt " 	　	　	73	4105	4032"
+msgid "The Majima Family and the Tojo Clan..."
+msgstr ""
+
+msgctxt " 	　	　	60	4175	4115"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt " 	　	　	125	4313	4188"
+msgid "They're trying to make this look\\r\n"
+"like the Majima Family's work."
+msgstr ""
+
+msgctxt " 	　	　	76	4416	4340"
+msgid "That's why they took Majima hostage."
+msgstr ""
+
+msgctxt " 	　	　	159	4626	4467"
+msgid "Now the Majima Family looks like they\\r\n"
+"resorted to violence to rescue their patriarch."
+msgstr ""
+
+msgctxt " 	　	　	116	5431	5315"
+msgid "What's our move? Majima-san and\\r\n"
+"Haruka-chan are in danger."
+msgstr ""
+
+msgctxt " 	　	　	93	5525	5432"
+msgid "Hell, the whole town's at risk!"
+msgstr ""
+
+msgctxt " 	　	　	74	5612	5538"
+msgid "Taking them on here would\\r\n"
+"be playing right into their hands."
+msgstr ""
+
+msgctxt " 	　	　	65	5740	5675"
+msgid "Not much choice but to split up."
+msgstr ""
+
+msgctxt " 	　	　	60	5846	5786"
+msgid "Then I got a request."
+msgstr ""
+
+msgctxt " 	　	　	84	5962	5878"
+msgid "Lemme go after Majima."
+msgstr ""
+
+msgctxt " 	　	　	60	6048	5988"
+msgid "Saejima-san..."
+msgstr ""
+
+msgctxt " 	　	　	101	6165	6064"
+msgid "Now that I know my bro's alive..."
+msgstr ""
+
+msgctxt " 	　	　	89	6278	6189"
+msgid "I'm gonna go punch him in the face."
+msgstr ""
+
+msgctxt " 	　	　	75	6405	6330"
+msgid "What about Haruka-chan?"
+msgstr ""
+
+msgctxt " 	　	　	98	6580	6482"
+msgid "I'll handle it. I think that's the play."
+msgstr ""
+
+msgctxt " 	　	　	60	6664	6604"
+msgid "You?"
+msgstr ""
+
+msgctxt " 	　	　	101	6769	6668"
+msgid "Yeah. Kiryu-san would stick\\r\n"
+"out like a sore thumb."
+msgstr ""
+
+msgctxt " 	　	　	162	6936	6774"
+msgid "I know the layout of a stadium,\\r\n"
+"and the bad guys won't recognize me."
+msgstr ""
+
+msgctxt " 	　	　	100	7055	6955"
+msgid "But one wrong step, and you could end up dead."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	50	7145	7095"
+msgid "I can't let you go alone."
+msgstr ""
+
+msgctxt " 	　	　	82	7228	7146"
+msgid "Didn't you just say we don't have much choice!?"
+msgstr ""
+
+msgctxt " 	　	　	60	7305	7245"
+msgid "Shinada..."
+msgstr ""
+
+msgctxt " 	　	　	142	7455	7313"
+msgid "I owe it to Dojima-kun for giving my dream back."
+msgstr ""
+
+msgctxt " 	　	　	79	7548	7469"
+msgid "If I hadn't met Sawada at Koshien..."
+msgstr ""
+
+msgctxt " 	　	分	102	7660	7558"
+msgid "My baseball days would have\\r\n"
+"ended twenty years ago."
+msgstr ""
+
+msgctxt " 	　	　	116	7786	7670"
+msgid "But Dojima-kun protected my dream\\r\n"
+"like it was his own."
+msgstr ""
+
+msgctxt " 	　	分	140	7944	7804"
+msgid "So now it's my turn to protect\\r\n"
+"Daigo Dojima's dream!"
+msgstr ""
+
+msgctxt " 	　	　	127	8300	8173"
+msgid "Let me handle it. I'll make sure\\r\n"
+"Haruka-chan comes to no harm."
+msgstr ""
+
+msgctxt " 	　	　	173	8480	8307"
+msgid "So Kiryu-san, Akiyama-san, it's up to you to protect\\r\n"
+"the town Dojima-kun put his life on the line for."
+msgstr ""
+
+msgctxt " 	　	　	92	8579	8487"
+msgid "You've gotta save the Tojo Clan."
+msgstr ""
+
+msgctxt " 	　	　	60	8668	8608"
+msgid "Please."
+msgstr ""
+
+msgctxt " 	　	　	60	8751	8691"
+msgid "We will."
+msgstr ""
+
+msgctxt " 	　	　	112	9104	8992"
+msgid "Saejima, Shinada.\\r\n"
+"Akiyama and I will hold the line here."
+msgstr ""
+
+msgctxt " 	　	　	109	9220	9111"
+msgid "You two can get where you need\\r\n"
+"to go through the sewer tunnels."
+msgstr ""
+
+msgctxt " 	　	　	60	9319	9259"
+msgid "Got it."
+msgstr ""
+
+msgctxt " 	　	　	60	9494	9434"
+msgid "Let's do this."
+msgstr ""
+

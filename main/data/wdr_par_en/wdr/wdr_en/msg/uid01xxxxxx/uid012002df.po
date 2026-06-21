@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "468"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "72_Shinada"
+msgid "(Huh... What's this email about? Did they send it to the wrong person?)"
+msgstr ""
+
+msgctxt "84_Shinada"
+msgid "(I guess I'll look into it when I have time.)"
+msgstr ""
+

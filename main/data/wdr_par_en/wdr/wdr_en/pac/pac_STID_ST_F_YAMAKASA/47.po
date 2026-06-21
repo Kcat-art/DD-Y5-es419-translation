@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Hold on! We have to take care of these guys!"
+msgstr ""
+
+msgctxt "404"
+msgid "Morinaga"
+msgstr ""
+

@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "664"
+msgid "P_SIN_sitsofa"
+msgstr ""
+
+msgctxt "668"
+msgid "P_SIN_TLK_sitsofa_kamae"
+msgstr ""
+
+msgctxt "672"
+msgid "M_NML_TLK_sitsofa_kamae"
+msgstr ""
+

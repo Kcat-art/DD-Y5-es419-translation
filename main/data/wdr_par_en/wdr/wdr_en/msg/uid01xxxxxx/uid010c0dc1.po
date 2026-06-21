@@ -1,0 +1,16 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "396"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "76_Saejima"
+msgid "(I should follow Baba and head to the hideout he got for me.)\\r\n"
+"　 "
+msgstr ""
+
+msgctxt "88_Saejima"
+msgid "(I gotta help out the delivery guy now.)"
+msgstr ""
+

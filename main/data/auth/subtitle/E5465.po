@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "605	404	395	194		 	 	　	201	605	404"
+msgid "I know you can't see me,\\r\n"
+"But I'm singing to you"
+msgstr ""
+
+msgctxt "955	755	745	545		 	 	　	200	955	755"
+msgid "There's only one person,\\r\n"
+"This song is written to."
+msgstr ""
+
+msgctxt "1170	1096	960	886		 	 	　	74	1170	1096"
+msgid "So just greet me with a cheer"
+msgstr ""
+
+msgctxt "1325	1226	1115	1016		 	 	　	99	1325	1226"
+msgid "I'll come running to your side"
+msgstr ""
+
+msgctxt "1534	1359	1324	1149		 	 	　	175	1534	1359"
+msgid "You'll finally welcome me home,\\r\n"
+"As you wrap me in your arms"
+msgstr ""
+
+msgctxt "1701	1535	1491	1325		 	 	　	166	1701	1535"
+msgid "With the smile, I've always loved"
+msgstr ""
+
+msgctxt "1925	1711	1715	1501		 	 	　	214	1925	1711"
+msgid "You'll finally welcome me home,\\r\n"
+"As you wrap me in your arms"
+msgstr ""
+
+msgctxt "2160	1970	1950	1760		 	 	　	190	2160	1970"
+msgid "With the smile, I've always loved"
+msgstr ""
+

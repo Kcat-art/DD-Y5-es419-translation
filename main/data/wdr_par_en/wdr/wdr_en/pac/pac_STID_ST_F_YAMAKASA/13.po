@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "The lookout is over there. We should avoid it. Let's go through the rooms instead."
+msgstr ""
+
+msgctxt "280"
+msgid "Morinaga"
+msgstr ""
+

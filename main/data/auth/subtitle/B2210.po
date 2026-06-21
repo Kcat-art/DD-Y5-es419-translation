@@ -1,0 +1,44 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		81	284	203"
+msgid "Think we got through the worst of it!"
+msgstr ""
+
+msgctxt " 	　	　	60	355	295"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt " 	　	　	65	681	616"
+msgid "Baba! Ya alright?"
+msgstr ""
+
+msgctxt " 	　	　	85	780	695"
+msgid "I can't... hold on..."
+msgstr ""
+
+msgctxt "	　	分	60	851	791"
+msgid "Any longer..."
+msgstr ""
+
+msgctxt " 	　	　	60	959	899"
+msgid "Baba!"
+msgstr ""
+
+msgctxt " 	　	　	60	2165	2105"
+msgid "Baba!"
+msgstr ""
+
+msgctxt " 	　	　	98	2427	2329"
+msgid "Baba! Can ya hear me!?"
+msgstr ""
+
+msgctxt " 	　	　	60	3783	3723"
+msgid "Huh."
+msgstr ""
+
+msgctxt "	　	　	81	3871	3790"
+msgid "Guess Himura wasn't lyin'\\r\n"
+"'bout its size after all."
+msgstr ""
+

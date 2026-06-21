@@ -1,0 +1,56 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	 	 		60	829	769"
+msgid "We ain't got a choice."
+msgstr ""
+
+msgctxt "	 	　	　	60	973	913"
+msgid "Bear with me, brother."
+msgstr ""
+
+msgctxt "	 	　	　	60	1071	1011"
+msgid "Dumbass."
+msgstr ""
+
+msgctxt "	 	　	　	99	1174	1075"
+msgid "If you were the kinda guy\\r\n"
+"who'd just let her die..."
+msgstr ""
+
+msgctxt "	 	　	　	82	1263	1181"
+msgid "I'da killed your sorry ass anyway."
+msgstr ""
+
+msgctxt "	 	　	　	60	1471	1411"
+msgid "I owe ya one, Kurosawa."
+msgstr ""
+
+msgctxt "	 	　	　	102	1680	1578"
+msgid "I get another real crack at my sworn brother."
+msgstr ""
+
+msgctxt "	 	　	　	101	1820	1719"
+msgid "If he'd died before I proved myself..."
+msgstr ""
+
+msgctxt "	 	　	分	84	1927	1843"
+msgid "I'd carry that regret to the grave."
+msgstr ""
+
+msgctxt "	 	　	　	115	2150	2035"
+msgid "So let's go, brother."
+msgstr ""
+
+msgctxt "容れる	60ｆ以下です	　	　	32	2329	2297"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "	 	　	　	80	2410	2330"
+msgid "One last rush of blood through our veins."
+msgstr ""
+
+msgctxt "	 	　	分	88	2527	2439"
+msgid "Let's show 'em how it's done!"
+msgstr ""
+

@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "640"
+msgid "adv3_270_2/christina_3_270_010"
+msgstr ""
+

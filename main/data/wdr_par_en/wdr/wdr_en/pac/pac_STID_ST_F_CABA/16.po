@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1956"
+msgid "cab_riku_q_01/riku_25_0001"
+msgstr ""
+
+msgctxt "1960"
+msgid "cab_riku_q_02/riku_26_0001"
+msgstr ""
+
+msgctxt "1964"
+msgid "cab_riku_q_03/riku_27_0001"
+msgstr ""
+
+msgctxt "1968"
+msgid "cab_riku_q_04/riku_28_0001"
+msgstr ""
+
+msgctxt "1972"
+msgid "cab_riku_q_05/riku_29_0001"
+msgstr ""
+

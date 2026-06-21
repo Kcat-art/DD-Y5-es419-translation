@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1792"
+msgid "P_TLK_stand_syagamu_lp"
+msgstr ""
+
+msgctxt "1796"
+msgid "M_FLU_SET_sleep_lp"
+msgstr ""
+

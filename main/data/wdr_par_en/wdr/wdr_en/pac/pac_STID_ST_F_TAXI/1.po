@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3620"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3624"
+msgid "adv1_190_1/nakajima_0051a"
+msgstr ""
+

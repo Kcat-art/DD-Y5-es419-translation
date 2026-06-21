@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "456"
+msgid "2d_yk_zasshi_slot"
+msgstr ""
+
+msgctxt "460"
+msgid "Player"
+msgstr ""
+
+msgctxt "56_2d_yk_zasshi_slot"
+msgid "A slot machine strategy magazine from the Tatsumi Publishing Group. It offers invaluable tips for victory from its intriguing writers."
+msgstr ""
+

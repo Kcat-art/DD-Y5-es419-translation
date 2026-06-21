@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1480"
+msgid "adv4_060_01/shinada_0099"
+msgstr ""
+
+msgctxt "1484"
+msgid "ACDEV0094"
+msgstr ""
+

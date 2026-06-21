@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "516"
+msgid "P_SAE_TLK_stand_udekumi_st"
+msgstr ""
+

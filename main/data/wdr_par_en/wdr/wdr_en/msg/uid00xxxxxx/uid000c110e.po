@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "348"
+msgid "Contemplative Woman"
+msgstr ""
+
+msgctxt "72_Contemplative Woman"
+msgid "My phone's battery died. It's impossible to meet up with people like this. How did people manage to meet in the old days?"
+msgstr ""
+

@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "604"
+msgid "Astonished Man"
+msgstr ""
+
+msgctxt "608"
+msgid "Shocked Man"
+msgstr ""
+
+msgctxt "72_Astonished Man"
+msgid "Now, hold on here. You're sayin' Akemi did that? Akemi!? No shit?"
+msgstr ""
+
+msgctxt "84_Astonished Man"
+msgid "I doubted my eyes myself, too. I never thought I'd ever see Akemi doin' that. Sorry, man."
+msgstr ""
+

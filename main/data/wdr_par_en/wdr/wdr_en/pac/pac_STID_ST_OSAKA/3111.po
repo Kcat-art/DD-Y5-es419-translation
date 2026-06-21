@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "592"
+msgid "Dance Battle"
+msgstr ""
+
+msgctxt "596"
+msgid "dummy"
+msgstr ""
+

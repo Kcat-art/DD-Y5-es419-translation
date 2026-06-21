@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "364"
+msgid "C2040_P_SAE_sleep_kamae"
+msgstr ""
+

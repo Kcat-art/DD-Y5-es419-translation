@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "600"
+msgid "default"
+msgstr ""
+
+msgctxt "604"
+msgid "7e008000"
+msgstr ""
+
+msgctxt "608"
+msgid "7e008002"
+msgstr ""
+
+msgctxt "612"
+msgid "dummy"
+msgstr ""
+
+msgctxt "616"
+msgid "7e008100"
+msgstr ""
+

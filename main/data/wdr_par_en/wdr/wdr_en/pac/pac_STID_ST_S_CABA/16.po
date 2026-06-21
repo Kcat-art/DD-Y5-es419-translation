@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3384"
+msgid "cab_kaguya_a_01/kaguya_36_0001"
+msgstr ""
+
+msgctxt "3388"
+msgid "cab_kaguya_a_01/kaguya_36_0002"
+msgstr ""
+
+msgctxt "3392"
+msgid "cab_kaguya_a_01/kaguya_36_0009"
+msgstr ""
+
+msgctxt "3396"
+msgid "cab_kaguya_a_01/kaguya_36_0011"
+msgstr ""
+
+msgctxt "3400"
+msgid "cab_kaguya_f_01/kaguya_35_0007"
+msgstr ""
+
+msgctxt "3404"
+msgid "cab_kaguya_f_01/kaguya_35_0001"
+msgstr ""
+
+msgctxt "3408"
+msgid "cab_kaguya_a_01/kaguya_36_0013"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "364"
+msgid "Player"
+msgstr ""
+
+msgctxt "60_Player"
+msgid "(Curry Shop S. This place oughta get Tatsuya's attention.)"
+msgstr ""
+

@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "584"
+msgid "Employee"
+msgstr ""
+
+msgctxt "588"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "44_Employee"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "68_Employee"
+msgid "Thank you very much. Please come again."
+msgstr ""
+
+msgctxt "80_Employee"
+msgid "Thank you."
+msgstr ""
+

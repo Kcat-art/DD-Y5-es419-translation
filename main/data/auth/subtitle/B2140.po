@@ -1,0 +1,66 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	334	274"
+msgid "Stupid."
+msgstr ""
+
+msgctxt "60ｆ以下です	　		56	393	337"
+msgid "I understand how you must feel."
+msgstr ""
+
+msgctxt " 	　		115	509	394"
+msgid "All of your time here reduced to nothing. But..."
+msgstr ""
+
+msgctxt " 	　	　	165	675	510"
+msgid "That ain't the problem.\\r\n"
+"I'm just ashamed o' myself."
+msgstr ""
+
+msgctxt " 	　	　	64	866	802"
+msgid "Where are you going? Answer me!"
+msgstr ""
+
+msgctxt " 	　	　	60	969	909"
+msgid "Kosaka-han."
+msgstr ""
+
+msgctxt " 	　	　	60	1064	1004"
+msgid "'Bout my parole..."
+msgstr ""
+
+msgctxt " 	　	分	60	1145	1085"
+msgid "I ain't interested."
+msgstr ""
+
+msgctxt " 	　	　	60	1210	1150"
+msgid "What?"
+msgstr ""
+
+msgctxt " 	　	　	73	1320	1247"
+msgid "Gettin' expelled helped me realize."
+msgstr ""
+
+msgctxt " 	　	　	84	1430	1346"
+msgid "It's never been about goin' yakuza again."
+msgstr ""
+
+msgctxt " 	　	　	128	1605	1477"
+msgid "I just wanna be with people I believe in."
+msgstr ""
+
+msgctxt " 	　	　	143	1855	1712"
+msgid "Don't give a damn what family I'm from.\\r\n"
+"What title they were gonna give me."
+msgstr ""
+
+msgctxt " 	　	　	131	2016	1885"
+msgid "So long as I can atone and get outta here...\\r\n"
+"That's all I need."
+msgstr ""
+
+msgctxt " 	　	　	60	2117	2057"
+msgid "Saejima..."
+msgstr ""
+

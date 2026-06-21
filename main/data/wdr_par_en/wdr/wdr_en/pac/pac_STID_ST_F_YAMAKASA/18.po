@@ -1,0 +1,35 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "116"
+msgid "Shit, this guy got through Yahata-aniki! Everyone get your asses over here!"
+msgstr ""
+
+msgctxt "128"
+msgid "(Dammit. Better make my way outside before more of them show up.)"
+msgstr ""
+
+msgctxt "988"
+msgid "A10390_yamakasa_door"
+msgstr ""
+
+msgctxt "992"
+msgid "adv1_126/yamakasa60_1_126_010"
+msgstr ""
+
+msgctxt "996"
+msgid "Yamagasa Family Member"
+msgstr ""
+
+msgctxt "1000"
+msgid "Player"
+msgstr ""
+
+msgctxt "1004"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1008"
+msgid "7e008003"
+msgstr ""
+

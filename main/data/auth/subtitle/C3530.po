@@ -1,0 +1,63 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "								96	137	41"
+msgid "The winner of our first round is..."
+msgstr ""
+
+msgctxt "							　	113	498	385"
+msgid "Haruka Sawamura!"
+msgstr ""
+
+msgctxt "							　	127	718	591"
+msgid "Congratulations! You really put your\\r\n"
+"heart and soul into that performance!"
+msgstr ""
+
+msgctxt "							　	72	804	732"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "							　	155	960	805"
+msgid "Just look at that face! This is a\\r\n"
+"girl who's really given it her all!"
+msgstr ""
+
+msgctxt "					 		　	120	1086	966"
+msgid "Well, I have to admit,\\r\n"
+"I was hesitant about performing..."
+msgstr ""
+
+msgctxt "　							　	189	1292	1103"
+msgid "\\r\n"
+"But once I got going, I found I couldn't hold back \\r\n"
+"my excitement! Before I knew it, it was all over."
+msgstr ""
+
+msgctxt "							　	86	1391	1305"
+msgid "Any words for your adoring fans?"
+msgstr ""
+
+msgctxt "							テキスト修正	167	1578	1411"
+msgid "I'd never performed in front of this many people\\r\n"
+"before, so I was actually really nervous."
+msgstr ""
+
+msgctxt "							　	119	1707	1588"
+msgid "I'm so incredibly happy you chose me! Truly, I am!"
+msgstr ""
+
+msgctxt "							　	114	1840	1726"
+msgid "I'll do my very best to make my\\r\n"
+"performance in round two even better!"
+msgstr ""
+
+msgctxt "							　	72	1913	1841"
+msgid "Haruka-chan, thank you very much!"
+msgstr ""
+
+msgctxt "							　	194	2114	1920"
+msgid "She rose above the pressure to conquer round one,\\r\n"
+"and I can't wait to see what she does next!"
+msgstr ""
+

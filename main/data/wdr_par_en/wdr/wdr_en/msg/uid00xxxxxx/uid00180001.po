@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "296"
+msgid "Man Heading Home"
+msgstr ""
+
+msgctxt "72_Man Heading Home"
+msgid "The day's finally done. I deserve to knock one back on the way home."
+msgstr ""
+

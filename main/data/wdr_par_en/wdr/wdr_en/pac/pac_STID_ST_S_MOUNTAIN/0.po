@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "496"
+msgid "ACDEV0014"
+msgstr ""
+
+msgctxt "500"
+msgid "SS2_P_HNT_squat_nml"
+msgstr ""
+
+msgctxt "504"
+msgid "SS2_P_HNT_squat_nml_st"
+msgstr ""
+

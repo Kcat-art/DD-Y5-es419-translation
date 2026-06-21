@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "904"
+msgid "Pool is over here."
+msgstr ""
+
+msgctxt "908"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "912"
+msgid "Idle"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "168"
+msgid "So jealous!"
+msgstr ""
+
+msgctxt "172"
+msgid "But I need to find a guy first!"
+msgstr ""
+

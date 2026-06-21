@@ -1,0 +1,579 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "9175	SUBTITLE"
+msgid "Head to Tenjin Transportation"
+msgstr ""
+
+msgctxt "9205	SUBTITLE"
+msgid "Head to Nagasu Taxi"
+msgstr ""
+
+msgctxt "9225	SUBTITLE"
+msgid "Head to Nagasu Taxi"
+msgstr ""
+
+msgctxt "9245	SUBTITLE"
+msgid "Head to Olivier"
+msgstr ""
+
+msgctxt "9261	SUBTITLE"
+msgid "Find Yahata"
+msgstr ""
+
+msgctxt "9273	SUBTITLE"
+msgid "Prove Baba's Alibi"
+msgstr ""
+
+msgctxt "9292	SUBTITLE"
+msgid "Obtain a Casino Pass"
+msgstr ""
+
+msgctxt "9313	SUBTITLE"
+msgid "Prepare for the Kidnapping"
+msgstr ""
+
+msgctxt "9340	SUBTITLE"
+msgid "Head to Dyna Chair"
+msgstr ""
+
+msgctxt "9359	SUBTITLE"
+msgid "Head to the Princess League"
+msgstr ""
+
+msgctxt "9387	SUBTITLE"
+msgid "Find Christina"
+msgstr ""
+
+msgctxt "9402	SUBTITLE"
+msgid "Head to Soten TV"
+msgstr ""
+
+msgctxt "9419	SUBTITLE"
+msgid "Head to Dyna Chair"
+msgstr ""
+
+msgctxt "9438	SUBTITLE"
+msgid "Wait until Evening"
+msgstr ""
+
+msgctxt "9457	SUBTITLE"
+msgid "Head to the Princess League"
+msgstr ""
+
+msgctxt "9485	SUBTITLE"
+msgid "Head to Osaka Talent"
+msgstr ""
+
+msgctxt "9506	SUBTITLE"
+msgid "Head to the Princess League"
+msgstr ""
+
+msgctxt "9534	SUBTITLE"
+msgid "Head to Ousaka Enterprises"
+msgstr ""
+
+msgctxt "9561	SUBTITLE"
+msgid "Rush to Shin-Osaka Station"
+msgstr ""
+
+msgctxt "9588	SUBTITLE"
+msgid "Head to the Interview"
+msgstr ""
+
+msgctxt "9610	SUBTITLE"
+msgid "Head to the Batting Center"
+msgstr ""
+
+msgctxt "9637	SUBTITLE"
+msgid "Meet Up with Uno"
+msgstr ""
+
+msgctxt "9654	SUBTITLE"
+msgid "Rush to the Port of Nagoya"
+msgstr ""
+
+msgctxt "9681	SUBTITLE"
+msgid "Gather Intel"
+msgstr ""
+
+msgctxt "9694	SUBTITLE"
+msgid "Go to Purgatory"
+msgstr ""
+
+msgctxt "9710	SUBTITLE"
+msgid "Go to Sky Finance"
+msgstr ""
+
+msgctxt "9728	SUBTITLE"
+msgid "Find Out More about MAO Inc."
+msgstr ""
+
+msgctxt "9757	SUBTITLE"
+msgid "Head to Kamurocho Hills"
+msgstr ""
+
+msgctxt "9782	SUBTITLE"
+msgid "Street Punks"
+msgstr ""
+
+msgctxt "9795	SUBTITLE"
+msgid "Yamagasa Family"
+msgstr ""
+
+msgctxt "9811	SUBTITLE"
+msgid "Devil Killer Nagata"
+msgstr ""
+
+msgctxt "9831	SUBTITLE"
+msgid "Yu Morinaga and Masato Aizawa"
+msgstr ""
+
+msgctxt "9861	SUBTITLE"
+msgid "Watase Family"
+msgstr ""
+
+msgctxt "9875	SUBTITLE"
+msgid "Yahata, Captain of the Yamagasa Family"
+msgstr ""
+
+msgctxt "9914	SUBTITLE"
+msgid "Yahata's Underlings"
+msgstr ""
+
+msgctxt "9934	SUBTITLE"
+msgid "Yahata's Subordinate"
+msgstr ""
+
+msgctxt "9955	SUBTITLE"
+msgid "Tojo Clan"
+msgstr ""
+
+msgctxt "9965	SUBTITLE"
+msgid "Majima Family"
+msgstr ""
+
+msgctxt "9979	SUBTITLE"
+msgid "Suspicious Men"
+msgstr ""
+
+msgctxt "9994	SUBTITLE"
+msgid "Hiroshi Kugihara"
+msgstr ""
+
+msgctxt "10011	SUBTITLE"
+msgid "Prisoners"
+msgstr ""
+
+msgctxt "10021	SUBTITLE"
+msgid "Giant Bear"
+msgstr ""
+
+msgctxt "10032	SUBTITLE"
+msgid "Rescue Baba!"
+msgstr ""
+
+msgctxt "10045	SUBTITLE"
+msgid "Kitakata Family"
+msgstr ""
+
+msgctxt "10061	SUBTITLE"
+msgid "Shigeki Baba"
+msgstr ""
+
+msgctxt "10074	SUBTITLE"
+msgid "Kan Ogita"
+msgstr ""
+
+msgctxt "10084	SUBTITLE"
+msgid "Crest Bartender"
+msgstr ""
+
+msgctxt "10100	SUBTITLE"
+msgid "Takeshi Hakamada of the Omi Alliance"
+msgstr ""
+
+msgctxt "10137	SUBTITLE"
+msgid "Kamon Kanai, Ousaka Enterprises Captain"
+msgstr ""
+
+msgctxt "10177	SUBTITLE"
+msgid "Ousaka Enterprises"
+msgstr ""
+
+msgctxt "10196	SUBTITLE"
+msgid "Kubota Security"
+msgstr ""
+
+msgctxt "10212	SUBTITLE"
+msgid "Ono Teppei"
+msgstr ""
+
+msgctxt "10223	SUBTITLE"
+msgid "Kineicho Man"
+msgstr ""
+
+msgctxt "10236	SUBTITLE"
+msgid "Atsushi Sakai"
+msgstr ""
+
+msgctxt "10250	SUBTITLE"
+msgid "Nagoya Family"
+msgstr ""
+
+msgctxt "10264	SUBTITLE"
+msgid "Yasushi Kubota"
+msgstr ""
+
+msgctxt "10279	SUBTITLE"
+msgid "Kanji Manabe"
+msgstr ""
+
+msgctxt "10292	SUBTITLE"
+msgid "Daigo Dojima"
+msgstr ""
+
+msgctxt "10305	SUBTITLE"
+msgid "Kuroha Family"
+msgstr ""
+
+msgctxt "10319	SUBTITLE"
+msgid "Shigeki Baba"
+msgstr ""
+
+msgctxt "10332	SUBTITLE"
+msgid "Masato Aizawa"
+msgstr ""
+
+msgctxt "10346	SUBTITLE"
+msgid "Masaru Watase, Omi Alliance Captain"
+msgstr ""
+
+msgctxt "10382	SUBTITLE"
+msgid "Naoki Katsuya, Ousaka Enterprises Chairman"
+msgstr ""
+
+msgctxt "10425	SUBTITLE"
+msgid "Taiga Saejima"
+msgstr ""
+
+msgctxt "10439	SUBTITLE"
+msgid "Kazuma Kiryu"
+msgstr ""
+
+msgctxt "10452	SUBTITLE"
+msgid "Kurosawa Family"
+msgstr ""
+
+msgctxt "10468	SUBTITLE"
+msgid "Goro Majima"
+msgstr ""
+
+msgctxt "10480	SUBTITLE"
+msgid "Sosuke Komaki"
+msgstr ""
+
+msgctxt "10494	SUBTITLE"
+msgid "Sotaro Komaki"
+msgstr ""
+
+msgctxt "10508	SUBTITLE"
+msgid "Sotaro Komaki and Sosuke Komaki"
+msgstr ""
+
+msgctxt "10540	SUBTITLE"
+msgid "Daijiro Saigo"
+msgstr ""
+
+msgctxt "10554	SUBTITLE"
+msgid "Mountain God"
+msgstr ""
+
+msgctxt "10567	SUBTITLE"
+msgid "Daijiro Saigo"
+msgstr ""
+
+msgctxt "10581	SUBTITLE"
+msgid "Chase Saigo"
+msgstr ""
+
+msgctxt "10593	SUBTITLE"
+msgid "Leo Ayanokoji"
+msgstr ""
+
+msgctxt "10608	SUBTITLE"
+msgid "Yakuza"
+msgstr ""
+
+msgctxt "10615	SUBTITLE"
+msgid "Punks"
+msgstr ""
+
+msgctxt "10621	SUBTITLE"
+msgid "Gang Members"
+msgstr ""
+
+msgctxt "10634	SUBTITLE"
+msgid "Host"
+msgstr ""
+
+msgctxt "10639	SUBTITLE"
+msgid "Nouveau Riche"
+msgstr ""
+
+msgctxt "10653	SUBTITLE"
+msgid "Ren Higashino"
+msgstr ""
+
+msgctxt "10667	SUBTITLE"
+msgid "Valery Garrett"
+msgstr ""
+
+msgctxt "10682	SUBTITLE"
+msgid "Kanta Shirosaka"
+msgstr ""
+
+msgctxt "10698	SUBTITLE"
+msgid "Makoto Tokita"
+msgstr ""
+
+msgctxt "10712	SUBTITLE"
+msgid "Ryoichi Banba"
+msgstr ""
+
+msgctxt "10726	SUBTITLE"
+msgid "Hannya Kurokawa"
+msgstr ""
+
+msgctxt "10742	SUBTITLE"
+msgid "Homura Kongo"
+msgstr ""
+
+msgctxt "10755	SUBTITLE"
+msgid "Kenichi Washino"
+msgstr ""
+
+msgctxt "10771	SUBTITLE"
+msgid "Shoji Yonashiro"
+msgstr ""
+
+msgctxt "10787	SUBTITLE"
+msgid "Inzen Hozoin"
+msgstr ""
+
+msgctxt "10800	SUBTITLE"
+msgid "Mysterious Man"
+msgstr ""
+
+msgctxt "10815	SUBTITLE"
+msgid "Raiden"
+msgstr ""
+
+msgctxt "10822	SUBTITLE"
+msgid "Victory Road Qualifiers"
+msgstr ""
+
+msgctxt "10848	SUBTITLE"
+msgid "Chase him!"
+msgstr ""
+
+msgctxt "10859	SUBTITLE"
+msgid "Run!"
+msgstr ""
+
+msgctxt "10865	SUBTITLE"
+msgid "Melee Match 1"
+msgstr ""
+
+msgctxt "10879	SUBTITLE"
+msgid "Melee Match 2"
+msgstr ""
+
+msgctxt "10893	SUBTITLE"
+msgid "Melee Match 3"
+msgstr ""
+
+msgctxt "10907	SUBTITLE"
+msgid "Melee Match 4"
+msgstr ""
+
+msgctxt "10921	SUBTITLE"
+msgid "Melee Match 5"
+msgstr ""
+
+msgctxt "10935	SUBTITLE"
+msgid "Melee Match 6"
+msgstr ""
+
+msgctxt "10949	SUBTITLE"
+msgid "Melee Match 7"
+msgstr ""
+
+msgctxt "10963	SUBTITLE"
+msgid "Melee Match 8"
+msgstr ""
+
+msgctxt "10977	SUBTITLE"
+msgid "Melee Match 9"
+msgstr ""
+
+msgctxt "10991	SUBTITLE"
+msgid "Melee Match 10"
+msgstr ""
+
+msgctxt "11006	SUBTITLE"
+msgid "Challenge Match 1"
+msgstr ""
+
+msgctxt "11024	SUBTITLE"
+msgid "Challenge Match 2"
+msgstr ""
+
+msgctxt "11042	SUBTITLE"
+msgid "Challenge Match 3"
+msgstr ""
+
+msgctxt "11060	SUBTITLE"
+msgid "Challenge Match 4"
+msgstr ""
+
+msgctxt "11078	SUBTITLE"
+msgid "Challenge Match 5"
+msgstr ""
+
+msgctxt "11096	SUBTITLE"
+msgid "Challenge Match 6"
+msgstr ""
+
+msgctxt "11114	SUBTITLE"
+msgid "Challenge Match 7"
+msgstr ""
+
+msgctxt "11132	SUBTITLE"
+msgid "Challenge Match 8"
+msgstr ""
+
+msgctxt "11150	SUBTITLE"
+msgid "Challenge Match 9"
+msgstr ""
+
+msgctxt "11168	SUBTITLE"
+msgid "Challenge Match 10"
+msgstr ""
+
+msgctxt "11187	SUBTITLE"
+msgid "Sprint Match 1"
+msgstr ""
+
+msgctxt "11202	SUBTITLE"
+msgid "Sprint Match 2"
+msgstr ""
+
+msgctxt "11217	SUBTITLE"
+msgid "Sprint Match 3"
+msgstr ""
+
+msgctxt "11232	SUBTITLE"
+msgid "Sprint Match 4"
+msgstr ""
+
+msgctxt "11247	SUBTITLE"
+msgid "Sprint Match 5"
+msgstr ""
+
+msgctxt "11262	SUBTITLE"
+msgid "Ultimate Match 1"
+msgstr ""
+
+msgctxt "11279	SUBTITLE"
+msgid "Ultimate Match 2"
+msgstr ""
+
+msgctxt "11296	SUBTITLE"
+msgid "Ultimate Match 3"
+msgstr ""
+
+msgctxt "11313	SUBTITLE"
+msgid "Ultimate Match 4"
+msgstr ""
+
+msgctxt "11330	SUBTITLE"
+msgid "Ultimate Match 5"
+msgstr ""
+
+msgctxt "11348	SUBTITLE"
+msgid "Head to the Top Floor!"
+msgstr ""
+
+msgctxt "11371	SUBTITLE"
+msgid "Escape!"
+msgstr ""
+
+msgctxt "11380	SUBTITLE"
+msgid "Kazuya Amon"
+msgstr ""
+
+msgctxt "11392	SUBTITLE"
+msgid "Jiro Amon"
+msgstr ""
+
+msgctxt "11402	SUBTITLE"
+msgid "Sango Amon"
+msgstr ""
+
+msgctxt "11413	SUBTITLE"
+msgid "Jo Amon"
+msgstr ""
+
+msgctxt "11421	SUBTITLE"
+msgid "Menacing Man"
+msgstr ""
+
+msgctxt "11434	SUBTITLE"
+msgid "Lowlife Punk"
+msgstr ""
+
+msgctxt "11447	SUBTITLE"
+msgid "Ill-Natured Man"
+msgstr ""
+
+msgctxt "11463	SUBTITLE"
+msgid "Kidnapper"
+msgstr ""
+
+msgctxt "11473	SUBTITLE"
+msgid "Zombie"
+msgstr ""
+
+msgctxt "11480	SUBTITLE"
+msgid "Hors d'Oeuvre Morosawa"
+msgstr ""
+
+msgctxt "11503	SUBTITLE"
+msgid "Mafia"
+msgstr ""
+
+msgctxt "11509	SUBTITLE"
+msgid "Put out the fire!"
+msgstr ""
+
+msgctxt "11527	SUBTITLE"
+msgid "Bear"
+msgstr ""
+
+msgctxt "11532	SUBTITLE"
+msgid "Devil Killer"
+msgstr ""
+
+msgctxt "11545	SUBTITLE"
+msgid "Crash Kajiwara"
+msgstr ""
+
+msgctxt "11560	SUBTITLE"
+msgid "Tsukimino Man"
+msgstr ""
+
+msgctxt "11574	SUBTITLE"
+msgid "Vampire Yamashiro"
+msgstr ""
+

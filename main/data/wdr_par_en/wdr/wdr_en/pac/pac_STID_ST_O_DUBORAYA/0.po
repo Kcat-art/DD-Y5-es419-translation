@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "336"
+msgid "P_AKI_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "340"
+msgid "M_KAW_TLK_sitchr_kamae"
+msgstr ""
+

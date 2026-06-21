@@ -1,0 +1,403 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "848	NAME"
+msgid "Sakura"
+msgstr ""
+
+msgctxt "855	NAME"
+msgid "Nabe"
+msgstr ""
+
+msgctxt "860	NAME"
+msgid "Shizuka"
+msgstr ""
+
+msgctxt "868	NAME"
+msgid "Yuzu"
+msgstr ""
+
+msgctxt "873	NAME"
+msgid "Attila"
+msgstr ""
+
+msgctxt "880	NAME"
+msgid "Georgina"
+msgstr ""
+
+msgctxt "889	NAME"
+msgid "Yuko"
+msgstr ""
+
+msgctxt "894	NAME"
+msgid "Mermaid"
+msgstr ""
+
+msgctxt "902	NAME"
+msgid "Autumn Dew"
+msgstr ""
+
+msgctxt "913	NAME"
+msgid "Wasabi"
+msgstr ""
+
+msgctxt "920	NAME"
+msgid "Best in Show"
+msgstr ""
+
+msgctxt "933	NAME"
+msgid "Debutante"
+msgstr ""
+
+msgctxt "943	NAME"
+msgid "Esmeralda"
+msgstr ""
+
+msgctxt "953	NAME"
+msgid "Fairy Dust"
+msgstr ""
+
+msgctxt "964	NAME"
+msgid "Olivia"
+msgstr ""
+
+msgctxt "971	NAME"
+msgid "Justine"
+msgstr ""
+
+msgctxt "979	NAME"
+msgid "Mathilda"
+msgstr ""
+
+msgctxt "988	NAME"
+msgid "Fab"
+msgstr ""
+
+msgctxt "992	NAME"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "997	NAME"
+msgid "Iris"
+msgstr ""
+
+msgctxt "1002	NAME"
+msgid "Battleaxe"
+msgstr ""
+
+msgctxt "1012	NAME"
+msgid "Sweetbeak"
+msgstr ""
+
+msgctxt "1022	NAME"
+msgid "Anastasia"
+msgstr ""
+
+msgctxt "1032	NAME"
+msgid "Kiss Kiss"
+msgstr ""
+
+msgctxt "1042	NAME"
+msgid "Apple"
+msgstr ""
+
+msgctxt "1048	NAME"
+msgid "Croque Madame"
+msgstr ""
+
+msgctxt "1062	NAME"
+msgid "Momma"
+msgstr ""
+
+msgctxt "1068	NAME"
+msgid "Anastasia"
+msgstr ""
+
+msgctxt "1078	NAME"
+msgid "Edamame"
+msgstr ""
+
+msgctxt "1086	NAME"
+msgid "Icicle Paulie"
+msgstr ""
+
+msgctxt "1100	NAME"
+msgid "Tachibana"
+msgstr ""
+
+msgctxt "1110	NAME"
+msgid "Zen"
+msgstr ""
+
+msgctxt "1114	NAME"
+msgid "Oolong"
+msgstr ""
+
+msgctxt "1121	NAME"
+msgid "Ocean Breeze"
+msgstr ""
+
+msgctxt "1134	NAME"
+msgid "Sunshine"
+msgstr ""
+
+msgctxt "1143	NAME"
+msgid "Cinnamon Roll"
+msgstr ""
+
+msgctxt "1157	NAME"
+msgid "Pink Eye"
+msgstr ""
+
+msgctxt "1166	NAME"
+msgid "Darling"
+msgstr ""
+
+msgctxt "1174	NAME"
+msgid "Buttercup"
+msgstr ""
+
+msgctxt "1184	NAME"
+msgid "Lindsey"
+msgstr ""
+
+msgctxt "1192	NAME"
+msgid "Monika"
+msgstr ""
+
+msgctxt "1199	NAME"
+msgid "Petunia"
+msgstr ""
+
+msgctxt "1207	NAME"
+msgid "Guardian"
+msgstr ""
+
+msgctxt "1216	NAME"
+msgid "Sally"
+msgstr ""
+
+msgctxt "1222	NAME"
+msgid "Empty Nester"
+msgstr ""
+
+msgctxt "1235	NAME"
+msgid "Ai"
+msgstr ""
+
+msgctxt "1238	NAME"
+msgid "Isha"
+msgstr ""
+
+msgctxt "1243	NAME"
+msgid "Diamond"
+msgstr ""
+
+msgctxt "1251	NAME"
+msgid "Chamomile"
+msgstr ""
+
+msgctxt "1261	NAME"
+msgid "Mina"
+msgstr ""
+
+msgctxt "1266	NAME"
+msgid "Matriarch"
+msgstr ""
+
+msgctxt "1276	NAME"
+msgid "Mint Julip"
+msgstr ""
+
+msgctxt "1287	NAME"
+msgid "Ruby"
+msgstr ""
+
+msgctxt "1292	NAME"
+msgid "Fumiko"
+msgstr ""
+
+msgctxt "1299	NAME"
+msgid "Flan"
+msgstr ""
+
+msgctxt "1304	NAME"
+msgid "Sayako"
+msgstr ""
+
+msgctxt "1311	NAME"
+msgid "Magdalena"
+msgstr ""
+
+msgctxt "1321	NAME"
+msgid "Adriana"
+msgstr ""
+
+msgctxt "1329	NAME"
+msgid "Atsuko"
+msgstr ""
+
+msgctxt "1336	NAME"
+msgid "Ginger"
+msgstr ""
+
+msgctxt "1343	NAME"
+msgid "Dorothy"
+msgstr ""
+
+msgctxt "1351	NAME"
+msgid "Jade"
+msgstr ""
+
+msgctxt "1356	NAME"
+msgid "Emerald"
+msgstr ""
+
+msgctxt "1364	NAME"
+msgid "Ruby"
+msgstr ""
+
+msgctxt "1369	NAME"
+msgid "Angel Tears"
+msgstr ""
+
+msgctxt "1381	NAME"
+msgid "Nutmeg"
+msgstr ""
+
+msgctxt "1388	NAME"
+msgid "Supernova"
+msgstr ""
+
+msgctxt "1398	NAME"
+msgid "Airi"
+msgstr ""
+
+msgctxt "1403	NAME"
+msgid "Dorothy"
+msgstr ""
+
+msgctxt "1411	NAME"
+msgid "Marinara"
+msgstr ""
+
+msgctxt "1420	NAME"
+msgid "Rena"
+msgstr ""
+
+msgctxt "1425	NAME"
+msgid "Rebecca"
+msgstr ""
+
+msgctxt "1433	NAME"
+msgid "Helen Helena"
+msgstr ""
+
+msgctxt "1446	NAME"
+msgid "Josephine"
+msgstr ""
+
+msgctxt "1456	NAME"
+msgid "Sunrise"
+msgstr ""
+
+msgctxt "1464	NAME"
+msgid "Samantha"
+msgstr ""
+
+msgctxt "1473	NAME"
+msgid "Diva"
+msgstr ""
+
+msgctxt "1478	NAME"
+msgid "Medusa"
+msgstr ""
+
+msgctxt "1485	NAME"
+msgid "Haley"
+msgstr ""
+
+msgctxt "1491	NAME"
+msgid "Shio"
+msgstr ""
+
+msgctxt "1496	NAME"
+msgid "Duchess"
+msgstr ""
+
+msgctxt "1504	NAME"
+msgid "Peaches"
+msgstr ""
+
+msgctxt "1512	NAME"
+msgid "Chashu"
+msgstr ""
+
+msgctxt "1519	NAME"
+msgid "Mariah"
+msgstr ""
+
+msgctxt "1526	NAME"
+msgid "Makoto"
+msgstr ""
+
+msgctxt "1533	NAME"
+msgid "Priestess"
+msgstr ""
+
+msgctxt "1543	NAME"
+msgid "Rika"
+msgstr ""
+
+msgctxt "1548	NAME"
+msgid "Angel"
+msgstr ""
+
+msgctxt "1554	NAME"
+msgid "Shrine Maiden"
+msgstr ""
+
+msgctxt "1568	NAME"
+msgid "Atlanta"
+msgstr ""
+
+msgctxt "1576	NAME"
+msgid "Sumi"
+msgstr ""
+
+msgctxt "1581	NAME"
+msgid "Salmon"
+msgstr ""
+
+msgctxt "1588	NAME"
+msgid "Celestia"
+msgstr ""
+
+msgctxt "1601	NAME"
+msgid "Shizuna"
+msgstr ""
+
+msgctxt "1613	NAME"
+msgid "Aphrodite"
+msgstr ""
+
+msgctxt "1627	NAME"
+msgid "Mobius"
+msgstr ""
+
+msgctxt "1638	NAME"
+msgid "Himiko"
+msgstr ""
+
+msgctxt "1649	NAME"
+msgid "Artemis"
+msgstr ""
+
+msgctxt "1661	NAME"
+msgid "Mercurius"
+msgstr ""
+
+msgctxt "1675	NAME"
+msgid "Her Majesty"
+msgstr ""
+

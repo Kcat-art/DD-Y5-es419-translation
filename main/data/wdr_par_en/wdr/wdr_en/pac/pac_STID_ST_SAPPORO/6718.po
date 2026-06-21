@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "268"
+msgid "E9840_kata_angry"
+msgstr ""
+

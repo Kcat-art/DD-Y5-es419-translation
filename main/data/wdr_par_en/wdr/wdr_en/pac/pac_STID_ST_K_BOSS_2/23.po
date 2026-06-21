@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1412"
+msgid "adv5_250/akiyama_0510"
+msgstr ""
+
+msgctxt "1416"
+msgid "kaiwabgm_tension06"
+msgstr ""
+
+msgctxt "1420"
+msgid "C5240_AKI_TLK_tired_kamae"
+msgstr ""
+
+msgctxt "1424"
+msgid "adv5_240/akiyama_0508"
+msgstr ""
+

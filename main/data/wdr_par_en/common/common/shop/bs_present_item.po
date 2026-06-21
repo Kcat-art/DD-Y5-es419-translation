@@ -1,0 +1,123 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "This text has no context info. The text is used in bs_present_item.po. Position in file: 2"
+msgid "Kamiyama Works Lv. %d"
+msgstr ""
+
+msgctxt "4"
+msgid "Kamiyama Works Lv. %d"
+msgstr ""
+
+msgctxt "8"
+msgid "Kamiyama Works Lv. %d"
+msgstr ""
+
+msgctxt "12"
+msgid "Kamiyama Works Lv. %d"
+msgstr ""
+
+msgctxt "16"
+msgid "Kamiyama Works Lv. %d"
+msgstr ""
+
+msgctxt "20"
+msgid "Free"
+msgstr ""
+
+msgctxt "24"
+msgid "Free"
+msgstr ""
+
+msgctxt "28"
+msgid "Free"
+msgstr ""
+
+msgctxt "32"
+msgid "Free"
+msgstr ""
+
+msgctxt "36"
+msgid "Free"
+msgstr ""
+
+msgctxt "40"
+msgid "Owned"
+msgstr ""
+
+msgctxt "44"
+msgid "Owned"
+msgstr ""
+
+msgctxt "48"
+msgid "Owned"
+msgstr ""
+
+msgctxt "52"
+msgid "Owned"
+msgstr ""
+
+msgctxt "56"
+msgid "Owned"
+msgstr ""
+
+msgctxt "60"
+msgid "(I don't have anything I can hand over.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(Don't have anything I can hand over.)"
+msgstr ""
+
+msgctxt "68"
+msgid "(Don't got anythin' to hand over.)"
+msgstr ""
+
+msgctxt "72"
+msgid "(I don't have anything I can hand over...)"
+msgstr ""
+
+msgctxt "76"
+msgid "( I don't have anything I can hand over.)"
+msgstr ""
+
+msgctxt "80"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "84"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "88"
+msgid "(Gotta choose somethin' first.)"
+msgstr ""
+
+msgctxt "92"
+msgid "(I haven't chosen anything.)"
+msgstr ""
+
+msgctxt "96"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "100"
+msgid "I guess that'll be %s..."
+msgstr ""
+
+msgctxt "104"
+msgid "I guess that'll be %s..."
+msgstr ""
+
+msgctxt "108"
+msgid "I guess that'll be %s..."
+msgstr ""
+
+msgctxt "112"
+msgid "I guess that'll be %s..."
+msgstr ""
+
+msgctxt "116"
+msgid "I guess that'll be %s..."
+msgstr ""
+

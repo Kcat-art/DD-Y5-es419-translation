@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "128"
+msgid "\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+">"
+msgstr ""
+
+msgctxt "920"
+msgid "Waiting for player"
+msgstr ""
+

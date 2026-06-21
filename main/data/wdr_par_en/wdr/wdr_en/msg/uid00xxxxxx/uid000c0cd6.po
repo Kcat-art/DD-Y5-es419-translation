@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "252"
+msgid "Innocent Woman"
+msgstr ""
+
+msgctxt "72_Innocent Woman"
+msgid "Wow, look! It's a river!"
+msgstr ""
+

@@ -1,0 +1,8831 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "0	37657	1	CHK"
+msgid "Small Object Base"
+msgstr ""
+
+msgctxt "0	37675	2	CHK"
+msgid "Whisky Glass (Right)"
+msgstr ""
+
+msgctxt "0	37696	3	CHK"
+msgid "Whisky Glass (Left)"
+msgstr ""
+
+msgctxt "0	37716	4	CHK"
+msgid "Chisel (Right)"
+msgstr ""
+
+msgctxt "0	37731	5	CHK"
+msgid "Letter of Expulsion"
+msgstr ""
+
+msgctxt "0	37751	6	CHK"
+msgid "Map of Tsukimino"
+msgstr ""
+
+msgctxt "0	37768	7	CHK"
+msgid "Okudera's Shotgun"
+msgstr ""
+
+msgctxt "0	37786	8	CHK"
+msgid "Cocktail Glass [Hostess Club]"
+msgstr ""
+
+msgctxt "0	37816	9	CHK"
+msgid "Champagne Glass [Hostess Club]"
+msgstr ""
+
+msgctxt "0	37847	10	CHK"
+msgid "Wine Glass [Hostess Club]"
+msgstr ""
+
+msgctxt "0	37873	11	CHK"
+msgid "Rocks Glass [Hostess Club]"
+msgstr ""
+
+msgctxt "0	37900	12	CHK"
+msgid "Gachapon [Hostess Club]"
+msgstr ""
+
+msgctxt "0	37924	13	CHK"
+msgid "Chocolate Stick [Hostess Club]"
+msgstr ""
+
+msgctxt "0	37955	14	CHK"
+msgid "Bottle Nameplate: Kiryu [Hostess Club]"
+msgstr ""
+
+msgctxt "0	37994	15	CHK"
+msgid "Bottle Nameplate: Saejima [Hostess Club]"
+msgstr ""
+
+msgctxt "0	38035	16	CHK"
+msgid "Bottle Nameplate: Akiyama [Hostess Club]"
+msgstr ""
+
+msgctxt "0	38076	17	CHK"
+msgid "Bottle Nameplate: Shinada [Hostess Club]"
+msgstr ""
+
+msgctxt "0	38117	18	CHK"
+msgid "Bottle [Hostess Club]"
+msgstr ""
+
+msgctxt "0	38139	19	CHK"
+msgid "Yamazaki 12 Years Old [Hostess Club]"
+msgstr ""
+
+msgctxt "0	38176	20	CHK"
+msgid "Shinada's Cell Phone"
+msgstr ""
+
+msgctxt "0	38197	21	CHK"
+msgid "Bat"
+msgstr ""
+
+msgctxt "0	38201	22	CHK"
+msgid "Carved Wooden Bear"
+msgstr ""
+
+msgctxt "0	38220	23	CHK"
+msgid "Fishing Pole (River) (ADV)"
+msgstr ""
+
+msgctxt "0	38247	24	CHK"
+msgid "Iron Pipe (Sakai) (ADV)"
+msgstr ""
+
+msgctxt "0	38271	25	CHK"
+msgid "Handgun"
+msgstr ""
+
+msgctxt "0	38279	26	CHK"
+msgid "Crowbar"
+msgstr ""
+
+msgctxt "0	38287	27	CHK"
+msgid "Ballpoint Pen"
+msgstr ""
+
+msgctxt "0	38301	28	CHK"
+msgid "Toriyama's Cell Phone"
+msgstr ""
+
+msgctxt "0	38323	29	CHK"
+msgid "Home Run King's Bat"
+msgstr ""
+
+msgctxt "0	38343	30	CHK"
+msgid "Reflector Board"
+msgstr ""
+
+msgctxt "0	38359	31	CHK"
+msgid "Clapperboard"
+msgstr ""
+
+msgctxt "0	38372	32	CHK"
+msgid "Dragon Mask for Sub-Event"
+msgstr ""
+
+msgctxt "0	38398	33	CHK"
+msgid "X Card"
+msgstr ""
+
+msgctxt "0	38405	34	CHK"
+msgid "O Card"
+msgstr ""
+
+msgctxt "0	38412	35	CHK"
+msgid "Sales Slip Clip"
+msgstr ""
+
+msgctxt "0	38428	36	CHK"
+msgid "Rosin Bag"
+msgstr ""
+
+msgctxt "0	38438	37	CHK"
+msgid "Box of Pocket Tissues"
+msgstr ""
+
+msgctxt "0	38460	38	CHK"
+msgid "Aluminum Briefcase"
+msgstr ""
+
+msgctxt "0	38479	39	CHK"
+msgid "Zaitsu CD"
+msgstr ""
+
+msgctxt "0	38489	40	CHK"
+msgid "Reference Book"
+msgstr ""
+
+msgctxt "0	38504	41	CHK"
+msgid "Match Seller Basket"
+msgstr ""
+
+msgctxt "0	38524	42	CHK"
+msgid "Takoyaki"
+msgstr ""
+
+msgctxt "0	38533	43	CHK"
+msgid "Spatula"
+msgstr ""
+
+msgctxt "0	38541	44	CHK"
+msgid "Haruka's Wallet"
+msgstr ""
+
+msgctxt "0	38557	45	CHK"
+msgid "Brooch (Gift)"
+msgstr ""
+
+msgctxt "0	38571	46	CHK"
+msgid "Majima's Letter"
+msgstr ""
+
+msgctxt "0	38587	47	CHK"
+msgid "Gift Certificate"
+msgstr ""
+
+msgctxt "0	38604	48	CHK"
+msgid "Shogi Board"
+msgstr ""
+
+msgctxt "0	38616	49	CHK"
+msgid "Undercooked Tsuruhashi Fugetsu Okonomiyaki"
+msgstr ""
+
+msgctxt "0	38659	50	CHK"
+msgid "Don Quijote Bag"
+msgstr ""
+
+msgctxt "0	38675	51	CHK"
+msgid "Shovel"
+msgstr ""
+
+msgctxt "0	38682	52	CHK"
+msgid "Fully Cooked Tsuruhashi Fugetsu Okonomiyaki"
+msgstr ""
+
+msgctxt "0	38726	53	CHK"
+msgid "Tsuruhashi Fugetsu Okonomiyaki with Plate"
+msgstr ""
+
+msgctxt "0	38768	54	CHK"
+msgid "Tsuruhashi Fugetsu Special Spatula"
+msgstr ""
+
+msgctxt "0	38803	55	CHK"
+msgid "Taiko No Tatsujin Left Taiko Stick"
+msgstr ""
+
+msgctxt "0	38838	56	CHK"
+msgid "Taiko No Tatsujin Right Taiko Stick"
+msgstr ""
+
+msgctxt "0	38874	57	CHK"
+msgid "Convenience Store Underwear"
+msgstr ""
+
+msgctxt "0	38902	58	CHK"
+msgid "Convenience Store Pasta"
+msgstr ""
+
+msgctxt "0	38926	59	CHK"
+msgid "Convenience Store Curry"
+msgstr ""
+
+msgctxt "0	38950	60	CHK"
+msgid "New Digital Song Catalog"
+msgstr ""
+
+msgctxt "0	38975	61	CHK"
+msgid "Carton of Juice"
+msgstr ""
+
+msgctxt "0	38991	62	CHK"
+msgid "Sotenbori Broadcasting Academy Flyer"
+msgstr ""
+
+msgctxt "0	39028	63	CHK"
+msgid "Notebook"
+msgstr ""
+
+msgctxt "0	39037	64	CHK"
+msgid "Drawing Bell"
+msgstr ""
+
+msgctxt "0	39050	65	CHK"
+msgid "Cardboard Box (Deliveries)"
+msgstr ""
+
+msgctxt "0	39077	66	CHK"
+msgid "SOS Taxi"
+msgstr ""
+
+msgctxt "0	39086	67	CHK"
+msgid "Single-Lens Reflex Camera"
+msgstr ""
+
+msgctxt "0	39112	68	CHK"
+msgid "Dance Battle Summit Leaflet"
+msgstr ""
+
+msgctxt "0	39140	69	CHK"
+msgid "Video Camera (Shoulder-Carried)"
+msgstr ""
+
+msgctxt "0	39172	70	CHK"
+msgid "Long Table"
+msgstr ""
+
+msgctxt "0	39183	71	CHK"
+msgid "Folding Chair"
+msgstr ""
+
+msgctxt "0	39197	72	CHK"
+msgid "PrintCircle of Haruka, Akari, and Yui"
+msgstr ""
+
+msgctxt "0	39235	73	CHK"
+msgid "Haruka's Cell Phone (Adventure)"
+msgstr ""
+
+msgctxt "0	39267	74	CHK"
+msgid "Kitchen Knife (Adventure)"
+msgstr ""
+
+msgctxt "0	39293	75	CHK"
+msgid "Chopsticks Dropped by Kiryu"
+msgstr ""
+
+msgctxt "0	39321	76	CHK"
+msgid "Yuya's Travel Bag"
+msgstr ""
+
+msgctxt "0	39339	77	CHK"
+msgid "Scattered Papers"
+msgstr ""
+
+msgctxt "0	39356	78	CHK"
+msgid "Metal Detector"
+msgstr ""
+
+msgctxt "0	39371	79	CHK"
+msgid "Camcorder"
+msgstr ""
+
+msgctxt "0	39381	80	CHK"
+msgid "[Minigame] Hostess Club (Tsukimino) Business Card"
+msgstr ""
+
+msgctxt "0	39431	81	CHK"
+msgid "[Minigame] Hostess Club (Kamurocho) Business Card"
+msgstr ""
+
+msgctxt "0	39481	82	CHK"
+msgid "[Minigame] Hostess Club (Nagoya) Business Card"
+msgstr ""
+
+msgctxt "0	39528	83	CHK"
+msgid "[Minigame] Hostess Club (Osaka) Business Card"
+msgstr ""
+
+msgctxt "0	39574	84	CHK"
+msgid "[Minigame] Hostess Club (Fukuoka) Business Card"
+msgstr ""
+
+msgctxt "0	39622	85	CHK"
+msgid "Saejima's Cell Phone (Adventure)"
+msgstr ""
+
+msgctxt "0	39655	86	CHK"
+msgid "Dagger (Adventure)"
+msgstr ""
+
+msgctxt "0	39674	87	CHK"
+msgid "Katana (Adventure)"
+msgstr ""
+
+msgctxt "0	39693	88	CHK"
+msgid "9-iron (Adventure)"
+msgstr ""
+
+msgctxt "0	39712	89	CHK"
+msgid "Parole Application (Adventure)"
+msgstr ""
+
+msgctxt "0	39743	90	CHK"
+msgid "Meal in a Bowl (Adventure)"
+msgstr ""
+
+msgctxt "0	39770	91	CHK"
+msgid "Police Badge (Adventure)"
+msgstr ""
+
+msgctxt "0	39795	92	CHK"
+msgid "Haruka's Bankbook - Closed Ver. (Adventure)"
+msgstr ""
+
+msgctxt "0	39839	93	CHK"
+msgid "Haruka's Bankbook - Open Ver. (Adventure)"
+msgstr ""
+
+msgctxt "0	39881	94	CHK"
+msgid "Haruka's Bag (Adventure)"
+msgstr ""
+
+msgctxt "0	39906	95	CHK"
+msgid "Cue Card"
+msgstr ""
+
+msgctxt "0	39915	96	CHK"
+msgid "Felt-Tip Pen (Adventure)"
+msgstr ""
+
+msgctxt "0	39940	97	CHK"
+msgid "Ramen on a Tray"
+msgstr ""
+
+msgctxt "0	39956	98	CHK"
+msgid "Autograph Paper"
+msgstr ""
+
+msgctxt "0	39972	99	CHK"
+msgid "Envelope"
+msgstr ""
+
+msgctxt "0	39981	100	CHK"
+msgid "ZEROGIRL Business Card"
+msgstr ""
+
+msgctxt "0	40004	101	CHK"
+msgid "Sparkly Car"
+msgstr ""
+
+msgctxt "0	40016	102	CHK"
+msgid "Police Car (Siren Lit)"
+msgstr ""
+
+msgctxt "0	40039	103	CHK"
+msgid "Match Box - Scattered Ver."
+msgstr ""
+
+msgctxt "0	40066	104	CHK"
+msgid "Baseball"
+msgstr ""
+
+msgctxt "0	40075	105	CHK"
+msgid "Paper Bag"
+msgstr ""
+
+msgctxt "0	40085	106	CHK"
+msgid "Briefcase (Adventure)"
+msgstr ""
+
+msgctxt "0	40107	107	CHK"
+msgid "Sawada's Gun (Adventure)"
+msgstr ""
+
+msgctxt "0	40132	108	CHK"
+msgid "Hand Warmer"
+msgstr ""
+
+msgctxt "0	40144	109	CHK"
+msgid "Medicine"
+msgstr ""
+
+msgctxt "0	40153	110	CHK"
+msgid "Nunchaku (Adventure)"
+msgstr ""
+
+msgctxt "0	40174	111	CHK"
+msgid "IF7 Helmet (Adventure)"
+msgstr ""
+
+msgctxt "0	40197	112	CHK"
+msgid "Photo of Majima, Park, and Katsuya (Adventure)"
+msgstr ""
+
+msgctxt "0	40244	113	CHK"
+msgid "Japan Dome Layout (Adventure)"
+msgstr ""
+
+msgctxt "0	40274	114	CHK"
+msgid "Senior Yearbook (Adventure)"
+msgstr ""
+
+msgctxt "0	40302	115	CHK"
+msgid "Chains that Held Majima (Adventure)"
+msgstr ""
+
+msgctxt "0	40338	116	CHK"
+msgid "Shinada's Tab (Adventure)"
+msgstr ""
+
+msgctxt "0	40364	117	CHK"
+msgid "Map of Tsukimino (Adventure)"
+msgstr ""
+
+msgctxt "0	40393	118	CHK"
+msgid "Majima's Dagger (Adventure)"
+msgstr ""
+
+msgctxt "0	40421	119	CHK"
+msgid "Remote Control (Adventure)"
+msgstr ""
+
+msgctxt "0	40448	120	CHK"
+msgid "Account Book (Adventure)"
+msgstr ""
+
+msgctxt "0	40473	121	CHK"
+msgid "Park's Fountain Pen (Adventure)"
+msgstr ""
+
+msgctxt "0	40505	122	CHK"
+msgid "Kurosawa's Gun (Adventure)"
+msgstr ""
+
+msgctxt "0	40532	123	CHK"
+msgid "Daigo's Gun (Adventure)"
+msgstr ""
+
+msgctxt "0	40556	124	CHK"
+msgid "Newspaper Reporting Sawada's Trade (Adventure)"
+msgstr ""
+
+msgctxt "0	40603	125	CHK"
+msgid "Coffee Cup, Saucer, and Spoon (Adventure)"
+msgstr ""
+
+msgctxt "0	40645	126	CHK"
+msgid "Kurosawa's Smartphone (Adventure)"
+msgstr ""
+
+msgctxt "0	40679	127	CHK"
+msgid "Glass of Wine (Adventure)"
+msgstr ""
+
+msgctxt "0	40705	128	CHK"
+msgid "Assassin's Spear (Adventure)"
+msgstr ""
+
+msgctxt "0	40734	129	CHK"
+msgid "Election Banner"
+msgstr ""
+
+msgctxt "0	40750	130	CHK"
+msgid "Hanamidori Nabe (Adventure)"
+msgstr ""
+
+msgctxt "0	40778	131	CHK"
+msgid "Glass Used at Polaris (Adventure)"
+msgstr ""
+
+msgctxt "0	40812	132	CHK"
+msgid "Briefcase Full of Money"
+msgstr ""
+
+msgctxt "0	40836	133	CHK"
+msgid "Snowmobile Key"
+msgstr ""
+
+msgctxt "0	40851	134	CHK"
+msgid "General-Use Cigarette (Lit)"
+msgstr ""
+
+msgctxt "0	40879	135	CHK"
+msgid "Well-Used Bat (Adventure)"
+msgstr ""
+
+msgctxt "0	40905	136	CHK"
+msgid "Rocks Glass (Gold)"
+msgstr ""
+
+msgctxt "0	40924	137	CHK"
+msgid "Taiko No Tatsujin 2P Blue Left Taiko Stick"
+msgstr ""
+
+msgctxt "0	40967	138	CHK"
+msgid "Taiko No Tatsujin 2P Blue Right Taiko Stick"
+msgstr ""
+
+msgctxt "0	41011	139	CHK"
+msgid "Flower Bag (Adventure)"
+msgstr ""
+
+msgctxt "0	41034	140	CHK"
+msgid "Drawing Bell (Small Object Registration)"
+msgstr ""
+
+msgctxt "0	41075	141	CHK"
+msgid "Ping Pong Paddle"
+msgstr ""
+
+msgctxt "0	41092	142	CHK"
+msgid "Digital Song Catalog"
+msgstr ""
+
+msgctxt "0	41113	143	CHK"
+msgid "[WDR] Business Bag A (Left)"
+msgstr ""
+
+msgctxt "0	41141	144	CHK"
+msgid "[WDR] Business Bag A (Right)"
+msgstr ""
+
+msgctxt "0	41170	145	CHK"
+msgid "[WDR] Business Bag B (Left)"
+msgstr ""
+
+msgctxt "0	41198	146	CHK"
+msgid "[WDR] Business Bag B (Right)"
+msgstr ""
+
+msgctxt "0	41227	147	CHK"
+msgid "[WDR] Overnight Bag A (Left)"
+msgstr ""
+
+msgctxt "0	41256	148	CHK"
+msgid "[WDR] Overnight Bag A (Right)"
+msgstr ""
+
+msgctxt "0	41286	149	CHK"
+msgid "[WDR] Overnight Bag B (Left)"
+msgstr ""
+
+msgctxt "0	41315	150	CHK"
+msgid "[WDR] Overnight Bag B (Right)"
+msgstr ""
+
+msgctxt "0	41345	151	CHK"
+msgid "[WDR] Handbag A (Left)"
+msgstr ""
+
+msgctxt "0	41368	152	CHK"
+msgid "[WDR] Handbag A (Right)"
+msgstr ""
+
+msgctxt "0	41392	153	CHK"
+msgid "[WDR] Handbag B (Left)"
+msgstr ""
+
+msgctxt "0	41415	154	CHK"
+msgid "[WDR] Handbag B (Right)"
+msgstr ""
+
+msgctxt "0	41439	155	CHK"
+msgid "[WDR] Paper Bag A_Small (Left)"
+msgstr ""
+
+msgctxt "0	41470	156	CHK"
+msgid "[WDR] Paper Bag A_Small (Right)"
+msgstr ""
+
+msgctxt "0	41502	157	CHK"
+msgid "[WDR] Paper Bag B_Small (Left)"
+msgstr ""
+
+msgctxt "0	41533	158	CHK"
+msgid "[WDR] Paper Bag B_Small (Right)"
+msgstr ""
+
+msgctxt "0	41565	159	CHK"
+msgid "[WDR] Paper Bag C_Medium (Left)"
+msgstr ""
+
+msgctxt "0	41597	160	CHK"
+msgid "[WDR] Paper Bag C_Medium (Right)"
+msgstr ""
+
+msgctxt "0	41630	161	CHK"
+msgid "[WDR] Paper Bag D_Medium (Left)"
+msgstr ""
+
+msgctxt "0	41662	162	CHK"
+msgid "[WDR] Paper Bag D_Medium (Right)"
+msgstr ""
+
+msgctxt "0	41695	163	CHK"
+msgid "[WDR] Paper Bag E_Large (Left)"
+msgstr ""
+
+msgctxt "0	41726	164	CHK"
+msgid "[WDR] Paper Bag E_Large (Right)"
+msgstr ""
+
+msgctxt "0	41758	165	CHK"
+msgid "[WDR] Paper Bag A_Double (Left)"
+msgstr ""
+
+msgctxt "0	41790	166	CHK"
+msgid "[WDR] Paper Bag A_Double (Right)"
+msgstr ""
+
+msgctxt "0	41823	167	CHK"
+msgid "[WDR] Paper Bag B_Double (Left)"
+msgstr ""
+
+msgctxt "0	41855	168	CHK"
+msgid "[WDR] Paper Bag B_Double (Right)"
+msgstr ""
+
+msgctxt "0	41888	169	CHK"
+msgid "[WDR] Sign A"
+msgstr ""
+
+msgctxt "0	41901	170	CHK"
+msgid "[WDR] Bottle of Sake (Left)"
+msgstr ""
+
+msgctxt "0	41929	171	CHK"
+msgid "[WDR] Bottle of Sake (Right)"
+msgstr ""
+
+msgctxt "0	41958	172	CHK"
+msgid "[WDR] Canned Coffee (Left)"
+msgstr ""
+
+msgctxt "0	41985	173	CHK"
+msgid "[WDR] Canned Coffee (Right)"
+msgstr ""
+
+msgctxt "0	42013	174	CHK"
+msgid "[WDR] Beverage Bottle (Left)"
+msgstr ""
+
+msgctxt "0	42042	175	CHK"
+msgid "[WDR] Beverage Bottle (Right)"
+msgstr ""
+
+msgctxt "0	42072	176	CHK"
+msgid "[WDR] Whiskey Glass (Left)"
+msgstr ""
+
+msgctxt "0	42099	177	CHK"
+msgid "[WDR] Whiskey Glass (Right)"
+msgstr ""
+
+msgctxt "0	42127	178	CHK"
+msgid "[WDR] Magazine"
+msgstr ""
+
+msgctxt "0	42142	179	CHK"
+msgid "[WDR] Menu"
+msgstr ""
+
+msgctxt "0	42153	180	CHK"
+msgid "[WDR] Manga"
+msgstr ""
+
+msgctxt "0	42165	181	CHK"
+msgid "[WDR] Ramen"
+msgstr ""
+
+msgctxt "0	42177	182	CHK"
+msgid "[WDR] Shake"
+msgstr ""
+
+msgctxt "0	42189	183	CHK"
+msgid "[WDR] Newspaper"
+msgstr ""
+
+msgctxt "0	42205	184	CHK"
+msgid "[ADV] [Matsuya] Spoon"
+msgstr ""
+
+msgctxt "0	42227	185	CHK"
+msgid "[ADV] Akiyama's Cell Phone"
+msgstr ""
+
+msgctxt "0	42254	186	CHK"
+msgid "[ADV] Color Spray"
+msgstr ""
+
+msgctxt "0	42272	187	CHK"
+msgid "[Minigame] <Karaoke> Microphone Stand"
+msgstr ""
+
+msgctxt "0	42310	188	CHK"
+msgid "[Minigame] <Golf> Iron A"
+msgstr ""
+
+msgctxt "0	42335	189	CHK"
+msgid "[Minigame] <Golf> Iron B"
+msgstr ""
+
+msgctxt "0	42360	190	CHK"
+msgid "[Minigame] <Golf> Iron C"
+msgstr ""
+
+msgctxt "0	42385	191	CHK"
+msgid "[Minigame] <Golf> Driver A"
+msgstr ""
+
+msgctxt "0	42412	192	CHK"
+msgid "[Minigame] <Golf> Driver B"
+msgstr ""
+
+msgctxt "0	42439	193	CHK"
+msgid "[Minigame] <Golf> Driver C"
+msgstr ""
+
+msgctxt "0	42466	194	CHK"
+msgid "[Minigame] <Golf> Putter A"
+msgstr ""
+
+msgctxt "0	42493	195	CHK"
+msgid "[Minigame] <Golf> Putter B"
+msgstr ""
+
+msgctxt "0	42520	196	CHK"
+msgid "[Minigame] <Golf> Putter C"
+msgstr ""
+
+msgctxt "0	42547	197	CHK"
+msgid "[ADV] Woman's Cell Phone"
+msgstr ""
+
+msgctxt "0	42572	198	CHK"
+msgid "[ADV] Cup Sake"
+msgstr ""
+
+msgctxt "0	42587	199	CHK"
+msgid "[ADV] Kiryu's Cell Phone"
+msgstr ""
+
+msgctxt "0	42612	200	CHK"
+msgid "[ADV] Kiryu's Cigarette"
+msgstr ""
+
+msgctxt "0	42636	201	CHK"
+msgid "[ADV] [Matsuya] Matsuya Bowl"
+msgstr ""
+
+msgctxt "0	42665	202	CHK"
+msgid "[ADV] Disposable Chopsticks"
+msgstr ""
+
+msgctxt "0	42693	203	CHK"
+msgid "[ADV] [Matsuya] Matsuya Chopsticks"
+msgstr ""
+
+msgctxt "0	42728	204	CHK"
+msgid "[ADV] Spatula"
+msgstr ""
+
+msgctxt "0	42742	205	CHK"
+msgid "[ADV] Frying Pan"
+msgstr ""
+
+msgctxt "0	42759	206	CHK"
+msgid "[ADV] <Alps> Coffee Cup"
+msgstr ""
+
+msgctxt "0	42783	207	CHK"
+msgid "[ADV] Pocket Tissues"
+msgstr ""
+
+msgctxt "0	42804	208	CHK"
+msgid "[ADV] (General-Use) Cigarette in Right Hand"
+msgstr ""
+
+msgctxt "0	42848	209	CHK"
+msgid "[ADV] (General-Use) Cigarette in Left Hand"
+msgstr ""
+
+msgctxt "0	42891	210	CHK"
+msgid "[ADV] (General-Use) Cup (Glass)"
+msgstr ""
+
+msgctxt "0	42923	211	CHK"
+msgid "[ADV] (General-Use) Shochu Glass"
+msgstr ""
+
+msgctxt "0	42956	212	CHK"
+msgid "[ADV] (General-Use) Japanese Teacup A"
+msgstr ""
+
+msgctxt "0	42994	213	CHK"
+msgid "[ADV] (General-Use) Japanese Teacup B"
+msgstr ""
+
+msgctxt "0	43032	214	CHK"
+msgid "[ADV] [Matsuya] Japanese Teacup"
+msgstr ""
+
+msgctxt "0	43064	215	CHK"
+msgid "[ADV] [Pronto] Coffee Cup"
+msgstr ""
+
+msgctxt "0	43090	216	CHK"
+msgid "[ADV] [Pronto] Tumbler"
+msgstr ""
+
+msgctxt "0	43113	217	CHK"
+msgid "[ADV] Glass Polishing Cloth"
+msgstr ""
+
+msgctxt "0	43141	218	CHK"
+msgid "[ADV] <Kanrai> Stainless Steel Chopsticks"
+msgstr ""
+
+msgctxt "0	43183	219	CHK"
+msgid "[ADV] <Gelateria> Ice Cream Cone"
+msgstr ""
+
+msgctxt "0	43216	220	CHK"
+msgid "[ADV] Glass Cup (Bartender-Only)"
+msgstr ""
+
+msgctxt "0	43249	221	CHK"
+msgid "[ADV] Folding Fan A"
+msgstr ""
+
+msgctxt "0	43269	222	CHK"
+msgid "[ADV] Folding Fan B"
+msgstr ""
+
+msgctxt "0	43289	223	CHK"
+msgid "[ADV] Cell Phone (Blue)"
+msgstr ""
+
+msgctxt "0	43313	224	CHK"
+msgid "[ADV] Cell Phone (Orange)"
+msgstr ""
+
+msgctxt "0	43339	225	CHK"
+msgid "[ADV] Cell Phone (Gray)"
+msgstr ""
+
+msgctxt "0	43363	226	CHK"
+msgid "[ADV] Kiryu's Cigarette Case"
+msgstr ""
+
+msgctxt "0	43392	227	CHK"
+msgid "General-Use Gun for Dialogue"
+msgstr ""
+
+msgctxt "0	43421	228	CHK"
+msgid "[Minigame] <Karaoke> Microphone"
+msgstr ""
+
+msgctxt "0	43453	229	CHK"
+msgid "[Minigame] <Darts> Kiryu's Darts"
+msgstr ""
+
+msgctxt "0	43486	230	CHK"
+msgid "[Minigame] <Darts> Hostess's Darts"
+msgstr ""
+
+msgctxt "0	43521	231	CHK"
+msgid "[Minigame] <Pool> Pool Cue"
+msgstr ""
+
+msgctxt "0	43548	232	CHK"
+msgid "[Minigame] <Hostess Club> Handkerchief"
+msgstr ""
+
+msgctxt "0	43587	233	CHK"
+msgid "[Minigame] <Hostess Club> Stirrer"
+msgstr ""
+
+msgctxt "0	43621	234	CHK"
+msgid "[Minigame] <Hostess Club> Gift"
+msgstr ""
+
+msgctxt "0	43652	235	CHK"
+msgid "[Minigame] <Hostess Club> Tray"
+msgstr ""
+
+msgctxt "0	43683	236	CHK"
+msgid "[Minigame] <Hostess Club> Glass"
+msgstr ""
+
+msgctxt "0	43715	237	CHK"
+msgid "[Minigame] <Hostess Club> Lighter"
+msgstr ""
+
+msgctxt "0	43749	238	CHK"
+msgid "[Minigame] <Hostess Club> Old Business Card"
+msgstr ""
+
+msgctxt "0	43793	239	CHK"
+msgid "[Minigame] <Hostess Club> Fork & Fruit"
+msgstr ""
+
+msgctxt "0	43832	240	CHK"
+msgid "[Minigame] <Hostess Club> Bottle of Yamazaki 12 Years Old"
+msgstr ""
+
+msgctxt "0	43890	241	CHK"
+msgid "[Minigame] <Hostess Club> Unlabeled Bottle"
+msgstr ""
+
+msgctxt "0	43933	242	CHK"
+msgid "[Minigame] <Hostess Club> Dom Perignon-style Bottle"
+msgstr ""
+
+msgctxt "0	43985	243	CHK"
+msgid "[Minigame] <Hostess Club> Champagne Glass"
+msgstr ""
+
+msgctxt "0	44027	244	CHK"
+msgid "[Minigame] <Karaoke> House Phone"
+msgstr ""
+
+msgctxt "0	44060	245	CHK"
+msgid "[Minigame] <Karaoke> Song Selection Book"
+msgstr ""
+
+msgctxt "0	44101	246	CHK"
+msgid "[Minigame] <Hostess Club> Kiryu's Cigarette"
+msgstr ""
+
+msgctxt "0	44145	247	CHK"
+msgid "[Minigame] <Hostess Club> Kiryu's Cigarette Pack"
+msgstr ""
+
+msgctxt "0	44194	248	CHK"
+msgid "[Minigame] <Karaoke> Haruka's Microphone"
+msgstr ""
+
+msgctxt "0	44235	249	CHK"
+msgid "[Minigame] <Golf> Driver"
+msgstr ""
+
+msgctxt "0	44260	250	CHK"
+msgid "[Minigame] <Golf> Iron"
+msgstr ""
+
+msgctxt "0	44283	251	CHK"
+msgid "[Minigame] <Golf> Putter"
+msgstr ""
+
+msgctxt "0	44308	252	CHK"
+msgid "[Minigame] <Bowling> Bowling Ball"
+msgstr ""
+
+msgctxt "0	44342	253	CHK"
+msgid "[Minigame] <Hostess Club> Gift (Handkerchief type)"
+msgstr ""
+
+msgctxt "0	44393	254	CHK"
+msgid "[Minigame] <Hostess Club> Ashtray (Black Glass)"
+msgstr ""
+
+msgctxt "0	44441	255	CHK"
+msgid "[Minigame] <Hostess Club> Old Card from Shine"
+msgstr ""
+
+msgctxt "0	44487	256	CHK"
+msgid "[Minigame] <Hostess Club> Old Card from Jewel"
+msgstr ""
+
+msgctxt "0	44533	257	CHK"
+msgid "[Minigame] <Hostess Club> Old Card from Akiyama's Club"
+msgstr ""
+
+msgctxt "0	44588	258	CHK"
+msgid "[Minigame] <Massage> Syringe"
+msgstr ""
+
+msgctxt "0	44617	259	CHK"
+msgid "[Minigame] <Massage> Earpick"
+msgstr ""
+
+msgctxt "0	44646	260	CHK"
+msgid "[Minigame] <Bowling> Bowling Ball [Special] (Gold)"
+msgstr ""
+
+msgctxt "0	44697	261	CHK"
+msgid "[Minigame] <Bowling> Bowling Ball [Hostess] (Silver)"
+msgstr ""
+
+msgctxt "0	44750	262	CHK"
+msgid "[Minigame] <Bowling> Bowling Ball [Haruka] (Pink)"
+msgstr ""
+
+msgctxt "0	44800	263	CHK"
+msgid "[Minigame] <Bowling> Bowling Ball [Kiryu] (Gray)"
+msgstr ""
+
+msgctxt "0	44849	264	CHK"
+msgid "[Minigame] <Bowling> Bowling Ball [Akiyama] (Red)"
+msgstr ""
+
+msgctxt "0	44899	265	CHK"
+msgid "[Minigame] <Bowling> Bowling Ball [Saejima] (Green)"
+msgstr ""
+
+msgctxt "0	44951	266	CHK"
+msgid "[Minigame] <Bowling> Bowling Ball [Tanimura] (Blue)"
+msgstr ""
+
+msgctxt "0	45003	267	CHK"
+msgid "Access Object Test"
+msgstr ""
+
+msgctxt "0	45022	268	CHK"
+msgid "Reaction Object Base"
+msgstr ""
+
+msgctxt "0	45043	269	CHK"
+msgid "Recovery Item Base"
+msgstr ""
+
+msgctxt "0	45062	270	CHK"
+msgid "Fragment Object Base"
+msgstr ""
+
+msgctxt "0	45083	271	CHK"
+msgid "Fixed Heat Snipe Target Base"
+msgstr ""
+
+msgctxt "0	45112	272	CHK"
+msgid "Entangled/Destructible Object"
+msgstr ""
+
+msgctxt "0	45142	273	CHK"
+msgid "Scenario Door Object (Indestructible State)"
+msgstr ""
+
+msgctxt "0	45186	274	CHK"
+msgid "Scenario Door Object (Destructible State)"
+msgstr ""
+
+msgctxt "0	45228	275	CHK"
+msgid "Scenario Door Object (Destroyed)"
+msgstr ""
+
+msgctxt "0	45261	276	CHK"
+msgid "Access Object Base"
+msgstr ""
+
+msgctxt "0	45280	277	CHK"
+msgid "Vehicle Base (Fixed Placement)"
+msgstr ""
+
+msgctxt "0	45311	278	CHK"
+msgid "Wooden Crate (Pursuit)"
+msgstr ""
+
+msgctxt "0	45334	279	CHK"
+msgid "Cart with Railing (Pursuit)"
+msgstr ""
+
+msgctxt "0	45362	280	CHK"
+msgid "Pile of Wood (Pursuit)"
+msgstr ""
+
+msgctxt "0	45385	281	CHK"
+msgid "White Wood (Pursuit)"
+msgstr ""
+
+msgctxt "0	45406	282	CHK"
+msgid "[Bar] [Suntory] Herradura Tequila Plata"
+msgstr ""
+
+msgctxt "0	45446	283	CHK"
+msgid "[Bar] [Suntory] Rum Gold"
+msgstr ""
+
+msgctxt "0	45471	284	CHK"
+msgid "Forklift (Pursuit)"
+msgstr ""
+
+msgctxt "0	45490	285	CHK"
+msgid "[Bar] Tasting Glass (Light Brown)"
+msgstr ""
+
+msgctxt "0	45524	286	CHK"
+msgid "Microphone Stand"
+msgstr ""
+
+msgctxt "0	45541	287	CHK"
+msgid "Winter Mountain Tutorial Boulder (Destroyed)"
+msgstr ""
+
+msgctxt "0	45586	288	CHK"
+msgid "Tutorial Boulder (Pre-Destruction)"
+msgstr ""
+
+msgctxt "0	45621	289	CHK"
+msgid "Winter Mountain Boulder"
+msgstr ""
+
+msgctxt "0	45645	290	CHK"
+msgid "Majima Family Sofa"
+msgstr ""
+
+msgctxt "0	45664	291	CHK"
+msgid "Broken Majima Family Sofa"
+msgstr ""
+
+msgctxt "0	45690	292	CHK"
+msgid "Majima Family Table"
+msgstr ""
+
+msgctxt "0	45710	293	CHK"
+msgid "Broken Majima Family Table"
+msgstr ""
+
+msgctxt "0	45737	294	CHK"
+msgid "Majima Family Rack"
+msgstr ""
+
+msgctxt "0	45756	295	CHK"
+msgid "Broken Majima Family Rack"
+msgstr ""
+
+msgctxt "0	45782	296	CHK"
+msgid "Trash Can"
+msgstr ""
+
+msgctxt "0	45792	297	CHK"
+msgid "Broken Trash Can"
+msgstr ""
+
+msgctxt "0	45809	298	CHK"
+msgid "Golf Target 100P Mini"
+msgstr ""
+
+msgctxt "0	45831	299	CHK"
+msgid "Golf Target 100P"
+msgstr ""
+
+msgctxt "0	45848	300	CHK"
+msgid "Golf Target 50P"
+msgstr ""
+
+msgctxt "0	45864	301	CHK"
+msgid "Golf Target 30Ps"
+msgstr ""
+
+msgctxt "0	45881	302	CHK"
+msgid "Golf Target 30Pl"
+msgstr ""
+
+msgctxt "0	45898	303	CHK"
+msgid "Golf Target 10P"
+msgstr ""
+
+msgctxt "0	45914	304	CHK"
+msgid "Golf Green 01"
+msgstr ""
+
+msgctxt "0	45928	305	CHK"
+msgid "Golf Green 02"
+msgstr ""
+
+msgctxt "0	45942	306	CHK"
+msgid "Golf Green 03"
+msgstr ""
+
+msgctxt "0	45956	307	CHK"
+msgid "Mini Truck"
+msgstr ""
+
+msgctxt "0	45967	308	CHK"
+msgid "Golf Course Flag"
+msgstr ""
+
+msgctxt "0	45984	309	CHK"
+msgid "Golf Course Flag (Motion)"
+msgstr ""
+
+msgctxt "0	46010	310	CHK"
+msgid "Destroyed Taxi (White)"
+msgstr ""
+
+msgctxt "0	46033	311	CHK"
+msgid "Nailed-Up Board"
+msgstr ""
+
+msgctxt "0	46049	312	CHK"
+msgid "Kamurocho: Wood Barricade (Broken)"
+msgstr ""
+
+msgctxt "0	46084	313	CHK"
+msgid "A-Shaped Sign (No Trespassing)"
+msgstr ""
+
+msgctxt "0	46115	314	CHK"
+msgid "Fence"
+msgstr ""
+
+msgctxt "0	46121	315	CHK"
+msgid "Kamurocho: Broken Wood Barricade (S)"
+msgstr ""
+
+msgctxt "0	46158	316	CHK"
+msgid "Barricade"
+msgstr ""
+
+msgctxt "0	46168	317	CHK"
+msgid "Wooden Table"
+msgstr ""
+
+msgctxt "0	46181	318	CHK"
+msgid "Wood Chair"
+msgstr ""
+
+msgctxt "0	46192	319	CHK"
+msgid "Dirty Chair"
+msgstr ""
+
+msgctxt "0	46204	320	CHK"
+msgid "Little Asia Chair"
+msgstr ""
+
+msgctxt "0	46222	321	CHK"
+msgid "Little Asia Table"
+msgstr ""
+
+msgctxt "0	46240	322	CHK"
+msgid "A-Shaped Sign Fragment"
+msgstr ""
+
+msgctxt "0	46263	323	CHK"
+msgid "Truck"
+msgstr ""
+
+msgctxt "0	46269	324	CHK"
+msgid "Minivan (White)"
+msgstr ""
+
+msgctxt "0	46285	325	CHK"
+msgid "Minivan (Red)"
+msgstr ""
+
+msgctxt "0	46299	326	CHK"
+msgid "Minivan (Black)"
+msgstr ""
+
+msgctxt "0	46315	327	CHK"
+msgid "Minivan (Blue)"
+msgstr ""
+
+msgctxt "0	46330	328	CHK"
+msgid "Van"
+msgstr ""
+
+msgctxt "0	46334	329	CHK"
+msgid "Weapon Shop Vehicle"
+msgstr ""
+
+msgctxt "0	46354	330	CHK"
+msgid "Black Taxi"
+msgstr ""
+
+msgctxt "0	46365	331	CHK"
+msgid "Trash Bag"
+msgstr ""
+
+msgctxt "0	46375	332	CHK"
+msgid "Trash Bag Fragment"
+msgstr ""
+
+msgctxt "0	46394	333	CHK"
+msgid "Pile of Cardboard"
+msgstr ""
+
+msgctxt "0	46412	334	CHK"
+msgid "Pile of Cardboard (Fragment)"
+msgstr ""
+
+msgctxt "0	46441	335	CHK"
+msgid "Bundle of Newspapers"
+msgstr ""
+
+msgctxt "0	46462	336	CHK"
+msgid "Bundle of Newspapers (Broken)"
+msgstr ""
+
+msgctxt "0	46492	337	CHK"
+msgid "Sapporo Electrical Panel_Type A_Base"
+msgstr ""
+
+msgctxt "0	46529	338	CHK"
+msgid "Sapporo Electrical Panel_Type B_Base"
+msgstr ""
+
+msgctxt "0	46566	339	CHK"
+msgid "Sapporo Electrical Panel_Type C_Base"
+msgstr ""
+
+msgctxt "0	46603	340	CHK"
+msgid "Ping Pong Ball"
+msgstr ""
+
+msgctxt "0	46618	341	CHK"
+msgid "(Bar) (Suntory) Chabot Napoleon"
+msgstr ""
+
+msgctxt "0	46650	342	CHK"
+msgid "(Bar) (Suntory) Hakushu 25 Years"
+msgstr ""
+
+msgctxt "0	46683	343	CHK"
+msgid "(Bar) (Suntory) Kuromaru"
+msgstr ""
+
+msgctxt "0	46708	344	CHK"
+msgid "(Bar) (Suntory) White Bowmore 43 Years"
+msgstr ""
+
+msgctxt "0	46747	345	CHK"
+msgid "(Bar) (Suntory) Yamazaki 1984"
+msgstr ""
+
+msgctxt "0	46777	346	CHK"
+msgid "(Bar) Brandy Glass (Yellow)"
+msgstr ""
+
+msgctxt "0	46805	347	CHK"
+msgid "Glass"
+msgstr ""
+
+msgctxt "0	46811	348	CHK"
+msgid "Glass (Broken)"
+msgstr ""
+
+msgctxt "0	46826	349	CHK"
+msgid "Glass (Smashed)"
+msgstr ""
+
+msgctxt "0	46842	350	CHK"
+msgid "Fortune Set"
+msgstr ""
+
+msgctxt "0	46854	351	CHK"
+msgid "Stone Wall First Layer"
+msgstr ""
+
+msgctxt "0	46877	352	CHK"
+msgid "Hard Stone Wall Surface Layer"
+msgstr ""
+
+msgctxt "0	46907	353	CHK"
+msgid "st_Hana_Hide Swaying Curtain"
+msgstr ""
+
+msgctxt "0	46936	354	CHK"
+msgid "Decorative Plant 0"
+msgstr ""
+
+msgctxt "0	46955	355	CHK"
+msgid "Broken Decorative Plant 0"
+msgstr ""
+
+msgctxt "0	46981	356	CHK"
+msgid "Decorative Plant 1"
+msgstr ""
+
+msgctxt "0	47000	357	CHK"
+msgid "Broken Decorative Plant 1"
+msgstr ""
+
+msgctxt "0	47026	358	CHK"
+msgid "Decorative Plant 2"
+msgstr ""
+
+msgctxt "0	47045	359	CHK"
+msgid "Broken Decorative Plant 2"
+msgstr ""
+
+msgctxt "0	47071	360	CHK"
+msgid "Decorative Plant 3"
+msgstr ""
+
+msgctxt "0	47090	361	CHK"
+msgid "Broken Decorative Plant 3"
+msgstr ""
+
+msgctxt "0	47116	362	CHK"
+msgid "Decorative Plant 4"
+msgstr ""
+
+msgctxt "0	47135	363	CHK"
+msgid "Broken Decorative Plant 4"
+msgstr ""
+
+msgctxt "0	47161	364	CHK"
+msgid "Ceiling Spotlight"
+msgstr ""
+
+msgctxt "0	47179	365	CHK"
+msgid "Broken Ceiling Spotlight"
+msgstr ""
+
+msgctxt "0	47204	366	CHK"
+msgid "Chandelier"
+msgstr ""
+
+msgctxt "0	47215	367	CHK"
+msgid "Chandelier_Broken1"
+msgstr ""
+
+msgctxt "0	47234	368	CHK"
+msgid "Chandelier_Broken2"
+msgstr ""
+
+msgctxt "0	47253	369	CHK"
+msgid "Cracked Glass_Large_Ver_1"
+msgstr ""
+
+msgctxt "0	47279	370	CHK"
+msgid "Cracked Glass_Large_Ver_2"
+msgstr ""
+
+msgctxt "0	47305	371	CHK"
+msgid "Glass_Large_Shattered_Ver1"
+msgstr ""
+
+msgctxt "0	47332	372	CHK"
+msgid "Glass_Large_Shattered_Ver2"
+msgstr ""
+
+msgctxt "0	47359	373	CHK"
+msgid "Glass_Large_Shattered_Ver3"
+msgstr ""
+
+msgctxt "0	47386	374	CHK"
+msgid "Glass_Large_Shattered_Ver4"
+msgstr ""
+
+msgctxt "0	47413	375	CHK"
+msgid "Chair 1"
+msgstr ""
+
+msgctxt "0	47421	376	CHK"
+msgid "Table 1"
+msgstr ""
+
+msgctxt "0	47429	377	CHK"
+msgid "Broken Table 1"
+msgstr ""
+
+msgctxt "0	47444	378	CHK"
+msgid "Sewer_Barricade_b"
+msgstr ""
+
+msgctxt "0	47462	379	CHK"
+msgid "White Round Sofa"
+msgstr ""
+
+msgctxt "0	47479	380	CHK"
+msgid "White Round Sofa_Broken"
+msgstr ""
+
+msgctxt "0	47503	381	CHK"
+msgid "Decorative Plant 1_Broken"
+msgstr ""
+
+msgctxt "0	47529	382	CHK"
+msgid "Door (Tutorial)"
+msgstr ""
+
+msgctxt "0	47545	383	CHK"
+msgid "Dummy for Glass Collision Detection"
+msgstr ""
+
+msgctxt "0	47581	384	CHK"
+msgid "Glass Crack"
+msgstr ""
+
+msgctxt "0	47593	385	CHK"
+msgid "Trash Bag A (Clear Plastic)"
+msgstr ""
+
+msgctxt "0	47621	386	CHK"
+msgid "(Night) Taxi (Navy)"
+msgstr ""
+
+msgctxt "0	47641	387	CHK"
+msgid "(Night) Taxi (Orange)"
+msgstr ""
+
+msgctxt "0	47663	388	CHK"
+msgid "(Night) Taxi (White)"
+msgstr ""
+
+msgctxt "0	47684	389	CHK"
+msgid "(Night) Sedan (Navy)"
+msgstr ""
+
+msgctxt "0	47705	390	CHK"
+msgid "(Night) Light Van (White)"
+msgstr ""
+
+msgctxt "0	47731	391	CHK"
+msgid "Taxi (Dark Blue) [Day and Night]"
+msgstr ""
+
+msgctxt "0	47764	392	CHK"
+msgid "(Day) Taxi (Orange)"
+msgstr ""
+
+msgctxt "0	47784	393	CHK"
+msgid "Taxi (White) [Day and Night]"
+msgstr ""
+
+msgctxt "0	47813	394	CHK"
+msgid "Sedan (Dark Blue) [Day and Night]"
+msgstr ""
+
+msgctxt "0	47847	395	CHK"
+msgid "(Day) Light Van (White)"
+msgstr ""
+
+msgctxt "0	47871	396	CHK"
+msgid "(Day) Phone Booth"
+msgstr ""
+
+msgctxt "0	47889	397	CHK"
+msgid "(Night) Phone Booth"
+msgstr ""
+
+msgctxt "0	47909	398	CHK"
+msgid "(Stationary Non-Weapon) Beer Keg"
+msgstr ""
+
+msgctxt "0	47942	399	CHK"
+msgid "(Stationary Non-Weapon) Beer Case"
+msgstr ""
+
+msgctxt "0	47976	400	CHK"
+msgid "(Stationary Non-Weapon) Cone (Red)"
+msgstr ""
+
+msgctxt "0	48011	401	CHK"
+msgid "(Stationary Non-Weapon) Cone (White/Red)"
+msgstr ""
+
+msgctxt "0	48052	402	CHK"
+msgid "(Stationary Non-Weapon) Cone"
+msgstr ""
+
+msgctxt "0	48081	403	CHK"
+msgid "(Stationary Non-Weapon) Plant"
+msgstr ""
+
+msgctxt "0	48111	404	CHK"
+msgid "Flag Base"
+msgstr ""
+
+msgctxt "0	48121	405	CHK"
+msgid "(Minigame)<Hostess Club> Fruit Platter Combination (Large)"
+msgstr ""
+
+msgctxt "0	48180	406	CHK"
+msgid "(Minigame)<Hostess Club> Fruit Platter Combination (Medium)"
+msgstr ""
+
+msgctxt "0	48240	407	CHK"
+msgid "(Minigame)<Hostess Club> Fruit Platter Combination (Small)"
+msgstr ""
+
+msgctxt "0	48299	408	CHK"
+msgid "(Minigame) <Hostess Club> Watered Down Whisky"
+msgstr ""
+
+msgctxt "0	48345	409	CHK"
+msgid "(Minigame) <Hostess Club> Watered Down Shochu"
+msgstr ""
+
+msgctxt "0	48391	410	CHK"
+msgid "(Minigame) <Hostess Club> Empty Glass"
+msgstr ""
+
+msgctxt "0	48429	411	CHK"
+msgid "(Minigame) <Hostess Club> Beer Glass (Beer)"
+msgstr ""
+
+msgctxt "0	48473	412	CHK"
+msgid "(Minigame) <Hostess Club> Beer Glass (Orange Juice)"
+msgstr ""
+
+msgctxt "0	48525	413	CHK"
+msgid "(Minigame) <Hostess Club> Beer Glass (Empty)"
+msgstr ""
+
+msgctxt "0	48570	414	CHK"
+msgid "(Minigame) <Hostess Club> Champagne Glass"
+msgstr ""
+
+msgctxt "0	48612	415	CHK"
+msgid "(Minigame) <Hostess Club> Empty Champagne Glass"
+msgstr ""
+
+msgctxt "0	48660	416	CHK"
+msgid "(Minigame) <Hostess Club> Coaster"
+msgstr ""
+
+msgctxt "0	48694	417	CHK"
+msgid "(Minigame) <Hostess Club> Warm Towel"
+msgstr ""
+
+msgctxt "0	48731	418	CHK"
+msgid "(Chase Action) Safety Drum"
+msgstr ""
+
+msgctxt "0	48758	419	CHK"
+msgid "(Chase Action) Directional Sign"
+msgstr ""
+
+msgctxt "0	48790	420	CHK"
+msgid "(Chase Action) Construction Site Boundary"
+msgstr ""
+
+msgctxt "0	48832	421	CHK"
+msgid "(Chase Action) Building Materials (Concrete)"
+msgstr ""
+
+msgctxt "0	48877	422	CHK"
+msgid "Forklift"
+msgstr ""
+
+msgctxt "0	48886	423	CHK"
+msgid "Near Broken Wooden Door"
+msgstr ""
+
+msgctxt "0	48910	424	CHK"
+msgid "Nailed-Up Board (Unbreakable)"
+msgstr ""
+
+msgctxt "0	48940	425	CHK"
+msgid "Signboard"
+msgstr ""
+
+msgctxt "0	48950	426	CHK"
+msgid "Beer Case"
+msgstr ""
+
+msgctxt "0	48960	427	CHK"
+msgid "Signboard (Type A) Izakaya 01"
+msgstr ""
+
+msgctxt "0	48990	428	CHK"
+msgid "Corn (Small)"
+msgstr ""
+
+msgctxt "0	49003	429	CHK"
+msgid "No Bicycle Parking Sign"
+msgstr ""
+
+msgctxt "0	49027	430	CHK"
+msgid "Cart"
+msgstr ""
+
+msgctxt "0	49032	431	CHK"
+msgid "White Bicycle"
+msgstr ""
+
+msgctxt "0	49046	432	CHK"
+msgid "Orange Bicycle"
+msgstr ""
+
+msgctxt "0	49061	433	CHK"
+msgid "Red Bicycle"
+msgstr ""
+
+msgctxt "0	49073	434	CHK"
+msgid "Bicycle"
+msgstr ""
+
+msgctxt "0	49081	435	CHK"
+msgid "Silver Bicycle"
+msgstr ""
+
+msgctxt "0	49096	436	CHK"
+msgid "Mountain Bike"
+msgstr ""
+
+msgctxt "0	49110	437	CHK"
+msgid "Winter Mountain Item"
+msgstr ""
+
+msgctxt "0	49131	438	CHK"
+msgid "Batting Object"
+msgstr ""
+
+msgctxt "0	49146	439	CHK"
+msgid "Batting Object (Broken 1)"
+msgstr ""
+
+msgctxt "0	49172	440	CHK"
+msgid "Batting Object (Broken 2)"
+msgstr ""
+
+msgctxt "0	49198	441	CHK"
+msgid "Batting Object (Broken 3)"
+msgstr ""
+
+msgctxt "0	49224	442	CHK"
+msgid "Batting Object (Fragment)"
+msgstr ""
+
+msgctxt "0	49250	443	CHK"
+msgid "Forklift (Scenario Staging Fixed)"
+msgstr ""
+
+msgctxt "0	49284	444	CHK"
+msgid "(ADV) IF7R (Open Door)"
+msgstr ""
+
+msgctxt "0	49307	445	CHK"
+msgid "(Revelation hact) (ADV) UFO Catcher Arm"
+msgstr ""
+
+msgctxt "0	49347	446	CHK"
+msgid "Mini-Truck (Morning Glory Orphanage)"
+msgstr ""
+
+msgctxt "0	49384	447	CHK"
+msgid "Cone"
+msgstr ""
+
+msgctxt "0	49389	448	CHK"
+msgid "Bottle"
+msgstr ""
+
+msgctxt "0	49396	449	CHK"
+msgid "Wood Barricade"
+msgstr ""
+
+msgctxt "0	49411	450	CHK"
+msgid "Wood Barricade Fragment"
+msgstr ""
+
+msgctxt "0	49435	451	CHK"
+msgid "Burning Wood Barricade"
+msgstr ""
+
+msgctxt "0	49458	452	CHK"
+msgid "Burning Wood Barricade Fragment"
+msgstr ""
+
+msgctxt "0	49490	453	CHK"
+msgid "Restaurant Door"
+msgstr ""
+
+msgctxt "0	49506	454	CHK"
+msgid "DearDeer Closed Door Fragment"
+msgstr ""
+
+msgctxt "0	49536	455	CHK"
+msgid "Destructible Wall"
+msgstr ""
+
+msgctxt "0	49554	456	CHK"
+msgid "Destructible Wall Fragment"
+msgstr ""
+
+msgctxt "0	49581	457	CHK"
+msgid "Yahata Hideout Door"
+msgstr ""
+
+msgctxt "0	49601	458	CHK"
+msgid "Kamurocho Hills Upper Floor Glass Door"
+msgstr ""
+
+msgctxt "0	49640	459	CHK"
+msgid "Kamurocho Hills Upper Floor Glass Door (Destroyed)"
+msgstr ""
+
+msgctxt "0	49691	460	CHK"
+msgid "Kamurocho Hills Upper Floor Glass"
+msgstr ""
+
+msgctxt "0	49725	461	CHK"
+msgid "Kamurocho Hills Upper Floor Glass Fragment"
+msgstr ""
+
+msgctxt "0	49768	462	CHK"
+msgid "Kamurocho Hills Upper Floor Glass Remnant"
+msgstr ""
+
+msgctxt "0	49810	463	CHK"
+msgid "Yamagasa Family 2F Door"
+msgstr ""
+
+msgctxt "0	49834	464	CHK"
+msgid "Yamagasa Family 2F Door (Destructible State)"
+msgstr ""
+
+msgctxt "0	49879	465	CHK"
+msgid "Yamagasa Family 2F Door (Destroyed)"
+msgstr ""
+
+msgctxt "0	49915	466	CHK"
+msgid "Yamagasa Family 2F Door 2"
+msgstr ""
+
+msgctxt "0	49941	467	CHK"
+msgid "Yamagasa Family 3F Door 1"
+msgstr ""
+
+msgctxt "0	49967	468	CHK"
+msgid "Yamagasa Family 3F Door 2"
+msgstr ""
+
+msgctxt "0	49993	469	CHK"
+msgid "Expressway Traffic Cone"
+msgstr ""
+
+msgctxt "0	50017	470	CHK"
+msgid "Expressway B_Arrow Sign"
+msgstr ""
+
+msgctxt "0	50041	471	CHK"
+msgid "Kamurocho Batting Center Target (Blue)"
+msgstr ""
+
+msgctxt "0	50080	472	CHK"
+msgid "Kamurocho Batting Center Target (Blue) (Broken)"
+msgstr ""
+
+msgctxt "0	50128	473	CHK"
+msgid "Kamurocho Batting Center Target (Gray)"
+msgstr ""
+
+msgctxt "0	50167	474	CHK"
+msgid "Kamurocho Batting Center Target (Gray) (Broken)"
+msgstr ""
+
+msgctxt "0	50215	475	CHK"
+msgid "Osaka Enterprises Office Door 2F"
+msgstr ""
+
+msgctxt "0	50248	476	CHK"
+msgid "Osaka Enterprises Office Door 2F (Destructible)"
+msgstr ""
+
+msgctxt "0	50296	477	CHK"
+msgid "Osaka Enterprises Office Door 2F (Destroyed)"
+msgstr ""
+
+msgctxt "0	50341	478	CHK"
+msgid "Osaka Enterprises Office Door 1F"
+msgstr ""
+
+msgctxt "0	50374	479	CHK"
+msgid "Osaka Enterprises Office Door 1F (Destructible)"
+msgstr ""
+
+msgctxt "0	50422	480	CHK"
+msgid "Osaka Enterprises Office Door 1F (Destroyed)"
+msgstr ""
+
+msgctxt "0	50467	481	CHK"
+msgid "Batting Center Glass (Normal State)"
+msgstr ""
+
+msgctxt "0	50503	482	CHK"
+msgid "Batting Center Glass (Cracked Level 1)"
+msgstr ""
+
+msgctxt "0	50542	483	CHK"
+msgid "Batting Center Glass (Cracked Level 1 Fragment)"
+msgstr ""
+
+msgctxt "0	50590	484	CHK"
+msgid "Batting Center Glass (Cracked Level 2)"
+msgstr ""
+
+msgctxt "0	50629	485	CHK"
+msgid "Batting Center Glass (Level 2 Fragment)"
+msgstr ""
+
+msgctxt "0	50669	486	CHK"
+msgid "Batting Center Glass (Cracked Level 3)"
+msgstr ""
+
+msgctxt "0	50708	487	CHK"
+msgid "Batting Center Glass (Level 3 Fragment)"
+msgstr ""
+
+msgctxt "0	50748	488	CHK"
+msgid "Black Sedan (Heat)"
+msgstr ""
+
+msgctxt "0	50767	489	CHK"
+msgid "Dark Blue Taxi (Heat)"
+msgstr ""
+
+msgctxt "0	50789	490	CHK"
+msgid "Orange Taxi (Heat)"
+msgstr ""
+
+msgctxt "0	50808	491	CHK"
+msgid "White Taxi (Heat)"
+msgstr ""
+
+msgctxt "0	50826	492	CHK"
+msgid "Batting Center Glass (Cracked Level 4)"
+msgstr ""
+
+msgctxt "0	50865	493	CHK"
+msgid "Batting Center Glass (Level 4 Fragment)"
+msgstr ""
+
+msgctxt "0	50905	494	CHK"
+msgid "Batting Center Glass (Cracked Level 5)"
+msgstr ""
+
+msgctxt "0	50944	495	CHK"
+msgid "Batting Center Glass (Level 5 Fragment)"
+msgstr ""
+
+msgctxt "0	50984	496	CHK"
+msgid "Falling Potted Plant (Broken)"
+msgstr ""
+
+msgctxt "0	51014	497	CHK"
+msgid "Falling Glass (Broken)"
+msgstr ""
+
+msgctxt "0	51037	498	CHK"
+msgid "Coliseum_Abyss_Pre-Destruction_Transparent"
+msgstr ""
+
+msgctxt "0	51080	499	CHK"
+msgid "Coliseum_Abyss_First_Destruction_Transparent"
+msgstr ""
+
+msgctxt "0	51125	500	CHK"
+msgid "Coliseum_Abyss_First_Destruction_Fragment"
+msgstr ""
+
+msgctxt "0	51167	501	CHK"
+msgid "Coliseum_Abyss_Second_Destruction_Fragment"
+msgstr ""
+
+msgctxt "0	51210	502	CHK"
+msgid "Coliseum_Normal_Column"
+msgstr ""
+
+msgctxt "0	51233	503	CHK"
+msgid "Coliseum_Normal_Fence_Transparent"
+msgstr ""
+
+msgctxt "0	51267	504	CHK"
+msgid "Coliseum_Normal_Column_Transparent"
+msgstr ""
+
+msgctxt "0	51302	505	CHK"
+msgid "Coliseum_Abyss_Column"
+msgstr ""
+
+msgctxt "0	51324	506	CHK"
+msgid "Coliseum_Abyss_Column_Transparent"
+msgstr ""
+
+msgctxt "0	51358	507	CHK"
+msgid "Coliseum_Normal_Post_02"
+msgstr ""
+
+msgctxt "0	51382	508	CHK"
+msgid "Fragile Door"
+msgstr ""
+
+msgctxt "0	51395	509	CHK"
+msgid "Underground Mall Lit Door Fragment"
+msgstr ""
+
+msgctxt "0	51430	510	CHK"
+msgid "[Bar] [Suntory] Torys Extra"
+msgstr ""
+
+msgctxt "0	51458	511	CHK"
+msgid "[Bar] [Suntory] Yamazaki 18 Years Old"
+msgstr ""
+
+msgctxt "0	51496	512	CHK"
+msgid "[Bar] [Suntory] The Macallan 10 Years Old"
+msgstr ""
+
+msgctxt "0	51538	513	CHK"
+msgid "Carboard Box"
+msgstr ""
+
+msgctxt "0	51551	514	CHK"
+msgid "Generic Office 03 Broken Cardboard Box Model"
+msgstr ""
+
+msgctxt "0	51596	515	CHK"
+msgid "ADV Stationed Patrol Car"
+msgstr ""
+
+msgctxt "0	51621	516	CHK"
+msgid "Recovery Item"
+msgstr ""
+
+msgctxt "0	51635	517	CHK"
+msgid "(Bar) (Suntory) Yamazaki 25 Years"
+msgstr ""
+
+msgctxt "0	51669	518	CHK"
+msgid "(Bar) (Suntory) Yamazaki 12 Years"
+msgstr ""
+
+msgctxt "0	51703	519	CHK"
+msgid "(Bar) (Suntory) Hakushu 12 Years"
+msgstr ""
+
+msgctxt "0	51736	520	CHK"
+msgid "(Bar) (Suntory) The Macallan 1946"
+msgstr ""
+
+msgctxt "0	51770	521	CHK"
+msgid "(Bar) (Suntory) The Macallan 30 Years"
+msgstr ""
+
+msgctxt "0	51808	522	CHK"
+msgid "(Bar) (Suntory) The Macallan 12 Years"
+msgstr ""
+
+msgctxt "0	51846	523	CHK"
+msgid "(Bar) (Suntory) Laphroaig 30 Years"
+msgstr ""
+
+msgctxt "0	51881	524	CHK"
+msgid "(Bar) (Suntory) Laphroaig 10 Years"
+msgstr ""
+
+msgctxt "0	51916	525	CHK"
+msgid "(Bar) (Suntory) Bowmore 12 Years"
+msgstr ""
+
+msgctxt "0	51949	526	CHK"
+msgid "(Bar) (Suntory) Glenfiddich 30 Years"
+msgstr ""
+
+msgctxt "0	51986	527	CHK"
+msgid "(Bar) (Suntory) Glenfiddich 12 Years"
+msgstr ""
+
+msgctxt "0	52023	528	CHK"
+msgid "(Bar) (Suntory) Hibiki 30 Years Old"
+msgstr ""
+
+msgctxt "0	52059	529	CHK"
+msgid "(Bar) (Suntory) Hibiki"
+msgstr ""
+
+msgctxt "0	52082	530	CHK"
+msgid "(Bar) (Suntory) Hokuto 12 Years"
+msgstr ""
+
+msgctxt "0	52114	531	CHK"
+msgid "(Bar) (Suntory) Kakubin"
+msgstr ""
+
+msgctxt "0	52138	532	CHK"
+msgid "(Bar) (Suntory) The Suntory Old"
+msgstr ""
+
+msgctxt "0	52170	533	CHK"
+msgid "(Bar) (Suntory) Ballantine's 30 Years Old"
+msgstr ""
+
+msgctxt "0	52212	534	CHK"
+msgid "(Bar) (Suntory) Ballantine's 17 Years Old"
+msgstr ""
+
+msgctxt "0	52254	535	CHK"
+msgid "(Bar) (Suntory) Ballantine's Finest Scotch"
+msgstr ""
+
+msgctxt "0	52297	536	CHK"
+msgid "(Bar) (Suntory) Jack Daniel's"
+msgstr ""
+
+msgctxt "0	52327	537	CHK"
+msgid "(Bar) (Suntory) Early Times"
+msgstr ""
+
+msgctxt "0	52355	538	CHK"
+msgid "(Bar) (Suntory) XO Deluxe"
+msgstr ""
+
+msgctxt "0	52381	539	CHK"
+msgid "(Bar) (Suntory) Suntory Brandy V.S.O.P"
+msgstr ""
+
+msgctxt "0	52420	540	CHK"
+msgid "(Bar) (Suntory) V.O"
+msgstr ""
+
+msgctxt "0	52440	541	CHK"
+msgid "(Bar) (Suntory) Courvoisier XO"
+msgstr ""
+
+msgctxt "0	52471	542	CHK"
+msgid "(Bar) (Suntory) The Premium Malt's"
+msgstr ""
+
+msgctxt "0	52506	543	CHK"
+msgid "(Bar) (Suntory) Carlsberg"
+msgstr ""
+
+msgctxt "0	52532	544	CHK"
+msgid "(Bar) (Suntory) Kyogetsu Green"
+msgstr ""
+
+msgctxt "0	52563	545	CHK"
+msgid "(Bar) (Suntory) Ryukyu Awamori Churajima"
+msgstr ""
+
+msgctxt "0	52604	546	CHK"
+msgid "(Bar) (Suntory) Ryukyu Awamori Tenryuga"
+msgstr ""
+
+msgctxt "0	52644	547	CHK"
+msgid "(Bar) (Suntory) Beefeater"
+msgstr ""
+
+msgctxt "0	52670	548	CHK"
+msgid "(Bar) (Suntory) Lemon Hart Demerara"
+msgstr ""
+
+msgctxt "0	52706	549	CHK"
+msgid "(Bar) (Suntory) Herradura Silver Tequila"
+msgstr ""
+
+msgctxt "0	52747	550	CHK"
+msgid "(Bar) (Suntory) SKYY Vodka"
+msgstr ""
+
+msgctxt "0	52774	551	CHK"
+msgid "(Bar) (Higa Distillery) Umi No Iro"
+msgstr ""
+
+msgctxt "0	52809	552	CHK"
+msgid "(Minigame) (Higa Distillery) Zampa White"
+msgstr ""
+
+msgctxt "0	52850	553	CHK"
+msgid "(Bar) (Tantakatan) Tantakatan"
+msgstr ""
+
+msgctxt "0	52880	554	CHK"
+msgid "(Bar) Shot Glass"
+msgstr ""
+
+msgctxt "0	52897	555	CHK"
+msgid "(Bar) Tumbler"
+msgstr ""
+
+msgctxt "0	52911	556	CHK"
+msgid "(Bar) Whisky Glass"
+msgstr ""
+
+msgctxt "0	52930	557	CHK"
+msgid "(Bar) Brandy Glass"
+msgstr ""
+
+msgctxt "0	52949	558	CHK"
+msgid "(Bar) Tasting Glass (Gold)"
+msgstr ""
+
+msgctxt "0	52976	559	CHK"
+msgid "(Bar) Tasting Glass (Brown)"
+msgstr ""
+
+msgctxt "0	53004	560	CHK"
+msgid "(Bar) Tasting Glass (Sherry)"
+msgstr ""
+
+msgctxt "0	53033	561	CHK"
+msgid "(Bar) Beer Glass"
+msgstr ""
+
+msgctxt "0	53050	562	CHK"
+msgid "(Bar) Whisky Glass (Sherry)"
+msgstr ""
+
+msgctxt "0	53078	563	CHK"
+msgid "(Bar) Cocktail Glass (Kamuro Twilight)"
+msgstr ""
+
+msgctxt "0	53117	564	CHK"
+msgid "(Bar) Shot Glass (Empty Glass)"
+msgstr ""
+
+msgctxt "0	53148	565	CHK"
+msgid "(Bar) Tumbler (Empty Glass)"
+msgstr ""
+
+msgctxt "0	53176	566	CHK"
+msgid "(Bar) Whisky Glass (Empty Glass)"
+msgstr ""
+
+msgctxt "0	53209	567	CHK"
+msgid "(Bar) Brandy Glass (Empty Glass)"
+msgstr ""
+
+msgctxt "0	53242	568	CHK"
+msgid "(Bar) Tasting Glass (Empty Glass)"
+msgstr ""
+
+msgctxt "0	53276	569	CHK"
+msgid "(Bar) Beer Glass (Empty Glass)"
+msgstr ""
+
+msgctxt "0	53307	570	CHK"
+msgid "(Bar) Cocktail Glass (Empty Glass)"
+msgstr ""
+
+msgctxt "0	53342	571	CHK"
+msgid "(Bar) Whisky Glass (Shochu)"
+msgstr ""
+
+msgctxt "0	53370	572	CHK"
+msgid "(Bar) Whisky Glass (Shochu) (Empty Glass)"
+msgstr ""
+
+msgctxt "0	53412	573	CHK"
+msgid "(Minigame) <Cee-lo> Dice"
+msgstr ""
+
+msgctxt "0	53437	574	CHK"
+msgid "Flag"
+msgstr ""
+
+msgctxt "0	53442	575	CHK"
+msgid "Fishing Rod"
+msgstr ""
+
+msgctxt "0	53454	576	CHK"
+msgid "(Minigame) <Hostess Club> Ice Bucket and Tong Set"
+msgstr ""
+
+msgctxt "0	53504	577	CHK"
+msgid "(Minigame) <Baccarat> Kiryu's Hand"
+msgstr ""
+
+msgctxt "0	53539	578	CHK"
+msgid "Partition"
+msgstr ""
+
+msgctxt "0	53549	579	CHK"
+msgid "Desk"
+msgstr ""
+
+msgctxt "0	53554	580	CHK"
+msgid "Spray Ammo Base"
+msgstr ""
+
+msgctxt "0	53570	581	CHK"
+msgid "Bomb Explosion Base"
+msgstr ""
+
+msgctxt "0	53590	582	CHK"
+msgid "Shotgun Ammo Base"
+msgstr ""
+
+msgctxt "0	53608	583	CHK"
+msgid "One-handed Long Object Base"
+msgstr ""
+
+msgctxt "0	53636	584	CHK"
+msgid "Dagger Base"
+msgstr ""
+
+msgctxt "0	53648	585	CHK"
+msgid "One-handed Blade Base (Keepable)"
+msgstr ""
+
+msgctxt "0	53681	586	CHK"
+msgid "Two-handed (Heavy) Base"
+msgstr ""
+
+msgctxt "0	53705	587	CHK"
+msgid "Two-handed (Heavy) Sign Base"
+msgstr ""
+
+msgctxt "0	53734	588	CHK"
+msgid "Two-handed (Heavy) Sofa Base"
+msgstr ""
+
+msgctxt "0	53763	589	CHK"
+msgid "Two-handed (Heavy) Saejima (*Just in case)"
+msgstr ""
+
+msgctxt "0	53806	590	CHK"
+msgid "Two-handed (Heavy) Bicycle Base"
+msgstr ""
+
+msgctxt "0	53838	591	CHK"
+msgid "Two-handed (Heavy) Mountain Bike Base"
+msgstr ""
+
+msgctxt "0	53876	592	CHK"
+msgid "Two-handed (Heavy) Bicycle (Broken Level 1) Base"
+msgstr ""
+
+msgctxt "0	53925	593	CHK"
+msgid "Two-handed Long Object Base"
+msgstr ""
+
+msgctxt "0	53953	594	CHK"
+msgid "Golf Club Base"
+msgstr ""
+
+msgctxt "0	53968	595	CHK"
+msgid "Bat Base"
+msgstr ""
+
+msgctxt "0	53977	596	CHK"
+msgid "Bat (Wooden) Base"
+msgstr ""
+
+msgctxt "0	53995	597	CHK"
+msgid "Two-handed Long Object Base (Keepable)"
+msgstr ""
+
+msgctxt "0	54034	598	CHK"
+msgid "Banner A Template"
+msgstr ""
+
+msgctxt "0	54052	599	CHK"
+msgid "Katana Base"
+msgstr ""
+
+msgctxt "0	54064	600	CHK"
+msgid "Katana Base (Keepable)"
+msgstr ""
+
+msgctxt "0	54087	601	CHK"
+msgid "Super Heavy Weapon Base"
+msgstr ""
+
+msgctxt "0	54111	602	CHK"
+msgid "Great Sword Base"
+msgstr ""
+
+msgctxt "0	54128	603	CHK"
+msgid "Two-handed (Light) Base"
+msgstr ""
+
+msgctxt "0	54152	604	CHK"
+msgid "Two-handed (Light) Metal Object Base"
+msgstr ""
+
+msgctxt "0	54189	605	CHK"
+msgid "Two-handed (Light) Glass Base"
+msgstr ""
+
+msgctxt "0	54219	606	CHK"
+msgid "Two-handed (Light) Decorative Plant Base"
+msgstr ""
+
+msgctxt "0	54260	607	CHK"
+msgid "Two-handed (Light) Trash Can Base"
+msgstr ""
+
+msgctxt "0	54294	608	CHK"
+msgid "Sign A Template (Stage Resource)"
+msgstr ""
+
+msgctxt "0	54327	609	CHK"
+msgid "Sign B Template (Stage Resource)"
+msgstr ""
+
+msgctxt "0	54360	610	CHK"
+msgid "Sign C Template (Stage Resource)"
+msgstr ""
+
+msgctxt "0	54393	611	CHK"
+msgid "Sign D Template (Stage Resource)"
+msgstr ""
+
+msgctxt "0	54426	612	CHK"
+msgid "Sign E Template (Stage Resource)"
+msgstr ""
+
+msgctxt "0	54459	613	CHK"
+msgid "Sign F Template (Stage Resource)"
+msgstr ""
+
+msgctxt "0	54492	614	CHK"
+msgid "Sign G Template (Stage Resource)"
+msgstr ""
+
+msgctxt "0	54525	615	CHK"
+msgid "Pouch Base"
+msgstr ""
+
+msgctxt "0	54536	616	CHK"
+msgid "Pole Base"
+msgstr ""
+
+msgctxt "0	54546	617	CHK"
+msgid "Shotgun Base"
+msgstr ""
+
+msgctxt "0	54559	618	CHK"
+msgid "Dual Handguns Base"
+msgstr ""
+
+msgctxt "0	54578	619	CHK"
+msgid "Rope Base"
+msgstr ""
+
+msgctxt "0	54588	620	CHK"
+msgid "Brass Knuckles Base"
+msgstr ""
+
+msgctxt "0	54608	621	CHK"
+msgid "One-handed Block Base"
+msgstr ""
+
+msgctxt "0	54630	622	CHK"
+msgid "One-handed Block Base (Equippable)"
+msgstr ""
+
+msgctxt "0	54665	623	CHK"
+msgid "Briefcase Base"
+msgstr ""
+
+msgctxt "0	54680	624	CHK"
+msgid "Spray Base"
+msgstr ""
+
+msgctxt "0	54691	625	CHK"
+msgid "Pole Base 2"
+msgstr ""
+
+msgctxt "0	54703	626	CHK"
+msgid "Machine Gun Base"
+msgstr ""
+
+msgctxt "0	54720	627	CHK"
+msgid "Smoke Ball Base"
+msgstr ""
+
+msgctxt "0	54736	628	CHK"
+msgid "Tonfa Base"
+msgstr ""
+
+msgctxt "0	54747	629	CHK"
+msgid "Claw Base"
+msgstr ""
+
+msgctxt "0	54757	630	CHK"
+msgid "Nunchaku Base"
+msgstr ""
+
+msgctxt "0	54771	631	CHK"
+msgid "Chainsaw Base"
+msgstr ""
+
+msgctxt "0	54785	632	CHK"
+msgid "Kali Sticks Base"
+msgstr ""
+
+msgctxt "0	54802	633	CHK"
+msgid "Handgun Base"
+msgstr ""
+
+msgctxt "0	54815	634	CHK"
+msgid "Broken Model Base"
+msgstr ""
+
+msgctxt "0	54833	635	CHK"
+msgid "Bullet Base"
+msgstr ""
+
+msgctxt "0	54845	636	CHK"
+msgid "Assault Rifle Base"
+msgstr ""
+
+msgctxt "0	54864	637	CHK"
+msgid "Magnum Base"
+msgstr ""
+
+msgctxt "0	54876	638	CHK"
+msgid "Gatling Arm Base"
+msgstr ""
+
+msgctxt "0	54893	639	CHK"
+msgid "Sniper Rifle Base"
+msgstr ""
+
+msgctxt "0	54911	640	CHK"
+msgid "Auto-Shotgun Ammo Base"
+msgstr ""
+
+msgctxt "0	54934	641	CHK"
+msgid "Gatling Gun Base"
+msgstr ""
+
+msgctxt "0	54951	642	CHK"
+msgid "Submachine Gun Base (Y4)"
+msgstr ""
+
+msgctxt "0	54976	643	CHK"
+msgid "Anti-Materiel Rifle Base"
+msgstr ""
+
+msgctxt "0	55001	644	CHK"
+msgid "Grenade Base"
+msgstr ""
+
+msgctxt "0	55014	645	CHK"
+msgid "TOW Base"
+msgstr ""
+
+msgctxt "0	55023	646	CHK"
+msgid "Pursuit Weapons Base"
+msgstr ""
+
+msgctxt "0	55044	647	CHK"
+msgid "Vehicle Base"
+msgstr ""
+
+msgctxt "0	55057	648	CHK"
+msgid "Vehicle Parts Base (Body)"
+msgstr ""
+
+msgctxt "0	55083	649	CHK"
+msgid "Vehicle Parts Base (Tires)"
+msgstr ""
+
+msgctxt "0	55110	650	CHK"
+msgid "Vehicle Parts Base (Decals)"
+msgstr ""
+
+msgctxt "0	55138	651	CHK"
+msgid "Vehicle Parts Base (Left Blinkers)"
+msgstr ""
+
+msgctxt "0	55173	652	CHK"
+msgid "Vehicle Parts Base (Right Blinkers)"
+msgstr ""
+
+msgctxt "0	55209	653	CHK"
+msgid "Vehicle Parts Base (Brake Lights)"
+msgstr ""
+
+msgctxt "0	55243	654	CHK"
+msgid "Vehicle Parts Base (Reverse Lights)"
+msgstr ""
+
+msgctxt "0	55279	655	CHK"
+msgid "Vehicle Parts Base (Front Windshield)"
+msgstr ""
+
+msgctxt "0	55317	656	CHK"
+msgid "Vehicle Parts Base (Rear Windshield)"
+msgstr ""
+
+msgctxt "0	55354	657	CHK"
+msgid "Vehicle Parts Base (Left Window)"
+msgstr ""
+
+msgctxt "0	55387	658	CHK"
+msgid "Vehicle Parts Base (Right Window)"
+msgstr ""
+
+msgctxt "0	55421	659	CHK"
+msgid "TOW Ammo"
+msgstr ""
+
+msgctxt "0	55430	660	CHK"
+msgid "Elise Ammo"
+msgstr ""
+
+msgctxt "0	55441	661	CHK"
+msgid "Hunting Shotgun Ammo"
+msgstr ""
+
+msgctxt "0	55462	662	CHK"
+msgid "Path Maker Ammo"
+msgstr ""
+
+msgctxt "0	55478	663	CHK"
+msgid "Flesh Shredder Ammo"
+msgstr ""
+
+msgctxt "0	55498	664	CHK"
+msgid "Smoking Shotgun Ammo"
+msgstr ""
+
+msgctxt "0	55519	665	CHK"
+msgid "Fireworks Gun Ammo"
+msgstr ""
+
+msgctxt "0	55538	666	CHK"
+msgid "9mm Automatic Ammo"
+msgstr ""
+
+msgctxt "0	55557	667	CHK"
+msgid "Handgun Ammo Base"
+msgstr ""
+
+msgctxt "0	55575	668	CHK"
+msgid "Golden Pistol Ammo"
+msgstr ""
+
+msgctxt "0	55594	669	CHK"
+msgid "BB Gun Ammo"
+msgstr ""
+
+msgctxt "0	55606	670	CHK"
+msgid "Kiryu's Taxi:Body:Normal"
+msgstr ""
+
+msgctxt "0	55631	671	CHK"
+msgid "Kiryu's Taxi:Body:White"
+msgstr ""
+
+msgctxt "0	55655	672	CHK"
+msgid "Kiryu's Taxi:Body:Red"
+msgstr ""
+
+msgctxt "0	55677	673	CHK"
+msgid "Kiryu's Taxi:Body:Orange"
+msgstr ""
+
+msgctxt "0	55702	674	CHK"
+msgid "Kiryu's Taxi:Body:Yellow"
+msgstr ""
+
+msgctxt "0	55727	675	CHK"
+msgid "Kiryu's Taxi:Body:Sky Blue"
+msgstr ""
+
+msgctxt "0	55754	676	CHK"
+msgid "Kiryu's Taxi:Body:Green"
+msgstr ""
+
+msgctxt "0	55778	677	CHK"
+msgid "Kiryu's Taxi:Body:Gray"
+msgstr ""
+
+msgctxt "0	55801	678	CHK"
+msgid "Kiryu's Taxi:Body:Pink"
+msgstr ""
+
+msgctxt "0	55824	679	CHK"
+msgid "Kiryu's Taxi:Body:Purple"
+msgstr ""
+
+msgctxt "0	55849	680	CHK"
+msgid "Variety"
+msgstr ""
+
+msgctxt "0	55857	681	CHK"
+msgid "Snowmobile Grenade"
+msgstr ""
+
+msgctxt "0	55876	682	CHK"
+msgid "Amon Blade"
+msgstr ""
+
+msgctxt "0	55887	683	CHK"
+msgid "Amon Spear"
+msgstr ""
+
+msgctxt "0	55898	684	CHK"
+msgid "Snowmobile Grenade Blast Effect 1"
+msgstr ""
+
+msgctxt "0	55932	685	CHK"
+msgid "Snowmobile Grenade Blast Effect 2"
+msgstr ""
+
+msgctxt "0	55966	686	CHK"
+msgid "Kiryu's Taxi:Front Windshield"
+msgstr ""
+
+msgctxt "0	55996	687	CHK"
+msgid "Kiryu's Taxi:Rear Windshield"
+msgstr ""
+
+msgctxt "0	56025	688	CHK"
+msgid "Kiryu's Taxi:Right Window"
+msgstr ""
+
+msgctxt "0	56051	689	CHK"
+msgid "Kiryu's Taxi:Left Window"
+msgstr ""
+
+msgctxt "0	56076	690	CHK"
+msgid "Kiryu's Taxi:Right Blinker"
+msgstr ""
+
+msgctxt "0	56103	691	CHK"
+msgid "Kiryu's Taxi:Right Blinker (Night)"
+msgstr ""
+
+msgctxt "0	56138	692	CHK"
+msgid "Kiryu's Taxi:Left Blinker"
+msgstr ""
+
+msgctxt "0	56164	693	CHK"
+msgid "Kiryu's Taxi:Left Blinker (Night)"
+msgstr ""
+
+msgctxt "0	56198	694	CHK"
+msgid "Kiryu's Taxi:Brake Light"
+msgstr ""
+
+msgctxt "0	56223	695	CHK"
+msgid "Kiryu's Taxi:Brake Light (Night)"
+msgstr ""
+
+msgctxt "0	56256	696	CHK"
+msgid "Kiryu's Taxi:Headlight"
+msgstr ""
+
+msgctxt "0	56279	697	CHK"
+msgid "Kiryu's Taxi:Headlight (Night)"
+msgstr ""
+
+msgctxt "0	56310	698	CHK"
+msgid "Snowmobile"
+msgstr ""
+
+msgctxt "0	56321	699	CHK"
+msgid "Snowmobile:Brake Light"
+msgstr ""
+
+msgctxt "0	56344	700	CHK"
+msgid "Snare Trap"
+msgstr ""
+
+msgctxt "0	56355	701	CHK"
+msgid "Cage Trap"
+msgstr ""
+
+msgctxt "0	56365	702	CHK"
+msgid "Leghold Trap"
+msgstr ""
+
+msgctxt "0	56378	703	CHK"
+msgid "Fishing Pole (River)"
+msgstr ""
+
+msgctxt "0	56399	704	CHK"
+msgid "Bowling:Simple Black"
+msgstr ""
+
+msgctxt "0	56420	705	CHK"
+msgid "Bowling:Hat Trick"
+msgstr ""
+
+msgctxt "0	56438	706	CHK"
+msgid "Bowling:Geos"
+msgstr ""
+
+msgctxt "0	56451	707	CHK"
+msgid "Bowling:Simple Green"
+msgstr ""
+
+msgctxt "0	56472	708	CHK"
+msgid "Bowling:Billy the Destroyer"
+msgstr ""
+
+msgctxt "0	56500	709	CHK"
+msgid "Bowling:Jupiter"
+msgstr ""
+
+msgctxt "0	56516	710	CHK"
+msgid "Bowling:Master Ball"
+msgstr ""
+
+msgctxt "0	56536	711	CHK"
+msgid "Bowling:The Hedgeball"
+msgstr ""
+
+msgctxt "0	56558	712	CHK"
+msgid "Ramen"
+msgstr ""
+
+msgctxt "0	56564	713	CHK"
+msgid "Noodle Ladle"
+msgstr ""
+
+msgctxt "0	56577	714	CHK"
+msgid "Boss's Car"
+msgstr ""
+
+msgctxt "0	56588	715	CHK"
+msgid "Legendary Racer"
+msgstr ""
+
+msgctxt "0	56604	716	CHK"
+msgid "Snare Trap: Marten"
+msgstr ""
+
+msgctxt "0	56623	717	CHK"
+msgid "Snare Trap: Rabbit"
+msgstr ""
+
+msgctxt "0	56642	718	CHK"
+msgid "Snare Trap: Fox"
+msgstr ""
+
+msgctxt "0	56658	719	CHK"
+msgid "Box Trap: Marten"
+msgstr ""
+
+msgctxt "0	56675	720	CHK"
+msgid "Box Trap: Rabbit"
+msgstr ""
+
+msgctxt "0	56692	721	CHK"
+msgid "Box Trap: Fox"
+msgstr ""
+
+msgctxt "0	56706	722	CHK"
+msgid "Leghold Trap: Marten"
+msgstr ""
+
+msgctxt "0	56727	723	CHK"
+msgid "Leghold Trap: Rabbit"
+msgstr ""
+
+msgctxt "0	56748	724	CHK"
+msgid "Leghold Trap: Fox"
+msgstr ""
+
+msgctxt "0	56766	725	CHK"
+msgid "Snowball"
+msgstr ""
+
+msgctxt "0	56775	726	CHK"
+msgid "Snowball (Fragment)"
+msgstr ""
+
+msgctxt "0	56795	727	CHK"
+msgid "Food Stall Trailer"
+msgstr ""
+
+msgctxt "0	56814	728	CHK"
+msgid "Ramen on a Tray Fragment"
+msgstr ""
+
+msgctxt "0	56839	729	CHK"
+msgid "Bowl (with Soup)"
+msgstr ""
+
+msgctxt "0	56856	730	CHK"
+msgid "Four Kings Car/Battle Car Common (Brake Light)"
+msgstr ""
+
+msgctxt "0	56903	731	CHK"
+msgid "Boss's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	56928	732	CHK"
+msgid "Legendary Racer (Brake Light)"
+msgstr ""
+
+msgctxt "0	56958	733	CHK"
+msgid "Avalanche Boulder_a"
+msgstr ""
+
+msgctxt "0	56978	734	CHK"
+msgid "Avalanche Boulder_b"
+msgstr ""
+
+msgctxt "0	56998	735	CHK"
+msgid "Avalanche Boulder_c"
+msgstr ""
+
+msgctxt "0	57018	736	CHK"
+msgid "Avalanche Boulder_d"
+msgstr ""
+
+msgctxt "0	57038	737	CHK"
+msgid "Highway Battle Truck"
+msgstr ""
+
+msgctxt "0	57059	738	CHK"
+msgid "Highway Battle Truck (Night)"
+msgstr ""
+
+msgctxt "0	57088	739	CHK"
+msgid "Container (Red)"
+msgstr ""
+
+msgctxt "0	57104	740	CHK"
+msgid "Container (Blue)"
+msgstr ""
+
+msgctxt "0	57121	741	CHK"
+msgid "Container (Green)"
+msgstr ""
+
+msgctxt "0	57139	742	CHK"
+msgid "Small Container (Red)"
+msgstr ""
+
+msgctxt "0	57161	743	CHK"
+msgid "Small Container (Red) (Broken)"
+msgstr ""
+
+msgctxt "0	57192	744	CHK"
+msgid "Small Container (Blue)"
+msgstr ""
+
+msgctxt "0	57215	745	CHK"
+msgid "Small Container (Blue) (Broken)"
+msgstr ""
+
+msgctxt "0	57247	746	CHK"
+msgid "Small Container (Green)"
+msgstr ""
+
+msgctxt "0	57271	747	CHK"
+msgid "Small Container (Green) (Broken)"
+msgstr ""
+
+msgctxt "0	57304	748	CHK"
+msgid "Cart with Railing"
+msgstr ""
+
+msgctxt "0	57322	749	CHK"
+msgid "Cart with Railing (Broken)"
+msgstr ""
+
+msgctxt "0	57349	750	CHK"
+msgid "Pile of Wood"
+msgstr ""
+
+msgctxt "0	57362	751	CHK"
+msgid "Pile of Wood (Broken)"
+msgstr ""
+
+msgctxt "0	57384	752	CHK"
+msgid "White Wood"
+msgstr ""
+
+msgctxt "0	57395	753	CHK"
+msgid "White Wood (Broken)"
+msgstr ""
+
+msgctxt "0	57415	754	CHK"
+msgid "Wooden Crate"
+msgstr ""
+
+msgctxt "0	57428	755	CHK"
+msgid "Wooden Crate (Broken)"
+msgstr ""
+
+msgctxt "0	57450	756	CHK"
+msgid "Four Kings Type 2 (Blue)"
+msgstr ""
+
+msgctxt "0	57475	757	CHK"
+msgid "Four Kings Type 2 (Yellow)"
+msgstr ""
+
+msgctxt "0	57502	758	CHK"
+msgid "Four Kings Type 2/Battle Car Common (Brake Light)"
+msgstr ""
+
+msgctxt "0	57552	759	CHK"
+msgid "Custom Darts_Point/Barrel 01_Standard"
+msgstr ""
+
+msgctxt "0	57590	760	CHK"
+msgid "Custom Darts_Point/Barrel 02_Straight"
+msgstr ""
+
+msgctxt "0	57628	761	CHK"
+msgid "Custom Darts_Point/Barrel 03_Torpedo"
+msgstr ""
+
+msgctxt "0	57665	762	CHK"
+msgid "Custom Darts_Point/Barrel 04_Standard"
+msgstr ""
+
+msgctxt "0	57703	763	CHK"
+msgid "Custom Darts_Point/Barrel 05_Straight"
+msgstr ""
+
+msgctxt "0	57741	764	CHK"
+msgid "Custom Darts_Point/Barrel 06_Torpedo"
+msgstr ""
+
+msgctxt "0	57778	765	CHK"
+msgid "Custom Darts_Point/Barrel 07_Special Color"
+msgstr ""
+
+msgctxt "0	57821	766	CHK"
+msgid "Custom Darts_Point/Barrel 08_Special Color"
+msgstr ""
+
+msgctxt "0	57864	767	CHK"
+msgid "Custom Darts_Flight/Shaft 01_Small"
+msgstr ""
+
+msgctxt "0	57899	768	CHK"
+msgid "Custom Darts_Flight/Shaft 02_Small"
+msgstr ""
+
+msgctxt "0	57934	769	CHK"
+msgid "Custom Darts_Flight/Shaft 03_Small"
+msgstr ""
+
+msgctxt "0	57969	770	CHK"
+msgid "Custom Darts_Flight/Shaft 04_Large"
+msgstr ""
+
+msgctxt "0	58004	771	CHK"
+msgid "Custom Darts_Flight/Shaft 05_Large"
+msgstr ""
+
+msgctxt "0	58039	772	CHK"
+msgid "Custom Darts_Flight/Shaft 06_Large"
+msgstr ""
+
+msgctxt "0	58074	773	CHK"
+msgid "Custom Darts_Flight/Shaft 07_Special Shape"
+msgstr ""
+
+msgctxt "0	58117	774	CHK"
+msgid "Custom Darts_Flight/Shaft 08_Special Shape"
+msgstr ""
+
+msgctxt "0	58160	775	CHK"
+msgid "Custom Darts_Flight/Shaft 09_Special Shape"
+msgstr ""
+
+msgctxt "0	58203	776	CHK"
+msgid "Custom Darts_Flight/Shaft 10_Special Shape"
+msgstr ""
+
+msgctxt "0	58246	777	CHK"
+msgid "Custom Darts_Flight/Shaft 11_Special Shape"
+msgstr ""
+
+msgctxt "0	58289	778	CHK"
+msgid "Custom Darts_Flight/Shaft 12_Special Shape"
+msgstr ""
+
+msgctxt "0	58332	779	CHK"
+msgid "Pool Obstacle (S)"
+msgstr ""
+
+msgctxt "0	58350	780	CHK"
+msgid "Pool Obstacle (L)"
+msgstr ""
+
+msgctxt "0	58368	781	CHK"
+msgid "Cheap Wooden Bat"
+msgstr ""
+
+msgctxt "0	58385	782	CHK"
+msgid "Pricey Wooden Bat"
+msgstr ""
+
+msgctxt "0	58403	783	CHK"
+msgid "Ash Wood Bat"
+msgstr ""
+
+msgctxt "0	58416	784	CHK"
+msgid "Sacred Wood Bat"
+msgstr ""
+
+msgctxt "0	58432	785	CHK"
+msgid "Crimson Bat"
+msgstr ""
+
+msgctxt "0	58444	786	CHK"
+msgid "Pool Obstacle (M)"
+msgstr ""
+
+msgctxt "0	58462	787	CHK"
+msgid "Pool Obstacle (ML)"
+msgstr ""
+
+msgctxt "0	58481	788	CHK"
+msgid "[Minigame] <Darts> Hostess's Darts_Barrel and Point"
+msgstr ""
+
+msgctxt "0	58533	789	CHK"
+msgid "[Minigame] <Darts> Hostess's Darts_Flight and Shaft"
+msgstr ""
+
+msgctxt "0	58585	790	CHK"
+msgid "[Minigame] <Darts> Kiryu's Darts_Barrel and Point"
+msgstr ""
+
+msgctxt "0	58635	791	CHK"
+msgid "[Minigame] <Darts> Kiryu's Darts_Flight and Shaft"
+msgstr ""
+
+msgctxt "0	58685	792	CHK"
+msgid "Kiryu's Taxi (Motion only, do not use in game)"
+msgstr ""
+
+msgctxt "0	58732	793	CHK"
+msgid "Vixen Zeroes' Sparkly Car"
+msgstr ""
+
+msgctxt "0	58758	794	CHK"
+msgid "Kidnapper's Car"
+msgstr ""
+
+msgctxt "0	58774	795	CHK"
+msgid "Kidnapper's Car (Night)"
+msgstr ""
+
+msgctxt "0	58798	796	CHK"
+msgid "Kidnapper's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	58828	797	CHK"
+msgid "Highway Battle Truck (Left Blinker)"
+msgstr ""
+
+msgctxt "0	58864	798	CHK"
+msgid "Highway Battle Truck (Right Blinker)"
+msgstr ""
+
+msgctxt "0	58901	799	CHK"
+msgid "Highway Battle Truck (Brake Light)"
+msgstr ""
+
+msgctxt "0	58936	800	CHK"
+msgid "Four Kings, Kajiwara's Car"
+msgstr ""
+
+msgctxt "0	58963	801	CHK"
+msgid "Four Kings, Kajiwara's Car (Night)"
+msgstr ""
+
+msgctxt "0	58998	802	CHK"
+msgid "Four Kings, Kajiwara's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	59039	803	CHK"
+msgid "Four Kings, Yoshimi's Car"
+msgstr ""
+
+msgctxt "0	59065	804	CHK"
+msgid "Four Kings, Yoshimi's Car (Night)"
+msgstr ""
+
+msgctxt "0	59099	805	CHK"
+msgid "Four Kings, Yoshimi's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	59139	806	CHK"
+msgid "Four Kings, Nakamura's Car"
+msgstr ""
+
+msgctxt "0	59166	807	CHK"
+msgid "Four Kings, Nakamura's Car (Night)"
+msgstr ""
+
+msgctxt "0	59201	808	CHK"
+msgid "Four Kings, Nakamura's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	59242	809	CHK"
+msgid "Four Kings, Takamura's Car"
+msgstr ""
+
+msgctxt "0	59269	810	CHK"
+msgid "Four Kings, Takamura's Car (Night)"
+msgstr ""
+
+msgctxt "0	59304	811	CHK"
+msgid "Four Kings, Takamura's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	59345	812	CHK"
+msgid "Devil Killers, Nagata's Car"
+msgstr ""
+
+msgctxt "0	59373	813	CHK"
+msgid "Devil Killers, Nagata's Car (Night)"
+msgstr ""
+
+msgctxt "0	59409	814	CHK"
+msgid "Devil Killers, Nagata's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	59451	815	CHK"
+msgid "Devil Killers, Watanabe's Car"
+msgstr ""
+
+msgctxt "0	59481	816	CHK"
+msgid "Devil Killers, Watanabe's Car (Night)"
+msgstr ""
+
+msgctxt "0	59519	817	CHK"
+msgid "Devil Killers, Watanabe's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	59563	818	CHK"
+msgid "Punk, Kiyokawa's Car"
+msgstr ""
+
+msgctxt "0	59584	819	CHK"
+msgid "Punk, Kiyokawa's Car (Night)"
+msgstr ""
+
+msgctxt "0	59613	820	CHK"
+msgid "Punk, Kiyokawa's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	59648	821	CHK"
+msgid "Wada-san's Car"
+msgstr ""
+
+msgctxt "0	59663	822	CHK"
+msgid "Wada-san's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	59692	823	CHK"
+msgid "Onisaka's Car"
+msgstr ""
+
+msgctxt "0	59706	824	CHK"
+msgid "Onisaka's Car (Night)"
+msgstr ""
+
+msgctxt "0	59728	825	CHK"
+msgid "Onisaka's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	59756	826	CHK"
+msgid "Cop, Furumichi's Car"
+msgstr ""
+
+msgctxt "0	59777	827	CHK"
+msgid "Cop, Furumichi's Car (Night)"
+msgstr ""
+
+msgctxt "0	59806	828	CHK"
+msgid "Cop, Furumichi's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	59841	829	CHK"
+msgid "Vixen Zeroes' Car"
+msgstr ""
+
+msgctxt "0	59859	830	CHK"
+msgid "Vixen Zeroes' Car (Night)"
+msgstr ""
+
+msgctxt "0	59885	831	CHK"
+msgid "Vixen Zeroes' Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	59917	832	CHK"
+msgid "Four Kings, Kajiwara's Car (Left Blinker)"
+msgstr ""
+
+msgctxt "0	59959	833	CHK"
+msgid "Four Kings, Kajiwara's Car (Right Blinker)"
+msgstr ""
+
+msgctxt "0	60002	834	CHK"
+msgid "Four Kings, Yoshimi's Car (Left Blinker)"
+msgstr ""
+
+msgctxt "0	60043	835	CHK"
+msgid "Four Kings, Yoshimi's Car (Right Blinker)"
+msgstr ""
+
+msgctxt "0	60085	836	CHK"
+msgid "Four Kings, Nakamura's Car (Left Blinker)"
+msgstr ""
+
+msgctxt "0	60127	837	CHK"
+msgid "Four Kings, Nakamura's Car (Right Blinker)"
+msgstr ""
+
+msgctxt "0	60170	838	CHK"
+msgid "Four Kings, Takamura's Car (Left Blinker)"
+msgstr ""
+
+msgctxt "0	60212	839	CHK"
+msgid "Four Kings, Takamura's Car (Right Blinker)"
+msgstr ""
+
+msgctxt "0	60255	840	CHK"
+msgid "Battle Car, Common (Blinker Left)"
+msgstr ""
+
+msgctxt "0	60289	841	CHK"
+msgid "Battle Car, Common (Blinker Right)"
+msgstr ""
+
+msgctxt "0	60324	842	CHK"
+msgid "Box of Tissues"
+msgstr ""
+
+msgctxt "0	60339	843	CHK"
+msgid "Coworker's Car (Wada)"
+msgstr ""
+
+msgctxt "0	60361	844	CHK"
+msgid "Coworker's Car (Wada) (Night)"
+msgstr ""
+
+msgctxt "0	60391	845	CHK"
+msgid "Coworker's Car (Muramatsu)"
+msgstr ""
+
+msgctxt "0	60418	846	CHK"
+msgid "Coworker's Car (Muramatsu) (Night)"
+msgstr ""
+
+msgctxt "0	60453	847	CHK"
+msgid "Coworker's Car (Brake Light)"
+msgstr ""
+
+msgctxt "0	60482	848	CHK"
+msgid "Coworker's Car (Left Blinker)"
+msgstr ""
+
+msgctxt "0	60512	849	CHK"
+msgid "Coworker's Car (Right Blinker)"
+msgstr ""
+
+msgctxt "0	60543	850	CHK"
+msgid "Cedar Lumber"
+msgstr ""
+
+msgctxt "0	60556	851	CHK"
+msgid "Police Baton"
+msgstr ""
+
+msgctxt "0	60569	852	CHK"
+msgid "Grenade Blast (Normal)"
+msgstr ""
+
+msgctxt "0	60592	853	CHK"
+msgid "Grenade Blast (Zact)"
+msgstr ""
+
+msgctxt "0	60613	854	CHK"
+msgid "Molotov Cocktail Burn Zone (Common)"
+msgstr ""
+
+msgctxt "0	60649	855	CHK"
+msgid "Molotov Cocktail Burn Zone (Zact)"
+msgstr ""
+
+msgctxt "0	60683	856	CHK"
+msgid "Molotov Cocktail Burn Zone (Effect)"
+msgstr ""
+
+msgctxt "0	60719	857	CHK"
+msgid "Grenade Blast (Saigo's Training)"
+msgstr ""
+
+msgctxt "0	60752	858	CHK"
+msgid "Smoking Shotgun Blast"
+msgstr ""
+
+msgctxt "0	60774	859	CHK"
+msgid "Fireworks Gun Blast"
+msgstr ""
+
+msgctxt "0	60794	860	CHK"
+msgid "Round Table"
+msgstr ""
+
+msgctxt "0	60806	861	CHK"
+msgid "Round Table (Broken)"
+msgstr ""
+
+msgctxt "0	60827	862	CHK"
+msgid "Flower Vase"
+msgstr ""
+
+msgctxt "0	60839	863	CHK"
+msgid "Flower Vase (Broken)"
+msgstr ""
+
+msgctxt "0	60860	864	CHK"
+msgid "Extravagant Stool"
+msgstr ""
+
+msgctxt "0	60878	865	CHK"
+msgid "Sweet Chair (Broken)"
+msgstr ""
+
+msgctxt "0	60899	866	CHK"
+msgid "Big Purple Sofa"
+msgstr ""
+
+msgctxt "0	60915	867	CHK"
+msgid "Sofa A (Broken)"
+msgstr ""
+
+msgctxt "0	60931	868	CHK"
+msgid "Purple Sofa"
+msgstr ""
+
+msgctxt "0	60943	869	CHK"
+msgid "Sofa B (Broken)"
+msgstr ""
+
+msgctxt "0	60959	870	CHK"
+msgid "Sturdy Table"
+msgstr ""
+
+msgctxt "0	60972	871	CHK"
+msgid "Table A (Broken)"
+msgstr ""
+
+msgctxt "0	60989	872	CHK"
+msgid "Table"
+msgstr ""
+
+msgctxt "0	60995	873	CHK"
+msgid "Table B (Broken)"
+msgstr ""
+
+msgctxt "0	61012	874	CHK"
+msgid "Table C (Broken)"
+msgstr ""
+
+msgctxt "0	61029	875	CHK"
+msgid "Chair"
+msgstr ""
+
+msgctxt "0	61035	876	CHK"
+msgid "Chair (Broken)"
+msgstr ""
+
+msgctxt "0	61050	877	CHK"
+msgid "Ashtray"
+msgstr ""
+
+msgctxt "0	61058	878	CHK"
+msgid "Ashtray (Broken)"
+msgstr ""
+
+msgctxt "0	61075	879	CHK"
+msgid "Huge Sofa"
+msgstr ""
+
+msgctxt "0	61085	880	CHK"
+msgid "Mini Sofa"
+msgstr ""
+
+msgctxt "0	61095	881	CHK"
+msgid "Table (Broken)"
+msgstr ""
+
+msgctxt "0	61110	882	CHK"
+msgid "Elise"
+msgstr ""
+
+msgctxt "0	61116	883	CHK"
+msgid "Hunting Shotgun (OGREZ)"
+msgstr ""
+
+msgctxt "0	61140	884	CHK"
+msgid "Path Maker (OGREZ)"
+msgstr ""
+
+msgctxt "0	61159	885	CHK"
+msgid "Flesh Shredder (OGREZ)"
+msgstr ""
+
+msgctxt "0	61182	886	CHK"
+msgid "Smoking Shotgun"
+msgstr ""
+
+msgctxt "0	61198	887	CHK"
+msgid "Fireworks Gun"
+msgstr ""
+
+msgctxt "0	61212	888	CHK"
+msgid "New Balalaika"
+msgstr ""
+
+msgctxt "0	61226	889	CHK"
+msgid "Anti-Tank Missile Launcher"
+msgstr ""
+
+msgctxt "0	61253	890	CHK"
+msgid "Silver Bullet Gun"
+msgstr ""
+
+msgctxt "0	61271	891	CHK"
+msgid "Black Umbrella (Open) [Heat]"
+msgstr ""
+
+msgctxt "0	61300	892	CHK"
+msgid "Black Umbrella (Closed) [Heat]"
+msgstr ""
+
+msgctxt "0	61331	893	CHK"
+msgid "Gentleman's Umbrella (Open) [Heat]"
+msgstr ""
+
+msgctxt "0	61366	894	CHK"
+msgid "Gentleman's Umbrella (Closed) [Heat]"
+msgstr ""
+
+msgctxt "0	61403	895	CHK"
+msgid "Elegant Umbrella (Open) [Heat]"
+msgstr ""
+
+msgctxt "0	61434	896	CHK"
+msgid "Elegant Umbrella (Closed) [Heat]"
+msgstr ""
+
+msgctxt "0	61467	897	CHK"
+msgid "Colorful Parasol (Open) [Heat]"
+msgstr ""
+
+msgctxt "0	61498	898	CHK"
+msgid "Colorful Parasol (Closed) [Heat]"
+msgstr ""
+
+msgctxt "0	61531	899	CHK"
+msgid "Volcano Banner"
+msgstr ""
+
+msgctxt "0	61546	900	CHK"
+msgid "Volcano Banner 2 "
+msgstr ""
+
+msgctxt "0	61564	901	CHK"
+msgid "Replica Gun"
+msgstr ""
+
+msgctxt "0	61576	902	CHK"
+msgid "Replica Machine Gun"
+msgstr ""
+
+msgctxt "0	61596	903	CHK"
+msgid "Shoddy Pistol"
+msgstr ""
+
+msgctxt "0	61610	904	CHK"
+msgid "Construction Hammer"
+msgstr ""
+
+msgctxt "0	61630	905	CHK"
+msgid "Bulldozer"
+msgstr ""
+
+msgctxt "0	61640	906	CHK"
+msgid "[Revelation] Big Snowball"
+msgstr ""
+
+msgctxt "0	61666	907	CHK"
+msgid "Sturdy Iron Pipe"
+msgstr ""
+
+msgctxt "0	61683	908	CHK"
+msgid "Aristocrat's Baton"
+msgstr ""
+
+msgctxt "0	61702	909	CHK"
+msgid "Aristocrat's Pole"
+msgstr ""
+
+msgctxt "0	61720	910	CHK"
+msgid "Aristocrat's Tonfa"
+msgstr ""
+
+msgctxt "0	61739	911	CHK"
+msgid "Extremely Sturdy Knife"
+msgstr ""
+
+msgctxt "0	61762	912	CHK"
+msgid "[Revelation] Taxi"
+msgstr ""
+
+msgctxt "0	61780	913	CHK"
+msgid "Fire Extinguisher Ammo"
+msgstr ""
+
+msgctxt "0	61803	914	CHK"
+msgid "Flame Spray"
+msgstr ""
+
+msgctxt "0	61815	915	CHK"
+msgid "Machine Gun Grenade"
+msgstr ""
+
+msgctxt "0	61835	916	CHK"
+msgid "Bicycle (Red)"
+msgstr ""
+
+msgctxt "0	61849	917	CHK"
+msgid "Bicycle (Red) Fragment_Tire"
+msgstr ""
+
+msgctxt "0	61877	918	CHK"
+msgid "Broken Red Bicycle"
+msgstr ""
+
+msgctxt "0	61896	919	CHK"
+msgid "Bicycle (Broken) (Red) Fragment"
+msgstr ""
+
+msgctxt "0	61928	920	CHK"
+msgid "Bicycle (Orange)"
+msgstr ""
+
+msgctxt "0	61945	921	CHK"
+msgid "Bicycle (Orange) Fragment_Tire"
+msgstr ""
+
+msgctxt "0	61976	922	CHK"
+msgid "Broken Orange Bicycle"
+msgstr ""
+
+msgctxt "0	61998	923	CHK"
+msgid "Bicycle (Broken) (Orange) Fragment"
+msgstr ""
+
+msgctxt "0	62033	924	CHK"
+msgid "Bicycle (Black)"
+msgstr ""
+
+msgctxt "0	62049	925	CHK"
+msgid "Bicycle (Black) Fragment_Tire"
+msgstr ""
+
+msgctxt "0	62079	926	CHK"
+msgid "Broken Black Bicycle"
+msgstr ""
+
+msgctxt "0	62100	927	CHK"
+msgid "Bicycle (Broken) (Black) Fragment"
+msgstr ""
+
+msgctxt "0	62134	928	CHK"
+msgid "Bicycle (Blue)"
+msgstr ""
+
+msgctxt "0	62149	929	CHK"
+msgid "Bicycle (Blue) Fragment_Tire"
+msgstr ""
+
+msgctxt "0	62178	930	CHK"
+msgid "Broken Blue Bicycle"
+msgstr ""
+
+msgctxt "0	62198	931	CHK"
+msgid "Bicycle (Broken) (Blue) Fragment"
+msgstr ""
+
+msgctxt "0	62231	932	CHK"
+msgid "Bicycle (Cream)"
+msgstr ""
+
+msgctxt "0	62247	933	CHK"
+msgid "Bicycle (Cream) Fragment_Tire"
+msgstr ""
+
+msgctxt "0	62277	934	CHK"
+msgid "Bicycle (Broken) (Cream) Fragment"
+msgstr ""
+
+msgctxt "0	62311	935	CHK"
+msgid "Bicycle (Olive)"
+msgstr ""
+
+msgctxt "0	62327	936	CHK"
+msgid "Bicycle (Olive) Fragment_Tire"
+msgstr ""
+
+msgctxt "0	62357	937	CHK"
+msgid "Bicycle (Broken) (Olive) Fragment"
+msgstr ""
+
+msgctxt "0	62391	938	CHK"
+msgid "Mountain Bike Fragment_Tire"
+msgstr ""
+
+msgctxt "0	62419	939	CHK"
+msgid "Mountain Bike (Broken)"
+msgstr ""
+
+msgctxt "0	62442	940	CHK"
+msgid "Mountain Bike (Broken) Fragment"
+msgstr ""
+
+msgctxt "0	62474	941	CHK"
+msgid "Trash Can Fragment"
+msgstr ""
+
+msgctxt "0	62493	942	CHK"
+msgid "Trash Basket"
+msgstr ""
+
+msgctxt "0	62506	943	CHK"
+msgid "Trash Basket Fragment"
+msgstr ""
+
+msgctxt "0	62528	944	CHK"
+msgid "Goldcrest"
+msgstr ""
+
+msgctxt "0	62538	945	CHK"
+msgid "Broken Goldcrest"
+msgstr ""
+
+msgctxt "0	62555	946	CHK"
+msgid "Plastic Bucket"
+msgstr ""
+
+msgctxt "0	62570	947	CHK"
+msgid "Plastic Bucket [Broken]"
+msgstr ""
+
+msgctxt "0	62594	948	CHK"
+msgid "Cart [Broken]"
+msgstr ""
+
+msgctxt "0	62608	949	CHK"
+msgid "Cart [Fragment A]"
+msgstr ""
+
+msgctxt "0	62626	950	CHK"
+msgid "Cart [Fragment B]"
+msgstr ""
+
+msgctxt "0	62644	951	CHK"
+msgid "Traffic Cone [Fragment]"
+msgstr ""
+
+msgctxt "0	62668	952	CHK"
+msgid "Beer Case [Fragment]"
+msgstr ""
+
+msgctxt "0	62689	953	CHK"
+msgid "Tire"
+msgstr ""
+
+msgctxt "0	62694	954	CHK"
+msgid "Tire [Broken]"
+msgstr ""
+
+msgctxt "0	62708	955	CHK"
+msgid "Ash Tray [Broken]"
+msgstr ""
+
+msgctxt "0	62726	956	CHK"
+msgid "Gas Stove"
+msgstr ""
+
+msgctxt "0	62736	957	CHK"
+msgid "Portable Gas Stove [Broken]"
+msgstr ""
+
+msgctxt "0	62764	958	CHK"
+msgid "Bowling Ball"
+msgstr ""
+
+msgctxt "0	62777	959	CHK"
+msgid "Bowling Ball [Broken]"
+msgstr ""
+
+msgctxt "0	62799	960	CHK"
+msgid "Bench"
+msgstr ""
+
+msgctxt "0	62805	961	CHK"
+msgid "Bench [Broken]"
+msgstr ""
+
+msgctxt "0	62820	962	CHK"
+msgid "Pliers"
+msgstr ""
+
+msgctxt "0	62827	963	CHK"
+msgid "Pliers [Broken]"
+msgstr ""
+
+msgctxt "0	62843	964	CHK"
+msgid "Fire Hydrant Sign"
+msgstr ""
+
+msgctxt "0	62861	965	CHK"
+msgid "Beverage Bottle Recycle Bin"
+msgstr ""
+
+msgctxt "0	62889	966	CHK"
+msgid "Beverage Bottle Recycle Bin (Broken)"
+msgstr ""
+
+msgctxt "0	62926	967	CHK"
+msgid "Beverage Can Recycle Bin"
+msgstr ""
+
+msgctxt "0	62951	968	CHK"
+msgid "Beverage Can Recycle Bin (Broken)"
+msgstr ""
+
+msgctxt "0	62985	969	CHK"
+msgid "Beer Keg"
+msgstr ""
+
+msgctxt "0	62994	970	CHK"
+msgid "Beer Keg (Broken)"
+msgstr ""
+
+msgctxt "0	63012	971	CHK"
+msgid "Ash Tray (Broken)"
+msgstr ""
+
+msgctxt "0	63030	972	CHK"
+msgid "Traffic Cone Connector"
+msgstr ""
+
+msgctxt "0	63053	973	CHK"
+msgid "Traffic Cone Connector (Broken)"
+msgstr ""
+
+msgctxt "0	63085	974	CHK"
+msgid "Giant Cone"
+msgstr ""
+
+msgctxt "0	63096	975	CHK"
+msgid "Giant Traffic Cone (Broken)"
+msgstr ""
+
+msgctxt "0	63124	976	CHK"
+msgid "777town.net Banner"
+msgstr ""
+
+msgctxt "0	63143	977	CHK"
+msgid "777town.net Sign"
+msgstr ""
+
+msgctxt "0	63160	978	CHK"
+msgid "Crash Cushion"
+msgstr ""
+
+msgctxt "0	63174	979	CHK"
+msgid "Dirty Crash Cushion"
+msgstr ""
+
+msgctxt "0	63194	980	CHK"
+msgid "Large Motorcycle (Red)"
+msgstr ""
+
+msgctxt "0	63217	981	CHK"
+msgid "Large Red Motorcycle Fragment"
+msgstr ""
+
+msgctxt "0	63247	982	CHK"
+msgid "Large Broken Motorcycle (Red)"
+msgstr ""
+
+msgctxt "0	63277	983	CHK"
+msgid "Large Motorcycle (Red) Fragment"
+msgstr ""
+
+msgctxt "0	63309	984	CHK"
+msgid "Large Motorcycle (Red) Front Wheel"
+msgstr ""
+
+msgctxt "0	63344	985	CHK"
+msgid "Large Motorcycle (Blue)"
+msgstr ""
+
+msgctxt "0	63368	986	CHK"
+msgid "Large Motorcycle (Blue) Fragment"
+msgstr ""
+
+msgctxt "0	63401	987	CHK"
+msgid "Large Broken Motorcycle (Blue)"
+msgstr ""
+
+msgctxt "0	63432	988	CHK"
+msgid "Large Motorcycle (Blue) Front Wheel"
+msgstr ""
+
+msgctxt "0	63468	989	CHK"
+msgid "Business Scooter"
+msgstr ""
+
+msgctxt "0	63485	990	CHK"
+msgid "Business Scooter Fragment"
+msgstr ""
+
+msgctxt "0	63511	991	CHK"
+msgid "Business Scooter (Broken)"
+msgstr ""
+
+msgctxt "0	63537	992	CHK"
+msgid "Business Scooter Front Wheel"
+msgstr ""
+
+msgctxt "0	63566	993	CHK"
+msgid "Big Scooter"
+msgstr ""
+
+msgctxt "0	63578	994	CHK"
+msgid "Big Scooter Fragment"
+msgstr ""
+
+msgctxt "0	63599	995	CHK"
+msgid "Broken Big Scooter"
+msgstr ""
+
+msgctxt "0	63618	996	CHK"
+msgid "Even More Broken Big Scooter"
+msgstr ""
+
+msgctxt "0	63647	997	CHK"
+msgid "Scooter (Black)"
+msgstr ""
+
+msgctxt "0	63663	998	CHK"
+msgid "Scooter (Black) Fragment"
+msgstr ""
+
+msgctxt "0	63688	999	CHK"
+msgid "Broken Scooter (Black)"
+msgstr ""
+
+msgctxt "0	63711	1000	CHK"
+msgid "Even More Broken Scooter (Black)"
+msgstr ""
+
+msgctxt "0	63744	1001	CHK"
+msgid "Scooter (Silver)"
+msgstr ""
+
+msgctxt "0	63761	1002	CHK"
+msgid "Scooter (Silver) Fragment"
+msgstr ""
+
+msgctxt "0	63787	1003	CHK"
+msgid "Broken Scooter (Silver)"
+msgstr ""
+
+msgctxt "0	63811	1004	CHK"
+msgid "Even More Broken Scooter (Silver)"
+msgstr ""
+
+msgctxt "0	63845	1005	CHK"
+msgid "Plank"
+msgstr ""
+
+msgctxt "0	63851	1006	CHK"
+msgid "Building Materials: Broken Panel"
+msgstr ""
+
+msgctxt "0	63884	1007	CHK"
+msgid "No Bicycle Parking Sign (Broken)"
+msgstr ""
+
+msgctxt "0	63917	1008	CHK"
+msgid "No Littering Sign"
+msgstr ""
+
+msgctxt "0	63935	1009	CHK"
+msgid "No Littering Sign (Broken)"
+msgstr ""
+
+msgctxt "0	63962	1010	CHK"
+msgid "No Parking Sign (Blue)"
+msgstr ""
+
+msgctxt "0	63985	1011	CHK"
+msgid "No Parking Sign (Blue) (Broken)"
+msgstr ""
+
+msgctxt "0	64017	1012	CHK"
+msgid "No Parking Sign (White)"
+msgstr ""
+
+msgctxt "0	64041	1013	CHK"
+msgid "No Parking Sign (White) (Broken)"
+msgstr ""
+
+msgctxt "0	64074	1014	CHK"
+msgid "Beer Case (Red)"
+msgstr ""
+
+msgctxt "0	64090	1015	CHK"
+msgid "Beer Case (Red) (Broken)"
+msgstr ""
+
+msgctxt "0	64115	1016	CHK"
+msgid "Beer Case (Blue)"
+msgstr ""
+
+msgctxt "0	64132	1017	CHK"
+msgid "Beer Case (Blue) (Broken)"
+msgstr ""
+
+msgctxt "0	64158	1018	CHK"
+msgid "Common Broken Sign Model"
+msgstr ""
+
+msgctxt "0	64183	1019	CHK"
+msgid "Common Broken Banner Model"
+msgstr ""
+
+msgctxt "0	64210	1020	CHK"
+msgid "Gas Cylinder"
+msgstr ""
+
+msgctxt "0	64223	1021	CHK"
+msgid "Gas Cylinder (Broken)"
+msgstr ""
+
+msgctxt "0	64245	1022	CHK"
+msgid "Convenience Store Trash Can (Cans)"
+msgstr ""
+
+msgctxt "0	64280	1023	CHK"
+msgid "Convenience Store Trash Can (Cans) (Broken)"
+msgstr ""
+
+msgctxt "0	64324	1024	CHK"
+msgid "Convenience Store Trash Can (Beverage Bottles)"
+msgstr ""
+
+msgctxt "0	64371	1025	CHK"
+msgid "Convenience Store Trash Can (Beverage Bottles) (Broken)"
+msgstr ""
+
+msgctxt "0	64427	1026	CHK"
+msgid "Convenience Store Trash Can (Combustibles)"
+msgstr ""
+
+msgctxt "0	64470	1027	CHK"
+msgid "Convenience Store Trash Can (Combustibles) (Broken)"
+msgstr ""
+
+msgctxt "0	64522	1028	CHK"
+msgid "Square Trash Can"
+msgstr ""
+
+msgctxt "0	64539	1029	CHK"
+msgid "Square Trash Can (Broken)"
+msgstr ""
+
+msgctxt "0	64565	1030	CHK"
+msgid "Long Folding Table"
+msgstr ""
+
+msgctxt "0	64584	1031	CHK"
+msgid "Long Folding Table (Broken)"
+msgstr ""
+
+msgctxt "0	64612	1032	CHK"
+msgid "Stool"
+msgstr ""
+
+msgctxt "0	64618	1033	CHK"
+msgid "Stool (Broken)"
+msgstr ""
+
+msgctxt "0	64633	1034	CHK"
+msgid "Long Table (Broken)"
+msgstr ""
+
+msgctxt "0	64653	1035	CHK"
+msgid "Plastic Case"
+msgstr ""
+
+msgctxt "0	64666	1036	CHK"
+msgid "Plastic Case Fragment"
+msgstr ""
+
+msgctxt "0	64688	1037	CHK"
+msgid "Square Table"
+msgstr ""
+
+msgctxt "0	64701	1038	CHK"
+msgid "Square Table Fragment"
+msgstr ""
+
+msgctxt "0	64723	1039	CHK"
+msgid "Square Chair"
+msgstr ""
+
+msgctxt "0	64736	1040	CHK"
+msgid "Square Chair Fragment"
+msgstr ""
+
+msgctxt "0	64758	1041	CHK"
+msgid "[Hact] Mountain Bike"
+msgstr ""
+
+msgctxt "0	64779	1042	CHK"
+msgid "Sedan (Black) (Day)"
+msgstr ""
+
+msgctxt "0	64799	1043	CHK"
+msgid "Sedan (Black) (Night)"
+msgstr ""
+
+msgctxt "0	64821	1044	CHK"
+msgid "Sedan (White) (Day)"
+msgstr ""
+
+msgctxt "0	64841	1045	CHK"
+msgid "Sedan (White) (Night)"
+msgstr ""
+
+msgctxt "0	64863	1046	CHK"
+msgid "Sedan (Black) (Day/Town)"
+msgstr ""
+
+msgctxt "0	64888	1047	CHK"
+msgid "Sedan (Black) (Night/Town)"
+msgstr ""
+
+msgctxt "0	64915	1048	CHK"
+msgid "Sedan (White) (Day/Town)"
+msgstr ""
+
+msgctxt "0	64940	1049	CHK"
+msgid "Sedan (White) (Night/Town)"
+msgstr ""
+
+msgctxt "0	64967	1050	CHK"
+msgid "Sedan (Taillight)"
+msgstr ""
+
+msgctxt "0	64985	1051	CHK"
+msgid "Sedan (Right Blinker)"
+msgstr ""
+
+msgctxt "0	65007	1052	CHK"
+msgid "Sedan (Left Blinker)"
+msgstr ""
+
+msgctxt "0	65028	1053	CHK"
+msgid "Moving Vehicle:Scooter (Black)"
+msgstr ""
+
+msgctxt "0	65059	1054	CHK"
+msgid "Moving Vehicle:Scooter:Brake Light"
+msgstr ""
+
+msgctxt "0	65094	1055	CHK"
+msgid "Moving Vehicle:Scooter:Right Blinker"
+msgstr ""
+
+msgctxt "0	65131	1056	CHK"
+msgid "Moving Vehicle:Scooter:Left Blinker"
+msgstr ""
+
+msgctxt "0	65167	1057	CHK"
+msgid "Station Wagon (White) (Day)"
+msgstr ""
+
+msgctxt "0	65195	1058	CHK"
+msgid "Station Wagon (White) (Night)"
+msgstr ""
+
+msgctxt "0	65225	1059	CHK"
+msgid "Minivan (White) (Day)"
+msgstr ""
+
+msgctxt "0	65247	1060	CHK"
+msgid "Minivan (White) (Night)"
+msgstr ""
+
+msgctxt "0	65271	1061	CHK"
+msgid "Station Wagon (Tail Light)"
+msgstr ""
+
+msgctxt "0	65298	1062	CHK"
+msgid "Station Wagon (Right Blinker)"
+msgstr ""
+
+msgctxt "0	65328	1063	CHK"
+msgid "Station Wagon (Left Blinker)"
+msgstr ""
+
+msgctxt "0	65357	1064	CHK"
+msgid "Minivan (Tail Light)"
+msgstr ""
+
+msgctxt "0	65378	1065	CHK"
+msgid "Minivan (Right Blinker)"
+msgstr ""
+
+msgctxt "0	65402	1066	CHK"
+msgid "Minivan (Left Blinker)"
+msgstr ""
+
+msgctxt "0	65425	1067	CHK"
+msgid "Strawberry Madam Sign"
+msgstr ""
+
+msgctxt "0	65447	1068	CHK"
+msgid "Compass Sign"
+msgstr ""
+
+msgctxt "0	65460	1069	CHK"
+msgid "Goose Bump Romance Sign"
+msgstr ""
+
+msgctxt "0	65484	1070	CHK"
+msgid "Karma Sign"
+msgstr ""
+
+msgctxt "0	65495	1071	CHK"
+msgid "Bar Chinaski Sign"
+msgstr ""
+
+msgctxt "0	65513	1072	CHK"
+msgid "Udon Banner"
+msgstr ""
+
+msgctxt "0	65525	1073	CHK"
+msgid "Free Info Booth Sign"
+msgstr ""
+
+msgctxt "0	65546	1074	CHK"
+msgid "Nagasu Parlor Banner"
+msgstr ""
+
+msgctxt "0	65567	1075	CHK"
+msgid "Najimi Inn Sign"
+msgstr ""
+
+msgctxt "0	65583	1076	CHK"
+msgid "Café \"Escape\" Sign"
+msgstr ""
+
+msgctxt "0	65603	1077	CHK"
+msgid "Nagasu Yuyama Mizutaki Sign"
+msgstr ""
+
+msgctxt "0	65631	1078	CHK"
+msgid "Son of Fulci Sign"
+msgstr ""
+
+msgctxt "0	65649	1079	CHK"
+msgid "Whip Encounter Sign"
+msgstr ""
+
+msgctxt "0	65669	1080	CHK"
+msgid "Snapping Turtle Sign"
+msgstr ""
+
+msgctxt "0	65690	1081	CHK"
+msgid "Give U Pain Sign"
+msgstr ""
+
+msgctxt "0	65707	1082	CHK"
+msgid "Sukkori Sign"
+msgstr ""
+
+msgctxt "0	65720	1083	CHK"
+msgid "Cram School Sign"
+msgstr ""
+
+msgctxt "0	65737	1084	CHK"
+msgid "UTRECHT CAFE Sign"
+msgstr ""
+
+msgctxt "0	65755	1085	CHK"
+msgid "UTRECHT CAFE Menu Sign"
+msgstr ""
+
+msgctxt "0	65778	1086	CHK"
+msgid "HARDCORE Sign"
+msgstr ""
+
+msgctxt "0	65792	1087	CHK"
+msgid "Green Beans Sign"
+msgstr ""
+
+msgctxt "0	65809	1088	CHK"
+msgid "Izakaya \"Shakkei\" Sign"
+msgstr ""
+
+msgctxt "0	65832	1089	CHK"
+msgid "Original Dipping Noodles Banner"
+msgstr ""
+
+msgctxt "0	65864	1090	CHK"
+msgid "Nagasu Gifts \"Tsuruya\" Banner"
+msgstr ""
+
+msgctxt "0	65894	1091	CHK"
+msgid "Sadoon Sign"
+msgstr ""
+
+msgctxt "0	65906	1092	CHK"
+msgid "Asian PUB Sign"
+msgstr ""
+
+msgctxt "0	65921	1093	CHK"
+msgid "Kisaragi Sign"
+msgstr ""
+
+msgctxt "0	65935	1094	CHK"
+msgid "Matryo Dentistry Sign"
+msgstr ""
+
+msgctxt "0	65957	1095	CHK"
+msgid "Buzen Banner"
+msgstr ""
+
+msgctxt "0	65970	1096	CHK"
+msgid "Gallery Steave Sign"
+msgstr ""
+
+msgctxt "0	65990	1097	CHK"
+msgid "La Seine Sign"
+msgstr ""
+
+msgctxt "0	66004	1098	CHK"
+msgid "Monthly Parking Lot Banner"
+msgstr ""
+
+msgctxt "0	66031	1099	CHK"
+msgid "Zazen Izakaya \"Toge Jizo\" Sign"
+msgstr ""
+
+msgctxt "0	66062	1100	CHK"
+msgid "Lord Pig Sign"
+msgstr ""
+
+msgctxt "0	66076	1101	CHK"
+msgid "COSTA NAGASU Sign"
+msgstr ""
+
+msgctxt "0	66094	1102	CHK"
+msgid "Bistro \"CyanCat\" Menu Sign"
+msgstr ""
+
+msgctxt "0	66121	1103	CHK"
+msgid "UP TO YOU Sign"
+msgstr ""
+
+msgctxt "0	66136	1104	CHK"
+msgid "\"Don\" Sign"
+msgstr ""
+
+msgctxt "0	66147	1105	CHK"
+msgid "cafe the organic Sign"
+msgstr ""
+
+msgctxt "0	66169	1106	CHK"
+msgid "Media Shop Sign"
+msgstr ""
+
+msgctxt "0	66185	1107	CHK"
+msgid "Café \"Portugal\" Sign"
+msgstr ""
+
+msgctxt "0	66207	1108	CHK"
+msgid "Kuzuyaro Sign"
+msgstr ""
+
+msgctxt "0	66221	1109	CHK"
+msgid "Cafe \"Chaouen\" Menu Sign"
+msgstr ""
+
+msgctxt "0	66246	1110	CHK"
+msgid "Japanese Cuisine \"Chabo\" Sign"
+msgstr ""
+
+msgctxt "0	66276	1111	CHK"
+msgid "Rose Wreath Sign"
+msgstr ""
+
+msgctxt "0	66293	1112	CHK"
+msgid "AWESOME Banner"
+msgstr ""
+
+msgctxt "0	66308	1113	CHK"
+msgid "AWESOME Sign"
+msgstr ""
+
+msgctxt "0	66321	1114	CHK"
+msgid "Getto Hot Spring Banner"
+msgstr ""
+
+msgctxt "0	66345	1115	CHK"
+msgid "Bathing/Lodgings Banner"
+msgstr ""
+
+msgctxt "0	66369	1116	CHK"
+msgid "Monjayaki Banner"
+msgstr ""
+
+msgctxt "0	66386	1117	CHK"
+msgid "Lottery Tickets Banner"
+msgstr ""
+
+msgctxt "0	66409	1118	CHK"
+msgid "DUDE English Conversation School Sign"
+msgstr ""
+
+msgctxt "0	66447	1119	CHK"
+msgid "Izakaya \"Kado\" Sign"
+msgstr ""
+
+msgctxt "0	66467	1120	CHK"
+msgid "Takoyaki Banner"
+msgstr ""
+
+msgctxt "0	66483	1121	CHK"
+msgid "Electrical Panel"
+msgstr ""
+
+msgctxt "0	66500	1122	CHK"
+msgid "Sapporo Electrical Panel_A [Fragment]"
+msgstr ""
+
+msgctxt "0	66538	1123	CHK"
+msgid "Sapporo Electrical Panel_B [Fragment]"
+msgstr ""
+
+msgctxt "0	66576	1124	CHK"
+msgid "Sapporo Electrical Panel_C [Fragment]"
+msgstr ""
+
+msgctxt "0	66614	1125	CHK"
+msgid "Christmas Tree"
+msgstr ""
+
+msgctxt "0	66629	1126	CHK"
+msgid "Christmas Tree [Fragment]"
+msgstr ""
+
+msgctxt "0	66655	1127	CHK"
+msgid "Sled"
+msgstr ""
+
+msgctxt "0	66660	1128	CHK"
+msgid "[Snowball Fight] Post:Long"
+msgstr ""
+
+msgctxt "0	66687	1129	CHK"
+msgid "[Snowball Fight] Post:Short"
+msgstr ""
+
+msgctxt "0	66715	1130	CHK"
+msgid "Excite Coffee Sign"
+msgstr ""
+
+msgctxt "0	66734	1131	CHK"
+msgid "Handwritten Menu Sign"
+msgstr ""
+
+msgctxt "0	66756	1132	CHK"
+msgid "Glass Style Sign"
+msgstr ""
+
+msgctxt "0	66773	1133	CHK"
+msgid "KINTA Sign"
+msgstr ""
+
+msgctxt "0	66784	1134	CHK"
+msgid "Ruso Sign"
+msgstr ""
+
+msgctxt "0	66794	1135	CHK"
+msgid "Odano Sign"
+msgstr ""
+
+msgctxt "0	66805	1136	CHK"
+msgid "IGTK Sign"
+msgstr ""
+
+msgctxt "0	66815	1137	CHK"
+msgid "Cotedazur Cafe Sign"
+msgstr ""
+
+msgctxt "0	66835	1138	CHK"
+msgid "Hoshiguma Sign"
+msgstr ""
+
+msgctxt "0	66850	1139	CHK"
+msgid "Tonkotsu Ramen Sign"
+msgstr ""
+
+msgctxt "0	66870	1140	CHK"
+msgid "Beabea Jingisukan Sign"
+msgstr ""
+
+msgctxt "0	66893	1141	CHK"
+msgid "We Buy Secondhand Clothes Sign"
+msgstr ""
+
+msgctxt "0	66924	1142	CHK"
+msgid "Kakoya Sign"
+msgstr ""
+
+msgctxt "0	66936	1143	CHK"
+msgid "Tsukimino Gifts Sign"
+msgstr ""
+
+msgctxt "0	66957	1144	CHK"
+msgid "DRAGON Sign"
+msgstr ""
+
+msgctxt "0	66969	1145	CHK"
+msgid "Kaigan Bank Sign"
+msgstr ""
+
+msgctxt "0	66986	1146	CHK"
+msgid "Dendalion Sign"
+msgstr ""
+
+msgctxt "0	67001	1147	CHK"
+msgid "Kitaichi Bank Sign"
+msgstr ""
+
+msgctxt "0	67020	1148	CHK"
+msgid "Kaigan Life Insurance Sign"
+msgstr ""
+
+msgctxt "0	67047	1149	CHK"
+msgid "Kaigan Securities Sign"
+msgstr ""
+
+msgctxt "0	67070	1150	CHK"
+msgid "North Bow Sign"
+msgstr ""
+
+msgctxt "0	67085	1151	CHK"
+msgid "KeROMiN Sign"
+msgstr ""
+
+msgctxt "0	67098	1152	CHK"
+msgid "Harapan Sign"
+msgstr ""
+
+msgctxt "0	67111	1153	CHK"
+msgid "fluent Sign"
+msgstr ""
+
+msgctxt "0	67123	1154	CHK"
+msgid "Sakamoto Sign"
+msgstr ""
+
+msgctxt "0	67137	1155	CHK"
+msgid "Tsukimino Free Info Booth Sign"
+msgstr ""
+
+msgctxt "0	67168	1156	CHK"
+msgid "Incredibly Delicious Sign"
+msgstr ""
+
+msgctxt "0	67194	1157	CHK"
+msgid "Islay Islay Sign"
+msgstr ""
+
+msgctxt "0	67211	1158	CHK"
+msgid "Umimasa Sign"
+msgstr ""
+
+msgctxt "0	67224	1159	CHK"
+msgid "Tsukimino BOOK Shop Sign"
+msgstr ""
+
+msgctxt "0	67249	1160	CHK"
+msgid "Donburi Zanmai Sign"
+msgstr ""
+
+msgctxt "0	67269	1161	CHK"
+msgid "Kumagoro Sign"
+msgstr ""
+
+msgctxt "0	67283	1162	CHK"
+msgid "Mokurenya Sign"
+msgstr ""
+
+msgctxt "0	67298	1163	CHK"
+msgid "Nin Hao Sign"
+msgstr ""
+
+msgctxt "0	67311	1164	CHK"
+msgid "Nemi Mix Sign"
+msgstr ""
+
+msgctxt "0	67325	1165	CHK"
+msgid "Hehehe Sign"
+msgstr ""
+
+msgctxt "0	67337	1166	CHK"
+msgid "Chekicchu Sign"
+msgstr ""
+
+msgctxt "0	67352	1167	CHK"
+msgid "Club CONSCIOUS Sign"
+msgstr ""
+
+msgctxt "0	67372	1168	CHK"
+msgid "Anarchy Sign"
+msgstr ""
+
+msgctxt "0	67385	1169	CHK"
+msgid "Corridor of Love Sign"
+msgstr ""
+
+msgctxt "0	67407	1170	CHK"
+msgid "Spwan Sign"
+msgstr ""
+
+msgctxt "0	67418	1171	CHK"
+msgid "Battari Café Sign"
+msgstr ""
+
+msgctxt "0	67437	1172	CHK"
+msgid "My Enjoyment Spot Sign"
+msgstr ""
+
+msgctxt "0	67460	1173	CHK"
+msgid "World Uniforms Sign"
+msgstr ""
+
+msgctxt "0	67480	1174	CHK"
+msgid "Relaxation Room Sign"
+msgstr ""
+
+msgctxt "0	67501	1175	CHK"
+msgid "Net Café Sign"
+msgstr ""
+
+msgctxt "0	67516	1176	CHK"
+msgid "Wakyu Sign"
+msgstr ""
+
+msgctxt "0	67527	1177	CHK"
+msgid "Shimeya Sign"
+msgstr ""
+
+msgctxt "0	67540	1178	CHK"
+msgid "Takaya Sign"
+msgstr ""
+
+msgctxt "0	67552	1179	CHK"
+msgid "Umi Sign"
+msgstr ""
+
+msgctxt "0	67561	1180	CHK"
+msgid "Tsukimino Kogen Beer Sign"
+msgstr ""
+
+msgctxt "0	67587	1181	CHK"
+msgid "Kaidan Karaoke Sign"
+msgstr ""
+
+msgctxt "0	67607	1182	CHK"
+msgid "Senbaya Sign"
+msgstr ""
+
+msgctxt "0	67620	1183	CHK"
+msgid "LE NEZ Sign"
+msgstr ""
+
+msgctxt "0	67632	1184	CHK"
+msgid "Potato Butter Ramen Banner"
+msgstr ""
+
+msgctxt "0	67659	1185	CHK"
+msgid "Ramen Banner"
+msgstr ""
+
+msgctxt "0	67672	1186	CHK"
+msgid "Okojoya Banner"
+msgstr ""
+
+msgctxt "0	67687	1187	CHK"
+msgid "Pachinko Banner"
+msgstr ""
+
+msgctxt "0	67703	1188	CHK"
+msgid "Pet Shop Banner"
+msgstr ""
+
+msgctxt "0	67719	1189	CHK"
+msgid "Crab Rice Bowl Banner"
+msgstr ""
+
+msgctxt "0	67741	1190	CHK"
+msgid "Tonkatsu Banner"
+msgstr ""
+
+msgctxt "0	67757	1191	CHK"
+msgid "No Automobile Traffic Sign"
+msgstr ""
+
+msgctxt "0	67784	1192	CHK"
+msgid "Daily Lunch Special Banner"
+msgstr ""
+
+msgctxt "0	67811	1193	CHK"
+msgid "Jingisukan Banner"
+msgstr ""
+
+msgctxt "0	67829	1194	CHK"
+msgid "Party Course Banner"
+msgstr ""
+
+msgctxt "0	67849	1195	CHK"
+msgid "Nabe Nabe Campaign Banner"
+msgstr ""
+
+msgctxt "0	67875	1196	CHK"
+msgid "Coffee Banner"
+msgstr ""
+
+msgctxt "0	67889	1197	CHK"
+msgid "Devil Crepe Banner"
+msgstr ""
+
+msgctxt "0	67908	1198	CHK"
+msgid "Bomankan Banner"
+msgstr ""
+
+msgctxt "0	67924	1199	CHK"
+msgid "Mart On Banner"
+msgstr ""
+
+msgctxt "0	67939	1200	CHK"
+msgid "Old Man's Club Sign"
+msgstr ""
+
+msgctxt "0	67959	1201	CHK"
+msgid "Reopening Sign"
+msgstr ""
+
+msgctxt "0	67974	1202	CHK"
+msgid "Edge of Dreams Mall Sign"
+msgstr ""
+
+msgctxt "0	67999	1203	CHK"
+msgid "Utattaro Sign"
+msgstr ""
+
+msgctxt "0	68013	1204	CHK"
+msgid "Manga Café Sign"
+msgstr ""
+
+msgctxt "0	68030	1205	CHK"
+msgid "Beniyamin Sign"
+msgstr ""
+
+msgctxt "0	68045	1206	CHK"
+msgid "Gatsugatsutaro Sign"
+msgstr ""
+
+msgctxt "0	68065	1207	CHK"
+msgid "BKB Sign"
+msgstr ""
+
+msgctxt "0	68074	1208	CHK"
+msgid "Otoshimae Sign"
+msgstr ""
+
+msgctxt "0	68089	1209	CHK"
+msgid "Mom's Sign"
+msgstr ""
+
+msgctxt "0	68100	1210	CHK"
+msgid "BAR Ro Sign"
+msgstr ""
+
+msgctxt "0	68112	1211	CHK"
+msgid "Stijl Sign"
+msgstr ""
+
+msgctxt "0	68123	1212	CHK"
+msgid "Nodoban Sign"
+msgstr ""
+
+msgctxt "0	68136	1213	CHK"
+msgid "Mamushi-Don Sign"
+msgstr ""
+
+msgctxt "0	68153	1214	CHK"
+msgid "Yattsan Sign"
+msgstr ""
+
+msgctxt "0	68166	1215	CHK"
+msgid "Cho! Anmen Sign"
+msgstr ""
+
+msgctxt "0	68182	1216	CHK"
+msgid "Darts Sign"
+msgstr ""
+
+msgctxt "0	68193	1217	CHK"
+msgid "Karaoke Sign"
+msgstr ""
+
+msgctxt "0	68206	1218	CHK"
+msgid "Mikey Sign"
+msgstr ""
+
+msgctxt "0	68217	1219	CHK"
+msgid "Hostess Club Sign"
+msgstr ""
+
+msgctxt "0	68235	1220	CHK"
+msgid "House Hunter's Best Friend Sign"
+msgstr ""
+
+msgctxt "0	68267	1221	CHK"
+msgid "Vacancy Sign"
+msgstr ""
+
+msgctxt "0	68280	1222	CHK"
+msgid "Akaneya Sign"
+msgstr ""
+
+msgctxt "0	68293	1223	CHK"
+msgid "Daiku St. Sign"
+msgstr ""
+
+msgctxt "0	68308	1224	CHK"
+msgid "Fortunetelling Sign"
+msgstr ""
+
+msgctxt "0	68328	1225	CHK"
+msgid "Chizumi Sign"
+msgstr ""
+
+msgctxt "0	68341	1226	CHK"
+msgid "Fuguta Sign"
+msgstr ""
+
+msgctxt "0	68353	1227	CHK"
+msgid "Coffee Sign"
+msgstr ""
+
+msgctxt "0	68365	1228	CHK"
+msgid "Sale Sign"
+msgstr ""
+
+msgctxt "0	68375	1229	CHK"
+msgid "Drink Fair Sign"
+msgstr ""
+
+msgctxt "0	68391	1230	CHK"
+msgid "Help Wanted Sign"
+msgstr ""
+
+msgctxt "0	68408	1231	CHK"
+msgid "Wakaki Sign"
+msgstr ""
+
+msgctxt "0	68420	1232	CHK"
+msgid "COOKSTOCK Sign"
+msgstr ""
+
+msgctxt "0	68435	1233	CHK"
+msgid "Food Menu Sign"
+msgstr ""
+
+msgctxt "0	68450	1234	CHK"
+msgid "WILD JACKSON Sign"
+msgstr ""
+
+msgctxt "0	68468	1235	CHK"
+msgid "Fee System Sign"
+msgstr ""
+
+msgctxt "0	68484	1236	CHK"
+msgid "Abaitaro Sign"
+msgstr ""
+
+msgctxt "0	68498	1237	CHK"
+msgid "Disc King Sign"
+msgstr ""
+
+msgctxt "0	68513	1238	CHK"
+msgid "Rodin Detective Agency Sign"
+msgstr ""
+
+msgctxt "0	68541	1239	CHK"
+msgid "Menu Sign"
+msgstr ""
+
+msgctxt "0	68551	1240	CHK"
+msgid "Migratory Bird's Blessing Sign"
+msgstr ""
+
+msgctxt "0	68582	1241	CHK"
+msgid "Fall Fresh-Picked Sign"
+msgstr ""
+
+msgctxt "0	68605	1242	CHK"
+msgid "Masked King Championship Sign"
+msgstr ""
+
+msgctxt "0	68635	1243	CHK"
+msgid "Red Pickled Ginger Sign"
+msgstr ""
+
+msgctxt "0	68659	1244	CHK"
+msgid "Slots \"Shinkai\" Sign"
+msgstr ""
+
+msgctxt "0	68680	1245	CHK"
+msgid "Namidazaka Bar Sign"
+msgstr ""
+
+msgctxt "0	68700	1246	CHK"
+msgid "Iwamitsu Sign"
+msgstr ""
+
+msgctxt "0	68714	1247	CHK"
+msgid "LOVE IN HEART Sign"
+msgstr ""
+
+msgctxt "0	68733	1248	CHK"
+msgid "Onnawari Sign"
+msgstr ""
+
+msgctxt "0	68747	1249	CHK"
+msgid "No Parking Sign"
+msgstr ""
+
+msgctxt "0	68763	1250	CHK"
+msgid "Nanboya Sign"
+msgstr ""
+
+msgctxt "0	68776	1251	CHK"
+msgid "Breakfast Set Sign"
+msgstr ""
+
+msgctxt "0	68795	1252	CHK"
+msgid "Fried Noodles Sign"
+msgstr ""
+
+msgctxt "0	68814	1253	CHK"
+msgid "Orenchi Sign"
+msgstr ""
+
+msgctxt "0	68827	1254	CHK"
+msgid "Yokobori Golf Center Sign"
+msgstr ""
+
+msgctxt "0	68853	1255	CHK"
+msgid "Tetsuji Sign"
+msgstr ""
+
+msgctxt "0	68866	1256	CHK"
+msgid "Wandering Hermit Sign"
+msgstr ""
+
+msgctxt "0	68888	1257	CHK"
+msgid "Ichichan Sign"
+msgstr ""
+
+msgctxt "0	68902	1258	CHK"
+msgid "Well-dan Sign"
+msgstr ""
+
+msgctxt "0	68916	1259	CHK"
+msgid "Toriizaka Sign"
+msgstr ""
+
+msgctxt "0	68931	1260	CHK"
+msgid "Daidokoya Sign"
+msgstr ""
+
+msgctxt "0	68946	1261	CHK"
+msgid "Kushikatsu Sign"
+msgstr ""
+
+msgctxt "0	68962	1262	CHK"
+msgid "Smart Ball Sign"
+msgstr ""
+
+msgctxt "0	68978	1263	CHK"
+msgid "Hachisuke Sign"
+msgstr ""
+
+msgctxt "0	68993	1264	CHK"
+msgid "We Buy Used Books Banner"
+msgstr ""
+
+msgctxt "0	69018	1265	CHK"
+msgid "Soten Wrestling Banner"
+msgstr ""
+
+msgctxt "0	69041	1266	CHK"
+msgid "Big Bargain Sale Banner"
+msgstr ""
+
+msgctxt "0	69065	1267	CHK"
+msgid "Campaign Banner"
+msgstr ""
+
+msgctxt "0	69081	1268	CHK"
+msgid "Okonomiyaki Banner"
+msgstr ""
+
+msgctxt "0	69100	1269	CHK"
+msgid "Electric Whisky Banner"
+msgstr ""
+
+msgctxt "0	69123	1270	CHK"
+msgid "Dine and Dash Banner"
+msgstr ""
+
+msgctxt "0	69144	1271	CHK"
+msgid "Don Quijote Banner"
+msgstr ""
+
+msgctxt "0	69163	1272	CHK"
+msgid "Mikuni Banner"
+msgstr ""
+
+msgctxt "0	69177	1273	CHK"
+msgid "Sotenbori Street Trash Can"
+msgstr ""
+
+msgctxt "0	69204	1274	CHK"
+msgid "Sotenbori Street Trash Can Fragment"
+msgstr ""
+
+msgctxt "0	69240	1275	CHK"
+msgid "Sotenbori No Parking Sign"
+msgstr ""
+
+msgctxt "0	69266	1276	CHK"
+msgid "Sotenbori No Parking Sign Fragment"
+msgstr ""
+
+msgctxt "0	69301	1277	CHK"
+msgid "Kakiin Sign"
+msgstr ""
+
+msgctxt "0	69313	1278	CHK"
+msgid "Play Hard Sign"
+msgstr ""
+
+msgctxt "0	69328	1279	CHK"
+msgid "SAS Cup Sign"
+msgstr ""
+
+msgctxt "0	69341	1280	CHK"
+msgid "Strike Sign"
+msgstr ""
+
+msgctxt "0	69353	1281	CHK"
+msgid "Draft Beer Keg"
+msgstr ""
+
+msgctxt "0	69368	1282	CHK"
+msgid "Draft Beer Keg [Broken]"
+msgstr ""
+
+msgctxt "0	69392	1283	CHK"
+msgid "Table [Broken]"
+msgstr ""
+
+msgctxt "0	69407	1284	CHK"
+msgid "Chair [Broken]"
+msgstr ""
+
+msgctxt "0	69422	1285	CHK"
+msgid "Styrofoam Box"
+msgstr ""
+
+msgctxt "0	69436	1286	CHK"
+msgid "Styrofoam Box [Broken]"
+msgstr ""
+
+msgctxt "0	69459	1287	CHK"
+msgid "Plastic Basket"
+msgstr ""
+
+msgctxt "0	69474	1288	CHK"
+msgid "Plastic Basket [Broken]"
+msgstr ""
+
+msgctxt "0	69498	1289	CHK"
+msgid "Drawing Drum"
+msgstr ""
+
+msgctxt "0	69511	1290	CHK"
+msgid "Drawing Ball"
+msgstr ""
+
+msgctxt "0	69524	1291	CHK"
+msgid "Nagoya Bus"
+msgstr ""
+
+msgctxt "0	69535	1292	CHK"
+msgid "Moving Vehicle: Bus (Nagoya):Night"
+msgstr ""
+
+msgctxt "0	69570	1293	CHK"
+msgid "Multipop Sign"
+msgstr ""
+
+msgctxt "0	69584	1294	CHK"
+msgid "Moving Vehicle: Bus (Nagoya):Brake Light"
+msgstr ""
+
+msgctxt "0	69625	1295	CHK"
+msgid "Moving Vehicle: Bus (Nagoya):Right Blinker"
+msgstr ""
+
+msgctxt "0	69668	1296	CHK"
+msgid "Moving Vehicle: Bus (Nagoya):Left Blinker"
+msgstr ""
+
+msgctxt "0	69710	1297	CHK"
+msgid "Tower Park Sign"
+msgstr ""
+
+msgctxt "0	69726	1298	CHK"
+msgid "Lunch Sign"
+msgstr ""
+
+msgctxt "0	69737	1299	CHK"
+msgid "Wine Restaurant Sign"
+msgstr ""
+
+msgctxt "0	69758	1300	CHK"
+msgid "Restaurant Sign"
+msgstr ""
+
+msgctxt "0	69774	1301	CHK"
+msgid "Wine Bar Sign"
+msgstr ""
+
+msgctxt "0	69788	1302	CHK"
+msgid "Pool Hall Sign"
+msgstr ""
+
+msgctxt "0	69803	1303	CHK"
+msgid "Inakaya Sign"
+msgstr ""
+
+msgctxt "0	69816	1304	CHK"
+msgid "Now Open for Lunch Sign"
+msgstr ""
+
+msgctxt "0	69840	1305	CHK"
+msgid "Pole (Red)"
+msgstr ""
+
+msgctxt "0	69851	1306	CHK"
+msgid "Pole (Green)"
+msgstr ""
+
+msgctxt "0	69864	1307	CHK"
+msgid "Try the Yellowtail Sign"
+msgstr ""
+
+msgctxt "0	69888	1308	CHK"
+msgid "ExcuteCoffe Sign"
+msgstr ""
+
+msgctxt "0	69905	1309	CHK"
+msgid "BAR RedApricot Sign"
+msgstr ""
+
+msgctxt "0	69925	1310	CHK"
+msgid "Web Diver Sign"
+msgstr ""
+
+msgctxt "0	69940	1311	CHK"
+msgid "Sushi Buffet Sign"
+msgstr ""
+
+msgctxt "0	69958	1312	CHK"
+msgid "Tokiwa Real Estate Sign"
+msgstr ""
+
+msgctxt "0	69982	1313	CHK"
+msgid "Chinese Menu Sign"
+msgstr ""
+
+msgctxt "0	70000	1314	CHK"
+msgid "HOTEL DRIFT Obita Sign"
+msgstr ""
+
+msgctxt "0	70023	1315	CHK"
+msgid "Bay Hotel Sign"
+msgstr ""
+
+msgctxt "0	70038	1316	CHK"
+msgid "Yama Estate Banner"
+msgstr ""
+
+msgctxt "0	70057	1317	CHK"
+msgid "Gift Shop \"Kore Nanbo\" Banner"
+msgstr ""
+
+msgctxt "0	70087	1318	CHK"
+msgid "Gift Shop \"Da-gaya\" Banner"
+msgstr ""
+
+msgctxt "0	70114	1319	CHK"
+msgid "Shingakutei Banner"
+msgstr ""
+
+msgctxt "0	70133	1320	CHK"
+msgid "Shunrakutei Sign"
+msgstr ""
+
+msgctxt "0	70150	1321	CHK"
+msgid "Parking Sign"
+msgstr ""
+
+msgctxt "0	70163	1322	CHK"
+msgid "Shogen Reflexology Sign"
+msgstr ""
+
+msgctxt "0	70187	1323	CHK"
+msgid "Club Jojo Sign"
+msgstr ""
+
+msgctxt "0	70202	1324	CHK"
+msgid "Chow Time Sign"
+msgstr ""
+
+msgctxt "0	70217	1325	CHK"
+msgid "Heian Revelry Sign"
+msgstr ""
+
+msgctxt "0	70236	1326	CHK"
+msgid "Matasaburo Sign"
+msgstr ""
+
+msgctxt "0	70252	1327	CHK"
+msgid "JnSect Sign"
+msgstr ""
+
+msgctxt "0	70264	1328	CHK"
+msgid "Teppanyaki \"Kimonsurii\" Sign"
+msgstr ""
+
+msgctxt "0	70293	1329	CHK"
+msgid "Noirs Sign"
+msgstr ""
+
+msgctxt "0	70304	1330	CHK"
+msgid "Pasta Sign"
+msgstr ""
+
+msgctxt "0	70315	1331	CHK"
+msgid "RedApricot Sign"
+msgstr ""
+
+msgctxt "0	70331	1332	CHK"
+msgid "Wives' Liberation Zone Sign"
+msgstr ""
+
+msgctxt "0	70359	1333	CHK"
+msgid "Strawberry 2 Sign"
+msgstr ""
+
+msgctxt "0	70377	1334	CHK"
+msgid "Taiwanese Beauty Salon Sign"
+msgstr ""
+
+msgctxt "0	70405	1335	CHK"
+msgid "ToRance Sign"
+msgstr ""
+
+msgctxt "0	70418	1336	CHK"
+msgid "Obikawa Parking Sign"
+msgstr ""
+
+msgctxt "0	70439	1337	CHK"
+msgid "Teppanyaki \"Tateya\" Sign"
+msgstr ""
+
+msgctxt "0	70464	1338	CHK"
+msgid "Nagasaki Champon Sign"
+msgstr ""
+
+msgctxt "0	70486	1339	CHK"
+msgid "Sagami Fishing Boats Sign"
+msgstr ""
+
+msgctxt "0	70512	1340	CHK"
+msgid "Hiyoko Pediatrics Sign"
+msgstr ""
+
+msgctxt "0	70535	1341	CHK"
+msgid "Iwashian Sign"
+msgstr ""
+
+msgctxt "0	70549	1342	CHK"
+msgid "Charcoal Grill Smell Sign"
+msgstr ""
+
+msgctxt "0	70575	1343	CHK"
+msgid "Taiwanese Ramen \"Xin Xian\" Sign"
+msgstr ""
+
+msgctxt "0	70607	1344	CHK"
+msgid "SMOOCHY Sign"
+msgstr ""
+
+msgctxt "0	70620	1345	CHK"
+msgid "Champon Sign"
+msgstr ""
+
+msgctxt "0	70633	1346	CHK"
+msgid "Long Traffic Cone Connector"
+msgstr ""
+
+msgctxt "0	70661	1347	CHK"
+msgid "Electrical Panel (Fragment)"
+msgstr ""
+
+msgctxt "0	70689	1348	CHK"
+msgid "Large Motorcycle"
+msgstr ""
+
+msgctxt "0	70706	1349	CHK"
+msgid "Large Motorcycle (Fragment)"
+msgstr ""
+
+msgctxt "0	70734	1350	CHK"
+msgid "Danger, Don't Hit"
+msgstr ""
+
+msgctxt "0	70752	1351	CHK"
+msgid "Platinum Ruler"
+msgstr ""
+
+msgctxt "0	70767	1352	CHK"
+msgid "Lucky Mallet"
+msgstr ""
+
+msgctxt "0	70780	1353	CHK"
+msgid "Lucky Mallet (Fragment)"
+msgstr ""
+
+msgctxt "0	70804	1354	CHK"
+msgid "Self Defense Ruler"
+msgstr ""
+
+msgctxt "0	70823	1355	CHK"
+msgid "Self Defense Ruler (Fragment)"
+msgstr ""
+
+msgctxt "0	70853	1356	CHK"
+msgid "Rock"
+msgstr ""
+
+msgctxt "0	70858	1357	CHK"
+msgid "Brown Leather Sofa"
+msgstr ""
+
+msgctxt "0	70877	1358	CHK"
+msgid "Sofa (Broken)"
+msgstr ""
+
+msgctxt "0	70891	1359	CHK"
+msgid "Office Table"
+msgstr ""
+
+msgctxt "0	70904	1360	CHK"
+msgid "Office Table (Broken)"
+msgstr ""
+
+msgctxt "0	70926	1361	CHK"
+msgid "Office Desk"
+msgstr ""
+
+msgctxt "0	70938	1362	CHK"
+msgid "Office Desk (Broken)"
+msgstr ""
+
+msgctxt "0	70959	1363	CHK"
+msgid "Office Chair"
+msgstr ""
+
+msgctxt "0	70972	1364	CHK"
+msgid "Office Chair 0 (Broken)"
+msgstr ""
+
+msgctxt "0	70996	1365	CHK"
+msgid "Armless Office Chair (Broken)"
+msgstr ""
+
+msgctxt "0	71026	1366	CHK"
+msgid "Umbrella Stand"
+msgstr ""
+
+msgctxt "0	71041	1367	CHK"
+msgid "Umbrella Stand (Broken)"
+msgstr ""
+
+msgctxt "0	71065	1368	CHK"
+msgid "Victory Daruma"
+msgstr ""
+
+msgctxt "0	71080	1369	CHK"
+msgid "Daruma (Broken)"
+msgstr ""
+
+msgctxt "0	71096	1370	CHK"
+msgid "Horse Figurine"
+msgstr ""
+
+msgctxt "0	71111	1371	CHK"
+msgid "Horse Figurine (Broken)"
+msgstr ""
+
+msgctxt "0	71135	1372	CHK"
+msgid "Umbrella"
+msgstr ""
+
+msgctxt "0	71144	1373	CHK"
+msgid "Umbrella (Broken)"
+msgstr ""
+
+msgctxt "0	71162	1374	CHK"
+msgid "Chestnut Plant"
+msgstr ""
+
+msgctxt "0	71177	1375	CHK"
+msgid "Uprooted Chestnut Plant"
+msgstr ""
+
+msgctxt "0	71201	1376	CHK"
+msgid "Decorative Chestnut Plant"
+msgstr ""
+
+msgctxt "0	71227	1377	CHK"
+msgid "Bottle (Broken Fragment)"
+msgstr ""
+
+msgctxt "0	71252	1378	CHK"
+msgid "Cracked Vase"
+msgstr ""
+
+msgctxt "0	71265	1379	CHK"
+msgid "Pot"
+msgstr ""
+
+msgctxt "0	71269	1380	CHK"
+msgid "Pot (Broken)"
+msgstr ""
+
+msgctxt "0	71282	1381	CHK"
+msgid "Trash Can (Broken)"
+msgstr ""
+
+msgctxt "0	71301	1382	CHK"
+msgid "TV"
+msgstr ""
+
+msgctxt "0	71304	1383	CHK"
+msgid "TV (Broken)"
+msgstr ""
+
+msgctxt "0	71316	1384	CHK"
+msgid "TV Internals"
+msgstr ""
+
+msgctxt "0	71329	1385	CHK"
+msgid "TV Internals (Broken)"
+msgstr ""
+
+msgctxt "0	71351	1386	CHK"
+msgid "Vibrant Plant"
+msgstr ""
+
+msgctxt "0	71365	1387	CHK"
+msgid "Broken Vibrant Plant Model"
+msgstr ""
+
+msgctxt "0	71392	1388	CHK"
+msgid "Round Sofa"
+msgstr ""
+
+msgctxt "0	71403	1389	CHK"
+msgid "Round Sofa (Broken)"
+msgstr ""
+
+msgctxt "0	71423	1390	CHK"
+msgid "Beer Bottle"
+msgstr ""
+
+msgctxt "0	71435	1391	CHK"
+msgid "Pursuit Recovery (S)"
+msgstr ""
+
+msgctxt "0	71456	1392	CHK"
+msgid "Pursuit Recovery (L)"
+msgstr ""
+
+msgctxt "0	71477	1393	CHK"
+msgid "Coliseum Explosive (Short Fuse)"
+msgstr ""
+
+msgctxt "0	71509	1394	CHK"
+msgid "Chainsaw"
+msgstr ""
+
+msgctxt "0	71518	1395	CHK"
+msgid "TOW Ammo Blast"
+msgstr ""
+
+msgctxt "0	71533	1396	CHK"
+msgid "Tag Item"
+msgstr ""
+
+msgctxt "0	71542	1397	CHK"
+msgid "Modified Lighter"
+msgstr ""
+
+msgctxt "0	71559	1398	CHK"
+msgid "Slipper"
+msgstr ""
+
+msgctxt "0	71567	1399	CHK"
+msgid "Hammer"
+msgstr ""
+
+msgctxt "0	71574	1400	CHK"
+msgid "Cardboard Box (Beer Bottles)"
+msgstr ""
+
+msgctxt "0	71603	1401	CHK"
+msgid "Cardboard Box (Slippers)"
+msgstr ""
+
+msgctxt "0	71628	1402	CHK"
+msgid "Cardboard Box (Hammers)"
+msgstr ""
+
+msgctxt "0	71652	1403	CHK"
+msgid "Office Chair (Broken)"
+msgstr ""
+
+msgctxt "0	71674	1404	CHK"
+msgid "Office Partition (Broken)"
+msgstr ""
+
+msgctxt "0	71700	1405	CHK"
+msgid "Metal Pipe (for NPC)"
+msgstr ""
+
+msgctxt "0	71721	1406	CHK"
+msgid "Beer Case (Yellow) Broken"
+msgstr ""
+
+msgctxt "0	71747	1407	CHK"
+msgid "Plastic Trash Bucket (Broken)"
+msgstr ""
+
+msgctxt "0	71777	1408	CHK"
+msgid "Cone (Small, Broken)"
+msgstr ""
+
+msgctxt "0	71798	1409	CHK"
+msgid "Meals, Ready to Eat Sign"
+msgstr ""
+
+msgctxt "0	71823	1410	CHK"
+msgid "Sign A (Military Rations, Broken)"
+msgstr ""
+
+msgctxt "0	71857	1411	CHK"
+msgid "Flag (Broken)"
+msgstr ""
+
+msgctxt "0	71871	1412	CHK"
+msgid "Remodeled Slalom Flag"
+msgstr ""
+
+msgctxt "0	71893	1413	CHK"
+msgid "Customer Appreciation Banner"
+msgstr ""
+
+msgctxt "0	71922	1414	CHK"
+msgid "Red Net Cafe Flag"
+msgstr ""
+
+msgctxt "0	71940	1415	CHK"
+msgid "White Net Cafe Flag"
+msgstr ""
+
+msgctxt "0	71960	1416	CHK"
+msgid "Banner (Kamurocho) (Base Model)"
+msgstr ""
+
+msgctxt "0	71992	1417	CHK"
+msgid "DVD Discount Sale Banner"
+msgstr ""
+
+msgctxt "0	72017	1418	CHK"
+msgid "Miso Stew Banner"
+msgstr ""
+
+msgctxt "0	72034	1419	CHK"
+msgid "Jjigae Stew Banner"
+msgstr ""
+
+msgctxt "0	72053	1420	CHK"
+msgid "Ishikari Stew Banner"
+msgstr ""
+
+msgctxt "0	72074	1421	CHK"
+msgid "Free Info Booth Banner"
+msgstr ""
+
+msgctxt "0	72097	1422	CHK"
+msgid "Sichuan Stew Banner"
+msgstr ""
+
+msgctxt "0	72117	1423	CHK"
+msgid "400 Yen Store Banner"
+msgstr ""
+
+msgctxt "0	72138	1424	CHK"
+msgid "Tuna Bowl Banner"
+msgstr ""
+
+msgctxt "0	72155	1425	CHK"
+msgid "Golden Fried Rice Banner"
+msgstr ""
+
+msgctxt "0	72180	1426	CHK"
+msgid "Yosenabe Banner"
+msgstr ""
+
+msgctxt "0	72196	1427	CHK"
+msgid "Mahjong Banner"
+msgstr ""
+
+msgctxt "0	72211	1428	CHK"
+msgid "Private DVD Viewing Rooms Banner"
+msgstr ""
+
+msgctxt "0	72244	1429	CHK"
+msgid "Pharmacy Banner"
+msgstr ""
+
+msgctxt "0	72260	1430	CHK"
+msgid "Sabotage Banner"
+msgstr ""
+
+msgctxt "0	72276	1431	CHK"
+msgid "Discount Info Banner"
+msgstr ""
+
+msgctxt "0	72297	1432	CHK"
+msgid "Pawnshop Banner"
+msgstr ""
+
+msgctxt "0	72313	1433	CHK"
+msgid "Seafood Banner"
+msgstr ""
+
+msgctxt "0	72328	1434	CHK"
+msgid "TATower Banner"
+msgstr ""
+
+msgctxt "0	72343	1435	CHK"
+msgid "Kyokoma Banner"
+msgstr ""
+
+msgctxt "0	72358	1436	CHK"
+msgid "Edam Cheesedogs Banner"
+msgstr ""
+
+msgctxt "0	72381	1437	CHK"
+msgid "Miuraya Cafeteria Banner"
+msgstr ""
+
+msgctxt "0	72406	1438	CHK"
+msgid "The Best Free Info Booth Banner"
+msgstr ""
+
+msgctxt "0	72438	1439	CHK"
+msgid "Inozen Banner"
+msgstr ""
+
+msgctxt "0	72452	1440	CHK"
+msgid "Checker Banner"
+msgstr ""
+
+msgctxt "0	72467	1441	CHK"
+msgid "Potted Plant"
+msgstr ""
+
+msgctxt "0	72480	1442	CHK"
+msgid "Traffic Cone Connector "
+msgstr ""
+
+msgctxt "0	72504	1443	CHK"
+msgid "Yamahachi Soba Banner"
+msgstr ""
+
+msgctxt "0	72526	1444	CHK"
+msgid "Antiques: Top Dollar Paid Banner"
+msgstr ""
+
+msgctxt "0	72559	1445	CHK"
+msgid "Antique Store Banner"
+msgstr ""
+
+msgctxt "0	72580	1446	CHK"
+msgid "(*Kamurocho-only* Other cities: WEBAS0850) Sign A"
+msgstr ""
+
+msgctxt "0	72630	1447	CHK"
+msgid "(*Kamurocho-only* Other cities: WEBAS0852) Sign C"
+msgstr ""
+
+msgctxt "0	72680	1448	CHK"
+msgid "(*Kamurocho-only* Other cities: WEBAS0851) Sign B"
+msgstr ""
+
+msgctxt "0	72730	1449	CHK"
+msgid "(*Kamurocho-only* Other cities: WEBAS0853) Sign D"
+msgstr ""
+
+msgctxt "0	72780	1450	CHK"
+msgid "(*Kamurocho-only* Other cities: WEBAS0854) Sign E"
+msgstr ""
+
+msgctxt "0	72830	1451	CHK"
+msgid "(*Kamurocho-only* Other cities: WEBAS0855) Sign F"
+msgstr ""
+
+msgctxt "0	72880	1452	CHK"
+msgid "(*Kamurocho-only* Other cities: WEBAS0856) Sign G"
+msgstr ""
+
+msgctxt "0	72930	1453	CHK"
+msgid "SEXYTOYS99 Sign"
+msgstr ""
+
+msgctxt "0	72946	1454	CHK"
+msgid "Midori Sign"
+msgstr ""
+
+msgctxt "0	72958	1455	CHK"
+msgid "Fusion Sign"
+msgstr ""
+
+msgctxt "0	72970	1456	CHK"
+msgid "DVD Shop Sign"
+msgstr ""
+
+msgctxt "0	72984	1457	CHK"
+msgid "Karanmaru Flag"
+msgstr ""
+
+msgctxt "0	72999	1458	CHK"
+msgid "SJG Flag"
+msgstr ""
+
+msgctxt "0	73008	1459	CHK"
+msgid "Original Dining Hasetsuka Sign"
+msgstr ""
+
+msgctxt "0	73039	1460	CHK"
+msgid "Venus Sign"
+msgstr ""
+
+msgctxt "0	73050	1461	CHK"
+msgid "Ten-no-Gu Ramen Sign"
+msgstr ""
+
+msgctxt "0	73071	1462	CHK"
+msgid "Sanuki-Tei Sign"
+msgstr ""
+
+msgctxt "0	73087	1463	CHK"
+msgid "Movie Ad Sign"
+msgstr ""
+
+msgctxt "0	73101	1464	CHK"
+msgid "Host Club Sign"
+msgstr ""
+
+msgctxt "0	73116	1465	CHK"
+msgid "Kamuro Ramen Sign"
+msgstr ""
+
+msgctxt "0	73134	1466	CHK"
+msgid "Soba Shop Umamoto Sign"
+msgstr ""
+
+msgctxt "0	73157	1467	CHK"
+msgid "Yunagi Bar Sign"
+msgstr ""
+
+msgctxt "0	73173	1468	CHK"
+msgid "Uchikawa Diner Sign"
+msgstr ""
+
+msgctxt "0	73193	1469	CHK"
+msgid "Ranran-Tei Sign"
+msgstr ""
+
+msgctxt "0	73209	1470	CHK"
+msgid "Tengyokaku Sign"
+msgstr ""
+
+msgctxt "0	73225	1471	CHK"
+msgid "Elise Sign"
+msgstr ""
+
+msgctxt "0	73236	1472	CHK"
+msgid "Yakiniku Hachisuke Sign"
+msgstr ""
+
+msgctxt "0	73260	1473	CHK"
+msgid "Bobusanchi Sign"
+msgstr ""
+
+msgctxt "0	73276	1474	CHK"
+msgid "Café Sign"
+msgstr ""
+
+msgctxt "0	73287	1475	CHK"
+msgid "Lunch Special Sign"
+msgstr ""
+
+msgctxt "0	73306	1476	CHK"
+msgid "Gyoza Daimyo Sign"
+msgstr ""
+
+msgctxt "0	73324	1477	CHK"
+msgid "Koma Sign"
+msgstr ""
+
+msgctxt "0	73334	1478	CHK"
+msgid "Today's Menu Sign"
+msgstr ""
+
+msgctxt "0	73352	1479	CHK"
+msgid "Grand Menu Sign"
+msgstr ""
+
+msgctxt "0	73368	1480	CHK"
+msgid "Written in Dreams Sign"
+msgstr ""
+
+msgctxt "0	73391	1481	CHK"
+msgid "Happy Hour Sign"
+msgstr ""
+
+msgctxt "0	73407	1482	CHK"
+msgid "\"3 Don'ts\" Sign"
+msgstr ""
+
+msgctxt "0	73423	1483	CHK"
+msgid "KUE Sign"
+msgstr ""
+
+msgctxt "0	73432	1484	CHK"
+msgid "Brand New Sign"
+msgstr ""
+
+msgctxt "0	73447	1485	CHK"
+msgid "CR Master Sign"
+msgstr ""
+
+msgctxt "0	73462	1486	CHK"
+msgid "Fanciful Sign"
+msgstr ""
+
+msgctxt "0	73476	1487	CHK"
+msgid "Burning Slot Soul Sign"
+msgstr ""
+
+msgctxt "0	73499	1488	CHK"
+msgid "I Love Paella Sign"
+msgstr ""
+
+msgctxt "0	73518	1489	CHK"
+msgid "I Love Pizza Sign"
+msgstr ""
+
+msgctxt "0	73536	1490	CHK"
+msgid "Pizzeria Sign"
+msgstr ""
+
+msgctxt "0	73550	1491	CHK"
+msgid "Recommendations Menu Sign"
+msgstr ""
+
+msgctxt "0	73576	1492	CHK"
+msgid "Classic Menu Sign"
+msgstr ""
+
+msgctxt "0	73594	1493	CHK"
+msgid "Ramen Menu Sign"
+msgstr ""
+
+msgctxt "0	73610	1494	CHK"
+msgid "Bar Menu Sign"
+msgstr ""
+
+msgctxt "0	73624	1495	CHK"
+msgid "Karaoke Bar Sign"
+msgstr ""
+
+msgctxt "0	73641	1496	CHK"
+msgid "I Love Dim Sum Sign"
+msgstr ""
+
+msgctxt "0	73661	1497	CHK"
+msgid "Koenro Banner"
+msgstr ""
+
+msgctxt "0	73675	1498	CHK"
+msgid "Big Discount Sign"
+msgstr ""
+
+msgctxt "0	73693	1499	CHK"
+msgid "Jungle Sign"
+msgstr ""
+
+msgctxt "0	73705	1500	CHK"
+msgid "Stylish Gentleman Bar Sign"
+msgstr ""
+
+msgctxt "0	73732	1501	CHK"
+msgid "Personal Viewing Rooms Sign"
+msgstr ""
+
+msgctxt "0	73760	1502	CHK"
+msgid "Adult Bookstore Sign"
+msgstr ""
+
+msgctxt "0	73781	1503	CHK"
+msgid "GA Sign"
+msgstr ""
+
+msgctxt "0	73789	1504	CHK"
+msgid "Mall Sign"
+msgstr ""
+
+msgctxt "0	73799	1505	CHK"
+msgid "KILLER BEACH Sign"
+msgstr ""
+
+msgctxt "0	73817	1506	CHK"
+msgid "Shinohara Chinese Chiropractics Sign"
+msgstr ""
+
+msgctxt "0	73854	1507	CHK"
+msgid "Super Gabriel Sign"
+msgstr ""
+
+msgctxt "0	73873	1508	CHK"
+msgid "NYS Hamburger Sign"
+msgstr ""
+
+msgctxt "0	73892	1509	CHK"
+msgid "Wild Jackson Sign"
+msgstr ""
+
+msgctxt "0	73910	1510	CHK"
+msgid "Go Club Sign"
+msgstr ""
+
+msgctxt "0	73923	1511	CHK"
+msgid "Izakaya Ko-Otsu-Hei Sign"
+msgstr ""
+
+msgctxt "0	73948	1512	CHK"
+msgid "Important Area Annoncement Sign"
+msgstr ""
+
+msgctxt "0	73980	1513	CHK"
+msgid "Smile Burger Sign"
+msgstr ""
+
+msgctxt "0	73998	1514	CHK"
+msgid "Donraku Manager Wanted Sign"
+msgstr ""
+
+msgctxt "0	74026	1515	CHK"
+msgid "Adult Toy Sign"
+msgstr ""
+
+msgctxt "0	74041	1516	CHK"
+msgid "Porn Star Sign"
+msgstr ""
+
+msgctxt "0	74056	1517	CHK"
+msgid "Video Viewing Sign"
+msgstr ""
+
+msgctxt "0	74075	1518	CHK"
+msgid "Oh-Oku Sign"
+msgstr ""
+
+msgctxt "0	74087	1519	CHK"
+msgid "Lambda Sign"
+msgstr ""
+
+msgctxt "0	74099	1520	CHK"
+msgid "Tachibana Sign"
+msgstr ""
+
+msgctxt "0	74114	1521	CHK"
+msgid "Japanese Food Menu Sign"
+msgstr ""
+
+msgctxt "0	74138	1522	CHK"
+msgid "Dried Squid Shop"
+msgstr ""
+
+msgctxt "0	74155	1523	CHK"
+msgid "Complex Sign"
+msgstr ""
+
+msgctxt "0	74168	1524	CHK"
+msgid "Manga Cafe Sign"
+msgstr ""
+
+msgctxt "0	74184	1525	CHK"
+msgid "Beauty Salon Sign"
+msgstr ""
+
+msgctxt "0	74202	1526	CHK"
+msgid "Alps Sign"
+msgstr ""
+
+msgctxt "0	74212	1527	CHK"
+msgid "CRASH Sign"
+msgstr ""
+
+msgctxt "0	74223	1528	CHK"
+msgid "SC Clinic Sign"
+msgstr ""
+
+msgctxt "0	74238	1529	CHK"
+msgid "Kadoya Sign"
+msgstr ""
+
+msgctxt "0	74250	1530	CHK"
+msgid "Mortal Enemy Sign"
+msgstr ""
+
+msgctxt "0	74268	1531	CHK"
+msgid "Asia Sign"
+msgstr ""
+
+msgctxt "0	74278	1532	CHK"
+msgid "Rice Ball Shop Sign"
+msgstr ""
+
+msgctxt "0	74298	1533	CHK"
+msgid "Sign A (Night) [Non-Placeable Template]"
+msgstr ""
+
+msgctxt "0	74338	1534	CHK"
+msgid "Sign B (Night) [Non-Placeable Template]"
+msgstr ""
+
+msgctxt "0	74378	1535	CHK"
+msgid "Sign C (Night) [Non-Placeable Template]"
+msgstr ""
+
+msgctxt "0	74418	1536	CHK"
+msgid "Sign D (Night) [Non-Placeable Template]"
+msgstr ""
+
+msgctxt "0	74458	1537	CHK"
+msgid "Sign E (Night) [Non-Placeable Template]"
+msgstr ""
+
+msgctxt "0	74498	1538	CHK"
+msgid "Sign F (Night) [Non-Placeable Template]"
+msgstr ""
+
+msgctxt "0	74538	1539	CHK"
+msgid "Sign G (Night) [Non-Placeable Template]"
+msgstr ""
+
+msgctxt "0	74578	1540	CHK"
+msgid "Paid Tour Sign"
+msgstr ""
+
+msgctxt "0	74593	1541	CHK"
+msgid "Kamurocho Sisters Sign"
+msgstr ""
+
+msgctxt "0	74616	1542	CHK"
+msgid "Highness Sign"
+msgstr ""
+
+msgctxt "0	74630	1543	CHK"
+msgid "Legendary Sign"
+msgstr ""
+
+msgctxt "0	74645	1544	CHK"
+msgid "Sign for Shop in Building"
+msgstr ""
+
+msgctxt "0	74671	1545	CHK"
+msgid "Slot Lure Sign"
+msgstr ""
+
+msgctxt "0	74686	1546	CHK"
+msgid "Sweets Sign"
+msgstr ""
+
+msgctxt "0	74698	1547	CHK"
+msgid "Convenience Store Sign"
+msgstr ""
+
+msgctxt "0	74721	1548	CHK"
+msgid "Sign to Cozy VIP Room"
+msgstr ""
+
+msgctxt "0	74743	1549	CHK"
+msgid "Chiropractic Sign"
+msgstr ""
+
+msgctxt "0	74761	1550	CHK"
+msgid "Gorgeous Hostess Sign"
+msgstr ""
+
+msgctxt "0	74783	1551	CHK"
+msgid "Beef Meatball Bowl Sign"
+msgstr ""
+
+msgctxt "0	74807	1552	CHK"
+msgid "NY Hot Dog Sign"
+msgstr ""
+
+msgctxt "0	74823	1553	CHK"
+msgid "AQUANON Sign"
+msgstr ""
+
+msgctxt "0	74836	1554	CHK"
+msgid "Red Wanderer Flag"
+msgstr ""
+
+msgctxt "0	74854	1555	CHK"
+msgid "Venerable Tonkatsu Shop Sign"
+msgstr ""
+
+msgctxt "0	74883	1556	CHK"
+msgid "Koredemoka DVD Sign"
+msgstr ""
+
+msgctxt "0	74903	1557	CHK"
+msgid "Club Himiko Sign"
+msgstr ""
+
+msgctxt "0	74920	1558	CHK"
+msgid "Super Spicy Curry Sign"
+msgstr ""
+
+msgctxt "0	74943	1559	CHK"
+msgid "Swapmeet Announcement Sign"
+msgstr ""
+
+msgctxt "0	74970	1560	CHK"
+msgid "Recommended Party Plan Sign"
+msgstr ""
+
+msgctxt "0	74998	1561	CHK"
+msgid "Big Family Bar Sign"
+msgstr ""
+
+msgctxt "0	75018	1562	CHK"
+msgid "I Love Nabe Sign"
+msgstr ""
+
+msgctxt "0	75035	1563	CHK"
+msgid "Beer-Colored Sign"
+msgstr ""
+
+msgctxt "0	75053	1564	CHK"
+msgid "Medieval CR Sign"
+msgstr ""
+
+msgctxt "0	75070	1565	CHK"
+msgid "Combat King Sign"
+msgstr ""
+
+msgctxt "0	75087	1566	CHK"
+msgid "Special Promotion Today Sign"
+msgstr ""
+
+msgctxt "0	75116	1567	CHK"
+msgid "New Pachinko Machine Sign"
+msgstr ""
+
+msgctxt "0	75142	1568	CHK"
+msgid "Ramen Jomaeya Sign"
+msgstr ""
+
+msgctxt "0	75161	1569	CHK"
+msgid "Nishikaze Tower Sign"
+msgstr ""
+
+msgctxt "0	75182	1570	CHK"
+msgid "Super Cheap Ichinanago Sign"
+msgstr ""
+
+msgctxt "0	75210	1571	CHK"
+msgid "Hostess Sign"
+msgstr ""
+
+msgctxt "0	75223	1572	CHK"
+msgid "Gorgeousness Sign"
+msgstr ""
+
+msgctxt "0	75241	1573	CHK"
+msgid "Reception Sign"
+msgstr ""
+
+msgctxt "0	75256	1574	CHK"
+msgid "Proud Taste Sign"
+msgstr ""
+
+msgctxt "0	75273	1575	CHK"
+msgid "All-Seeing Fortuneteller Sign"
+msgstr ""
+
+msgctxt "0	75303	1576	CHK"
+msgid "Etsurakutei Sign"
+msgstr ""
+
+msgctxt "0	75320	1577	CHK"
+msgid "Seats 100 Sign"
+msgstr ""
+
+msgctxt "0	75335	1578	CHK"
+msgid "New Menu Sign"
+msgstr ""
+
+msgctxt "0	75349	1579	CHK"
+msgid "Special Warning Sign"
+msgstr ""
+
+msgctxt "0	75370	1580	CHK"
+msgid "Mantaro Sign"
+msgstr ""
+
+msgctxt "0	75383	1581	CHK"
+msgid "Coffee Shop Sign"
+msgstr ""
+
+msgctxt "0	75400	1582	CHK"
+msgid "Shrimp Heaven Sign"
+msgstr ""
+
+msgctxt "0	75419	1583	CHK"
+msgid "Mahjong Shop Welcome Sign"
+msgstr ""
+
+msgctxt "0	75445	1584	CHK"
+msgid "Taketori Sign"
+msgstr ""
+
+msgctxt "0	75459	1585	CHK"
+msgid "White Turtle Sign"
+msgstr ""
+
+msgctxt "0	75477	1586	CHK"
+msgid "Mahjong Riichi Sign"
+msgstr ""
+
+msgctxt "0	75497	1587	CHK"
+msgid "Miuraya Diner Sign"
+msgstr ""
+
+msgctxt "0	75516	1588	CHK"
+msgid "Sign (Broken)"
+msgstr ""
+
+msgctxt "0	75530	1589	CHK"
+msgid "All-You-Can-Play Sign"
+msgstr ""
+
+msgctxt "0	75552	1590	CHK"
+msgid "Invitation to Super Spiciness Sign"
+msgstr ""
+
+msgctxt "0	75587	1591	CHK"
+msgid "Slot Machine Sign"
+msgstr ""
+
+msgctxt "0	75605	1592	CHK"
+msgid "Yellow Wanderer Flag"
+msgstr ""
+
+msgctxt "0	75626	1593	CHK"
+msgid "Banner Pole"
+msgstr ""
+
+msgctxt "0	75638	1594	CHK"
+msgid "Special Security Notice Sign"
+msgstr ""
+
+msgctxt "0	75667	1595	CHK"
+msgid "Steel Ashtray"
+msgstr ""
+
+msgctxt "0	75681	1596	CHK"
+msgid "Come Look Sign"
+msgstr ""
+
+msgctxt "0	75696	1597	CHK"
+msgid "Adult Toys Sign"
+msgstr ""
+
+msgctxt "0	75712	1598	CHK"
+msgid "Draft Beer Keg (Broken)"
+msgstr ""
+
+msgctxt "0	75736	1599	CHK"
+msgid "No Parking Sign (White, Broken)"
+msgstr ""
+
+msgctxt "0	75768	1600	CHK"
+msgid "No Parking Sign (Blue, Broken)"
+msgstr ""
+
+msgctxt "0	75799	1601	CHK"
+msgid "Kyushu No. 1 Star Sign"
+msgstr ""
+
+msgctxt "0	75822	1602	CHK"
+msgid "Sturdy Bicycle"
+msgstr ""
+
+msgctxt "0	75837	1603	CHK"
+msgid "Ashtray Stand"
+msgstr ""
+
+msgctxt "0	75851	1604	CHK"
+msgid "Plastic Tray"
+msgstr ""
+
+msgctxt "0	75864	1605	CHK"
+msgid "Metal Frame"
+msgstr ""
+
+msgctxt "0	75876	1606	CHK"
+msgid "Steel Mesh Trash Can"
+msgstr ""
+
+msgctxt "0	75897	1607	CHK"
+msgid "Magazine"
+msgstr ""
+
+msgctxt "0	75906	1608	CHK"
+msgid "Glass Table"
+msgstr ""
+
+msgctxt "0	75918	1609	CHK"
+msgid "Small Sofa"
+msgstr ""
+
+msgctxt "0	75929	1610	CHK"
+msgid "Big Sofa"
+msgstr ""
+
+msgctxt "0	75938	1611	CHK"
+msgid "Broken Cart"
+msgstr ""
+
+msgctxt "0	75950	1612	CHK"
+msgid "Broken White Bicycle"
+msgstr ""
+
+msgctxt "0	75971	1613	CHK"
+msgid "Bicycle Wheel (Blue)"
+msgstr ""
+
+msgctxt "0	75992	1614	CHK"
+msgid "Bicycle Wheel"
+msgstr ""
+
+msgctxt "0	76006	1615	CHK"
+msgid "Bicycle Wheel (Orange)"
+msgstr ""
+
+msgctxt "0	76029	1616	CHK"
+msgid "Bicycle Wheel (Red)"
+msgstr ""
+
+msgctxt "0	76049	1617	CHK"
+msgid "Broken Silver Bicycle"
+msgstr ""
+
+msgctxt "0	76071	1618	CHK"
+msgid "Bicycle Wheel (Silver)"
+msgstr ""
+
+msgctxt "0	76094	1619	CHK"
+msgid "Broken Sturdy Bicycle"
+msgstr ""
+
+msgctxt "0	76116	1620	CHK"
+msgid "Broken Mountain Bike"
+msgstr ""
+
+msgctxt "0	76137	1621	CHK"
+msgid "Mountain Bike Wheel"
+msgstr ""
+
+msgctxt "0	76157	1622	CHK"
+msgid "Big Traffic Cone (Broken)"
+msgstr ""
+
+msgctxt "0	76183	1623	CHK"
+msgid "Plastic Tray (Broken)"
+msgstr ""
+
+msgctxt "0	76205	1624	CHK"
+msgid "Plank (Broken)"
+msgstr ""
+
+msgctxt "0	76220	1625	CHK"
+msgid "Cart (Broken)"
+msgstr ""
+
+msgctxt "0	76234	1626	CHK"
+msgid "Cart (Broken) 02"
+msgstr ""
+
+msgctxt "0	76251	1627	CHK"
+msgid "Trash Bucket (Broken)"
+msgstr ""
+
+msgctxt "0	76273	1628	CHK"
+msgid "Bicycle (Blue)_Fragment01_Tire"
+msgstr ""
+
+msgctxt "0	76304	1629	CHK"
+msgid "Blue Bicycle Piece 2"
+msgstr ""
+
+msgctxt "0	76325	1630	CHK"
+msgid "Bicycle (Orange) Fragment01_Tire"
+msgstr ""
+
+msgctxt "0	76358	1631	CHK"
+msgid "Orange Bicycle Piece 2"
+msgstr ""
+
+msgctxt "0	76381	1632	CHK"
+msgid "Bicycle (Red)_Fragment01_Tire"
+msgstr ""
+
+msgctxt "0	76411	1633	CHK"
+msgid "Red Bicycle Piece 2"
+msgstr ""
+
+msgctxt "0	76431	1634	CHK"
+msgid "Bicycle (Silver 1) Fragment01_Tire"
+msgstr ""
+
+msgctxt "0	76466	1635	CHK"
+msgid "Bicycle (Silver 1) Fragment02_Tire"
+msgstr ""
+
+msgctxt "0	76501	1636	CHK"
+msgid "Bicycle (Silver 2) Fragment01_Tire"
+msgstr ""
+
+msgctxt "0	76536	1637	CHK"
+msgid "Silver Bicycle 2 Piece 2"
+msgstr ""
+
+msgctxt "0	76561	1638	CHK"
+msgid "Mountain Bike Piece 1"
+msgstr ""
+
+msgctxt "0	76583	1639	CHK"
+msgid "Mountain Bike Piece 2"
+msgstr ""
+
+msgctxt "0	76605	1640	CHK"
+msgid "Magazine (Destroyed)"
+msgstr ""
+
+msgctxt "0	76626	1641	CHK"
+msgid "Salt Shaker (Broken)"
+msgstr ""
+
+msgctxt "0	76647	1642	CHK"
+msgid "Long Iron Pipe (Broken)"
+msgstr ""
+
+msgctxt "0	76671	1643	CHK"
+msgid "Mysterious Syringe (Broken)"
+msgstr ""
+
+msgctxt "0	76699	1644	CHK"
+msgid "Desk (Broken)"
+msgstr ""
+
+msgctxt "0	76713	1645	CHK"
+msgid "Glass Table (Broken)"
+msgstr ""
+
+msgctxt "0	76734	1646	CHK"
+msgid "Object On Glass Desk (Broken)"
+msgstr ""
+
+msgctxt "0	76764	1647	CHK"
+msgid "Small Sofa (Broken)"
+msgstr ""
+
+msgctxt "0	76784	1648	CHK"
+msgid "Big Sofa (Broken)"
+msgstr ""
+
+msgctxt "0	76802	1649	CHK"
+msgid "Ashtray Stand (Broken)"
+msgstr ""
+
+msgctxt "0	76825	1650	CHK"
+msgid "Cone (S) Broken"
+msgstr ""
+
+msgctxt "0	76841	1651	CHK"
+msgid "Cone (L)_Broken"
+msgstr ""
+
+msgctxt "0	76857	1652	CHK"
+msgid "Blue Bicycle (Broken)"
+msgstr ""
+
+msgctxt "0	76879	1653	CHK"
+msgid "Bicycle (Orange) Broken_Tire"
+msgstr ""
+
+msgctxt "0	76908	1654	CHK"
+msgid "Bicycle (Red)_Broken_Tire"
+msgstr ""
+
+msgctxt "0	76934	1655	CHK"
+msgid "Bicycle (Silver 1) Broken_Tire"
+msgstr ""
+
+msgctxt "0	76965	1656	CHK"
+msgid "Silver Bicycle 2 (Broken)"
+msgstr ""
+
+msgctxt "0	76991	1657	CHK"
+msgid "Chipped Dagger"
+msgstr ""
+
+msgctxt "0	77006	1658	CHK"
+msgid "Well-used Metal Bat"
+msgstr ""
+
+msgctxt "0	77026	1659	CHK"
+msgid "Chinese Saber"
+msgstr ""
+
+msgctxt "0	77040	1660	CHK"
+msgid "Bottomless Lighter"
+msgstr ""
+
+msgctxt "0	77059	1661	CHK"
+msgid "Cheap 9-iron"
+msgstr ""
+
+msgctxt "0	77072	1662	CHK"
+msgid "Iron Pipe"
+msgstr ""
+
+msgctxt "0	77082	1663	CHK"
+msgid "Broken Iron Plate"
+msgstr ""
+
+msgctxt "0	77100	1664	CHK"
+msgid "Broken Empty Can"
+msgstr ""
+
+msgctxt "0	77117	1665	CHK"
+msgid "Broken Gas Stove"
+msgstr ""
+
+msgctxt "0	77134	1666	CHK"
+msgid "Broken Army Knife Fragment"
+msgstr ""
+
+msgctxt "0	77161	1667	CHK"
+msgid "Broken Sonic Knife Fragment"
+msgstr ""
+
+msgctxt "0	77189	1668	CHK"
+msgid "One-handed Long Item Base (Gear)"
+msgstr ""
+
+msgctxt "0	77222	1669	CHK"
+msgid "One-handed Blade Base (Gear)"
+msgstr ""
+
+msgctxt "0	77251	1670	CHK"
+msgid "Two-handed Long Item Base (Gear)"
+msgstr ""
+
+msgctxt "0	77284	1671	CHK"
+msgid "Blade Base (Gear)"
+msgstr ""
+
+msgctxt "0	77302	1672	CHK"
+msgid "Hammer Base (Gear)"
+msgstr ""
+
+msgctxt "0	77321	1673	CHK"
+msgid "Pole Base (Gear)"
+msgstr ""
+
+msgctxt "0	77338	1674	CHK"
+msgid "Shotgun Base (Gear)"
+msgstr ""
+
+msgctxt "0	77358	1675	CHK"
+msgid "Brass Knuckles Base (Gear)"
+msgstr ""
+
+msgctxt "0	77385	1676	CHK"
+msgid "Spray Base (Gear)"
+msgstr ""
+
+msgctxt "0	77403	1677	CHK"
+msgid "Tonfa Base (Gear)"
+msgstr ""
+
+msgctxt "0	77421	1678	CHK"
+msgid "Nunchaku Base (Gear)"
+msgstr ""
+
+msgctxt "0	77442	1679	CHK"
+msgid "Kali Stick Base (Gear)"
+msgstr ""
+
+msgctxt "0	77465	1680	CHK"
+msgid "Handgun Base (Gear)"
+msgstr ""
+
+msgctxt "0	77485	1681	CHK"
+msgid "Fragile 9-iron"
+msgstr ""
+
+msgctxt "0	77500	1682	CHK"
+msgid "Black Umbrella"
+msgstr ""
+
+msgctxt "0	77515	1683	CHK"
+msgid "Gentleman's Umbrella"
+msgstr ""
+
+msgctxt "0	77536	1684	CHK"
+msgid "Elegant Umbrella"
+msgstr ""
+
+msgctxt "0	77553	1685	CHK"
+msgid "Brickshitter Beer"
+msgstr ""
+
+msgctxt "0	77571	1686	CHK"
+msgid "Blackjack"
+msgstr ""
+
+msgctxt "0	77581	1687	CHK"
+msgid "Ballbuster"
+msgstr ""
+
+msgctxt "0	77592	1688	CHK"
+msgid "Special Police Baton"
+msgstr ""
+
+msgctxt "0	77613	1689	CHK"
+msgid "Kamiyama Police Baton"
+msgstr ""
+
+msgctxt "0	77635	1690	CHK"
+msgid "Army Knife"
+msgstr ""
+
+msgctxt "0	77646	1691	CHK"
+msgid "Sonic Knife"
+msgstr ""
+
+msgctxt "0	77658	1692	CHK"
+msgid "Spicy Knife"
+msgstr ""
+
+msgctxt "0	77670	1693	CHK"
+msgid "Nameless Short Sword"
+msgstr ""
+
+msgctxt "0	77691	1694	CHK"
+msgid "Lotus Clan Chinese Saber"
+msgstr ""
+
+msgctxt "0	77716	1695	CHK"
+msgid "Stun Gun"
+msgstr ""
+
+msgctxt "0	77725	1696	CHK"
+msgid "Hyper Stun Gun"
+msgstr ""
+
+msgctxt "0	77740	1697	CHK"
+msgid "Dragon God Short Sword"
+msgstr ""
+
+msgctxt "0	77763	1698	CHK"
+msgid "9-iron"
+msgstr ""
+
+msgctxt "0	77770	1699	CHK"
+msgid "Wooden Driver"
+msgstr ""
+
+msgctxt "0	77784	1700	CHK"
+msgid "Titanium Driver"
+msgstr ""
+
+msgctxt "0	77800	1701	CHK"
+msgid "Patriarch's Driver"
+msgstr ""
+
+msgctxt "0	77819	1702	CHK"
+msgid "Spiked Bat"
+msgstr ""
+
+msgctxt "0	77830	1703	CHK"
+msgid "Patriarch's Bat"
+msgstr ""
+
+msgctxt "0	77846	1704	CHK"
+msgid "Dragon-drive 99"
+msgstr ""
+
+msgctxt "0	77862	1705	CHK"
+msgid "Golden Dragon Bat"
+msgstr ""
+
+msgctxt "0	77880	1706	CHK"
+msgid "Wooden Katana"
+msgstr ""
+
+msgctxt "0	77894	1707	CHK"
+msgid "Nameless Katana"
+msgstr ""
+
+msgctxt "0	77910	1708	CHK"
+msgid "Mail Order Katana"
+msgstr ""
+
+msgctxt "0	77928	1709	CHK"
+msgid "Photon Blade MG"
+msgstr ""
+
+msgctxt "0	77944	1710	CHK"
+msgid "Sakura Storm"
+msgstr ""
+
+msgctxt "0	77957	1711	CHK"
+msgid "Muramasa Blade"
+msgstr ""
+
+msgctxt "0	77972	1712	CHK"
+msgid "Dragon Slayer"
+msgstr ""
+
+msgctxt "0	77986	1713	CHK"
+msgid "Great Hammer"
+msgstr ""
+
+msgctxt "0	77999	1714	CHK"
+msgid "Toy Hammer"
+msgstr ""
+
+msgctxt "0	78010	1715	CHK"
+msgid "Raging Dragon Hammer"
+msgstr ""
+
+msgctxt "0	78031	1716	CHK"
+msgid "Extendable Staff"
+msgstr ""
+
+msgctxt "0	78048	1717	CHK"
+msgid "Assassin's Spear"
+msgstr ""
+
+msgctxt "0	78065	1718	CHK"
+msgid "Purgatory Rod"
+msgstr ""
+
+msgctxt "0	78079	1719	CHK"
+msgid "Mighty Dragon Spear"
+msgstr ""
+
+msgctxt "0	78099	1720	CHK"
+msgid "Broken M1985"
+msgstr ""
+
+msgctxt "0	78112	1721	CHK"
+msgid "Expulsion S-12"
+msgstr ""
+
+msgctxt "0	78127	1722	CHK"
+msgid "Slime Gun"
+msgstr ""
+
+msgctxt "0	78137	1723	CHK"
+msgid "Smoke Gun"
+msgstr ""
+
+msgctxt "0	78147	1724	CHK"
+msgid "Brass Knuckles"
+msgstr ""
+
+msgctxt "0	78162	1725	CHK"
+msgid "Thorn Knuckles"
+msgstr ""
+
+msgctxt "0	78177	1726	CHK"
+msgid "Steel Knuckles"
+msgstr ""
+
+msgctxt "0	78192	1727	CHK"
+msgid "Dragon Grudge Fists"
+msgstr ""
+
+msgctxt "0	78212	1728	CHK"
+msgid "Pepper Spray"
+msgstr ""
+
+msgctxt "0	78225	1729	CHK"
+msgid "Slime Spray"
+msgstr ""
+
+msgctxt "0	78237	1730	CHK"
+msgid "Modified Stun Lighter"
+msgstr ""
+
+msgctxt "0	78259	1731	CHK"
+msgid "Iron Tonfa"
+msgstr ""
+
+msgctxt "0	78270	1732	CHK"
+msgid "Steel Tonfa"
+msgstr ""
+
+msgctxt "0	78282	1733	CHK"
+msgid "Slashing Tonfa"
+msgstr ""
+
+msgctxt "0	78297	1734	CHK"
+msgid "Dragon Horn"
+msgstr ""
+
+msgctxt "0	78309	1735	CHK"
+msgid "Wooden Nunchaku"
+msgstr ""
+
+msgctxt "0	78325	1736	CHK"
+msgid "Twin Hangers"
+msgstr ""
+
+msgctxt "0	78338	1737	CHK"
+msgid "Steel Nunchaku"
+msgstr ""
+
+msgctxt "0	78353	1738	CHK"
+msgid "Dragon Nunchaku"
+msgstr ""
+
+msgctxt "0	78369	1739	CHK"
+msgid "Double Slats"
+msgstr ""
+
+msgctxt "0	78382	1740	CHK"
+msgid "Spiked Taiko Sticks"
+msgstr ""
+
+msgctxt "0	78402	1741	CHK"
+msgid "Wooden Kali Sticks"
+msgstr ""
+
+msgctxt "0	78421	1742	CHK"
+msgid "Twin Dragon Sticks"
+msgstr ""
+
+msgctxt "0	78440	1743	CHK"
+msgid "9mm Automatic Pistol"
+msgstr ""
+
+msgctxt "0	78461	1744	CHK"
+msgid "Double Action Revolver"
+msgstr ""
+
+msgctxt "0	78484	1745	CHK"
+msgid "Drow-Z 55"
+msgstr ""
+
+msgctxt "0	78494	1746	CHK"
+msgid "Golden Pistol"
+msgstr ""
+
+msgctxt "0	78508	1747	CHK"
+msgid "Gurukun"
+msgstr ""
+
+msgctxt "0	78516	1748	CHK"
+msgid "Iron Plate"
+msgstr ""
+
+msgctxt "0	78527	1749	CHK"
+msgid "Steel Drum"
+msgstr ""
+
+msgctxt "0	78538	1750	CHK"
+msgid "Incompatible DTTV"
+msgstr ""
+
+msgctxt "0	78556	1751	CHK"
+msgid "Long Iron Pipe"
+msgstr ""
+
+msgctxt "0	78571	1752	CHK"
+msgid "Rope"
+msgstr ""
+
+msgctxt "0	78576	1753	CHK"
+msgid "Empty Can"
+msgstr ""
+
+msgctxt "0	78586	1754	CHK"
+msgid "Fire Extinguisher"
+msgstr ""
+
+msgctxt "0	78604	1755	CHK"
+msgid "Economy-size Extreme Spice"
+msgstr ""
+
+msgctxt "0	78631	1756	CHK"
+msgid "Pepper"
+msgstr ""
+
+msgctxt "0	78638	1757	CHK"
+msgid "Mystery Liquid Bottle"
+msgstr ""
+
+msgctxt "0	78660	1758	CHK"
+msgid "Mysterious Syringe"
+msgstr ""
+
+msgctxt "0	78679	1759	CHK"
+msgid "Salt"
+msgstr ""
+
+msgctxt "0	78684	1760	CHK"
+msgid "Kettle"
+msgstr ""
+
+msgctxt "0	78691	1761	CHK"
+msgid "Pouch"
+msgstr ""
+
+msgctxt "0	78697	1762	CHK"
+msgid "Staminan X"
+msgstr ""
+
+msgctxt "0	78708	1763	CHK"
+msgid "Staminan XX"
+msgstr ""
+
+msgctxt "0	78720	1764	CHK"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "0	78736	1765	CHK"
+msgid "Staminan Spark"
+msgstr ""
+
+msgctxt "0	78751	1766	CHK"
+msgid "Tauriner"
+msgstr ""
+
+msgctxt "0	78760	1767	CHK"
+msgid "Tauriner +"
+msgstr ""
+
+msgctxt "0	78771	1768	CHK"
+msgid "Tauriner ++"
+msgstr ""
+
+msgctxt "0	78783	1769	CHK"
+msgid "Tauriner Maximum"
+msgstr ""
+
+msgctxt "0	78800	1770	CHK"
+msgid "Toughness Z"
+msgstr ""
+
+msgctxt "0	78812	1771	CHK"
+msgid "Toughness ZZ"
+msgstr ""
+
+msgctxt "0	78825	1772	CHK"
+msgid "Toughness Emperor"
+msgstr ""
+
+msgctxt "0	78843	1773	CHK"
+msgid "Toughness Infinity"
+msgstr ""
+
+msgctxt "0	78862	1774	CHK"
+msgid "Slime Gun Bullet"
+msgstr ""
+
+msgctxt "0	78879	1775	CHK"
+msgid "Smoke Gun Bullet"
+msgstr ""
+
+msgctxt "0	78896	1776	CHK"
+msgid "Zap Gun Ammo"
+msgstr ""
+
+msgctxt "0	78909	1777	CHK"
+msgid "Slime Gun Slide Zone"
+msgstr ""
+
+msgctxt "0	78930	1778	CHK"
+msgid "Smoke Gun Blind Zone"
+msgstr ""
+
+msgctxt "0	78951	1779	CHK"
+msgid "Zap Gun Slide Zone"
+msgstr ""
+
+msgctxt "0	78970	1780	CHK"
+msgid "Slime Spray Projectile"
+msgstr ""
+
+msgctxt "0	78993	1781	CHK"
+msgid "Retrofire Tonfa Bullet"
+msgstr ""
+
+msgctxt "0	79016	1782	CHK"
+msgid "(Weapon Master Grand Prix) Explosive Bullet"
+msgstr ""
+
+msgctxt "0	79060	1783	CHK"
+msgid "Coliseum Explosive"
+msgstr ""
+
+msgctxt "0	79079	1784	CHK"
+msgid "Tear Gas Grenade Projectile"
+msgstr ""
+
+msgctxt "0	79107	1785	CHK"
+msgid "Smoke Grenade Projectile"
+msgstr ""
+
+msgctxt "0	79132	1786	CHK"
+msgid "Flash Bang Projectile"
+msgstr ""
+
+msgctxt "0	79154	1787	CHK"
+msgid "Lightning Bomb Projectile"
+msgstr ""
+
+msgctxt "0	79180	1788	CHK"
+msgid "Shotgun (Horizontal Double)"
+msgstr ""
+
+msgctxt "0	79208	1789	CHK"
+msgid "Shotgun (Horizontal Double) with arm"
+msgstr ""
+
+msgctxt "0	79245	1790	SUS"
+msgid "Shotgun (Vertical Double) ①"
+msgstr ""
+
+msgctxt "0	79275	1791	SUS"
+msgid "Shotgun (Vertical Double) ①with arm"
+msgstr ""
+
+msgctxt "0	79313	1792	CHK"
+msgid "Black Umbrella (Redundant)"
+msgstr ""
+
+msgctxt "0	79340	1793	CHK"
+msgid "Elegant Umbrella (Redundant)"
+msgstr ""
+
+msgctxt "0	79369	1794	CHK"
+msgid "Master Ball"
+msgstr ""
+
+msgctxt "0	79381	1795	CHK"
+msgid "Blackjack (Redundant)"
+msgstr ""
+
+msgctxt "0	79403	1796	CHK"
+msgid "Ballbuster (Redundant)"
+msgstr ""
+
+msgctxt "0	79426	1797	CHK"
+msgid "Special Police Baton (Redundant)"
+msgstr ""
+
+msgctxt "0	79459	1798	CHK"
+msgid "Kamiyama Police Baton (Redundant)"
+msgstr ""
+
+msgctxt "0	79493	1799	CHK"
+msgid "Iron Pipe (Redundant)"
+msgstr ""
+
+msgctxt "0	79515	1800	CHK"
+msgid "Sonic Knife (Redundant)"
+msgstr ""
+
+msgctxt "0	79539	1801	CHK"
+msgid "Spicy Knife (Redundant)"
+msgstr ""
+
+msgctxt "0	79563	1802	CHK"
+msgid "Nameless Short Sword (Redundant)"
+msgstr ""
+
+msgctxt "0	79596	1803	CHK"
+msgid "Chinese Saber (Redundant)"
+msgstr ""
+
+msgctxt "0	79622	1804	CHK"
+msgid "Lotus Clan Chinese Saber (Redundant)"
+msgstr ""
+
+msgctxt "0	79659	1805	CHK"
+msgid "Divine Dragon Short Sword (Redundant)"
+msgstr ""
+
+msgctxt "0	79697	1806	CHK"
+msgid "Chipped Dagger (Redundant)"
+msgstr ""
+
+msgctxt "0	79724	1807	CHK"
+msgid "Army Knife (Redundant)"
+msgstr ""
+
+msgctxt "0	79747	1808	CHK"
+msgid "Stun Gun (Redundant)"
+msgstr ""
+
+msgctxt "0	79768	1809	CHK"
+msgid "Hyper Stun Gun (Redundant)"
+msgstr ""
+
+msgctxt "0	79795	1810	CHK"
+msgid "Metal Bat"
+msgstr ""
+
+msgctxt "0	79805	1811	CHK"
+msgid "Oak Wood Katana (Redundant)"
+msgstr ""
+
+msgctxt "0	79833	1812	CHK"
+msgid "Nameless Katana (Redundant)"
+msgstr ""
+
+msgctxt "0	79861	1813	CHK"
+msgid "Photon Blade MG (Redundant)"
+msgstr ""
+
+msgctxt "0	79889	1814	CHK"
+msgid "Photon Blade PG (Redundant)"
+msgstr ""
+
+msgctxt "0	79917	1815	CHK"
+msgid "Sakura Storm (Redundant)"
+msgstr ""
+
+msgctxt "0	79942	1816	CHK"
+msgid "Muramasa (Redundant)"
+msgstr ""
+
+msgctxt "0	79963	1817	CHK"
+msgid "Dragon Slayer (Redundant)"
+msgstr ""
+
+msgctxt "0	79989	1818	CHK"
+msgid "Great Hammer (Redundant)"
+msgstr ""
+
+msgctxt "0	80014	1819	CHK"
+msgid "Toy Hammer (Redundant)"
+msgstr ""
+
+msgctxt "0	80037	1820	CHK"
+msgid "Raging Dragon Hammer (Redundant)"
+msgstr ""
+
+msgctxt "0	80070	1821	CHK"
+msgid "Danger, Don't Hit (Redundant)"
+msgstr ""
+
+msgctxt "0	80100	1822	CHK"
+msgid "Lucky Mallet (Redundant)"
+msgstr ""
+
+msgctxt "0	80125	1823	CHK"
+msgid "Extendable Staff (Redundant)"
+msgstr ""
+
+msgctxt "0	80154	1824	CHK"
+msgid "Assassin's Spear (Redundant)"
+msgstr ""
+
+msgctxt "0	80183	1825	CHK"
+msgid "Purgatory Rod (Redundant)"
+msgstr ""
+
+msgctxt "0	80209	1826	CHK"
+msgid "Mighty Dragon Spear (Redundant)"
+msgstr ""
+
+msgctxt "0	80241	1827	CHK"
+msgid "Squid Spear (Redundant)"
+msgstr ""
+
+msgctxt "0	80265	1828	CHK"
+msgid "Great Marlin (Redundant)"
+msgstr ""
+
+msgctxt "0	80290	1829	CHK"
+msgid "BROKEN M1985 (Redundant)"
+msgstr ""
+
+msgctxt "0	80315	1830	CHK"
+msgid "EXPULSION S-12 (Redundant)"
+msgstr ""
+
+msgctxt "0	80342	1831	CHK"
+msgid "Slime Gun (Redundant)"
+msgstr ""
+
+msgctxt "0	80364	1832	CHK"
+msgid "Smoking Gun (Redundant)"
+msgstr ""
+
+msgctxt "0	80388	1833	CHK"
+msgid "Salt (Redundant)"
+msgstr ""
+
+msgctxt "0	80405	1834	CHK"
+msgid "Superglue"
+msgstr ""
+
+msgctxt "0	80415	1835	CHK"
+msgid "Skyrocket"
+msgstr ""
+
+msgctxt "0	80425	1836	CHK"
+msgid "9mm Automatic Pistol (Redundant)"
+msgstr ""
+
+msgctxt "0	80458	1837	CHK"
+msgid "Double Action Revolver (Redundant)"
+msgstr ""
+
+msgctxt "0	80493	1838	CHK"
+msgid "Drow-Z 55 (Redundant)"
+msgstr ""
+
+msgctxt "0	80515	1839	CHK"
+msgid "Golden Pistol (Redundant)"
+msgstr ""
+
+msgctxt "0	80541	1840	CHK"
+msgid "Boss Metal Pipe (Left Hand)"
+msgstr ""
+
+msgctxt "0	80569	1841	CHK"
+msgid "Boss Metal Pipe (Right Hand)"
+msgstr ""
+
+msgctxt "0	80598	1842	CHK"
+msgid "Snowman (for placement)"
+msgstr ""
+
+msgctxt "0	80622	1843	CHK"
+msgid "Snowman (Head)"
+msgstr ""
+
+msgctxt "0	80637	1844	CHK"
+msgid "Broken Snowman (Head)"
+msgstr ""
+
+msgctxt "0	80659	1845	CHK"
+msgid "Snowman (Body)"
+msgstr ""
+
+msgctxt "0	80674	1846	CHK"
+msgid "Broken Snowman (Body)"
+msgstr ""
+
+msgctxt "0	80696	1847	CHK"
+msgid "Butcher Knife (Boss only with infinite durability)"
+msgstr ""
+
+msgctxt "0	80747	1848	CHK"
+msgid "Grenade (Saigo's Battle Training)"
+msgstr ""
+
+msgctxt "0	80781	1849	CHK"
+msgid "Butterfly Knife (Boss only with infinite durability)"
+msgstr ""
+
+msgctxt "0	80834	1850	CHK"
+msgid "Mystery Liquid Bottle (Redundant)"
+msgstr ""
+
+msgctxt "0	80868	1851	CHK"
+msgid "Broken Mystery Liquid Bottle Broken Fragment"
+msgstr ""
+
+msgctxt "0	80913	1852	CHK"
+msgid "Launcher With No Ammo"
+msgstr ""
+
+msgctxt "0	80935	1853	CHK"
+msgid "Saejima Giant Pipe"
+msgstr ""
+
+msgctxt "0	80954	1854	CHK"
+msgid "Saejima Giant Pipe (Fragment)"
+msgstr ""
+
+msgctxt "0	80984	1855	CHK"
+msgid "Majima's Dagger (Boss only with infinite durability)"
+msgstr ""
+
+msgctxt "0	81037	1856	CHK"
+msgid "One-Hand Hammer"
+msgstr ""
+
+msgctxt "0	81053	1857	CHK"
+msgid "Paper Fan"
+msgstr ""
+
+msgctxt "0	81063	1858	CHK"
+msgid "× Card"
+msgstr ""
+
+msgctxt "0	81071	1859	CHK"
+msgid "Saigo's Wig"
+msgstr ""
+
+msgctxt "0	81083	1860	CHK"
+msgid "Golden Rifle"
+msgstr ""
+
+msgctxt "0	81096	1861	CHK"
+msgid "Fried Shrimp Bat"
+msgstr ""
+
+msgctxt "0	81113	1862	CHK"
+msgid "Lau Ka Long's Claws"
+msgstr ""
+
+msgctxt "0	81133	1863	CHK"
+msgid "Lau Ka Long's Great Scythe"
+msgstr ""
+
+msgctxt "0	81160	1864	CHK"
+msgid "Wooden Stick"
+msgstr ""
+
+msgctxt "0	81173	1865	CHK"
+msgid "Golden Pistol (DLC) with arm"
+msgstr ""
+
+msgctxt "0	81202	1866	CHK"
+msgid "Snowman (With Carrot, placed)"
+msgstr ""
+
+msgctxt "0	81232	1867	CHK"
+msgid "Snowman (With wooden carving doll, placed)"
+msgstr ""
+
+msgctxt "0	81275	1868	CHK"
+msgid "Saejima Collateral Attack Collision"
+msgstr ""
+
+msgctxt "0	81311	1869	CHK"
+msgid "Kiryu City Taxi (Program Controlled)"
+msgstr ""
+
+msgctxt "0	81348	1870	CHK"
+msgid "Kiryu Racing Taxi (Program Controlled)"
+msgstr ""
+
+msgctxt "0	81387	1871	CHK"
+msgid "Limousine (Program Controlled)"
+msgstr ""
+
+msgctxt "0	81418	1872	CHK"
+msgid "Car (Program Controlled)"
+msgstr ""
+
+msgctxt "0	81443	1873	CHK"
+msgid "(IF8) Enemy Projectile (Upper)"
+msgstr ""
+
+msgctxt "0	81474	1874	CHK"
+msgid "Racing Obstruction Car (Program Controlled)"
+msgstr ""
+
+msgctxt "0	81518	1875	CHK"
+msgid "Forklift Attack Collision"
+msgstr ""
+
+msgctxt "0	81544	1876	CHK"
+msgid "Snowball Fight Dummy Weapon"
+msgstr ""
+
+msgctxt "0	81572	1877	CHK"
+msgid "Flame Zone for Long Battle"
+msgstr ""
+
+msgctxt "0	81599	1878	CHK"
+msgid "Car for Collision Control"
+msgstr ""
+
+msgctxt "0	81625	1879	CHK"
+msgid "Tendo Fire Ball"
+msgstr ""
+
+msgctxt "0	81641	1880	CHK"
+msgid "Haruka Attack Sphere (heavy miss)"
+msgstr ""
+
+msgctxt "0	81675	1881	CHK"
+msgid "Love Shine Sticks (IF8)"
+msgstr ""
+
+msgctxt "0	81699	1882	CHK"
+msgid "Love Shine Stick Attack Sphere (No Pierce)"
+msgstr ""
+
+msgctxt "0	81742	1883	CHK"
+msgid "Love Shine Stick Attack Sphere (Pierce)"
+msgstr ""
+
+msgctxt "0	81782	1884	CHK"
+msgid "(IF8) Enemy Projectile (Lower)"
+msgstr ""
+
+msgctxt "0	81813	1885	CHK"
+msgid "(IF8) Oil Drum Obstacle"
+msgstr ""
+
+msgctxt "0	81837	1886	CHK"
+msgid "Amon Flame Zone"
+msgstr ""
+
+msgctxt "0	81853	1887	CHK"
+msgid "Collateral Damage Belt Attack Collision"
+msgstr ""
+
+msgctxt "0	81893	1888	CHK"
+msgid "Festival Fan Attack Collision"
+msgstr ""
+
+msgctxt "0	81923	1889	CHK"
+msgid "UID Issuing Weapon"
+msgstr ""
+
+msgctxt "0	81942	1890	CHK"
+msgid "Demon Gauntlets"
+msgstr ""
+
+msgctxt "0	81958	1891	CHK"
+msgid "Hungry Wolf Gloves"
+msgstr ""
+
+msgctxt "0	81977	1892	CHK"
+msgid "Squid Spear"
+msgstr ""
+
+msgctxt "0	81989	1893	CHK"
+msgid "Great Marlin"
+msgstr ""
+
+msgctxt "0	82002	1894	CHK"
+msgid "Mannequin (Green)"
+msgstr ""
+
+msgctxt "0	82020	1895	CHK"
+msgid "Mannequin (Green) (Broken)"
+msgstr ""
+
+msgctxt "0	82047	1896	CHK"
+msgid "Lamp"
+msgstr ""
+
+msgctxt "0	82052	1897	CHK"
+msgid "Broken Lamp"
+msgstr ""
+
+msgctxt "0	82064	1898	CHK"
+msgid "Vibrant Plant Pot Fragment"
+msgstr ""
+
+msgctxt "0	82091	1899	CHK"
+msgid "Destroyed Vibrant Plant"
+msgstr ""
+
+msgctxt "0	82115	1900	CHK"
+msgid "Vibrant Plant Stem"
+msgstr ""
+
+msgctxt "0	82134	1901	CHK"
+msgid "Table Piece"
+msgstr ""
+
+msgctxt "0	82146	1902	CHK"
+msgid "Broken TV"
+msgstr ""
+
+msgctxt "0	82156	1903	CHK"
+msgid "Sofa"
+msgstr ""
+
+msgctxt "0	82161	1904	CHK"
+msgid "Cone Fragment"
+msgstr ""
+
+msgctxt "0	82175	1905	CHK"
+msgid "Serena Red Chair"
+msgstr ""
+
+msgctxt "0	82192	1906	CHK"
+msgid "Serena Red Chair Fragment"
+msgstr ""
+
+msgctxt "0	82218	1907	CHK"
+msgid "Serena Table"
+msgstr ""
+
+msgctxt "0	82231	1908	CHK"
+msgid "Serena Table Fragment"
+msgstr ""
+
+msgctxt "0	82253	1909	CHK"
+msgid "Armchair"
+msgstr ""
+
+msgctxt "0	82262	1910	CHK"
+msgid "Armchair Fragment"
+msgstr ""
+
+msgctxt "0	82280	1911	CHK"
+msgid "Red Set Bench"
+msgstr ""
+
+msgctxt "0	82294	1912	CHK"
+msgid "Strip Theater Red Chair Fragment"
+msgstr ""
+
+msgctxt "0	82327	1913	CHK"
+msgid "Black Set Bench"
+msgstr ""
+
+msgctxt "0	82343	1914	CHK"
+msgid "Strip Theater Black Chair Fragment"
+msgstr ""
+
+msgctxt "0	82378	1915	CHK"
+msgid "Black Wooden Table"
+msgstr ""
+
+msgctxt "0	82397	1916	CHK"
+msgid "Broken Black Wooden Modern Table"
+msgstr ""
+
+msgctxt "0	82430	1917	CHK"
+msgid "Black Wooden Chair"
+msgstr ""
+
+msgctxt "0	82449	1918	CHK"
+msgid "Broken Black Wooden Modern Chair"
+msgstr ""
+
+msgctxt "0	82482	1919	CHK"
+msgid "Dark Double Sofa"
+msgstr ""
+
+msgctxt "0	82499	1920	CHK"
+msgid "Broken Dark Double Sofa"
+msgstr ""
+
+msgctxt "0	82523	1921	CHK"
+msgid "Partitioning Screen"
+msgstr ""
+
+msgctxt "0	82543	1922	CHK"
+msgid "Broken Partitioning Screen"
+msgstr ""
+
+msgctxt "0	82570	1923	CHK"
+msgid "Black Wooden Bench"
+msgstr ""
+
+msgctxt "0	82589	1924	CHK"
+msgid "Broken Black Wooden Bench"
+msgstr ""
+
+msgctxt "0	82615	1925	CHK"
+msgid "Maple Modern Table"
+msgstr ""
+
+msgctxt "0	82634	1926	CHK"
+msgid "Broken Maple Modern Table"
+msgstr ""
+
+msgctxt "0	82660	1927	CHK"
+msgid "Maple Modern Chair"
+msgstr ""
+
+msgctxt "0	82679	1928	CHK"
+msgid "Broken Maple Modern Chair"
+msgstr ""
+
+msgctxt "0	82705	1929	CHK"
+msgid "Broken Wooden Table"
+msgstr ""
+
+msgctxt "0	82725	1930	CHK"
+msgid "Broken Wooden Chair"
+msgstr ""
+
+msgctxt "0	82745	1931	CHK"
+msgid "Modern Desk"
+msgstr ""
+
+msgctxt "0	82757	1932	CHK"
+msgid "Broken Modern Desk"
+msgstr ""
+
+msgctxt "0	82776	1933	CHK"
+msgid "Modern Desk (Type 1)"
+msgstr ""
+
+msgctxt "0	82797	1934	CHK"
+msgid "Modern Desk (Type 1) Fragment"
+msgstr ""
+
+msgctxt "0	82827	1935	CHK"
+msgid "Modern Desk (Type 2)"
+msgstr ""
+
+msgctxt "0	82848	1936	CHK"
+msgid "Modern Desk (Type 2) Fragment"
+msgstr ""
+
+msgctxt "0	82878	1937	CHK"
+msgid "Black Leather Office Chair"
+msgstr ""
+
+msgctxt "0	82905	1938	CHK"
+msgid "Broken Black Leather Office Chair"
+msgstr ""
+
+msgctxt "0	82939	1939	CHK"
+msgid "Good Fortune Vase"
+msgstr ""
+
+msgctxt "0	82957	1940	CHK"
+msgid "Good Fortune Vase Fragment"
+msgstr ""
+
+msgctxt "0	82984	1941	CHK"
+msgid "Church Chair"
+msgstr ""
+
+msgctxt "0	82997	1942	CHK"
+msgid "Church Chair Fragment"
+msgstr ""
+
+msgctxt "0	83019	1943	CHK"
+msgid "Bear Bait Wolf Meat"
+msgstr ""
+
+msgctxt "0	83039	1944	CHK"
+msgid "Bear Bait Wolf Meat Different Shape"
+msgstr ""
+
+msgctxt "0	83075	1945	CHK"
+msgid "Whisky Bottle"
+msgstr ""
+
+msgctxt "0	83089	1946	CHK"
+msgid "Whisky Bottle Fragment"
+msgstr ""
+
+msgctxt "0	83112	1947	CHK"
+msgid "Broken Whisky Bottle"
+msgstr ""
+
+msgctxt "0	83133	1948	CHK"
+msgid "Broken Table"
+msgstr ""
+
+msgctxt "0	83146	1949	CHK"
+msgid "Broken Stool"
+msgstr ""
+
+msgctxt "0	83159	1950	CHK"
+msgid "Stool (Large)"
+msgstr ""
+
+msgctxt "0	83173	1951	CHK"
+msgid "Broken Stool (Large)"
+msgstr ""
+
+msgctxt "0	83194	1952	CHK"
+msgid "Table Set"
+msgstr ""
+
+msgctxt "0	83204	1953	CHK"
+msgid "Table Set Fragment"
+msgstr ""
+
+msgctxt "0	83223	1954	CHK"
+msgid "Broken Bench Model"
+msgstr ""
+
+msgctxt "0	83242	1955	CHK"
+msgid "Stand Fragment"
+msgstr ""
+
+msgctxt "0	83257	1956	CHK"
+msgid "Chair Fragment"
+msgstr ""
+
+msgctxt "0	83272	1957	CHK"
+msgid "Globe"
+msgstr ""
+
+msgctxt "0	83278	1958	CHK"
+msgid "Globe Fragment"
+msgstr ""
+
+msgctxt "0	83293	1959	CHK"
+msgid "Vase"
+msgstr ""
+
+msgctxt "0	83298	1960	CHK"
+msgid "Vase Fragment"
+msgstr ""
+
+msgctxt "0	83312	1961	CHK"
+msgid "Bench Sofa"
+msgstr ""
+
+msgctxt "0	83323	1962	CHK"
+msgid "Bench Sofa Fragment"
+msgstr ""
+
+msgctxt "0	83343	1963	CHK"
+msgid "White Chair"
+msgstr ""
+
+msgctxt "0	83355	1964	CHK"
+msgid "White Chair Fragment"
+msgstr ""
+
+msgctxt "0	83376	1965	CHK"
+msgid "Black Chair"
+msgstr ""
+
+msgctxt "0	83388	1966	CHK"
+msgid "Black Chair Fragment"
+msgstr ""
+
+msgctxt "0	83409	1967	CHK"
+msgid "Table Fragment"
+msgstr ""
+
+msgctxt "0	83424	1968	CHK"
+msgid "Vase Set"
+msgstr ""
+
+msgctxt "0	83433	1969	CHK"
+msgid "Vase Set Fragment"
+msgstr ""
+
+msgctxt "0	83451	1970	CHK"
+msgid "Western Style Vase (White)"
+msgstr ""
+
+msgctxt "0	83478	1971	CHK"
+msgid "Western Style Vase (White) Fragment"
+msgstr ""
+
+msgctxt "0	83514	1972	CHK"
+msgid "Western Style Vase (Blue)"
+msgstr ""
+
+msgctxt "0	83540	1973	CHK"
+msgid "Western Style Vase (Blue) Fragment"
+msgstr ""
+
+msgctxt "0	83575	1974	CHK"
+msgid "Sofa Fragment"
+msgstr ""
+
+msgctxt "0	83589	1975	CHK"
+msgid "Annual Ring"
+msgstr ""
+
+msgctxt "0	83601	1976	CHK"
+msgid "Annual Ring Fragment"
+msgstr ""
+
+msgctxt "0	83622	1977	CHK"
+msgid "Anti-Tank Missile Launcher (No Ammo)"
+msgstr ""
+
+msgctxt "0	83659	1978	CHK"
+msgid "Anti-Tank Missile Launcher (No Ammo) Broken Model"
+msgstr ""
+
+msgctxt "0	83709	1979	CHK"
+msgid "Mannequin"
+msgstr ""
+
+msgctxt "0	83719	1980	CHK"
+msgid "Mannequin Fragment"
+msgstr ""
+
+msgctxt "0	83738	1981	CHK"
+msgid "Flower Bed"
+msgstr ""
+
+msgctxt "0	83749	1982	CHK"
+msgid "Flower Bed Fragment"
+msgstr ""
+
+msgctxt "0	83769	1983	CHK"
+msgid "Kubota Office Desk 01"
+msgstr ""
+
+msgctxt "0	83791	1984	CHK"
+msgid "Kubota Office Desk 01 Broken Model"
+msgstr ""
+
+msgctxt "0	83826	1985	CHK"
+msgid "Kubota Office Desk Broken Model"
+msgstr ""
+
+msgctxt "0	83858	1986	CHK"
+msgid "Kubota Office Desk 02"
+msgstr ""
+
+msgctxt "0	83880	1987	CHK"
+msgid "Kubota Office Desk 02 Broken Model"
+msgstr ""
+
+msgctxt "0	83915	1988	CHK"
+msgid "Kubota Security Table Set"
+msgstr ""
+
+msgctxt "0	83941	1989	CHK"
+msgid "Kubota Security Table Set Broken Model"
+msgstr ""
+
+msgctxt "0	83980	1990	CHK"
+msgid "Kubota Security Table Broken Model"
+msgstr ""
+
+msgctxt "0	84015	1991	CHK"
+msgid "Broken Ashtray"
+msgstr ""
+
+msgctxt "0	84030	1992	CHK"
+msgid "Glass Table set"
+msgstr ""
+
+msgctxt "0	84046	1993	CHK"
+msgid "Glass Table Fragment"
+msgstr ""
+
+msgctxt "0	84067	1994	CHK"
+msgid "Long Table A"
+msgstr ""
+
+msgctxt "0	84080	1995	CHK"
+msgid "Broken Long Table A"
+msgstr ""
+
+msgctxt "0	84100	1996	CHK"
+msgid "Long Table B"
+msgstr ""
+
+msgctxt "0	84113	1997	CHK"
+msgid "Long Table B Fragment"
+msgstr ""
+
+msgctxt "0	84135	1998	CHK"
+msgid "Long Table C"
+msgstr ""
+
+msgctxt "0	84148	1999	CHK"
+msgid "Long Table C Fragment"
+msgstr ""
+
+msgctxt "0	84170	2000	CHK"
+msgid "Pipe Chair"
+msgstr ""
+
+msgctxt "0	84181	2001	CHK"
+msgid "Broken Pipe Chair"
+msgstr ""
+
+msgctxt "0	84199	2002	CHK"
+msgid "Sofa A set"
+msgstr ""
+
+msgctxt "0	84210	2003	CHK"
+msgid "Large Sofa Fragment"
+msgstr ""
+
+msgctxt "0	84230	2004	CHK"
+msgid "Broken Glass Table"
+msgstr ""
+
+msgctxt "0	84249	2005	CHK"
+msgid "Broken Long Table"
+msgstr ""
+
+msgctxt "0	84267	2006	CHK"
+msgid "Broken Large Sofa"
+msgstr ""
+
+msgctxt "0	84285	2007	CHK"
+msgid "Broken Sofa B"
+msgstr ""
+
+msgctxt "0	84299	2008	CHK"
+msgid "Stand Light"
+msgstr ""
+
+msgctxt "0	84311	2009	CHK"
+msgid "Broken Stand Light"
+msgstr ""
+
+msgctxt "0	84330	2010	CHK"
+msgid "Broken Partition"
+msgstr ""
+
+msgctxt "0	84347	2011	CHK"
+msgid "Broken Ashtray Stand"
+msgstr ""
+
+msgctxt "0	84368	2012	CHK"
+msgid "Low Table"
+msgstr ""
+
+msgctxt "0	84378	2013	CHK"
+msgid "Broken Low Table A"
+msgstr ""
+
+msgctxt "0	84397	2014	CHK"
+msgid "Broken Low Table B"
+msgstr ""
+
+msgctxt "0	84416	2015	CHK"
+msgid "Broken Chair"
+msgstr ""
+
+msgctxt "0	84429	2016	CHK"
+msgid "Orchid Plant"
+msgstr ""
+
+msgctxt "0	84442	2017	CHK"
+msgid "Broken Orchid Plant"
+msgstr ""
+
+msgctxt "0	84462	2018	CHK"
+msgid "Low Table C set"
+msgstr ""
+
+msgctxt "0	84478	2019	CHK"
+msgid "Low Table C Fragment"
+msgstr ""
+
+msgctxt "0	84499	2020	CHK"
+msgid "Broken Low Table C"
+msgstr ""
+
+msgctxt "0	84518	2021	CHK"
+msgid "Broken Low Table D"
+msgstr ""
+
+msgctxt "0	84537	2022	CHK"
+msgid "Broken Sofa C"
+msgstr ""
+
+msgctxt "0	84551	2023	CHK"
+msgid "Old Imari Vase set"
+msgstr ""
+
+msgctxt "0	84570	2024	CHK"
+msgid "Old Imari Vase Fragment"
+msgstr ""
+
+msgctxt "0	84594	2025	CHK"
+msgid "Old Imari Vase"
+msgstr ""
+
+msgctxt "0	84609	2026	CHK"
+msgid "Broken Old Imari Vase"
+msgstr ""
+
+msgctxt "0	84631	2027	CHK"
+msgid "Glass Partition"
+msgstr ""
+
+msgctxt "0	84647	2028	CHK"
+msgid "Glass Partition Fragment"
+msgstr ""
+
+msgctxt "0	84672	2029	CHK"
+msgid "Glass Partition Broken Part 1"
+msgstr ""
+
+msgctxt "0	84702	2030	CHK"
+msgid "Glass Partition Broken Part 1 Fragment"
+msgstr ""
+
+msgctxt "0	84741	2031	CHK"
+msgid "Shin Osaka Broken Trash Can A"
+msgstr ""
+
+msgctxt "0	84771	2032	CHK"
+msgid "Shin Osaka Broken Trash Can B"
+msgstr ""
+
+msgctxt "0	84801	2033	CHK"
+msgid "Car (Sedan Black Low Model)"
+msgstr ""
+
+msgctxt "0	84829	2034	CHK"
+msgid "Gondola"
+msgstr ""
+
+msgctxt "0	84837	2035	CHK"
+msgid "Guitar Case"
+msgstr ""
+
+msgctxt "0	84849	2036	CHK"
+msgid "Pack"
+msgstr ""
+
+msgctxt "0	84854	2037	CHK"
+msgid "Mallet"
+msgstr ""
+
+msgctxt "0	84861	2038	CHK"
+msgid "Pack (Heat)"
+msgstr ""
+
+msgctxt "0	84873	2039	CHK"
+msgid "Kiryu Taxi: Sticker: Type A"
+msgstr ""
+
+msgctxt "0	84901	2040	CHK"
+msgid "Kiryu Taxi: Sticker: Type B"
+msgstr ""
+
+msgctxt "0	84929	2041	CHK"
+msgid "Kiryu Taxi: Sticker: Type C"
+msgstr ""
+
+msgctxt "0	84957	2042	CHK"
+msgid "Kiryu Taxi: Sticker: Type D"
+msgstr ""
+
+msgctxt "0	84985	2043	CHK"
+msgid "Kiryu Taxi: Sticker: Type E"
+msgstr ""
+
+msgctxt "0	85013	2044	CHK"
+msgid "Kiryu Taxi: Sticker: Type F"
+msgstr ""
+
+msgctxt "0	85041	2045	CHK"
+msgid "Haruka Itasha"
+msgstr ""
+
+msgctxt "0	85055	2046	CHK"
+msgid "Underground Mall Signboard"
+msgstr ""
+
+msgctxt "0	85082	2047	CHK"
+msgid "Iron Pipe (Sakai)"
+msgstr ""
+
+msgctxt "0	85100	2048	CHK"
+msgid "Coliseum Knuckles"
+msgstr ""
+
+msgctxt "0	85118	2049	CHK"
+msgid "Modified Dragon Grudge Gloves"
+msgstr ""
+
+msgctxt "0	85148	2050	CHK"
+msgid "Crab Scissors"
+msgstr ""
+
+msgctxt "0	85162	2051	CHK"
+msgid "Shortsword with Nicked Blade"
+msgstr ""
+
+msgctxt "0	85191	2052	CHK"
+msgid "New Dagger"
+msgstr ""
+
+msgctxt "0	85202	2053	CHK"
+msgid "Old Stun Gun"
+msgstr ""
+
+msgctxt "0	85215	2054	CHK"
+msgid "Sturdy Knife"
+msgstr ""
+
+msgctxt "0	85228	2055	CHK"
+msgid "Coliseum Short Sword"
+msgstr ""
+
+msgctxt "0	85249	2056	CHK"
+msgid "Modified Divine Dragon Short Sword"
+msgstr ""
+
+msgctxt "0	85284	2057	CHK"
+msgid "Spatula Blade"
+msgstr ""
+
+msgctxt "0	85298	2058	CHK"
+msgid "Fragile Wooden Katana"
+msgstr ""
+
+msgctxt "0	85320	2059	CHK"
+msgid "Katana with Nicked Blade"
+msgstr ""
+
+msgctxt "0	85345	2060	CHK"
+msgid "Hazy Moon"
+msgstr ""
+
+msgctxt "0	85355	2061	CHK"
+msgid "Sturdy Katana"
+msgstr ""
+
+msgctxt "0	85369	2062	CHK"
+msgid "Extremely Sturdy Katana"
+msgstr ""
+
+msgctxt "0	85393	2063	CHK"
+msgid "Coliseum Katana"
+msgstr ""
+
+msgctxt "0	85409	2064	CHK"
+msgid "Modified Dragon Slayer"
+msgstr ""
+
+msgctxt "0	85432	2065	CHK"
+msgid "Big Festival Fan"
+msgstr ""
+
+msgctxt "0	85449	2066	CHK"
+msgid "Frozen Tuna"
+msgstr ""
+
+msgctxt "0	85461	2067	CHK"
+msgid "Snowman Hammer"
+msgstr ""
+
+msgctxt "0	85476	2068	CHK"
+msgid "Modified Raging Dragon Hammer"
+msgstr ""
+
+msgctxt "0	85506	2069	CHK"
+msgid "Coliseum Hammer"
+msgstr ""
+
+msgctxt "0	85522	2070	CHK"
+msgid "Photon Blade WG"
+msgstr ""
+
+msgctxt "0	85538	2071	CHK"
+msgid "Uirou Pole"
+msgstr ""
+
+msgctxt "0	85549	2072	CHK"
+msgid "Penguin Spear"
+msgstr ""
+
+msgctxt "0	85563	2073	CHK"
+msgid "Sturdy Pole"
+msgstr ""
+
+msgctxt "0	85575	2074	CHK"
+msgid "Modified Mighty Dragon Spear"
+msgstr ""
+
+msgctxt "0	85604	2075	CHK"
+msgid "Extremely Sturdy Pole"
+msgstr ""
+
+msgctxt "0	85626	2076	CHK"
+msgid "Coliseum Spear"
+msgstr ""
+
+msgctxt "0	85641	2077	CHK"
+msgid "Habanero Powder"
+msgstr ""
+
+msgctxt "0	85657	2078	CHK"
+msgid "Frozen Banana"
+msgstr ""
+
+msgctxt "0	85671	2079	CHK"
+msgid "Double Leeks"
+msgstr ""
+
+msgctxt "0	85684	2080	CHK"
+msgid "Love Shine Leeks"
+msgstr ""
+
+msgctxt "0	85701	2081	CHK"
+msgid "Assassin's Spear (Enemy)"
+msgstr ""
+
+msgctxt "0	85726	2082	CHK"
+msgid "Coliseum Kali Sticks"
+msgstr ""
+
+msgctxt "0	85747	2083	CHK"
+msgid "Modified Twin Dragon Sticks"
+msgstr ""
+
+msgctxt "0	85775	2084	CHK"
+msgid "Wooden Kali Sticks (Enemy)"
+msgstr ""
+
+msgctxt "0	85802	2085	CHK"
+msgid "Cod Roe Blackjack"
+msgstr ""
+
+msgctxt "0	85820	2086	CHK"
+msgid "Superalloy Pipe"
+msgstr ""
+
+msgctxt "0	85836	2087	CHK"
+msgid "Colorful Parasol"
+msgstr ""
+
+msgctxt "0	85853	2088	CHK"
+msgid "Shachihoko"
+msgstr ""
+
+msgctxt "0	85864	2089	CHK"
+msgid "Extremely Sturdy Iron Pipe"
+msgstr ""
+
+msgctxt "0	85891	2090	CHK"
+msgid "Damaged Metal Bat"
+msgstr ""
+
+msgctxt "0	85909	2091	CHK"
+msgid "Cracked Spiked Bat"
+msgstr ""
+
+msgctxt "0	85928	2092	CHK"
+msgid "Zap Gun"
+msgstr ""
+
+msgctxt "0	85936	2093	CHK"
+msgid "Coliseum Tonfa"
+msgstr ""
+
+msgctxt "0	85951	2094	CHK"
+msgid "Modified Dragon Horn"
+msgstr ""
+
+msgctxt "0	85972	2095	CHK"
+msgid "Coliseum Nunchaku"
+msgstr ""
+
+msgctxt "0	85990	2096	CHK"
+msgid "Modified Dragon Nunchaku"
+msgstr ""
+
+msgctxt "0	86015	2097	CHK"
+msgid "Wooden Nunchaku (Enemy)"
+msgstr ""
+
+msgctxt "0	86039	2098	CHK"
+msgid "9mm Automatic Pistol (Unlimited Ammo)"
+msgstr ""
+
+msgctxt "0	86077	2099	CHK"
+msgid "EXPULSION S-12 Ammo"
+msgstr ""
+
+msgctxt "0	86097	2100	CHK"
+msgid "Double Action Revolver Ammo"
+msgstr ""
+
+msgctxt "0	86125	2101	CHK"
+msgid "Broken Iron Pipe"
+msgstr ""
+
+msgctxt "0	86142	2102	CHK"
+msgid "Broken Steel Drum"
+msgstr ""
+
+msgctxt "0	86160	2103	CHK"
+msgid "Broken Economy-size Tabasco Bottle"
+msgstr ""
+
+msgctxt "0	86195	2104	CHK"
+msgid "Broken Industrial-size Hot Peppers"
+msgstr ""
+
+msgctxt "0	86230	2105	CHK"
+msgid "Broken Brickshitter Beer Fragment"
+msgstr ""
+
+msgctxt "0	86264	2106	CHK"
+msgid "Broken Bladed Tonfa Fragment"
+msgstr ""
+
+msgctxt "0	86293	2107	CHK"
+msgid "Broken Wooden Nunchaku Fragment"
+msgstr ""
+
+msgctxt "0	86325	2108	CHK"
+msgid "Broken Steel Nunchaku Fragment"
+msgstr ""
+
+msgctxt "0	86356	2109	CHK"
+msgid "Broken Dragon Nunchaku Fragment"
+msgstr ""
+
+msgctxt "0	86388	2110	CHK"
+msgid "Broken Double Sticks Fragment"
+msgstr ""
+
+msgctxt "0	86418	2111	CHK"
+msgid "Broken Chinese Dragon Tonfa Fragment"
+msgstr ""
+
+msgctxt "0	86455	2112	CHK"
+msgid "Broken Cedar Lumber Fragment"
+msgstr ""
+
+msgctxt "0	86484	2113	CHK"
+msgid "Broken Mystery Liquid Bottle Fragment"
+msgstr ""
+
+msgctxt "0	86522	2114	CHK"
+msgid "Broken Photon Blade Fragment"
+msgstr ""
+
+msgctxt "0	86551	2115	CHK"
+msgid "Broken Assassin's Spear Fragment"
+msgstr ""
+
+msgctxt "0	86584	2116	CHK"
+msgid "Broken White Dragon Staff Fragment"
+msgstr ""
+
+msgctxt "0	86619	2117	CHK"
+msgid "Grenade (Saigo's Pursuit Training)"
+msgstr ""
+
+msgctxt "0	86654	2118	CHK"
+msgid "Vibrant Plant (Brown Hospital Pot) Broken Model"
+msgstr ""
+
+msgctxt "0	86702	2119	CHK"
+msgid "Generic Office 03 Broken Table Model"
+msgstr ""
+
+msgctxt "0	86739	2120	CHK"
+msgid "Broken Office Sofa 03 Model"
+msgstr ""
+
+msgctxt "0	86767	2121	CHK"
+msgid "Lantern"
+msgstr ""
+
+msgctxt "0	86775	2122	CHK"
+msgid "Broken Hills Sofa 01 Model"
+msgstr ""
+
+msgctxt "0	86802	2123	CHK"
+msgid "Horizontal Double Shotgun Ammo"
+msgstr ""
+
+msgctxt "0	86833	2124	CHK"
+msgid "Vertical Double Rifle 1 Ammo"
+msgstr ""
+
+msgctxt "0	86862	2125	CHK"
+msgid "Vertical Double Rifle 2 Ammo"
+msgstr ""
+
+msgctxt "0	86891	2126	CHK"
+msgid "Vertical Double Rifle 3 Ammo"
+msgstr ""
+
+msgctxt "0	86920	2127	CHK"
+msgid "Inside of Cardboard Box"
+msgstr ""
+
+msgctxt "0	86944	2128	CHK"
+msgid "Golden Rifle Ammo"
+msgstr ""
+
+msgctxt "0	86962	2129	CHK"
+msgid "Kiryu Taxi: Wheel: Normal"
+msgstr ""
+
+msgctxt "0	86988	2130	CHK"
+msgid "Kiryu Taxi: Wheel: Normal Color Change"
+msgstr ""
+
+msgctxt "0	87027	2131	CHK"
+msgid "Kiryu Taxi: Wheel: Type B"
+msgstr ""
+
+msgctxt "0	87053	2132	CHK"
+msgid "Kiryu Taxi: Wheel: Type B Color Change"
+msgstr ""
+
+msgctxt "0	87092	2133	CHK"
+msgid "Kiryu Taxi: Wheel: Type C"
+msgstr ""
+
+msgctxt "0	87118	2134	CHK"
+msgid "Kiryu Taxi: Wheel: Type C Color Change"
+msgstr ""
+
+msgctxt "0	87157	2135	CHK"
+msgid "Broken Chinese Broadsword"
+msgstr ""
+
+msgctxt "0	87183	2136	CHK"
+msgid "Broken 9-iron"
+msgstr ""
+
+msgctxt "0	87197	2137	CHK"
+msgid "Broken Bat"
+msgstr ""
+
+msgctxt "0	87208	2138	CHK"
+msgid "Broken Extendable Staff"
+msgstr ""
+
+msgctxt "0	87232	2139	CHK"
+msgid "Broken Beer Bottle"
+msgstr ""
+
+msgctxt "0	87251	2140	CHK"
+msgid "Metal Bat [BTL] [Chapter 3]"
+msgstr ""
+
+msgctxt "0	87279	2141	CHK"
+msgid "Red Lion Dagger Fragment"
+msgstr ""
+
+msgctxt "0	87304	2142	CHK"
+msgid "Nameless Short Sword Fragment"
+msgstr ""
+
+msgctxt "0	87334	2143	CHK"
+msgid "Chinese Broadsword Fragment"
+msgstr ""
+
+msgctxt "0	87362	2144	CHK"
+msgid "Lotus Clan Broadsword Fragment"
+msgstr ""
+
+msgctxt "0	87393	2145	CHK"
+msgid "Divine Dragon Short Sword Fragment"
+msgstr ""
+
+msgctxt "0	87428	2146	CHK"
+msgid "Hyper Stun Gun Piece"
+msgstr ""
+
+msgctxt "0	87449	2147	CHK"
+msgid "Wooden Driver Piece"
+msgstr ""
+
+msgctxt "0	87469	2148	CHK"
+msgid "Spiked Bat Piece"
+msgstr ""
+
+msgctxt "0	87486	2149	CHK"
+msgid "Wooden Katana Fragment"
+msgstr ""
+
+msgctxt "0	87509	2150	CHK"
+msgid "Nameless Katana Fragment"
+msgstr ""
+
+msgctxt "0	87534	2151	CHK"
+msgid "Mail Order Katana Fragment"
+msgstr ""
+
+msgctxt "0	87561	2152	CHK"
+msgid "Sakura Storm Fragment"
+msgstr ""
+
+msgctxt "0	87583	2153	CHK"
+msgid "Muramasa Blade Fragment"
+msgstr ""
+
+msgctxt "0	87607	2154	CHK"
+msgid "Dragon Emblem Sword Fragment"
+msgstr ""
+
+msgctxt "0	87636	2155	CHK"
+msgid "Extendable Staff Piece"
+msgstr ""
+
+msgctxt "0	87659	2156	CHK"
+msgid "Modified Stun Lighter Piece"
+msgstr ""
+
+msgctxt "0	87687	2157	CHK"
+msgid "Twin Hangers Piece"
+msgstr ""
+
+msgctxt "0	87706	2158	CHK"
+msgid "Double Slats Piece"
+msgstr ""
+
+msgctxt "0	87725	2159	CHK"
+msgid "Beer Bottle Fragment"
+msgstr ""
+
+msgctxt "0	87746	2160	CHK"
+msgid "Lau's Spear Fragment"
+msgstr ""
+
+msgctxt "0	87767	2161	CHK"
+msgid "Photon Blade PG Fragment"
+msgstr ""
+
+msgctxt "0	87792	2162	CHK"
+msgid "Master Ball Fragment"
+msgstr ""
+
+msgctxt "0	87813	2163	CHK"
+msgid "Cutie Girl Stick Fragment"
+msgstr ""
+
+msgctxt "0	87839	2164	CHK"
+msgid "Love Shine Stick Fragment"
+msgstr ""
+
+msgctxt "0	87865	2165	CHK"
+msgid "SPARK 20,000V Fragment"
+msgstr ""
+
+msgctxt "0	87888	2166	CHK"
+msgid "Nunchaku"
+msgstr ""
+
+msgctxt "0	87897	2167	CHK"
+msgid "Scythe"
+msgstr ""
+
+msgctxt "0	87904	2168	CHK"
+msgid "Brass Knuckles (For Coliseum *Not used in DEVIL)"
+msgstr ""
+
+msgctxt "0	87953	2169	CHK"
+msgid "Photon Blade PG"
+msgstr ""
+
+msgctxt "0	87969	2170	CHK"
+msgid "Cutie Girl Sticks"
+msgstr ""
+
+msgctxt "0	87987	2171	CHK"
+msgid "Love Shine Sticks"
+msgstr ""
+
+msgctxt "0	88005	2172	CHK"
+msgid "Mr. Random"
+msgstr ""
+
+msgctxt "0	88016	2173	CHK"
+msgid "SPARK 20,000V"
+msgstr ""
+
+msgctxt "0	88030	2174	CHK"
+msgid "Cucumber"
+msgstr ""
+
+msgctxt "0	88039	2175	CHK"
+msgid "Gurukun Chunk"
+msgstr ""
+
+msgctxt "0	88053	2176	CHK"
+msgid "Bench Piece"
+msgstr ""
+
+msgctxt "0	88065	2177	CHK"
+msgid "Victory Daruma Piece"
+msgstr ""
+
+msgctxt "0	88086	2178	CHK"
+msgid "Brown Tube TV (15 Inch) Piece"
+msgstr ""
+
+msgctxt "0	88116	2179	CHK"
+msgid "Rope Piece"
+msgstr ""
+
+msgctxt "0	88127	2180	CHK"
+msgid "Fire Extinguisher Piece"
+msgstr ""
+
+msgctxt "0	88151	2181	CHK"
+msgid "Bowling Ball Fragment"
+msgstr ""
+
+msgctxt "0	88173	2182	CHK"
+msgid "Kettle Piece"
+msgstr ""
+
+msgctxt "0	88186	2183	CHK"
+msgid "Chipped Dagger Fragment"
+msgstr ""
+
+msgctxt "0	88210	2184	CHK"
+msgid "Black Scooter"
+msgstr ""
+
+msgctxt "0	88224	2185	CHK"
+msgid "Silver Scooter"
+msgstr ""
+
+msgctxt "0	88239	2186	CHK"
+msgid "Bat [minigame] Batting Bat"
+msgstr ""
+
+msgctxt "0	88266	2187	CHK"
+msgid "Flag [Minigame] <Golf> Flag"
+msgstr ""
+
+msgctxt "0	88294	2188	CHK"
+msgid "Claw (Hooked)"
+msgstr ""
+
+msgctxt "0	88308	2189	CHK"
+msgid "Blue Bench"
+msgstr ""
+
+msgctxt "0	88319	2190	CHK"
+msgid "Broken Blue Batting Center Bench"
+msgstr ""
+
+msgctxt "0	88352	2191	CHK"
+msgid "Ashcan"
+msgstr ""
+
+msgctxt "0	88359	2192	CHK"
+msgid "Broken Batting Center Ashcan"
+msgstr ""
+
+msgctxt "0	88388	2193	CHK"
+msgid "Portable Ashtray"
+msgstr ""
+
+msgctxt "0	88405	2194	CHK"
+msgid "Batting Center Square Ashtray (Broken)"
+msgstr ""
+
+msgctxt "0	88444	2195	CHK"
+msgid "Batting Center Plastic Bucket (Broken)"
+msgstr ""
+
+msgctxt "0	88483	2196	CHK"
+msgid "Batting Center Sofa (Broken)"
+msgstr ""
+
+msgctxt "0	88512	2197	CHK"
+msgid "Batting Center Stool (Broken)"
+msgstr ""
+
+msgctxt "0	88542	2198	CHK"
+msgid "Batting Center Trash Can (Broken)"
+msgstr ""
+
+msgctxt "0	88576	2199	CHK"
+msgid "Generic Office 04 Sofa (Broken)"
+msgstr ""
+
+msgctxt "0	88608	2200	CHK"
+msgid "Generic Office 04 Table (Broken)"
+msgstr ""
+
+msgctxt "0	88641	2201	CHK"
+msgid "Generic Office 04 Chair (Broken)"
+msgstr ""
+
+msgctxt "0	88674	2202	CHK"
+msgid "Desk Drawer"
+msgstr ""
+
+msgctxt "0	88686	2203	CHK"
+msgid "Generic Office 04 Desk Drawer (Broken)"
+msgstr ""
+
+msgctxt "0	88725	2204	CHK"
+msgid "Hatsushiba Chair (Broken)"
+msgstr ""
+
+msgctxt "0	88751	2205	CHK"
+msgid "Golden Bat"
+msgstr ""
+
+msgctxt "0	88762	2206	CHK"
+msgid "Batting Center Golden Bat (Broken)"
+msgstr ""
+
+msgctxt "0	88797	2207	CHK"
+msgid "Batting Center Silver Bat (Broken)"
+msgstr ""
+

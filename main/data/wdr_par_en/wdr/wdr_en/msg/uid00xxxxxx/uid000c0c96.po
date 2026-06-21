@@ -1,0 +1,12 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "232"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "44_Haruka"
+msgid "(That person is taking a picture, but I don't think they're\\r\n"
+"with the paparazzi.)"
+msgstr ""
+

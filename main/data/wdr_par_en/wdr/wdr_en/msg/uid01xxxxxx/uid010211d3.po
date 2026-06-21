@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "208"
+msgid "Employee"
+msgstr ""
+
+msgctxt "44_Employee"
+msgid "What a great game! Now then, time for the Prize Roulette!"
+msgstr ""
+

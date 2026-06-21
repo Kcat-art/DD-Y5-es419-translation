@@ -1,0 +1,16 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "432"
+msgid "Concerned Man"
+msgstr ""
+
+msgctxt "72_Concerned Man"
+msgid "I saw some guy walkin' toward Iwao Bridge with this crazy\\r\n"
+"look on his face, almost like he had nothin' left to lose."
+msgstr ""
+
+msgctxt "84_Concerned Man"
+msgid "He looked like he was about ready to rob or kill someone."
+msgstr ""
+

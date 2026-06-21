@@ -1,0 +1,205 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "								 	　	分	85	280	195"
+msgid "<Italic>Princess League</Italic>"
+msgstr ""
+
+msgctxt "					結合後フレーム		分離前フレーム	 			120	650	530"
+msgid "How're we doin', everybody!? It's showtime!"
+msgstr ""
+
+msgctxt "								 	　	分	84	735	651"
+msgid "I'm your host, Dolce Kamiya!"
+msgstr ""
+
+msgctxt "				971	792	191	12	 	　		179	971	792"
+msgid "The competition has finally reached its climax!\\r\n"
+"The Princess League 2012 finals begin right now!"
+msgstr ""
+
+msgctxt "				1129	998	349	218	 	　		131	1129	998"
+msgid "Let's get things started off\\r\n"
+"with a brief recap of the rules."
+msgstr ""
+
+msgctxt "				1239	1145	459	365	 	　		94	1239	1145"
+msgid "The finals are comprised of\\r\n"
+"a series of rival battles!"
+msgstr ""
+
+msgctxt "				1338	1243	558	463	 	　		95	1338	1243"
+msgid "Our contestants will go head-to-head in\\r\n"
+"live performances right here in this studio."
+msgstr ""
+
+msgctxt "				1504	1339	724	559	 	　		165	1504	1339"
+msgid "From there, it's up to you, our amazing\\r\n"
+"audience, to decide the winner!"
+msgstr ""
+
+msgctxt "				1650	1515	870	735	 	　		135	1650	1515"
+msgid "As you can see, the Princess League\\r\n"
+"finals feature a unique battle system."
+msgstr ""
+
+msgctxt "				1751	1652	971	872	 	　		99	1751	1652"
+msgid "The opposing sides are each\\r\n"
+"provided with their very own stage!"
+msgstr ""
+
+msgctxt "				1888	1752	1108	972	 	　		136	1888	1752"
+msgid "This revolutionary stage technology allows our\\r\n"
+"contestants to battle it out, concert vs. concert!"
+msgstr ""
+
+msgctxt "				1979	1889	1199	1109	 	　		90	1979	1889"
+msgid "And if you ask me, that's what\\r\n"
+"the Princess League is all about!"
+msgstr ""
+
+msgctxt "				2090	1983	1310	1203	 	　		107	2090	1983"
+msgid "The outcome of this contest will be\\r\n"
+"determined entirely by audience support."
+msgstr ""
+
+msgctxt "				2190	2095	1410	1315	 	　		95	2190	2095"
+msgid "During our live performances..."
+msgstr ""
+
+msgctxt "				2373	2191	1593	1411	 	　		182	2373	2191"
+msgid "Audience members will flock to the stage they\\r\n"
+"believe has the most exhilarating performance!"
+msgstr ""
+
+msgctxt "				2602	2382	1822	1602	 	　		220	2602	2382"
+msgid "The stage surrounded by the most audience\\r\n"
+"members by the end of the round is the winner!"
+msgstr ""
+
+msgctxt "				2713	2618	1933	1838	 	　		95	2713	2618"
+msgid "The Princess League finals consist of three rounds."
+msgstr ""
+
+msgctxt "				2800	2717	2020	1937	 	　		83	2800	2717"
+msgid "Round one is a pop showdown."
+msgstr ""
+
+msgctxt "				2949	2809	2169	2029	 	　		140	2949	2809"
+msgid "Here, the two sides will compete to see who\\r\n"
+"has the best combination of charm and vocal skills!"
+msgstr ""
+
+msgctxt "				3050	2958	2270	2178	 	　		92	3050	2958"
+msgid "Round two is our dance number showdown."
+msgstr ""
+
+msgctxt "				3136	3057	2356	2277	 	　		79	3136	3057"
+msgid "Here, our contestants will\\r\n"
+"dance to an up-tempo song..."
+msgstr ""
+
+msgctxt "				3312	3137	2532	2357	 	　		175	3312	3137"
+msgid "And vie to see who can get the crowd going!"
+msgstr ""
+
+msgctxt "				3512	3318	2732	2538	 	　		194	3512	3318"
+msgid "The side with the most points\\r\n"
+"following rounds one and two..."
+msgstr ""
+
+msgctxt "				3735	3513	2955	2733	 	　		88	3601	3513"
+msgid "Will be awarded a bonus as they move\\r\n"
+"into the third and final round⑬"
+msgstr ""
+
+msgctxt "								 	　	分	133	3735	3602"
+msgid "Giving them a distinct advantage in the grand finale!"
+msgstr ""
+
+msgctxt "				3961	3746	3181	2966	 	　		215	3961	3746"
+msgid "This means rounds one and two will have a\\r\n"
+"huge impact on the outcome of this competition!"
+msgstr ""
+
+msgctxt "				4148	3976	3368	3196	 	　		172	4148	3976"
+msgid "One of Japan's top record companies has promised\\r\n"
+"the lucky winner of this fierce battle..."
+msgstr ""
+
+msgctxt "				4235	4149	3455	3369	 	　		86	4235	4149"
+msgid "A major label debut!"
+msgstr ""
+
+msgctxt "				4463	4300	3683	3520	 	　		163	4463	4300"
+msgid "Whoa! Feel that energy, folks!\\r\n"
+"Things are really heating up!"
+msgstr ""
+
+msgctxt "				4556	4465	3776	3685	 	　		91	4556	4465"
+msgid "Are we ready to bring out the contestants!?"
+msgstr ""
+
+msgctxt "				4685	4601	3905	3821	 	　		84	4685	4601"
+msgid "Are you sure you're ready!?"
+msgstr ""
+
+msgctxt "				4870	4757	4090	3977	 	　		113	4870	4757"
+msgid "Okay, I think the crowd is all set!"
+msgstr ""
+
+msgctxt "				5072	4871	4292	4091	 	　		63	4934	4871"
+msgid "Without further ado..."
+msgstr ""
+
+msgctxt "								 	　		133	5072	4939"
+msgid "Let me introduce to you our top contenders!"
+msgstr ""
+
+msgctxt "	結合後フレーム		結合前フレーム	5198	5073	4418	4293	 	　	分	125	5198	5073"
+msgid "Starting with this showstopping idol team!"
+msgstr ""
+
+msgctxt "5449	5279	232	62					 	　		170	5449	5279"
+msgid "Dancing in perfect unison and singing in\\r\n"
+"pitch-perfect harmony is this duo's claim to fame!"
+msgstr ""
+
+msgctxt "5583	5454	366	237					 	　		129	5583	5454"
+msgid "Their popularity has skyrocketed\\r\n"
+"from right out of the gate!"
+msgstr ""
+
+msgctxt "5686	5585	469	368					 	　		101	5686	5585"
+msgid "With an impressive string of wins\\r\n"
+"under their belt, it's super idol duo..."
+msgstr ""
+
+msgctxt "5817	5691	600	474					 	　		126	5817	5691"
+msgid "T-Set!"
+msgstr ""
+
+msgctxt "6082	5919	865	702					 	　		163	6082	5919"
+msgid "They're going against the talented newcomer who\\r\n"
+"suddenly blasted ahead of all other challengers!"
+msgstr ""
+
+msgctxt "6274	6087	1057	870					 	　		187	6274	6087"
+msgid "Can this surprising diamond in the rough realize\\r\n"
+"her dreams here in the Princess League!?"
+msgstr ""
+
+msgctxt "6432	6284	1215	1067					 	　		148	6432	6284"
+msgid "Haruka Sawamura!"
+msgstr ""
+
+msgctxt "6805	6599	1588	1382					 	　		206	6805	6599"
+msgid "Which of them will attract the most audience\\r\n"
+"members with their dazzling performance!?"
+msgstr ""
+
+msgctxt "6952	6806	1735	1589					 	　		146	6952	6806"
+msgid "It's time to find out!\\r\n"
+"Ready? Go!"
+msgstr ""
+

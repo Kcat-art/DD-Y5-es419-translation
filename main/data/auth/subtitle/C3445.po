@@ -1,0 +1,212 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	935	875"
+msgid "So..."
+msgstr ""
+
+msgctxt " 	　	　	60	1023	963"
+msgid "We meet again."
+msgstr ""
+
+msgctxt " 	　	　	94	1515	1421"
+msgid "This train here's chartered by Ousaka Enterprises."
+msgstr ""
+
+msgctxt " 	　	　	60	1603	1543"
+msgid "How 'bout a ride?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	59	1709	1650"
+msgid "Where's Katsuya-san?"
+msgstr ""
+
+msgctxt " 	　	　	60	1770	1710"
+msgid "Ain't comin'."
+msgstr ""
+
+msgctxt " 	　	　	95	1902	1807"
+msgid "Now. I'll be takin' that letter."
+msgstr ""
+
+msgctxt " 	　	　	109	2023	1914"
+msgid "No! I had an agreement with Katsuya-san!"
+msgstr ""
+
+msgctxt " 	　	　	120	2163	2043"
+msgid "But if he broke his promise to come alone..."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	59	2265	2206"
+msgid "I'm not handing it over!"
+msgstr ""
+
+msgctxt " 	　	　	89	2355	2266"
+msgid "Ooh, we got a brave one here."
+msgstr ""
+
+msgctxt " 	　	分	70	2435	2365"
+msgid "The chairman's gone soft this time."
+msgstr ""
+
+msgctxt " 	　	　	107	2547	2440"
+msgid "And I been chasin' that letter around long enough."
+msgstr ""
+
+msgctxt " 	　	　	124	2681	2557"
+msgid "You ain't wastin' any more of my time,\\r\n"
+"and I sure as shit ain't leavin' here with a fake."
+msgstr ""
+
+msgctxt " 	　	　	131	2979	2848"
+msgid "Fine, then. If you ain't givin' it up,\\r\n"
+"I'll just have to take you with me."
+msgstr ""
+
+msgctxt " 	　	　	60	3061	3001"
+msgid "In ya go."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	55	3122	3067"
+msgid "No!"
+msgstr ""
+
+msgctxt " 	　	　	168	3291	3123"
+msgid "What's the big deal? Ain't like that\\r\n"
+"debut of yours is happenin' either way."
+msgstr ""
+
+msgctxt " 	　	　	77	3421	3344"
+msgid "Why not give us a little tour o' Tokyo?"
+msgstr ""
+
+msgctxt " 	　	　	60	3533	3473"
+msgid "After ya give us the letter, that is."
+msgstr ""
+
+msgctxt " 	　	　	60	3694	3634"
+msgid "Why the long face?"
+msgstr ""
+
+msgctxt " 	　	　	108	3820	3712"
+msgid "Don't tell me you ain't given\\r\n"
+"up on that concert yet."
+msgstr ""
+
+msgctxt " 	　	分	99	3926	3827"
+msgid "Greedy little brat, ain't ya?"
+msgstr ""
+
+msgctxt " 	　	　	61	4212	4151"
+msgid "So the letter's in there, eh?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	49	4334	4285"
+msgid "No!"
+msgstr ""
+
+msgctxt " 	　	　	60	4395	4335"
+msgid "Give it back!"
+msgstr ""
+
+msgctxt " 	　	　	96	4508	4412"
+msgid "This's what we're after. Gotta be."
+msgstr ""
+
+msgctxt " 	　	　	60	4604	4544"
+msgid "Please!"
+msgstr ""
+
+msgctxt " 	　	　	60	4683	4623"
+msgid "C'mon, boys. Let's move."
+msgstr ""
+
+msgctxt " 	　	　	60	4817	4757"
+msgid "Just a sec there!"
+msgstr ""
+
+msgctxt " 	　	　	60	4887	4827"
+msgid "Akiyama-san!"
+msgstr ""
+
+msgctxt " 	　	　	90	5034	4944"
+msgid "Hot damn...\\r\n"
+"That's way too many stairs!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	55	5124	5069"
+msgid "I've really gotta stop smoking."
+msgstr ""
+
+msgctxt " 	　	　	180	5305	5125"
+msgid "You again? Why do ya keep showin' up?\\r\n"
+"Just mind your own goddamn business."
+msgstr ""
+
+msgctxt " 	　	　	60	5367	5307"
+msgid "This <Italic>is</Italic> my business."
+msgstr ""
+
+msgctxt " 	　	　	127	5545	5418"
+msgid "You see, Park-san's dream is in my hands."
+msgstr ""
+
+msgctxt " 	　	　	60	5616	5556"
+msgid "The hell do ya mean?"
+msgstr ""
+
+msgctxt " 	　	　	151	5784	5633"
+msgid "Haruka's concert at the Japan Dome.\\r\n"
+"That's what Park-san was striving for."
+msgstr ""
+
+msgctxt " 	　	　	92	5892	5800"
+msgid "And now, it's what I'm after, too."
+msgstr ""
+
+msgctxt " 	　	分	117	6047	5930"
+msgid "And the girl you've got there?\\r\n"
+"I'm doing this for her as well."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	56	6112	6056"
+msgid "Sounds like a crock o' shit."
+msgstr ""
+
+msgctxt " 	　	　	134	6247	6113"
+msgid "No different from how the yakuza do it.\\r\n"
+"The boss's dream trickles down to his men."
+msgstr ""
+
+msgctxt " 	　	　	109	6368	6259"
+msgid "Seriously, don't they teach you\\r\n"
+"guys <Italic>anything</Italic> nowadays?"
+msgstr ""
+
+msgctxt " 	　	　	60	6453	6393"
+msgid "Smug bastard."
+msgstr ""
+
+msgctxt " 	　	　	115	6594	6479"
+msgid "You see, dreams get passed from person to person."
+msgstr ""
+
+msgctxt " 	　	　	173	6779	6606"
+msgid "So I'm sorry, but there's not a chance\\r\n"
+"in hell I'm letting you get in Haruka-chan's way."
+msgstr ""
+
+msgctxt " 	　	　	70	6912	6842"
+msgid "What a sack o' crap."
+msgstr ""
+
+msgctxt " 	　	　	173	7107	6934"
+msgid "Dream all ya want, but none o' that\\r\n"
+"means dick when you're facin' real strength."
+msgstr ""
+
+msgctxt " 	　	　	112	7261	7149"
+msgid "Let's go, boys! It's time\\r\n"
+"we show this asshole what's what!"
+msgstr ""
+

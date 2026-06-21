@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "72"
+msgid "Sky Finance..."
+msgstr ""
+
+msgctxt "900"
+msgid "F_NML_SET_stand_lookfor"
+msgstr ""
+

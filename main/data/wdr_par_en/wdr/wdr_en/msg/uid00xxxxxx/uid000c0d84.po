@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "376"
+msgid "Contrite Smoker"
+msgstr ""
+
+msgctxt "60_Contrite Smoker"
+msgid "Smokers are your modern-day pariahs. It's our own damned fault, too. There are too many ill-mannered dolts who ruin our reputation."
+msgstr ""
+

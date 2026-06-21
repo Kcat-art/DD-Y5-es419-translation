@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "It was Haruka-chan, I'm tellin' ya!"
+msgstr ""
+

@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "752"
+msgid "SS2_P_HNT_squat_nml"
+msgstr ""
+
+msgctxt "756"
+msgid "SS2_P_HNT_squat_nml_st"
+msgstr ""
+
+msgctxt "760"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "(Footprints. But from just one person...)"
+msgstr ""
+
+msgctxt "68_Saejima"
+msgid "(Must be Nishina-han or Kihachi.)"
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "(Looks like they never found each other. I should follow these tracks.)"
+msgstr ""
+

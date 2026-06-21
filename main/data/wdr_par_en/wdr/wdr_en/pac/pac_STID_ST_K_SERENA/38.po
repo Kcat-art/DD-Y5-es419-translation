@@ -1,0 +1,35 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "2196"
+msgid "adv5_200/akiyama_0486a"
+msgstr ""
+
+msgctxt "2200"
+msgid "kaiwabgm_serious02"
+msgstr ""
+
+msgctxt "2204"
+msgid "adv5_195/akiyama_0478a"
+msgstr ""
+
+msgctxt "2208"
+msgid "adv5_170/date_0042"
+msgstr ""
+
+msgctxt "2212"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2216"
+msgid "kaiwabgm_fuon01"
+msgstr ""
+
+msgctxt "2220"
+msgid "adv5_160/akiyama_0443"
+msgstr ""
+
+msgctxt "2224"
+msgid "adv5_150/mama_0005"
+msgstr ""
+

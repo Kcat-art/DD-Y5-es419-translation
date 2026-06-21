@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "372"
+msgid "Garish Man"
+msgstr ""
+
+msgctxt "72_Garish Man"
+msgid "Hey, big guy. Interested in a good time? You can unload yourself of all sorts of things, if you catch my drift."
+msgstr ""
+

@@ -1,0 +1,29 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 			113	136	23"
+msgid "Thank you to Haruka Sawamura and T-Set!"
+msgstr ""
+
+msgctxt " 	　	　	108	245	137"
+msgid "Those performances were absolutely fantastic!"
+msgstr ""
+
+msgctxt " 	　		173	444	271"
+msgid "But this is no ordinary concert⑬\\r\n"
+"iiiiit's a concert battle!"
+msgstr ""
+
+msgctxt " 	　		170	620	450"
+msgid "So it's time to see who got the most\\r\n"
+"love from our live audience members!"
+msgstr ""
+
+msgctxt " 	　		128	837	709"
+msgid "I've just been told the count is in!"
+msgstr ""
+
+msgctxt " 	　	分	137	986	849"
+msgid "Which idol team will be crowned... the <Italic>winner</Italic>!?"
+msgstr ""
+

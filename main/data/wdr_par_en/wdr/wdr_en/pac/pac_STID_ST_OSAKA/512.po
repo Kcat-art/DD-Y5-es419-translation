@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "4092"
+msgid "c3-717/haruka_3_717_010"
+msgstr ""
+
+msgctxt "4096"
+msgid "ACDEV0150"
+msgstr ""
+
+msgctxt "4100"
+msgid "cp-040/haruka_1028"
+msgstr ""
+
+msgctxt "4104"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4108"
+msgid "adv3_590/akiyama_0227"
+msgstr ""
+
+msgctxt "4112"
+msgid "adv3_550/akiyama_0203"
+msgstr ""
+
+msgctxt "4116"
+msgid "adv3_540/akiyama_0198"
+msgstr ""
+
+msgctxt "4120"
+msgid "adv3_530_1/akiyama_0193"
+msgstr ""
+
+msgctxt "4124"
+msgid "adv3_510/akiyama_0187"
+msgstr ""
+
+msgctxt "4128"
+msgid "adv3_479_3/haruka_3_479_080"
+msgstr ""
+
+msgctxt "4132"
+msgid "adv3_479_1/yamaura_3_479_010"
+msgstr ""
+

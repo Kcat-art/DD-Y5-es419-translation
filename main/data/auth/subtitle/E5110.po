@@ -1,0 +1,45 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	144	84"
+msgid "I see. Understood."
+msgstr ""
+
+msgctxt "	　	分	69	232	163"
+msgid "So Watase-aniki is on the move."
+msgstr ""
+
+msgctxt " 	　	　	60	306	246"
+msgid "No, don't worry."
+msgstr ""
+
+msgctxt "	　	　	76	400	324"
+msgid "It's too late for him to interfere now."
+msgstr ""
+
+msgctxt " 	　	　	85	505	420"
+msgid "How goes the issue of that other matter?"
+msgstr ""
+
+msgctxt " 	　	　	176	740	564"
+msgid "I see. Now all we have to do is wait\\r\n"
+"for all the players to come on stage."
+msgstr ""
+
+msgctxt "	　	　	60	829	769"
+msgid "Bye then."
+msgstr ""
+
+msgctxt " 	　	　	101	1467	1366"
+msgid "Apologies. I have a lot on my plate right now."
+msgstr ""
+
+msgctxt " 	　	　	147	1656	1509"
+msgid "Regarding my proposal...\\r\n"
+"Have you given it any thought?"
+msgstr ""
+
+msgctxt "	　	　	60	1718	1658"
+msgid "Akiyama-san?"
+msgstr ""
+

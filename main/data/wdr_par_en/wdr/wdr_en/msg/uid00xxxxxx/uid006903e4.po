@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "268"
+msgid "遥"
+msgstr ""
+
+msgctxt "44_遥"
+msgid "私に話しかけるとPlayerがパス移動します。"
+msgstr ""
+

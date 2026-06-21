@@ -1,0 +1,35 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "892"
+msgid "Man Full of Rumors"
+msgstr ""
+
+msgctxt "896"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "900"
+msgid "Man Hungry for Rumors"
+msgstr ""
+
+msgctxt "904"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "72_Man Full of Rumors"
+msgid "All I've been hearing lately is Nagoya Family this, Nagoya Family that. Wonder what they're actually like?"
+msgstr ""
+
+msgctxt "84_Man Hungry for Rumors"
+msgid "Well, they're yakuza, and they run this town, right? Bound to be a scary bunch."
+msgstr ""
+
+msgctxt "96_Man Full of Rumors"
+msgid "Yeah. The other day, I heard some poor guy got both eyes gouged out for not paying his debt."
+msgstr ""
+
+msgctxt "108_Man Hungry for Rumors"
+msgid "Seriously? That's terrible."
+msgstr ""
+

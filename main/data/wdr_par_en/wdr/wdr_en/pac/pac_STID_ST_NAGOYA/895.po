@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "104"
+msgid "Hurrgh..."
+msgstr ""
+
+msgctxt "116"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "128"
+msgid "Agh..."
+msgstr ""
+
+msgctxt "140"
+msgid "Can't take it..."
+msgstr ""
+
+msgctxt "1868"
+msgid "M_NML_SET_sitgrd_nml_02"
+msgstr ""
+

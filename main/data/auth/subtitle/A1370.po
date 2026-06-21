@@ -1,0 +1,125 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		115	1052	937"
+msgid "Yo! Where's that bitch-ass Aoyama at?"
+msgstr ""
+
+msgctxt " 	　	分	71	1131	1060"
+msgid "Don't tell me he chickened out!"
+msgstr ""
+
+msgctxt " 	　	　	151	1308	1157"
+msgid "You worthless rednecks aren't\\r\n"
+"worth the acting chairman's time!"
+msgstr ""
+
+msgctxt " 	　	　	131	1605	1474"
+msgid "What, you ain't gonna join\\r\n"
+"your boys, brother?"
+msgstr ""
+
+msgctxt " 	　	　	187	1835	1648"
+msgid "Of course not. The general doesn't\\r\n"
+"dirty his hands doing a soldier's job."
+msgstr ""
+
+msgctxt " 	　	　	161	2023	1862"
+msgid "You're missin' out. Nothin' gets the\\r\n"
+"adrenaline pumpin' like punchin' guys."
+msgstr ""
+
+msgctxt " 	　	　	93	2145	2052"
+msgid "I'm afraid I'm not like\\r\n"
+"you and Kiryu-san."
+msgstr ""
+
+msgctxt " 	　	分	89	2283	2194"
+msgid "Brutality gives me no pleasure."
+msgstr ""
+
+msgctxt " 	　	　	92	2394	2302"
+msgid "Then why'd ya drag me all the way out here?"
+msgstr ""
+
+msgctxt " 	　	分	75	2475	2400"
+msgid "I thought ya needed backup."
+msgstr ""
+
+msgctxt " 	　	　	152	2630	2478"
+msgid "Call it an insurance policy.\\r\n"
+"In case a certain someone shows up."
+msgstr ""
+
+msgctxt " 	　	　	60	2752	2692"
+msgid "Who're ya talkin'?"
+msgstr ""
+
+msgctxt " 	　	　	152	2918	2766"
+msgid "Well, looks like they're ready.\\r\n"
+"Sit back and enjoy the fireworks."
+msgstr ""
+
+msgctxt " 	　	　	126	3090	2964"
+msgid "Time's up. Let's start this thing!"
+msgstr ""
+
+msgctxt " 	　	　	60	3645	3585"
+msgid "Aren't you..."
+msgstr ""
+
+msgctxt " 	　	　	60	3710	3650"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt " 	　	分	60	3794	3734"
+msgid "But this fight's mine."
+msgstr ""
+
+msgctxt " 	　	　	60	3882	3822"
+msgid "Fourth Chairman!?"
+msgstr ""
+
+msgctxt " 	　	　	62	4024	3962"
+msgid "Not anymore I'm not."
+msgstr ""
+
+msgctxt " 	　	　	139	4215	4076"
+msgid "Now I'm just a driver, working\\r\n"
+"for Nagasu Taxi Company."
+msgstr ""
+
+msgctxt " 	　	　	152	4380	4228"
+msgid "And you've come to lend\\r\n"
+"the Tojo Clan your aid, sir?"
+msgstr ""
+
+msgctxt " 	　	分	71	4465	4394"
+msgid "It's truly an honor!"
+msgstr ""
+
+msgctxt " 	　	　	83	4564	4481"
+msgid "I'm here to help, all right."
+msgstr ""
+
+msgctxt " 	　	　	60	4664	4604"
+msgid "But not you."
+msgstr ""
+
+msgctxt " 	　	分	110	4790	4680"
+msgid "You punks don't have the slightest idea\\r\n"
+"what it means to be yakuza."
+msgstr ""
+
+msgctxt " 	　	　	105	4920	4815"
+msgid "So I'm gonna put you on the right path."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	53	5013	4960"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt " 	　	　	61	5075	5014"
+msgid "I figured you'd show up eventually."
+msgstr ""
+

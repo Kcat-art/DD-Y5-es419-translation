@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "*hic*"
+msgstr ""
+
+msgctxt "208"
+msgid "All hail alcohol!"
+msgstr ""
+

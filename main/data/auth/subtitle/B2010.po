@@ -1,0 +1,304 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		75	783	708"
+msgid "Why're we in this dump?"
+msgstr ""
+
+msgctxt " 	　	　	105	1079	974"
+msgid "There's gotta be a million\\r\n"
+"better BBQ joints than this!"
+msgstr ""
+
+msgctxt " 	　	　	110	1192	1082"
+msgid "Azabu, Roppongi...\\r\n"
+"Hell, probably down the block!"
+msgstr ""
+
+msgctxt " 	　	　	118	1363	1245"
+msgid "But ya got us feastin' in\\r\n"
+"this ghost town instead."
+msgstr ""
+
+msgctxt " 	　	　	77	1441	1364"
+msgid "Less whinin', more eatin'."
+msgstr ""
+
+msgctxt " 	　	　	93	1567	1474"
+msgid "Your last meal on the outside\\r\n"
+"and it's in freakin' Kamurocho."
+msgstr ""
+
+msgctxt " 	　	分	77	1657	1580"
+msgid "Our usual spot at that."
+msgstr ""
+
+msgctxt " 	　	　	68	1747	1679"
+msgid "Ain't a more pathetic sight."
+msgstr ""
+
+msgctxt " 	　	　	68	1815	1747"
+msgid "What's so wrong with it?"
+msgstr ""
+
+msgctxt " 	　	分	76	1896	1820"
+msgid "Now c'mon, eat up before it burns."
+msgstr ""
+
+msgctxt " 	　	　	76	1972	1896"
+msgid "Hey, lady! 'Nother plate o' tripe!"
+msgstr ""
+
+msgctxt " 	　	　	60	2038	1978"
+msgid "Coming up!"
+msgstr ""
+
+msgctxt " 	　	　	61	2371	2310"
+msgid "Don't got the stomach I used to."
+msgstr ""
+
+msgctxt " 	　	分	90	2476	2386"
+msgid "Fatty meat just tastes like shit now."
+msgstr ""
+
+msgctxt " 	　	　	132	2706	2574"
+msgid "My days of scarfin' down a slab of kalbi\\r\n"
+"on a tub of rice are looong gone."
+msgstr ""
+
+msgctxt " 	　	　	105	2922	2817"
+msgid "No goin' back in time though, huh?"
+msgstr ""
+
+msgctxt " 	　	　	110	3120	3010"
+msgid "Back to when every day felt worth livin'."
+msgstr ""
+
+msgctxt " 	　	　	60	3321	3261"
+msgid "Here's your tripe."
+msgstr ""
+
+msgctxt " 	　	　	138	3591	3453"
+msgid "Why ya bein' such a sack?\\r\n"
+"Here, eat this."
+msgstr ""
+
+msgctxt " 	　	　	92	3712	3620"
+msgid "The flyin' shit?\\r\n"
+"Ya burnt it to a crisp!"
+msgstr ""
+
+msgctxt " 	　	　	105	3821	3716"
+msgid "You n' me aren't too different\\r\n"
+"from that tripe there, y'know."
+msgstr ""
+
+msgctxt " 	　	　	108	3991	3883"
+msgid "Ya overcook any ol' meat,\\r\n"
+"it'll get way too tough to eat."
+msgstr ""
+
+msgctxt " 	　	　	60	4052	3992"
+msgid "But not tripe."
+msgstr ""
+
+msgctxt " 	　	分	64	4144	4080"
+msgid "Gettin' burned just makes it better."
+msgstr ""
+
+msgctxt " 	　	　	133	4366	4233"
+msgid "Gotta burn it over n' over,\\r\n"
+"'til it's black as night."
+msgstr ""
+
+msgctxt " 	　	分	60	4434	4374"
+msgid "Only way to bring out the flavor."
+msgstr ""
+
+msgctxt " 	　	　	63	4795	4732"
+msgid "Hey, no shit."
+msgstr ""
+
+msgctxt " 	　	　	60	4899	4839"
+msgid "All right, how's this compare?"
+msgstr ""
+
+msgctxt " 	　	　	110	5169	5059"
+msgid "The hell, man? It's practically raw!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	45	5238	5193"
+msgid "That's pure trash."
+msgstr ""
+
+msgctxt " 	　	　	129	5368	5239"
+msgid "Exactly. Few things worse than\\r\n"
+"half-cooked tripe."
+msgstr ""
+
+msgctxt " 	　	　	122	5545	5423"
+msgid "We gotta keep gettin' burned, you n' me."
+msgstr ""
+
+msgctxt " 	　	　	125	5747	5622"
+msgid "No matter how much we try n' gussy it up, \\r\n"
+"we're yakuza to the very core."
+msgstr ""
+
+msgctxt " 	　	　	61	5852	5791"
+msgid "Worst cut o' meat there is."
+msgstr ""
+
+msgctxt " 	　	　	89	6016	5927"
+msgid "Kinda like this trashy tripe here, huh?"
+msgstr ""
+
+msgctxt " 	　	　	60	6089	6029"
+msgid "Yup."
+msgstr ""
+
+msgctxt " 	　	　	103	6200	6097"
+msgid "That's why we gotta hop back on the fire."
+msgstr ""
+
+msgctxt " 	　	　	132	6376	6244"
+msgid "Tripe that ain't burned through\\r\n"
+"don't even deserve the plate it comes on."
+msgstr ""
+
+msgctxt " 	　	　	180	6623	6443"
+msgid "But once ya char it nice n' black...\\r\n"
+"That's when it takes on some meanin'."
+msgstr ""
+
+msgctxt " 	　	　	102	6781	6679"
+msgid "Yakuza these days forget that."
+msgstr ""
+
+msgctxt " 	　	　	138	7089	6951"
+msgid "So what, that's why you're\\r\n"
+"goin' back behind bars?"
+msgstr ""
+
+msgctxt " 	　	　	93	7229	7136"
+msgid "I made a promise to Kiryu."
+msgstr ""
+
+msgctxt " 	　	　	89	7362	7273"
+msgid "Told him I'd drag the Tojo\\r\n"
+"outta the gutter."
+msgstr ""
+
+msgctxt " 	　	　	244	7515	7386"
+msgid "If it'll help, I'm ready to take a year or two."
+msgstr ""
+
+msgctxt " 	　	分	81	7630	7549"
+msgid "Burn myself blacker than ever."
+msgstr ""
+
+msgctxt " 	　	　	60	7750	7690"
+msgid "Bro."
+msgstr ""
+
+msgctxt " 	　	OK	195	7982	7787"
+msgid "But while I'm gone, you're gonna\\r\n"
+"have to keep the place runnin' smooth."
+msgstr ""
+
+msgctxt " 	　	　	109	8133	8024"
+msgid "Give our young chef the support he needs."
+msgstr ""
+
+msgctxt " 	　	　	60	8238	8178"
+msgid "You're talkin' Daigo-chan."
+msgstr ""
+
+msgctxt " 	　	　	60	8349	8289"
+msgid "He's got all the ingredients."
+msgstr ""
+
+msgctxt " 	　	　	183	8534	8351"
+msgid "But... the guys surroundin' him?\\r\n"
+"Nothin' but half-cooked trash."
+msgstr ""
+
+msgctxt " 	　	　	60	8627	8567"
+msgid "Ain't that the truth."
+msgstr ""
+
+msgctxt " 	　	分	170	8805	8635"
+msgid "The Tojo Clan's at a record high,\\r\n"
+"bigger than ever."
+msgstr ""
+
+msgctxt " 	　	　	81	8900	8819"
+msgid "But barely any of 'em know war."
+msgstr ""
+
+msgctxt " 	　	分	109	9029	8920"
+msgid "Nothin' but a bunch of half-assed fakers."
+msgstr ""
+
+msgctxt " 	　	　	161	9203	9042"
+msgid "Just watch what happens if war with the Omi strikes.\\r\n"
+"They'll scatter like roaches."
+msgstr ""
+
+msgctxt " 	　	　	77	9307	9230"
+msgid "No problem actin' the part to make a livin'."
+msgstr ""
+
+msgctxt " 	　	OK	192	9546	9354"
+msgid "But y'know, ya won't last in this business\\r\n"
+"if you're just in it for the cash."
+msgstr ""
+
+msgctxt " 	　	　	60	9655	9595"
+msgid "It all comes down to strength."
+msgstr ""
+
+msgctxt " 	　	分	83	9765	9682"
+msgid "Me n' you gotta show that by example."
+msgstr ""
+
+msgctxt " 	　	　	173	9989	9816"
+msgid "Ya ask me, that's the whole point\\r\n"
+"of us old-timers stickin' around."
+msgstr ""
+
+msgctxt " 	　	　	60	10100	10040"
+msgid "Guess so."
+msgstr ""
+
+msgctxt " 	　	　	99	10308	10209"
+msgid "All right! I'm gonna eat 'til I pop!"
+msgstr ""
+
+msgctxt " 	　	　	101	10583	10482"
+msgid "Don't grab it quick enough,\\r\n"
+"n' it'll turn to cinders."
+msgstr ""
+
+msgctxt " 	　	　	135	10727	10592"
+msgid "Ya let this trash burn too long,\\r\n"
+"it might as well not even exist."
+msgstr ""
+
+msgctxt " 	　	　	156	10924	10768"
+msgid "The fuck, ya gimme the\\r\n"
+"big sermon then pull that shit?"
+msgstr ""
+
+msgctxt " 	　	　	99	11040	10941"
+msgid "Yo, waitress! Three plates of your finest tripe!"
+msgstr ""
+
+msgctxt " 	　	分	62	11103	11041"
+msgid "Naw, make it ten!"
+msgstr ""
+
+msgctxt " 	　	　	60	11177	11117"
+msgid "Plate that trash up!"
+msgstr ""
+

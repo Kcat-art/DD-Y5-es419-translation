@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "412"
+msgid "Intuitive Man"
+msgstr ""
+
+msgctxt "72_Intuitive Man"
+msgid "There's something going down in Kamurocho. It's going to be big."
+msgstr ""
+
+msgctxt "84_Intuitive Man"
+msgid "You'd better be careful, too."
+msgstr ""
+

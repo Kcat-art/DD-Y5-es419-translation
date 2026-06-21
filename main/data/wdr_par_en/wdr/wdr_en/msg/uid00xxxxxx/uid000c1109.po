@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "352"
+msgid "Exasperated Woman"
+msgstr ""
+
+msgctxt "72_Exasperated Woman"
+msgid "Surely you can manage. I'm done with work for the day, so I'm going home to enjoy my cream puffs from the M Store in peace."
+msgstr ""
+

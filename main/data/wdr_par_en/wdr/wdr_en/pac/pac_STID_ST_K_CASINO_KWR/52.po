@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "284"
+msgid "Poker is open, have a seat."
+msgstr ""
+

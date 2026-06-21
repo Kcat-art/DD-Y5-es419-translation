@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "217	NAME"
+msgid "Hunting Hut"
+msgstr ""
+
+msgctxt "229	NAME"
+msgid "Trap Sites Found"
+msgstr ""
+
+msgctxt "246	NAME"
+msgid "Jizo Statues"
+msgstr ""
+
+msgctxt "260	EXPLANATION"
+msgid "d/%d"
+msgstr ""
+
+msgctxt "266	EXPLANATION"
+msgid "d/%d"
+msgstr ""
+
+msgctxt "272	EXPLANATION"
+msgid "d/%d"
+msgstr ""
+

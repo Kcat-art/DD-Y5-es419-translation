@@ -1,0 +1,303 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "912	NAME"
+msgid "Riku"
+msgstr ""
+
+msgctxt "922	NAME"
+msgid "Kaguya"
+msgstr ""
+
+msgctxt "933	NAME"
+msgid "Honoka"
+msgstr ""
+
+msgctxt "947	NAME"
+msgid "Shion"
+msgstr ""
+
+msgctxt "958	NAME"
+msgid "Hinata Osaki"
+msgstr ""
+
+msgctxt "975	CLUB"
+msgid "La Seine"
+msgstr ""
+
+msgctxt "989	CLUB"
+msgid "Rose Hip"
+msgstr ""
+
+msgctxt "1002	CLUB"
+msgid "Prime"
+msgstr ""
+
+msgctxt "1015	CLUB"
+msgid "Club Eden"
+msgstr ""
+
+msgctxt "1030	CLUB"
+msgid "Elise"
+msgstr ""
+
+msgctxt "1040	BIRTHDAY"
+msgid "July 3"
+msgstr ""
+
+msgctxt "1052	BIRTHDAY"
+msgid "November 17"
+msgstr ""
+
+msgctxt "1068	BIRTHDAY"
+msgid "September 21"
+msgstr ""
+
+msgctxt "1088	BIRTHDAY"
+msgid "June 21"
+msgstr ""
+
+msgctxt "1101	BIRTHDAY"
+msgid "February 14"
+msgstr ""
+
+msgctxt "1117	HEIGHT"
+msgid "158 cm"
+msgstr ""
+
+msgctxt "1129	HEIGHT"
+msgid "163 cm"
+msgstr ""
+
+msgctxt "1140	HEIGHT"
+msgid "155 cm"
+msgstr ""
+
+msgctxt "1154	HEIGHT"
+msgid "170 cm"
+msgstr ""
+
+msgctxt "1166	HEIGHT"
+msgid "160 cm"
+msgstr ""
+
+msgctxt "1213	CONSTELLATION"
+msgid "Cancer"
+msgstr ""
+
+msgctxt "1225	CONSTELLATION"
+msgid "Scorpio"
+msgstr ""
+
+msgctxt "1237	CONSTELLATION"
+msgid "Virgo"
+msgstr ""
+
+msgctxt "1250	CONSTELLATION"
+msgid "Gemini"
+msgstr ""
+
+msgctxt "1262	CONSTELLATION"
+msgid "Aquarius"
+msgstr ""
+
+msgctxt "1275	FAVORITE"
+msgid "Curry & Rice, Potatoes"
+msgstr ""
+
+msgctxt "1303	FAVORITE"
+msgid "Sea Urchin, Chocolate"
+msgstr ""
+
+msgctxt "1329	FAVORITE"
+msgid "Kushikatsu, Chicken Karaage"
+msgstr ""
+
+msgctxt "1364	FAVORITE"
+msgid "Miso Cutlet, Sweets"
+msgstr ""
+
+msgctxt "1389	FAVORITE"
+msgid "Horumon, Shellfish"
+msgstr ""
+
+msgctxt "1412	HATE"
+msgid "Natto, Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "1439	HATE"
+msgid "Mushroom"
+msgstr ""
+
+msgctxt "1452	HATE"
+msgid "Fresh Whipped Cream, Fish"
+msgstr ""
+
+msgctxt "1485	HATE"
+msgid "None"
+msgstr ""
+
+msgctxt "1495	HATE"
+msgid "Tomatoes, Peppers"
+msgstr ""
+
+msgctxt "1789	ROMAN_NAME"
+msgid "La Seine"
+msgstr ""
+
+msgctxt "1803	ROMAN_NAME"
+msgid "Rose Hip"
+msgstr ""
+
+msgctxt "1816	ROMAN_NAME"
+msgid "Prime"
+msgstr ""
+
+msgctxt "1829	ROMAN_NAME"
+msgid "Club Eden"
+msgstr ""
+
+msgctxt "1844	ROMAN_NAME"
+msgid "Elise"
+msgstr ""
+
+msgctxt "2094	EXPLANATION"
+msgid "You got Riku's business card."
+msgstr ""
+
+msgctxt "2124	EXPLANATION"
+msgid "Riku is going to see a man named Subaru. I should head to the south parking lot of Chikuzengawa Street."
+msgstr ""
+
+msgctxt "2228	EXPLANATION"
+msgid "Someone grabbed Riku and sped off. I'd better hurry and follow that car."
+msgstr ""
+
+msgctxt "2301	EXPLANATION"
+msgid "I've cornered Subaru. I need to beat him quick and save Riku."
+msgstr ""
+
+msgctxt "2363	EXPLANATION"
+msgid "I wonder if Riku is doing well. Maybe I should go check out how she's doing?"
+msgstr ""
+
+msgctxt "2440	EXPLANATION"
+msgid "I had an amazing time with Riku, and can happily say we've grown close."
+msgstr ""
+
+msgctxt "2512	EXPLANATION"
+msgid "You got Kaguya's business card."
+msgstr ""
+
+msgctxt "2544	EXPLANATION"
+msgid "Kaguya's headin' to that audition. I should go show her my support. Think she said she's at the Bridie at Tsukimino Street intersection. "
+msgstr ""
+
+msgctxt "2682	EXPLANATION"
+msgid "I got nothing against this guy, but if he's gonna get in the way of her dreams, then he's gotta be stopped!"
+msgstr ""
+
+msgctxt "2790	EXPLANATION"
+msgid "I wonder how the audition went. Guess I'll stop by the club."
+msgstr ""
+
+msgctxt "2851	EXPLANATION"
+msgid "I had an amazing time with Kaguya, and can happily say we've grown close."
+msgstr ""
+
+msgctxt "2925	EXPLANATION"
+msgid "You got Honoka's business card."
+msgstr ""
+
+msgctxt "2957	EXPLANATION"
+msgid "I got a call from Honoka-chan, but I couldn't quite understand what she was saying..."
+msgstr ""
+
+msgctxt "3043	EXPLANATION"
+msgid "Apparently Honoka-chan's lost her voice, and right before her test to boot. Maybe the pharmacy has something that could help."
+msgstr ""
+
+msgctxt "3169	EXPLANATION"
+msgid "Apparently there's something called the \"legendary lozenge.\" Someone in Ashitaba Park might have it."
+msgstr ""
+
+msgctxt "3270	EXPLANATION"
+msgid "I saw a man that might know something. Gotta figure out a way to buy that lozenge off him."
+msgstr ""
+
+msgctxt "3361	EXPLANATION"
+msgid "Okay, drugs was the wrong approach. I'll have to try talking to him again."
+msgstr ""
+
+msgctxt "3436	EXPLANATION"
+msgid "I wonder how her test went. I guess I should go ask."
+msgstr ""
+
+msgctxt "3489	EXPLANATION"
+msgid "I had an amazing time with Honoka, and can happily say we've grown close."
+msgstr ""
+
+msgctxt "3563	EXPLANATION"
+msgid "You got Shion's business card."
+msgstr ""
+
+msgctxt "3594	EXPLANATION"
+msgid "Sounds like Shion-chan has a stalker. I have to get to Kume Boulevard, quick!"
+msgstr ""
+
+msgctxt "3672	EXPLANATION"
+msgid "I'm not letting this creep get away!"
+msgstr ""
+
+msgctxt "3709	EXPLANATION"
+msgid "Never knew Shion-chan had such a rough past... Maybe I'll find her at her special place."
+msgstr ""
+
+msgctxt "3798	EXPLANATION"
+msgid "I wonder if Shion-chan is doing okay after all that. I should go see her."
+msgstr ""
+
+msgctxt "3872	EXPLANATION"
+msgid "I had an amazing time with Shion, and can happily say we've grown close."
+msgstr ""
+
+msgctxt "3945	EXPLANATION"
+msgid "You got Hinata Osaki's business card."
+msgstr ""
+
+msgctxt "3983	EXPLANATION"
+msgid "Hinata seemed off on that call. Bet I could find her near the hotel..."
+msgstr ""
+
+msgctxt "4054	EXPLANATION"
+msgid "I'll need some money if I'm going to keep Hinata safe. Better get 5 million yen ready for her."
+msgstr ""
+
+msgctxt "4149	EXPLANATION"
+msgid "Hinata managed to become number one at Elise. I should go check up on her."
+msgstr ""
+
+msgctxt "4224	EXPLANATION"
+msgid "I had an amazing time with Hinata, and can happily say we've grown close."
+msgstr ""
+
+msgctxt "4298	CONTENTS_EXP"
+msgid "Can only be requested by Kiryu."
+msgstr ""
+
+msgctxt "4335	CONTENTS_EXP"
+msgid "Can only be requested by Saejima."
+msgstr ""
+
+msgctxt "4373	CONTENTS_EXP"
+msgid "Can only be requested by Akiyama."
+msgstr ""
+
+msgctxt "4414	CONTENTS_EXP"
+msgid "Can only be requested by Shinada."
+msgstr ""
+
+msgctxt "4453	CONTENTS_EXP"
+msgid "Can only be requested by Kiryu."
+msgstr ""
+

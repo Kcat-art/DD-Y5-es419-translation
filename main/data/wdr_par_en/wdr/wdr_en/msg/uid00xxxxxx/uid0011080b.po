@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "448"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "452"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "44_Attendant"
+msgid "All right, here we are! Hope you have a good time!"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "All right, let's give it a try."
+msgstr ""
+

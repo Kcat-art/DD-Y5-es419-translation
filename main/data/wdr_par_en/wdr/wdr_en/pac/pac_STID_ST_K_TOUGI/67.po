@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "832"
+msgid "adv5_040/saejima_0527"
+msgstr ""
+
+msgctxt "836"
+msgid "kaiwabgm_fuon01"
+msgstr ""
+
+msgctxt "840"
+msgid "adv5_039/hanaya_0009"
+msgstr ""
+

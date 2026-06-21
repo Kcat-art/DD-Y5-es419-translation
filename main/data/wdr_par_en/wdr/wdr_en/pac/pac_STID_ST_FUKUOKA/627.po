@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "132"
+msgid "Don't go easy on me, okay? I wanna see what you're really made of."
+msgstr ""
+
+msgctxt "144"
+msgid "You've got a lot of pent-up aggression. Let's see if I can help you get it out."
+msgstr ""
+
+msgctxt "156"
+msgid "C'mon, what's wrong?"
+msgstr ""
+
+msgctxt "168"
+msgid "Sorry, but this isn't over yet. Not till you dig deep and show me what you can really do."
+msgstr ""
+
+msgctxt "1248"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1252"
+msgid "Sosuke"
+msgstr ""
+

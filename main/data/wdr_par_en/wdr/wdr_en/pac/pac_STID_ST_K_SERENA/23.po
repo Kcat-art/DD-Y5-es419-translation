@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1512"
+msgid "You ready?"
+msgstr ""
+
+msgctxt "1516"
+msgid "adv5_205_1/kiryu_5_205_050"
+msgstr ""
+

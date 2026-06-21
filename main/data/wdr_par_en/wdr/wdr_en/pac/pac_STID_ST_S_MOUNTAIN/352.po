@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "76"
+msgid "Saejima, you walked right past the hunting hut."
+msgstr ""
+
+msgctxt "88"
+msgid "You're not ready to go that way yet. Keep looking for deer tracks elsewhere."
+msgstr ""
+
+msgctxt "100"
+msgid "(Got separated from Okudera-han. Better go back for 'im.)"
+msgstr ""
+
+msgctxt "752"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "756"
+msgid "Saejima"
+msgstr ""
+

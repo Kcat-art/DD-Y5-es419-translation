@@ -1,0 +1,135 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "464	ID"
+msgid "Team Dragon"
+msgstr ""
+
+msgctxt "464	NAME"
+msgid "Team Dragon"
+msgstr ""
+
+msgctxt "476	NAME"
+msgid "Team Falcon"
+msgstr ""
+
+msgctxt "488	NAME"
+msgid "Team Tiger"
+msgstr ""
+
+msgctxt "499	NAME"
+msgid "Team Slugger"
+msgstr ""
+
+msgctxt "512	NAME"
+msgid "The Sanctuary"
+msgstr ""
+
+msgctxt "526	NAME"
+msgid "Elite Alliance"
+msgstr ""
+
+msgctxt "541	NAME"
+msgid "Traitor Rikishi"
+msgstr ""
+
+msgctxt "557	NAME"
+msgid "Hell Impulse"
+msgstr ""
+
+msgctxt "570	NAME"
+msgid "The Mad Killers"
+msgstr ""
+
+msgctxt "586	NAME"
+msgid "Dark Heroes"
+msgstr ""
+
+msgctxt "598	NAME"
+msgid "Dual Fist Fighters"
+msgstr ""
+
+msgctxt "617	NAME"
+msgid "The Super Overdrives"
+msgstr ""
+
+msgctxt "638	NAME"
+msgid "Kamurocho Punk Squad"
+msgstr ""
+
+msgctxt "659	NAME"
+msgid "Yi-san & Er-san"
+msgstr ""
+
+msgctxt "675	NAME"
+msgid "Torpedo Massacre Brothers"
+msgstr ""
+
+msgctxt "701	NAME"
+msgid "Mach Punchers"
+msgstr ""
+
+msgctxt "715	ANOTHER_NAME"
+msgid "Kazuma Kiryu's Own"
+msgstr ""
+
+msgctxt "734	ANOTHER_NAME"
+msgid "Shun Akiyama's Own"
+msgstr ""
+
+msgctxt "753	ANOTHER_NAME"
+msgid "Taiga Saejima's Own"
+msgstr ""
+
+msgctxt "773	ANOTHER_NAME"
+msgid "Tatsuo Shinada's Own"
+msgstr ""
+
+msgctxt "794	ANOTHER_NAME"
+msgid "Legends Returned"
+msgstr ""
+
+msgctxt "811	ANOTHER_NAME"
+msgid "The Chosen Ones"
+msgstr ""
+
+msgctxt "827	ANOTHER_NAME"
+msgid "Sadistic Sumo Slappers"
+msgstr ""
+
+msgctxt "850	ANOTHER_NAME"
+msgid "Demonic Duo"
+msgstr ""
+
+msgctxt "862	ANOTHER_NAME"
+msgid "The Monsters under your Bed"
+msgstr ""
+
+msgctxt "890	ANOTHER_NAME"
+msgid "Midnight Saviors"
+msgstr ""
+
+msgctxt "907	ANOTHER_NAME"
+msgid "Otherworldly Blows"
+msgstr ""
+
+msgctxt "926	ANOTHER_NAME"
+msgid "The Netherworld Express"
+msgstr ""
+
+msgctxt "950	ANOTHER_NAME"
+msgid "Fire & Ice"
+msgstr ""
+
+msgctxt "961	ANOTHER_NAME"
+msgid "The Chinese Octomillennium"
+msgstr ""
+
+msgctxt "988	ANOTHER_NAME"
+msgid "Double Impact!"
+msgstr ""
+
+msgctxt "1003	ANOTHER_NAME"
+msgid "Two-fist Tango"
+msgstr ""
+

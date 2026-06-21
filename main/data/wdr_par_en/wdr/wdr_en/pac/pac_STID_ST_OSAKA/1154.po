@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "What should I get..."
+msgstr ""
+
+msgctxt "264"
+msgid "I'm starving!"
+msgstr ""
+

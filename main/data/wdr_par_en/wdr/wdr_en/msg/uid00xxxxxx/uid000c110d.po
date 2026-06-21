@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "336"
+msgid "Homecoming Man"
+msgstr ""
+
+msgctxt "72_Homecoming Man"
+msgid "Wasn't there an ice cream shop here? It's turned into a Gindaco. Man, everything's different."
+msgstr ""
+

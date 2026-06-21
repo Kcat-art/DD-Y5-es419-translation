@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "92"
+msgid "Why won't it wake up!?"
+msgstr ""
+
+msgctxt "116"
+msgid "It's just no good..."
+msgstr ""
+

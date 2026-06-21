@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "464"
+msgid "adv1_145/tenin_1_145_010"
+msgstr ""
+
+msgctxt "468"
+msgid "P_TLK_sitgrd_agura_kamae"
+msgstr ""
+
+msgctxt "472"
+msgid "dummy"
+msgstr ""
+

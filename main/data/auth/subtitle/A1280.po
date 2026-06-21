@@ -1,0 +1,46 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60ｆ以下です	　		59	299	240"
+msgid "Aoyama."
+msgstr ""
+
+msgctxt " 	　	　	67	367	300"
+msgid "Well met, Fourth Chairman."
+msgstr ""
+
+msgctxt " 	　	分	89	462	373"
+msgid "I never would have navigated\\r\n"
+"my way out of that spider's web."
+msgstr ""
+
+msgctxt " 	　		60	533	473"
+msgid "Good thing I have this."
+msgstr ""
+
+msgctxt " 	　	　	60	645	585"
+msgid "What are you doing!?"
+msgstr ""
+
+msgctxt " 	　	OK	173	843	670"
+msgid "You should be thanking me, Kiryu-san. There'll\\r\n"
+"be no trace of your fight with the Yamagasa."
+msgstr ""
+
+msgctxt " 	　	　	62	910	848"
+msgid "No police breaking down your door."
+msgstr ""
+
+msgctxt " 	　	分	109	1024	915"
+msgid "You can keep driving your\\r\n"
+"taxi like nothing ever happened."
+msgstr ""
+
+msgctxt " 	　	　	89	1405	1316"
+msgid "Aoyama... Don't do it!"
+msgstr ""
+
+msgctxt " 	　	　	60	2030	1970"
+msgid "Aoyama!"
+msgstr ""
+

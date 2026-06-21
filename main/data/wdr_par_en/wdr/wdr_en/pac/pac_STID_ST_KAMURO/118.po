@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "120"
+msgid "Akiyama-san!"
+msgstr ""
+
+msgctxt "156"
+msgid "Need some menu ideas..."
+msgstr ""
+
+msgctxt "168"
+msgid " Hmm..."
+msgstr ""
+
+msgctxt "2148"
+msgid "M_NML_SET_stand_lookfor_02"
+msgstr ""
+

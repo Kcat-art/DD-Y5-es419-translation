@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "296"
+msgid "Player"
+msgstr ""
+
+msgctxt "300"
+msgid "dummy"
+msgstr ""
+
+msgctxt "44_Player"
+msgid "(This would be the long way around. Gotta hurry my ass to Futo Momo.)"
+msgstr ""
+

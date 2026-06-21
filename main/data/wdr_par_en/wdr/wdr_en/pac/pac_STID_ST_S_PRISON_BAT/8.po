@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "432"
+msgid "adv2_040/saejima_0099"
+msgstr ""
+
+msgctxt "436"
+msgid "C2040_P_SAE_sleep_kamae"
+msgstr ""
+

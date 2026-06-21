@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "240"
+msgid "You got <Color:255,255,200,255>Taihei Boulevard Locker Key H1<Color:Default>.\\r\n"
+" "
+msgstr ""
+
+msgctxt "372"
+msgid "You got <Color:255,255,200,255>Taihei Boulevard Locker Key H1<Color:Default>.\\r\n"
+" "
+msgstr ""
+
+msgctxt "3364"
+msgid "Player"
+msgstr ""
+
+msgctxt "3368"
+msgid "Talk_Syagamu_st"
+msgstr ""
+
+msgctxt "3372"
+msgid "Talk_Syagamu_ed"
+msgstr ""
+
+msgctxt "84_Player"
+msgid "(A coin locker key? Let me take a closer look...)\\r\n"
+"　 "
+msgstr ""
+
+msgctxt "108_Player"
+msgid "(There's something shining here.)\\r\n"
+"　 "
+msgstr ""
+
+msgctxt "144_Player"
+msgid "(There's something here.)"
+msgstr ""
+
+msgctxt "276_Player"
+msgid "(What's this?)"
+msgstr ""
+
+msgctxt "408_Player"
+msgid "(I guess I'll pass for now.)  "
+msgstr ""
+

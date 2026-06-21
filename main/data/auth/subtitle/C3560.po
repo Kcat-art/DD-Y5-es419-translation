@@ -1,0 +1,52 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "			147	175	28"
+msgid "The winner of round two, with a final round bonus, is..."
+msgstr ""
+
+msgctxt "		　	118	557	439"
+msgid "Haruka Sawamura!"
+msgstr ""
+
+msgctxt "		　	111	754	643"
+msgid "This must be so exciting\\r\n"
+"for you, going to the finals!"
+msgstr ""
+
+msgctxt "		　	74	830	756"
+msgid "Yes, I'm so thrilled!"
+msgstr ""
+
+msgctxt "		　	146	977	831"
+msgid "Now how do you feel about that upcoming,\\r\n"
+"climactic round? Tell us your thoughts!"
+msgstr ""
+
+msgctxt "		　	91	1095	1004"
+msgid "To be honest, I'm not that confident."
+msgstr ""
+
+msgctxt "		　	141	1256	1115"
+msgid "But I have a strong desire to win⑬\\r\n"
+"more than anyone, I think!"
+msgstr ""
+
+msgctxt "		　	73	1346	1273"
+msgid "And so, in the final round..."
+msgstr ""
+
+msgctxt "		　	134	1496	1362"
+msgid "I'll do my best to express\\r\n"
+"my sincerest feelings to my fans!"
+msgstr ""
+
+msgctxt "		　	161	1689	1528"
+msgid "Thank you, Haruka! I'm sure the crowd will love it!"
+msgstr ""
+
+msgctxt "		　	147	1837	1690"
+msgid "But will she win in the final round? Who knows?\\r\n"
+"You won't want to miss it!"
+msgstr ""
+

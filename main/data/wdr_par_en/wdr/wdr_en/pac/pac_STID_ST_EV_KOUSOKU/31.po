@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "252"
+msgid "dummy"
+msgstr ""
+
+msgctxt "256"
+msgid "SS1_M_NML_TAX_kamae"
+msgstr ""
+

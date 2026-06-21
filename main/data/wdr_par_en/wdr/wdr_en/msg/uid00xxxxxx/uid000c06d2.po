@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "272"
+msgid "Kind Man"
+msgstr ""
+
+msgctxt "72_Kind Man"
+msgid "It can get rough around here. Watch yourself."
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "100"
+msgid "Listen, asshole! If ya wanna meet the boss, you're gonna have to go through me first!"
+msgstr ""
+
+msgctxt "480"
+msgid "Ogasawara"
+msgstr ""
+

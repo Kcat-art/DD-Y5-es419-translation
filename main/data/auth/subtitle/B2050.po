@@ -1,0 +1,203 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60ｆ以下です			50	181	131"
+msgid "Saejima-aniki."
+msgstr ""
+
+msgctxt " 	　	　	69	251	182"
+msgid "Heard ya were lookin' for me."
+msgstr ""
+
+msgctxt " 	　	　	74	357	283"
+msgid "Himura n' Oshima clued me in."
+msgstr ""
+
+msgctxt " 	　	　	69	494	425"
+msgid "Oh... That."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	58	588	530"
+msgid "What's eatin' ya?"
+msgstr ""
+
+msgctxt " 	　	分	84	673	589"
+msgid "Thought ya wanted to talk."
+msgstr ""
+
+msgctxt " 	　	　	94	768	674"
+msgid "Not anymore. I turned it down."
+msgstr ""
+
+msgctxt " 	　	　	60	860	800"
+msgid "Turned what down?"
+msgstr ""
+
+msgctxt " 	　	　	62	926	864"
+msgid "My parole."
+msgstr ""
+
+msgctxt " 	　	分	154	1081	927"
+msgid "I just talked to the warden.\\r\n"
+"Told him I wasn't interested."
+msgstr ""
+
+msgctxt " 	　	　	60	1146	1086"
+msgid "Ya did what?"
+msgstr ""
+
+msgctxt " 	　	　	111	1279	1168"
+msgid "Guy like me? I've got nothing\\r\n"
+"waiting on the outside."
+msgstr ""
+
+msgctxt " 	　	　	187	1507	1320"
+msgid "I should've mentioned sooner, but...\\r\n"
+"I used to run with a Hokkaido yakuza."
+msgstr ""
+
+msgctxt " 	　	　	60	1604	1544"
+msgid "Oshima-chan told me."
+msgstr ""
+
+msgctxt " 	　	　	60	1698	1638"
+msgid "Ya killed a guy."
+msgstr ""
+
+msgctxt " 	　	　	81	1826	1745"
+msgid "Yeah. I was twenty."
+msgstr ""
+
+msgctxt " 	　	分	117	1979	1862"
+msgid "We were at war with another family, and..."
+msgstr ""
+
+msgctxt " 	　	　	117	2195	2078"
+msgid "Well, my aniki was moving up the ranks."
+msgstr ""
+
+msgctxt " 	　	　	111	2324	2213"
+msgid "Just a little push and he'd end up an officer."
+msgstr ""
+
+msgctxt " 	　	　	159	2488	2329"
+msgid "So. Ya offed this guy so your aniki\\r\n"
+"could keep climbin' the ladder."
+msgstr ""
+
+msgctxt " 	　	　	60	2564	2504"
+msgid "Right."
+msgstr ""
+
+msgctxt " 	　	　	142	2710	2568"
+msgid "He promised, he'd pull some strings\\r\n"
+"once he got to the top."
+msgstr ""
+
+msgctxt " 	　	分	64	2779	2715"
+msgid "Whatever it took to get me out of here."
+msgstr ""
+
+msgctxt " 	　	　	77	2891	2814"
+msgid "It's been years since I last heard from him."
+msgstr ""
+
+msgctxt " 	　	　	174	3081	2907"
+msgid "At first, I thought he was too busy\\r\n"
+"down in Kansai to come see me."
+msgstr ""
+
+msgctxt " 	　	　	180	3307	3127"
+msgid "But after almost a decade,\\r\n"
+"the picture's gotten pretty clear."
+msgstr ""
+
+msgctxt " 	　	　	125	3498	3373"
+msgid "I was a tool.\\r\n"
+"One who got tossed away."
+msgstr ""
+
+msgctxt " 	　	　	60	3609	3549"
+msgid "Baba-chan."
+msgstr ""
+
+msgctxt " 	　	　	86	3737	3651"
+msgid "Sorry. I sure unloaded on you there."
+msgstr ""
+
+msgctxt " 	　	　	94	3887	3793"
+msgid "But it's fine.\\r\n"
+"I'm over it now."
+msgstr ""
+
+msgctxt " 	　	　	97	4036	3939"
+msgid "I murdered a guy.\\r\n"
+"Doesn't matter why I did it."
+msgstr ""
+
+msgctxt " 	　	分	74	4150	4076"
+msgid "This is what I deserve."
+msgstr ""
+
+msgctxt " 	　	　	132	4389	4257"
+msgid "Whether I serve ten years or a thousand,\\r\n"
+"my slate'll never be clean."
+msgstr ""
+
+msgctxt " 	　	　	161	4580	4419"
+msgid "So the least I can do now is\\r\n"
+"finish out the time I was given."
+msgstr ""
+
+msgctxt " 	　	　	60	4702	4642"
+msgid "You sure that's what ya want?"
+msgstr ""
+
+msgctxt " 	　	　	112	4845	4733"
+msgid "Ya ask me, I think you're scared."
+msgstr ""
+
+msgctxt " 	　	分	60	4932	4867"
+msgid "Scared of the outside."
+msgstr ""
+
+msgctxt " 	　	　	60	5022	4962"
+msgid "Saejima-aniki."
+msgstr ""
+
+msgctxt " 	　	　	60	5099	5039"
+msgid "I was the same way."
+msgstr ""
+
+msgctxt " 	　	　	163	5304	5141"
+msgid "Spend long enough breathin' prison air, \\r\n"
+"the fresh breeze stops smellin' right."
+msgstr ""
+
+msgctxt " 	　	　	158	5513	5355"
+msgid "N' sure. Your past'll cling tight\\r\n"
+"no matter how long ya spend in here."
+msgstr ""
+
+msgctxt " 	　	　	136	5698	5562"
+msgid "But once ya get nice and burnt,\\r\n"
+"ain't nowhere to go but out."
+msgstr ""
+
+msgctxt " 	　	　	162	5908	5746"
+msgid "See the light o' day. Tackle reality\\r\n"
+"head-on. Never stop livin'."
+msgstr ""
+
+msgctxt " 	　	分	73	5995	5922"
+msgid "That's the first step towards atonement."
+msgstr ""
+
+msgctxt " 	　	　	119	6163	6044"
+msgid "The only way to find your own place in the sun."
+msgstr ""
+
+msgctxt " 	　	　	72	6296	6224"
+msgid "No matter how frigid the path gets."
+msgstr ""
+

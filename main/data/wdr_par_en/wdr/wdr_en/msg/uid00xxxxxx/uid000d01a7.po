@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "432"
+msgid "Observant Man"
+msgstr ""
+
+msgctxt "72_Observant Man"
+msgid "It looks like all the yakuza left town, and outta the blue, too."
+msgstr ""
+
+msgctxt "84_Observant Man"
+msgid "What's goin' on? Maybe they're all going somewhere for somethin'."
+msgstr ""
+

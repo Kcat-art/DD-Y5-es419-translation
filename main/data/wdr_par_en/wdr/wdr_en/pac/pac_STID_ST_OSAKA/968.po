@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "100"
+msgid "You're from Tokyo, huh?"
+msgstr ""
+

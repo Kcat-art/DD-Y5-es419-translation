@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "328"
+msgid "Unsteady Man"
+msgstr ""
+
+msgctxt "72_Unsteady Man"
+msgid "Oww... The snow's packed down to ice here. Do you mind? Take a picture why don't you?"
+msgstr ""
+

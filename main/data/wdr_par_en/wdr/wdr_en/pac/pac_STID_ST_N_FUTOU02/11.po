@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "112"
+msgid "A10660_kubota_C"
+msgstr ""
+

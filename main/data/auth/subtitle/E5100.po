@@ -1,0 +1,74 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		141	259	118"
+msgid "So, Fukuoka, Sapporo, and Nagoya..."
+msgstr ""
+
+msgctxt " 	 	　	124	394	270"
+msgid "Ka-chan's the one behind all of it?"
+msgstr ""
+
+msgctxt " 	 	　	53	528	475"
+msgid "That's how it looks, sir."
+msgstr ""
+
+msgctxt "		　	171	700	529"
+msgid "Most of Ousaka Enterprises' men\\r\n"
+"are already in Kamurocho."
+msgstr ""
+
+msgctxt " 	 	　	88	789	701"
+msgid "And the Tojo Clan's doin' fuck all!?"
+msgstr ""
+
+msgctxt " 	 	　	198	1000	802"
+msgid "It doesn't seem like they're putting\\r\n"
+"up much of a fight, to be honest..."
+msgstr ""
+
+msgctxt " 	 	　	165	1186	1021"
+msgid "Ousaka Enterprises may have struck\\r\n"
+"some kind of deal with the Tojo Clan."
+msgstr ""
+
+msgctxt " 	 	　	71	1283	1212"
+msgid "Then what's goin' on in Sotenbori!?"
+msgstr ""
+
+msgctxt " 	 	　	120	1417	1297"
+msgid "Word is it's been all but deserted,\\r\n"
+"except for a few holdouts."
+msgstr ""
+
+msgctxt " 	 	　	125	1583	1458"
+msgid "So he's leavin' his sorry Sotenbori turf\\r\n"
+"wide open for us, is he?"
+msgstr ""
+
+msgctxt " 	 	　	161	1759	1598"
+msgid "For a guy who acts like he couldn't give\\r\n"
+"a rat's ass, he's sure goin' to extremes."
+msgstr ""
+
+msgctxt " 	 	　	130	1913	1783"
+msgid "C'mon! Get off your asses! Get yourselves ready!"
+msgstr ""
+
+msgctxt " 	60ｆ以下です	　	49	2000	1951"
+msgid "Get ready for what?"
+msgstr ""
+
+msgctxt " 	 	　	64	2065	2001"
+msgid "It's time to go to war!"
+msgstr ""
+
+msgctxt "		　	131	2197	2066"
+msgid "We're marchin' on Tokyo too! Katsuya\\r\n"
+"ain't gettin' away with this if I can help it!"
+msgstr ""
+
+msgctxt " 	 	　	60	2283	2223"
+msgid "Yes, sir!"
+msgstr ""
+

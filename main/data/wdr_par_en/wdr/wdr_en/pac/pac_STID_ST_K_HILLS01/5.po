@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "Hey, hold it!"
+msgstr ""
+
+msgctxt "56"
+msgid "We're gonna sandwich ya in!"
+msgstr ""
+
+msgctxt "412"
+msgid "Katsuya's Underling"
+msgstr ""
+

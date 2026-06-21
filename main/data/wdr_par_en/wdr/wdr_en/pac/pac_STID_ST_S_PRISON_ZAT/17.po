@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1136"
+msgid "adv2_070/himura_0042"
+msgstr ""
+
+msgctxt "1140"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1144"
+msgid "adv2_060/himura_0032"
+msgstr ""
+
+msgctxt "1148"
+msgid "P_TLK_sitgrd_agura_kamae"
+msgstr ""
+
+msgctxt "1152"
+msgid "P_TLK_sitgrd_agura_kamae_st"
+msgstr ""
+

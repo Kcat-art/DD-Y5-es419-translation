@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1956"
+msgid "cab_kaguya_q_01/kaguya_25_0001"
+msgstr ""
+
+msgctxt "1960"
+msgid "cab_kaguya_q_02/kaguya_26_0001"
+msgstr ""
+
+msgctxt "1964"
+msgid "cab_kaguya_q_03/kaguya_27_0001"
+msgstr ""
+
+msgctxt "1968"
+msgid "cab_kaguya_q_04/kaguya_28_0001"
+msgstr ""
+
+msgctxt "1972"
+msgid "cab_kaguya_q_05/kaguya_29_0001"
+msgstr ""
+

@@ -1,0 +1,114 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		139	401	262"
+msgid "Even in this trash hole, you're\\r\n"
+"the most toxic type o' waste."
+msgstr ""
+
+msgctxt " 	　	　	119	620	501"
+msgid "Yet we all end up in the same incinerator."
+msgstr ""
+
+msgctxt " 	　	　	173	819	646"
+msgid "Your little friend's a murderer.\\r\n"
+"Get it? We're all trash in here."
+msgstr ""
+
+msgctxt " 	　	分	66	886	820"
+msgid "Me and you are no different!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	46	1028	982"
+msgid "Aniki!"
+msgstr ""
+
+msgctxt " 	　	　	60	1089	1029"
+msgid "Saejima, what're you..."
+msgstr ""
+
+msgctxt " 	　	　	60	1344	1284"
+msgid "On your feet."
+msgstr ""
+
+msgctxt " 	　	　	73	1543	1470"
+msgid "So you finally took a swing."
+msgstr ""
+
+msgctxt " 	　	　	60	1623	1563"
+msgid "I said, get up!"
+msgstr ""
+
+msgctxt " 	　	　	115	1761	1646"
+msgid "Ya want me that bad?\\r\n"
+"Well now ya got me."
+msgstr ""
+
+msgctxt " 	　	　	111	2015	1904"
+msgid "You ate hit after hit for months\\r\n"
+"without so much as flinching."
+msgstr ""
+
+msgctxt " 	　	　	108	2130	2022"
+msgid "But we touch one hair on that punk's\\r\n"
+"head and you lose your shit?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	46	2177	2131"
+msgid "Can it."
+msgstr ""
+
+msgctxt " 	　	分	121	2299	2178"
+msgid "It ain't you I'm angry at.\\r\n"
+"I'm angry at myself."
+msgstr ""
+
+msgctxt " 	　	　	60	2382	2322"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt " 	　	　	82	2466	2384"
+msgid "I could only ever think o' me."
+msgstr ""
+
+msgctxt " 	　	　	133	2620	2487"
+msgid "Whatever it took to get out ASAP.\\r\n"
+"It was all I wanted."
+msgstr ""
+
+msgctxt " 	　	　	105	2787	2682"
+msgid "That's why I let you do as ya pleased."
+msgstr ""
+
+msgctxt " 	　	　	91	2892	2801"
+msgid "Didn't raise a fist to\\r\n"
+"the guy beatin' me down."
+msgstr ""
+
+msgctxt " 	　	　	63	2984	2921"
+msgid "What kinda yakuza does that?"
+msgstr ""
+
+msgctxt " 	　	分	63	3066	3003"
+msgid "What kinda captain does that!?"
+msgstr ""
+
+msgctxt " 	　	　	167	3447	3280"
+msgid "Baba's like a brother to me.\\r\n"
+"Not a chance I'm turnin' my back on him."
+msgstr ""
+
+msgctxt " 	　	　	141	3631	3490"
+msgid "All the pain ya put him through...\\r\n"
+"It's time ya taste just what it feels like."
+msgstr ""
+
+msgctxt " 	　	　	90	3836	3746"
+msgid "Be glad to see you try."
+msgstr ""
+
+msgctxt " 	　	　	129	3982	3853"
+msgid "Haven't stretched my legs in a while.\\r\n"
+"This is gonna be good!"
+msgstr ""
+

@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "400"
+msgid "Player"
+msgstr ""
+
+msgctxt "76_Player"
+msgid "(I came here already. Let's go somewhere else.)"
+msgstr ""
+
+msgctxt "88_Player"
+msgid "(It says they're closed today...)"
+msgstr ""
+

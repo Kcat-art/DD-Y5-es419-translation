@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "132"
+msgid "Need some wooden tags?"
+msgstr ""
+

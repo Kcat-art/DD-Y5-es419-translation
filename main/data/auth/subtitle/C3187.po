@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 			63	525	462"
+msgid "I really enjoyed our night out."
+msgstr ""
+
+msgctxt " 	　	分	60	599	539"
+msgid "Be safe getting home, okay?"
+msgstr ""
+
+msgctxt " 	　		115	724	609"
+msgid "Same to you, ma'am. Good night!"
+msgstr ""
+

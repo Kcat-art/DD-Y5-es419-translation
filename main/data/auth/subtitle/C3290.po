@@ -1,0 +1,45 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		82	292	210"
+msgid "You're tough. Real tough."
+msgstr ""
+
+msgctxt " 	　	　	60	737	677"
+msgid "Ogita-san..."
+msgstr ""
+
+msgctxt " 	　	　	97	1272	1175"
+msgid "I'll remember you.\\r\n"
+"You can count on it."
+msgstr ""
+
+msgctxt " 	　	　	60	1613	1553"
+msgid "Horie-san!"
+msgstr ""
+
+msgctxt " 	　	　	68	1705	1637"
+msgid "Horie-san? Horie-san!"
+msgstr ""
+
+msgctxt " 	　	　	60	1775	1715"
+msgid "Why...?"
+msgstr ""
+
+msgctxt " 	　	　	101	1985	1884"
+msgid "I think that Ogita guy did this to him."
+msgstr ""
+
+msgctxt " 	　	　	60	2083	2023"
+msgid "Ogita-san!?"
+msgstr ""
+
+msgctxt " 	　	　	82	2166	2084"
+msgid "First things first, we need to\\r\n"
+"get Horie-chan to a hospital."
+msgstr ""
+
+msgctxt " 	　	分	60	2234	2174"
+msgid "His life depends on it."
+msgstr ""
+

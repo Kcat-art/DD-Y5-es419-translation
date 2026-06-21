@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Saejima, that's not the way to the hunting hut."
+msgstr ""
+
+msgctxt "72"
+msgid "(It ain't time to leave yet.)"
+msgstr ""
+
+msgctxt "424"
+msgid "Okudera"
+msgstr ""
+

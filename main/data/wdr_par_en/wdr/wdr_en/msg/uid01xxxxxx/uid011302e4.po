@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "508"
+msgid "Player"
+msgstr ""
+
+msgctxt "512"
+msgid "dummy"
+msgstr ""
+
+msgctxt "60_Player"
+msgid "(I don't need to be here now.)"
+msgstr ""
+

@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "484"
+msgid "ミニゲーム前ADVに飛ぶ"
+msgstr ""
+
+msgctxt "488"
+msgid "やめる"
+msgstr ""
+
+msgctxt "44_ミニゲーム前ADVに飛ぶ"
+msgid "ミニゲームコーチンチェック用です。"
+msgstr ""
+

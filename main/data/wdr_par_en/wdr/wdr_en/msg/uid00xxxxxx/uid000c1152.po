@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "324"
+msgid "Wound-up Man"
+msgstr ""
+
+msgctxt "72_Wound-up Man"
+msgid "I'm going home, crawling under the kotatsu, and TVing out. No one can stop me now."
+msgstr ""
+

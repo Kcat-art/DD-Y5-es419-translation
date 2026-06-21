@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "I should get home."
+msgstr ""
+
+msgctxt "236"
+msgid "These short days..."
+msgstr ""
+

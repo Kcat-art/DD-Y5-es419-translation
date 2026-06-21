@@ -1,0 +1,83 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1390	LAST_NAME"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1396	LAST_NAME"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1404	LAST_NAME"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1412	LAST_NAME"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "1420	LAST_NAME"
+msgid "Sawamura"
+msgstr ""
+
+msgctxt "1431	LAST_NAME"
+msgid "Kid"
+msgstr ""
+
+msgctxt "1435	LAST_NAME"
+msgid "Kameda"
+msgstr ""
+
+msgctxt "1442	LAST_NAME"
+msgid "Mitsushita"
+msgstr ""
+
+msgctxt "1453	LAST_NAME"
+msgid "Nakata"
+msgstr ""
+
+msgctxt "1460	FIRST_NAME"
+msgid "Kazuma"
+msgstr ""
+
+msgctxt "1467	FIRST_NAME"
+msgid "Shun"
+msgstr ""
+
+msgctxt "1472	FIRST_NAME"
+msgid "Taiga"
+msgstr ""
+
+msgctxt "1478	FIRST_NAME"
+msgid "Tatsuo"
+msgstr ""
+
+msgctxt "1485	FIRST_NAME"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1492	FIRST_NAME"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "1499	FIRST_NAME"
+msgid "Cho-han"
+msgstr ""
+
+msgctxt "1507	FIRST_NAME"
+msgid "Kyuta"
+msgstr ""
+
+msgctxt "1513	FIRST_NAME"
+msgid "Tsuruji"
+msgstr ""
+
+msgctxt "1521	FIRST_NAME"
+msgid "Tsuneo"
+msgstr ""
+
+msgctxt "1528	FIRST_NAME"
+msgid "Kyami"
+msgstr ""
+

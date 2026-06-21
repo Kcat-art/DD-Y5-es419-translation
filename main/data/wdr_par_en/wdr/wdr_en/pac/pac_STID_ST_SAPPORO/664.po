@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "156"
+msgid "Matsuo... Barbeque."
+msgstr ""
+
+msgctxt "168"
+msgid "So far away..."
+msgstr ""
+
+msgctxt "2128"
+msgid "F_NML_TLK_stand_syagamu_lp"
+msgstr ""
+

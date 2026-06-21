@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "Hey! Where do ya think you're goin'!?"
+msgstr ""
+
+msgctxt "56"
+msgid "(There's a lot of them... Hm?)"
+msgstr ""
+
+msgctxt "68"
+msgid "(That heavy machinery could be useful.)"
+msgstr ""
+
+msgctxt "668"
+msgid "Worker"
+msgstr ""
+
+msgctxt "672"
+msgid "battle"
+msgstr ""
+
+msgctxt "676"
+msgid "voice_kind::eID_osk_m_gang_l|voice::eID_btllong_enc_010_breakin"
+msgstr ""
+
+msgctxt "680"
+msgid "voice_kind::eID_osk_m_gang_l|voice::eID_btllong_enc_030_ambush"
+msgstr ""
+
+msgctxt "684"
+msgid "voice_kind::eID_osk_m_ippan30s|voice::eID_btllong_enc_031_ambush"
+msgstr ""
+
+msgctxt "688"
+msgid "voice_kind::eID_osk_m_ippan40s|voice::eID_btllong_enc_030_ambush"
+msgstr ""
+
+msgctxt "692"
+msgid "voice_kind::eID_osk_m_yakuza40s|voice::eID_btllong_enc_010_breakin"
+msgstr ""
+
+msgctxt "696"
+msgid "Player"
+msgstr ""
+

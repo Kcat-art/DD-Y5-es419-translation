@@ -1,0 +1,296 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	 	 		114	585	471"
+msgid "Sir, this is Akiyama-san of Sky Finance."
+msgstr ""
+
+msgctxt "	 	　	　	60	649	589"
+msgid "Please."
+msgstr ""
+
+msgctxt "	 	　	　	88	755	667"
+msgid "I'm the president of Osaka Talent.\\r\n"
+"The name's Katsuya."
+msgstr ""
+
+msgctxt "	 	　	　	81	851	770"
+msgid "I'm Akiyama of Sky Finance."
+msgstr ""
+
+msgctxt "	 	　	　	114	975	861"
+msgid "And you're here to talk about the recently\\r\n"
+"deceased Dyna Chair president?"
+msgstr ""
+
+msgctxt "	 	　	　	60	1062	1002"
+msgid "Yup, that's right."
+msgstr ""
+
+msgctxt "	 	　	　	60	1136	1076"
+msgid "Have a seat."
+msgstr ""
+
+msgctxt "	 	　	　	108	1515	1407"
+msgid "I must say, I've had business\\r\n"
+"dealings with Dyna Chair, yes."
+msgstr ""
+
+msgctxt "	 	　	分	60	1587	1527"
+msgid "But I don't see how this involves me."
+msgstr ""
+
+msgctxt "	 	　	　	108	1715	1607"
+msgid "Word is you used to be an actor, Katsuya-san."
+msgstr ""
+
+msgctxt "	 	　	　	118	1848	1730"
+msgid "At least, that's what the internet says about you."
+msgstr ""
+
+msgctxt "	 	　	　	101	1963	1862"
+msgid "It's true. I made quite a name\\r\n"
+"for myself in the States."
+msgstr ""
+
+msgctxt "	 	　	　	101	2081	1980"
+msgid "Primarily action movies,\\r\n"
+"until my injury."
+msgstr ""
+
+msgctxt "	 	　	　	120	2221	2101"
+msgid "So I waved my acting life goodbye and\\r\n"
+"started working behind the scenes."
+msgstr ""
+
+msgctxt "	 	　	　	124	2389	2265"
+msgid "Your acting skills must be pretty top shelf, then."
+msgstr ""
+
+msgctxt "	 	　	　	60	2474	2414"
+msgid "What are you implying?"
+msgstr ""
+
+msgctxt "	 	　	　	111	2610	2499"
+msgid "You're not one percent as disagreeable\\r\n"
+"as the typical entertainment executive."
+msgstr ""
+
+msgctxt "	 	　	　	139	2767	2628"
+msgid "To be frank, you look a finer,\\r\n"
+"more upstanding businessman than most."
+msgstr ""
+
+msgctxt "	 	　	　	60	2840	2780"
+msgid "That act could fool just about anyone."
+msgstr ""
+
+msgctxt "	 	　	　	177	3040	2863"
+msgid "As I mentioned, I was predominantly an action star.\\r\n"
+"A field not usually known for its acting."
+msgstr ""
+
+msgctxt "	 	　	　	139	3219	3080"
+msgid "Now, I'd appreciate it if you'd get to the point."
+msgstr ""
+
+msgctxt "	 	　	　	88	3337	3249"
+msgid "It's about Mirei Park's supposed suicide."
+msgstr ""
+
+msgctxt "	 	　	分	68	3430	3362"
+msgid "I have reason to believe she was murdered."
+msgstr ""
+
+msgctxt "	 	　	　	60	3509	3449"
+msgid "Murdered?"
+msgstr ""
+
+msgctxt "	 	　	　	120	3669	3549"
+msgid "Pardon me for asking, but what exactly\\r\n"
+"was your relationship with her?"
+msgstr ""
+
+msgctxt "	 	　	　	102	3790	3688"
+msgid "She was in a pinch, so I loaned her some cash."
+msgstr ""
+
+msgctxt "	 	　	　	131	3952	3821"
+msgid "Aha. Then you're one of her creditors."
+msgstr ""
+
+msgctxt "	 	　	OK	218	4187	3969"
+msgid "I must agree. Anyone who knew Park-san well\\r\n"
+"would never believe she took her own life."
+msgstr ""
+
+msgctxt "	 	　	　	120	4325	4205"
+msgid "Personally, I'm still having\\r\n"
+"trouble believing it myself."
+msgstr ""
+
+msgctxt "	 	　	　	185	4455	4375"
+msgid "And what if I told you I had proof?"
+msgstr ""
+
+msgctxt "	 	　	分	86	4560	4474"
+msgid "Her suicide note was a forge job."
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	　	55	4637	4582"
+msgid "A forgery?"
+msgstr ""
+
+msgctxt "	 	　	　	150	4788	4638"
+msgid "And apparently, the mystery man who\\r\n"
+"had that suicide note made in the first place..."
+msgstr ""
+
+msgctxt "	 	　	分	119	4918	4799"
+msgid "Has some sort of connection to you."
+msgstr ""
+
+msgctxt "	 	　	　	153	5087	4934"
+msgid "I see. So that's why you've come to see me."
+msgstr ""
+
+msgctxt "	 	　	　	70	5177	5107"
+msgid "Did you have her killed?"
+msgstr ""
+
+msgctxt "	 	　	　	60	5263	5203"
+msgid "Why would I?"
+msgstr ""
+
+msgctxt "	 	　	　	113	5395	5282"
+msgid "Your agency and Dyna Chair aren't\\r\n"
+"exactly the best of friends."
+msgstr ""
+
+msgctxt "	 	　	　	98	5512	5414"
+msgid "Not to mention that other thing.\\r\n"
+"The Princess League, was it?"
+msgstr ""
+
+msgctxt "	 	　	分	100	5625	5525"
+msgid "The two finalists are from your\\r\n"
+"two agencies, respectively."
+msgstr ""
+
+msgctxt "	 	　	　	63	5737	5674"
+msgid "And that's cause for murder?"
+msgstr ""
+
+msgctxt "	 	　	分	92	5847	5755"
+msgid "I'd rather not entertain this sick joke."
+msgstr ""
+
+msgctxt "	 	　	　	86	5972	5886"
+msgid "And what about the forged suicide note?"
+msgstr ""
+
+msgctxt "	 	　	　	63	6057	5994"
+msgid "I know nothing about it."
+msgstr ""
+
+msgctxt "調整	 	　	OK	158	6237	6079"
+msgid "But in this line of business, I <Italic>do</Italic>\\r\n"
+"deal with people from all walks of life."
+msgstr ""
+
+msgctxt "	 	　		171	6427	6256"
+msgid "It's possible that one of my countless clients\\r\n"
+"had something to do with Park-san's death."
+msgstr ""
+
+msgctxt "	 	　	　	107	6565	6458"
+msgid "However, I assure you my hands are clean."
+msgstr ""
+
+msgctxt "	 	　	　	99	7284	7181"
+msgid "For you. I only hope it's enough."
+msgstr ""
+
+msgctxt "	 	　	　	60	7398	7338"
+msgid "And what's this?"
+msgstr ""
+
+msgctxt "	 	　	分	69	7472	7403"
+msgid "Hush money? A bribe?"
+msgstr ""
+
+msgctxt "	 	　	　	104	7594	7490"
+msgid "Call it whatever you please."
+msgstr ""
+
+msgctxt "	 	　	　	98	7729	7631"
+msgid "So. You admit you're involved."
+msgstr ""
+
+msgctxt "	 	　	　	161	7912	7751"
+msgid "Not at all. But I can't afford\\r\n"
+"to let these baseless rumors continue."
+msgstr ""
+
+msgctxt "	 	　	OK	188	8105	7917"
+msgid "If people mistakenly caught wind of my involvement\\r\n"
+"in all this, my business would suffer."
+msgstr ""
+
+msgctxt "	 	　	　	154	8302	8148"
+msgid "As the president of Osaka Talent,\\r\n"
+"I must stamp out this spark before it catches."
+msgstr ""
+
+msgctxt "	 	　	分	70	8382	8312"
+msgid "If money is how I do that, so be it."
+msgstr ""
+
+msgctxt "	 	　	　	60	8452	8392"
+msgid "Don't read any more into this."
+msgstr ""
+
+msgctxt "	 	　	　	67	8529	8462"
+msgid "Think you've got the wrong idea."
+msgstr ""
+
+msgctxt "	 	　	　	83	8638	8555"
+msgid "I'm not here for a handout."
+msgstr ""
+
+msgctxt "	 	　	　	123	8929	8806"
+msgid "Katsuya-san. You're a far better actor\\r\n"
+"than you give yourself credit for."
+msgstr ""
+
+msgctxt "	 	　	　	141	9105	8964"
+msgid "Were that the case, I'd still be in the business."
+msgstr ""
+
+msgctxt "	 	　	　	152	9317	9165"
+msgid "Well, I clearly didn't bring enough\\r\n"
+"ammo for this. My bad for underestimating you."
+msgstr ""
+
+msgctxt "	 	　	　	80	9425	9345"
+msgid "Guess I'll just head home for the day."
+msgstr ""
+
+msgctxt "	 	　	　	69	9577	9508"
+msgid "So your suspicions still stand."
+msgstr ""
+
+msgctxt "	 	　	　	117	9732	9615"
+msgid "All the same, you're no better off\\r\n"
+"now than you were when you walked in..."
+msgstr ""
+
+msgctxt "	 	　	　	158	9945	9787"
+msgid "No, but I did learn that you're gonna be\\r\n"
+"an even tougher nut to crack than I thought."
+msgstr ""
+
+msgctxt "	 	　	　	60	10051	9991"
+msgid "Be seeing you."
+msgstr ""
+

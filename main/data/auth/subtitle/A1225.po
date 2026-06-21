@@ -1,0 +1,320 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		157	185	28"
+msgid "Aren't you a little far from home?\\r\n"
+"Osaka and Fukuoka aren't exactly neighbors."
+msgstr ""
+
+msgctxt " 	　	　	94	298	204"
+msgid "I got shipped down to Nagasugai."
+msgstr ""
+
+msgctxt " 	　	分	74	385	311"
+msgid "'Cause of the Omi Alliance captain, Watase."
+msgstr ""
+
+msgctxt " 	　	　	163	563	400"
+msgid "What? What's someone like that doing in Fukuoka?"
+msgstr ""
+
+msgctxt " 	　	　	128	714	586"
+msgid "The seventh Omi chairman is\\r\n"
+"terminally ill. Ya hear 'bout that?"
+msgstr ""
+
+msgctxt " 	　	　	60	793	733"
+msgid "I'm aware, yeah."
+msgstr ""
+
+msgctxt " 	　	　	158	979	821"
+msgid "If he croaks, the Omi truce\\r\n"
+"with the Tojo'll go up in flames."
+msgstr ""
+
+msgctxt " 	　	　	87	1088	1001"
+msgid "No truce, nothin' to stop an all-out war."
+msgstr ""
+
+msgctxt " 	　	　	142	1267	1125"
+msgid "So the Tojo Clan has been runnin' around\\r\n"
+"the whole country, makin' alliances."
+msgstr ""
+
+msgctxt " 	　	　	116	1415	1299"
+msgid "Dojima came to Fukuoka to butter up\\r\n"
+"the local folks personally."
+msgstr ""
+
+msgctxt " 	　	分	91	1522	1431"
+msgid "And Watase made his way\\r\n"
+"down to stop him."
+msgstr ""
+
+msgctxt " 	　	　	79	1615	1536"
+msgid "Stop the alliance?"
+msgstr ""
+
+msgctxt " 	　	分	120	1769	1649"
+msgid "Is the Omi trying to beat\\r\n"
+"the Tojo Clan to it?"
+msgstr ""
+
+msgctxt " 	　	　	60	1847	1787"
+msgid "Beats me."
+msgstr ""
+
+msgctxt " 	　	OK	193	2042	1849"
+msgid "All I know is, they're tryin' to keep\\r\n"
+"the Tojo from joinin' up with the Yamagasa Family."
+msgstr ""
+
+msgctxt " 	　	　	69	2134	2065"
+msgid "And if they don't get what they want..."
+msgstr ""
+
+msgctxt " 	　	分	102	2246	2144"
+msgid "They could crush the Yamagasa Family\\r\n"
+"without battin' an eye."
+msgstr ""
+
+msgctxt " 	　	　	138	2422	2284"
+msgid "So in a flash, Nagasugai's the hottest spot\\r\n"
+"in the country for yakuza types."
+msgstr ""
+
+msgctxt " 	　	　	110	2533	2423"
+msgid "Nowhere else as dangerous, or crucial."
+msgstr ""
+
+msgctxt " 	　	分	88	2625	2537"
+msgid "All eyes are on this town\\r\n"
+"like it's ground zero."
+msgstr ""
+
+msgctxt " 	　	　	172	2840	2668"
+msgid "'Course, the Tojo Clan's well aware\\r\n"
+"that Watase came down to Fukuoka."
+msgstr ""
+
+msgctxt " 	　	　	60	2920	2860"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt " 	　	　	89	3042	2953"
+msgid "Which means, you think Daigo was\\r\n"
+"kidnapped by..."
+msgstr ""
+
+msgctxt " 	　	　	60	3160	3100"
+msgid "Yeah. The Omi."
+msgstr ""
+
+msgctxt " 	　	分	61	3222	3161"
+msgid "That's most likely, anyway."
+msgstr ""
+
+msgctxt " 	　	　	132	3398	3266"
+msgid "With Daigo Dojima off the board,\\r\n"
+"the alliance talks would stall."
+msgstr ""
+
+msgctxt " 	　	　	102	3515	3413"
+msgid "Even if the Tojo appointed\\r\n"
+"an acting chairman..."
+msgstr ""
+
+msgctxt " 	　	　	167	3695	3528"
+msgid "With Dojima as a bargaining chip,\\r\n"
+"the Omi could swing things in their favor."
+msgstr ""
+
+msgctxt " 	　	　	150	3899	3749"
+msgid "And what, you tracked me down\\r\n"
+"just to tell me all this?"
+msgstr ""
+
+msgctxt " 	　	　	61	4030	3969"
+msgid "Well, let's not be hasty."
+msgstr ""
+
+msgctxt " 	　	分	66	4104	4038"
+msgid "I'm just gettin' to my point."
+msgstr ""
+
+msgctxt " 	　	　	131	4257	4126"
+msgid "You ran into two Tojo goons who\\r\n"
+"were supposed to be guardin' Dojima, yeah?"
+msgstr ""
+
+msgctxt " 	　	　	125	4402	4277"
+msgid "Names're Morinaga and Aizawa, I think?"
+msgstr ""
+
+msgctxt " 	　	　	60	4508	4448"
+msgid "What about them?"
+msgstr ""
+
+msgctxt " 	　	　	117	4642	4525"
+msgid "I'm gonna have to ask you to keep\\r\n"
+"them from doing anything stupid."
+msgstr ""
+
+msgctxt " 	　	　	60	4728	4668"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt " 	　	　	190	4930	4740"
+msgid "If the Watase Family <Italic>did</Italic> kidnap Daigo Dojima,\\r\n"
+"sure as shit those two'll jump into action."
+msgstr ""
+
+msgctxt " 	　	　	149	5125	4976"
+msgid "It'd be the spark the Omi is waiting for\\r\n"
+"to hit back against the Tojo Clan."
+msgstr ""
+
+msgctxt " 	　	分	72	5209	5137"
+msgid "Bringin' the inferno of war."
+msgstr ""
+
+msgctxt " 	　	　	83	5332	5249"
+msgid "That would be catastrophic."
+msgstr ""
+
+msgctxt " 	　	OK	199	5555	5356"
+msgid "Ya get it now? I need you to go talk\\r\n"
+"Watase off the ledge before it comes to that."
+msgstr ""
+
+msgctxt " 	　	　	60	5654	5594"
+msgid "Why me?"
+msgstr ""
+
+msgctxt " 	　	分	117	5778	5661"
+msgid "I cut ties with the Tojo Clan.\\r\n"
+"I'm not yakuza anymore."
+msgstr ""
+
+msgctxt " 	　	　	84	5916	5832"
+msgid "That's exactly why it has to be you."
+msgstr ""
+
+msgctxt " 	　	　	98	6033	5935"
+msgid "You're the only one who can pull this off."
+msgstr ""
+
+msgctxt " 	　	分	121	6155	6034"
+msgid "Ya got the knowledge, the influence..."
+msgstr ""
+
+msgctxt " 	　	　	97	6257	6160"
+msgid "But you're far enough removed to be impartial."
+msgstr ""
+
+msgctxt " 	　	　	120	6393	6273"
+msgid "Meanin', you're the perfect guy for the job."
+msgstr ""
+
+msgctxt " 	　	　	129	6563	6434"
+msgid "Imagine it helps that\\r\n"
+"you're no slouch in a fight."
+msgstr ""
+
+msgctxt " 	　	　	60	6653	6593"
+msgid "Why can't the police handle it?"
+msgstr ""
+
+msgctxt " 	　	　	157	6820	6663"
+msgid "Don't be thick. It wouldn't fix\\r\n"
+"a damn thing if we arrested an Omi officer."
+msgstr ""
+
+msgctxt " 	　	　	96	6930	6834"
+msgid "I couldn't even tell you all the\\r\n"
+"shit that would set in motion."
+msgstr ""
+
+msgctxt " 	　	　	130	7081	6951"
+msgid "Best thing to do is hold out\\r\n"
+"an olive branch, resolve this peacefully."
+msgstr ""
+
+msgctxt " 	　	　	70	7204	7134"
+msgid "What's in it for you?"
+msgstr ""
+
+msgctxt " 	　	　	118	7350	7232"
+msgid "If us Osaka boys get the credit\\r\n"
+"instead of the Tokyo blue..."
+msgstr ""
+
+msgctxt " 	　	分	78	7437	7359"
+msgid "Maybe we can finally stop\\r\n"
+"grovelin' at their feet."
+msgstr ""
+
+msgctxt " 	　	　	60	7556	7496"
+msgid "Think you're familiar."
+msgstr ""
+
+msgctxt " 	　	分	153	7712	7559"
+msgid "Lady detective of ours got a little\\r\n"
+"<Italic>too</Italic> friendly with this famous yakuza."
+msgstr ""
+
+msgctxt " 	　	　	119	7844	7725"
+msgid "Now our Organized Crime unit's\\r\n"
+"the butt of every joke."
+msgstr ""
+
+msgctxt " 	　	　	201	8075	7874"
+msgid "We gotta show 'em that Osaka's still got\\r\n"
+"a role to play in these big-time cases."
+msgstr ""
+
+msgctxt " 	　	OK	185	8281	8096"
+msgid "Right. Sounds like going after\\r\n"
+"Watase would help us both, then."
+msgstr ""
+
+msgctxt " 	　	　	139	8450	8311"
+msgid "So, what do you say?\\r\n"
+"Are you in?"
+msgstr ""
+
+msgctxt " 	　	　	64	8557	8493"
+msgid "Where's Watase now?"
+msgstr ""
+
+msgctxt " 	　	　	95	8680	8585"
+msgid "At some club knockin' a few\\r\n"
+"back with his top guys."
+msgstr ""
+
+msgctxt " 	　	　	132	8844	8712"
+msgid "Place called Olivier,\\r\n"
+"if I'm rememberin' right."
+msgstr ""
+
+msgctxt " 	　	　	81	8955	8874"
+msgid "Olivier? Wait..."
+msgstr ""
+
+msgctxt " 	　	　	60	9035	8975"
+msgid "Ya know it?"
+msgstr ""
+
+msgctxt " 	　	分	60	9134	9074"
+msgid "Well ain't that a nice coincidence."
+msgstr ""
+
+msgctxt " 	　	OK	202	9394	9192"
+msgid "I promise, no matter how rough ya get,\\r\n"
+"we won't go bulldozin' the life you built here."
+msgstr ""
+
+msgctxt " 	　	　	80	9525	9445"
+msgid "We'll hope for the best. See ya."
+msgstr ""
+

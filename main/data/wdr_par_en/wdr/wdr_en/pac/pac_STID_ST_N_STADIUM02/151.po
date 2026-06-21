@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1444"
+msgid "M_NML_TLK_stand_kagamu_lp"
+msgstr ""
+

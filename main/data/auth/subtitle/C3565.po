@@ -1,0 +1,41 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "				174	26"
+msgid "The winner of round two, and a strong\\r\n"
+"contender for taking home the crown, is..."
+msgstr ""
+
+msgctxt "				523	441"
+msgid "T-Set!"
+msgstr ""
+
+msgctxt "				602	537"
+msgid "We did it!"
+msgstr ""
+
+msgctxt "				675	605"
+msgid "That was truly amazing!"
+msgstr ""
+
+msgctxt "				744	694"
+msgid "Thank you so much!"
+msgstr ""
+
+msgctxt "				868	786"
+msgid "We couldn't have done it\\r\n"
+"without everyone's support!"
+msgstr ""
+
+msgctxt "				1017	878"
+msgid "We're so glad we got to meet you all!"
+msgstr ""
+
+msgctxt "				1178	1048"
+msgid "We're going to win this! I just know it!"
+msgstr ""
+
+msgctxt "				1278	1194"
+msgid "Big hand for T-Set, everybody!"
+msgstr ""
+

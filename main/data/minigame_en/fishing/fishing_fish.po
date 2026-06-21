@@ -1,0 +1,83 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1936	NAME"
+msgid "Coelacanth"
+msgstr ""
+
+msgctxt "1947	NAME"
+msgid "Marlin"
+msgstr ""
+
+msgctxt "1954	NAME"
+msgid "Tuna"
+msgstr ""
+
+msgctxt "1959	NAME"
+msgid "Squid"
+msgstr ""
+
+msgctxt "1965	NAME"
+msgid "Flounder"
+msgstr ""
+
+msgctxt "1974	NAME"
+msgid "Sea Bream"
+msgstr ""
+
+msgctxt "1984	NAME"
+msgid "Scorpionfish"
+msgstr ""
+
+msgctxt "1997	NAME"
+msgid "Thread-sail Filefish"
+msgstr ""
+
+msgctxt "2018	NAME"
+msgid "Prawn"
+msgstr ""
+
+msgctxt "2024	NAME"
+msgid "Eel"
+msgstr ""
+
+msgctxt "2028	NAME"
+msgid "Goby"
+msgstr ""
+
+msgctxt "2033	NAME"
+msgid "Oil Drum"
+msgstr ""
+
+msgctxt "2042	NAME"
+msgid "Treasure Chest"
+msgstr ""
+
+msgctxt "2057	NAME"
+msgid "Great White Shark"
+msgstr ""
+
+msgctxt "2075	NAME"
+msgid "Ito"
+msgstr ""
+
+msgctxt "2079	NAME"
+msgid "Oarfish"
+msgstr ""
+
+msgctxt "2087	NAME"
+msgid "Giant Crab"
+msgstr ""
+
+msgctxt "2098	NAME"
+msgid "Octopus"
+msgstr ""
+
+msgctxt "2106	NAME"
+msgid "Umbrella"
+msgstr ""
+
+msgctxt "2115	NAME"
+msgid "Blowfish"
+msgstr ""
+

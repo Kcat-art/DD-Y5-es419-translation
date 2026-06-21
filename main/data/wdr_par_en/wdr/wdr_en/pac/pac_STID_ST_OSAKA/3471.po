@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "124"
+msgid "The Princess League..."
+msgstr ""
+
+msgctxt "148"
+msgid "That princess thing..."
+msgstr ""
+
+msgctxt "172"
+msgid "That princess thing..."
+msgstr ""
+

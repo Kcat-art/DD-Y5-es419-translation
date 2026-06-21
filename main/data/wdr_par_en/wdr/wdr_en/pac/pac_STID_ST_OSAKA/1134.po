@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "It's like cute overload!"
+msgstr ""
+
+msgctxt "376"
+msgid "Hey, hey..."
+msgstr ""
+

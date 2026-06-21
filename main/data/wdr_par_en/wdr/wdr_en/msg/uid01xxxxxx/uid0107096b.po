@@ -1,0 +1,17 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "76"
+msgid "Would you like to keep playing?"
+msgstr ""
+
+msgctxt "88"
+msgid "If you bet 500 chips on the next game, I'll set a triple payout. Care to test your luck?\\r\n"
+"(Blackjack: 5x wager, Double Down: 2x wager.)"
+msgstr ""
+
+msgctxt "100"
+msgid "If you wager 2,000 chips on the next game, I'll set a triple payout. Want to test your luck?\\r\n"
+"(Blackjack: 5x wager, Double Down: 2x wager.)"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "72"
+msgid "All systems, full power!"
+msgstr ""
+
+msgctxt "260"
+msgid "Magical cure!"
+msgstr ""
+

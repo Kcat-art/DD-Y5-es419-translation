@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	352	292"
+msgid "Your ride's here."
+msgstr ""
+
+msgctxt "			60	428	368"
+msgid "Yep."
+msgstr ""
+

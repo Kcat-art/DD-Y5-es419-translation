@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "388"
+msgid "Wistful Woman"
+msgstr ""
+
+msgctxt "72_Wistful Woman"
+msgid "Everywhere I go, I see happy couples, and yet I'm by myself. It's not fair! Why do I have to get dumped right before Christmas!?"
+msgstr ""
+

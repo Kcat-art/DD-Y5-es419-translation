@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1040"
+msgid "adv2_010_1/majima_0024"
+msgstr ""
+

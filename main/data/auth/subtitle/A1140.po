@@ -1,0 +1,17 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 	スペースを調整	96	397	301"
+msgid "You can't go, Fourth Chairman!"
+msgstr ""
+
+msgctxt " 	 	　	147	584	437"
+msgid "I've told you everything I know.\\r\n"
+"And that's the truth."
+msgstr ""
+
+msgctxt " 	 		104	729	625"
+msgid "What you do now,\\r\n"
+"well, that's up to you."
+msgstr ""
+

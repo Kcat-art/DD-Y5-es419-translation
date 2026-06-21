@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "804"
+msgid "dummy"
+msgstr ""
+
+msgctxt "808"
+msgid "P_AKI_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "812"
+msgid "ArmsID"
+msgstr ""
+

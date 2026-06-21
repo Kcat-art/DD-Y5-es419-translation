@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "384"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Saejima"
+msgid "He's on the move again!"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "This way, Okudera-han!"
+msgstr ""
+

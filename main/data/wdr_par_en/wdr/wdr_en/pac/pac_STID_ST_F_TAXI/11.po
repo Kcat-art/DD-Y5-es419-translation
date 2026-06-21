@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "224"
+msgid "adv1_010/nakajima_1_010_010"
+msgstr ""
+

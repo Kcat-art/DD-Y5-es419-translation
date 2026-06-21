@@ -1,0 +1,91 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "5488"
+msgid "cab_shion_z_01/shion_07_0001"
+msgstr ""
+
+msgctxt "5492"
+msgid "cab_shion_z_02/shion_08_0001"
+msgstr ""
+
+msgctxt "5496"
+msgid "cab_shion_z_03/shion_09_0001"
+msgstr ""
+
+msgctxt "5500"
+msgid "cab_shion_z_04/shion_10_0001"
+msgstr ""
+
+msgctxt "5504"
+msgid "cab_shion_z_05/shion_11_0001"
+msgstr ""
+
+msgctxt "5508"
+msgid "cab_shion_z_06/shion_12_0001"
+msgstr ""
+
+msgctxt "5512"
+msgid "cab_shion_z_07/shion_13_0001"
+msgstr ""
+
+msgctxt "5516"
+msgid "cab_shion_z_08/shion_14_0001"
+msgstr ""
+
+msgctxt "5520"
+msgid "cab_shion_z_09/shion_15_0001"
+msgstr ""
+
+msgctxt "5524"
+msgid "cab_shion_z_10/shion_16_0001"
+msgstr ""
+
+msgctxt "5528"
+msgid "cab_shion_s_01/shion_00_0001"
+msgstr ""
+
+msgctxt "5532"
+msgid "cab_shion_s_02/shion_01_0001"
+msgstr ""
+
+msgctxt "5536"
+msgid "cab_shion_s_03/shion_02_0001"
+msgstr ""
+
+msgctxt "5540"
+msgid "cab_shion_s_04/shion_03_0001"
+msgstr ""
+
+msgctxt "5544"
+msgid "cab_shion_s_05/shion_04_0001"
+msgstr ""
+
+msgctxt "5548"
+msgid "cab_shion_s_06/shion_05_0001"
+msgstr ""
+
+msgctxt "5552"
+msgid "cab_shion_s_07/shion_06_0001"
+msgstr ""
+
+msgctxt "5556"
+msgid "cab_shion_r_01/shion_17_0001"
+msgstr ""
+
+msgctxt "5560"
+msgid "cab_shion_r_02/shion_18_0001"
+msgstr ""
+
+msgctxt "5564"
+msgid "cab_shion_r_03/shion_19_0001"
+msgstr ""
+
+msgctxt "5568"
+msgid "cab_shion_r_04/shion_20_0001"
+msgstr ""
+
+msgctxt "5572"
+msgid "cab_shion_r_05/shion_21_0001"
+msgstr ""
+

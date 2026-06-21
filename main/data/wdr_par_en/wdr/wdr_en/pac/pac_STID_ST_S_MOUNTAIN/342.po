@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "76"
+msgid "(Can't give up on nabbin' a bear now!)"
+msgstr ""
+
+msgctxt "88"
+msgid "(Oughta still be a bear around...)"
+msgstr ""
+
+msgctxt "100"
+msgid "(Gotta collect the bear bile. Could get gross now...)"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "What to do?"
+msgstr ""
+
+msgctxt "232"
+msgid "Beer and barbecue..."
+msgstr ""
+

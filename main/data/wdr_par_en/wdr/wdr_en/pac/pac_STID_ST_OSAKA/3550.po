@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "108"
+msgid "Haruka-chan..."
+msgstr ""
+
+msgctxt "2172"
+msgid "SD07_M_NML_SET_stand_nozoki"
+msgstr ""
+
+msgctxt "2176"
+msgid "M_NML_TLK_btl_after04_lp"
+msgstr ""
+

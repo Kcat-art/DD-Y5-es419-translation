@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "344"
+msgid "Busybody"
+msgstr ""
+
+msgctxt "72_Busybody"
+msgid "Where ya from? Nagasugai's got a lot of places you can visit. Take the long way 'round and explore."
+msgstr ""
+

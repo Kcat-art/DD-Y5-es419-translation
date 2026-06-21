@@ -1,0 +1,242 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		140	228	88"
+msgid "So, what did he want?\\r\n"
+"The deputy warden, I mean."
+msgstr ""
+
+msgctxt " 	　	　	73	305	232"
+msgid "Oh, nothing too interesting."
+msgstr ""
+
+msgctxt " 	　	分	95	420	325"
+msgid "Just said he'd be putting in\\r\n"
+"for our parole again."
+msgstr ""
+
+msgctxt " 	　	　	54	481	427"
+msgid "Right, Aniki?"
+msgstr ""
+
+msgctxt "			60	542	482"
+msgid "Yup."
+msgstr ""
+
+msgctxt " 	　	　	144	696	552"
+msgid "Hot damn... The both of you,\\r\n"
+"loose on the world?"
+msgstr ""
+
+msgctxt " 	　	分	73	786	713"
+msgid "Gonna feel downright abandoned in here."
+msgstr ""
+
+msgctxt " 	　	　	116	934	818"
+msgid "So, Saejima-san. What's stop\\r\n"
+"number one once you're out?"
+msgstr ""
+
+msgctxt " 	　	　	130	1076	946"
+msgid "You gonna head to Tsukimino,\\r\n"
+"look for the guy who offed your bro?"
+msgstr ""
+
+msgctxt " 	　	　	60	1153	1093"
+msgid "Not much else I got in mind."
+msgstr ""
+
+msgctxt " 	　	　	181	1359	1178"
+msgid "Calling it now, then. It won't be\\r\n"
+"too long till we get to see you again."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	30	1400	1370"
+msgid "Why's that?"
+msgstr ""
+
+msgctxt " 	　	　	109	1510	1401"
+msgid "I mean, duh. You're gonna go get revenge, right?"
+msgstr ""
+
+msgctxt " 	　	　	107	1639	1532"
+msgid "A murder charge'll land you\\r\n"
+"right back in our little cell."
+msgstr ""
+
+msgctxt " 	　	　	115	1758	1643"
+msgid "Quit it, Himura.\\r\n"
+"You're gonna curse the poor guy."
+msgstr ""
+
+msgctxt " 	　	　	160	1943	1783"
+msgid "And besides! Saejima-aniki\\r\n"
+"would never do something like that."
+msgstr ""
+
+msgctxt " 	　	　	110	2056	1946"
+msgid "But that sap who got murdered,\\r\n"
+"wasn't he one of Saejima-san's buddies?"
+msgstr ""
+
+msgctxt " 	　	　	143	2224	2081"
+msgid "Hell'd freeze over before he took\\r\n"
+"a slight like that sitting down."
+msgstr ""
+
+msgctxt " 	　	　	60	2300	2240"
+msgid "What, I make you mad?"
+msgstr ""
+
+msgctxt " 	　	　	134	2477	2343"
+msgid "It's all good.\\r\n"
+"Only natural to be thinkin' that."
+msgstr ""
+
+msgctxt " 	　	　	65	2575	2510"
+msgid "But I ain't goin' for revenge."
+msgstr ""
+
+msgctxt " 	　	　	178	2783	2605"
+msgid "This Kitakata fella might've murdered my bro...\\r\n"
+"but he never did nothin' to me personally."
+msgstr ""
+
+msgctxt " 	　	　	72	2856	2784"
+msgid "Then why track him down?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	58	2953	2895"
+msgid "Somethin' I wanna know."
+msgstr ""
+
+msgctxt " 	　	分	88	3078	2990"
+msgid "This guy who managed to take my bro down..."
+msgstr ""
+
+msgctxt " 	　	　	67	3179	3112"
+msgid "I gotta see what he's like."
+msgstr ""
+
+msgctxt " 	　	　	103	3306	3203"
+msgid "And after your little chat?\\r\n"
+"You gonna rat him out?"
+msgstr ""
+
+msgctxt " 	　	　	60	3367	3307"
+msgid "Nah."
+msgstr ""
+
+msgctxt "60ｆ以下です	　		48	3432	3384"
+msgid "I'll let him keep livin'."
+msgstr ""
+
+msgctxt " 	　	　	80	3515	3435"
+msgid "Huh? You lost it, man?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	52	3568	3516"
+msgid "Just need one thing."
+msgstr ""
+
+msgctxt " 	　	分	148	3753	3595"
+msgid "My bro was the strongest man in the world.\\r\n"
+"Only right I know his dyin' words."
+msgstr ""
+
+msgctxt " 	　	　	90	3880	3790"
+msgid "So long as Kitakata tells me,\\r\n"
+"I'll be satisfied."
+msgstr ""
+
+msgctxt " 	　	　	103	4026	3923"
+msgid "And you're gonna let him off the hook\\r\n"
+"for the whole murder thing?"
+msgstr ""
+
+msgctxt " 	　	　	161	4202	4041"
+msgid "If Majima got himself rubbed out,\\r\n"
+"it's his own fault for growin' weak."
+msgstr ""
+
+msgctxt " 	　	　	60	4286	4226"
+msgid "No blamin' the killer."
+msgstr ""
+
+msgctxt " 	　	　	108	4422	4314"
+msgid "Either my bro went so soft\\r\n"
+"any ol' chump could take him..."
+msgstr ""
+
+msgctxt " 	　	　	127	4567	4440"
+msgid "Or the guy who did it\\r\n"
+"was just too damn strong."
+msgstr ""
+
+msgctxt " 	　	　	132	4738	4606"
+msgid "Can't tell if that's shallow or deep.\\r\n"
+"It's a lot to swallow, either way."
+msgstr ""
+
+msgctxt " 	　	　	100	4910	4810"
+msgid "Hard to believe Majima's actually gone."
+msgstr ""
+
+msgctxt " 	　	分	106	5039	4933"
+msgid "So I gotta know for sure.\\r\n"
+"Even if it hurts."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	48	5208	5160"
+msgid "My win."
+msgstr ""
+
+msgctxt " 	　	　	100	5309	5209"
+msgid "No fair! You saved all your twos till the end!?"
+msgstr ""
+
+msgctxt " 	　	　	126	5466	5340"
+msgid "That'd never fly if we were\\r\n"
+"using Sapporo rules..."
+msgstr ""
+
+msgctxt " 	　	　	60	5527	5467"
+msgid "Load of bull."
+msgstr ""
+
+msgctxt " 	　	　	115	5823	5632"
+msgid "Well, it's almost time to see Saejima-san\\r\n"
+"and Baba-chan off. So before they go..."
+msgstr ""
+
+msgctxt " 	　	　	60	5892	5832"
+msgid "How about one last hurrah?"
+msgstr ""
+
+msgctxt " 	　	　	89	6033	5944"
+msgid "What, your imagination game again?"
+msgstr ""
+
+msgctxt " 	　	　	141	6243	6102"
+msgid "Not much of a game. It's just\\r\n"
+"an excuse for Himura-san to gloat."
+msgstr ""
+
+msgctxt " 	　	　	108	6373	6265"
+msgid "Well, Saejima-san? Think you\\r\n"
+"can swing it, one final time?"
+msgstr ""
+
+msgctxt " 	　	　	60	6434	6374"
+msgid "Sure."
+msgstr ""
+
+msgctxt " 	　	分	102	6554	6452"
+msgid "Let's see how wild this one can get."
+msgstr ""
+
+msgctxt " 	　	　	164	6719	6555"
+msgid "Be glad to oblige.\\r\n"
+"Now then, let's see here..."
+msgstr ""
+

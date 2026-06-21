@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "244"
+msgid "Player"
+msgstr ""
+
+msgctxt "44_Player"
+msgid "(The elevator is stopped at the fifth floor and won't come down. I'll have to take the stairs.)"
+msgstr ""
+

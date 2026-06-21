@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "It's hopeless..."
+msgstr ""
+
+msgctxt "252"
+msgid "Never gonna notice..."
+msgstr ""
+

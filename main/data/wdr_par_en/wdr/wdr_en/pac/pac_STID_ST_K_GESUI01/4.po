@@ -1,0 +1,231 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "*huff* *huff* Shinada!"
+msgstr ""
+
+msgctxt "72"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "84"
+msgid "Got a favor to ask."
+msgstr ""
+
+msgctxt "96"
+msgid "What? Now?"
+msgstr ""
+
+msgctxt "108"
+msgid "When ya get to the Dome, ya might come across a guy called Baba."
+msgstr ""
+
+msgctxt "120"
+msgid "Baba?"
+msgstr ""
+
+msgctxt "132"
+msgid "Yeah. He's the guy workin' for Kurosawa that planned my prison break."
+msgstr ""
+
+msgctxt "144"
+msgid "What's the favor?"
+msgstr ""
+
+msgctxt "156"
+msgid "If ya see him, tell him I'll be waitin' for him here as long as it takes."
+msgstr ""
+
+msgctxt "168"
+msgid "Huh? What's that supposed to mean?"
+msgstr ""
+
+msgctxt "180"
+msgid "I promised we'd swear an oath of brotherhood."
+msgstr ""
+
+msgctxt "192"
+msgid "Wait, really?"
+msgstr ""
+
+msgctxt "204"
+msgid "He's still young. Gotta smack some sense into that head of his, or who knows what he'll get himself into."
+msgstr ""
+
+msgctxt "216"
+msgid "So I'm hopin' you can save not just Haruka, but Baba, too."
+msgstr ""
+
+msgctxt "228"
+msgid "Man, the lengths you guys go to for each other is just crazy sometimes."
+msgstr ""
+
+msgctxt "240"
+msgid "Huh? You say somethin'?"
+msgstr ""
+
+msgctxt "252"
+msgid "Never mind. Anyway, first we've got to take care of the enemy at hand!"
+msgstr ""
+
+msgctxt "264"
+msgid "I hear that!"
+msgstr ""
+
+msgctxt "276"
+msgid "*huff* *huff* Shinada!"
+msgstr ""
+
+msgctxt "288"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "300"
+msgid "Got a favor to ask."
+msgstr ""
+
+msgctxt "312"
+msgid "What? Now?"
+msgstr ""
+
+msgctxt "324"
+msgid "When ya get to the Dome, ya might come across a guy called Baba."
+msgstr ""
+
+msgctxt "336"
+msgid "Baba?"
+msgstr ""
+
+msgctxt "348"
+msgid "Yeah. He's the guy workin' for Kurosawa that planned my prison break."
+msgstr ""
+
+msgctxt "360"
+msgid "What's the favor?"
+msgstr ""
+
+msgctxt "372"
+msgid "If ya see him, tell him I'll be waitin' for him here as long as it takes."
+msgstr ""
+
+msgctxt "384"
+msgid "Huh? What's that supposed to mean?"
+msgstr ""
+
+msgctxt "396"
+msgid "I promised we'd swear an oath of brotherhood."
+msgstr ""
+
+msgctxt "408"
+msgid "Wait, really?"
+msgstr ""
+
+msgctxt "420"
+msgid "He's still young. Gotta smack some sense into that head of his, or who knows what he'll get himself into."
+msgstr ""
+
+msgctxt "432"
+msgid "So I'm hopin' you can save not just Haruka, but Baba, too."
+msgstr ""
+
+msgctxt "444"
+msgid "Man, the lengths you guys go to for each other is just crazy sometimes."
+msgstr ""
+
+msgctxt "456"
+msgid "Huh? You say somethin'?"
+msgstr ""
+
+msgctxt "468"
+msgid "Never mind. Anyway, first we've got to take care of the enemy at hand!"
+msgstr ""
+
+msgctxt "480"
+msgid "I hear that!"
+msgstr ""
+
+msgctxt "5644"
+msgid "btl5_010/saejima_0635"
+msgstr ""
+
+msgctxt "5648"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "5652"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5656"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "5660"
+msgid "btl5_010/shinada_0578"
+msgstr ""
+
+msgctxt "5664"
+msgid "btl5_010/saejima_0636"
+msgstr ""
+
+msgctxt "5668"
+msgid "btl5_010/shinada_0579"
+msgstr ""
+
+msgctxt "5672"
+msgid "btl5_010/saejima_0637"
+msgstr ""
+
+msgctxt "5676"
+msgid "btl5_010/shinada_0580"
+msgstr ""
+
+msgctxt "5680"
+msgid "btl5_010/saejima_0638"
+msgstr ""
+
+msgctxt "5684"
+msgid "btl5_010/shinada_0581"
+msgstr ""
+
+msgctxt "5688"
+msgid "btl5_010/saejima_0639"
+msgstr ""
+
+msgctxt "5692"
+msgid "btl5_010/shinada_0582"
+msgstr ""
+
+msgctxt "5696"
+msgid "btl5_010/saejima_0640"
+msgstr ""
+
+msgctxt "5700"
+msgid "btl5_010/shinada_0583"
+msgstr ""
+
+msgctxt "5704"
+msgid "btl5_010/saejima_0641a"
+msgstr ""
+
+msgctxt "5708"
+msgid "btl5_010/saejima_0641b"
+msgstr ""
+
+msgctxt "5712"
+msgid "btl5_010/shinada_0584"
+msgstr ""
+
+msgctxt "5716"
+msgid "btl5_010/saejima_0642"
+msgstr ""
+
+msgctxt "5720"
+msgid "btl5_010/shinada_0585"
+msgstr ""
+
+msgctxt "5724"
+msgid "btl5_010/saejima_0643"
+msgstr ""
+

@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "612"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "616"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "132_Haruka"
+msgid "We live at the Café Portugal building over on Nagasu Boulevard. Mom and dad should be working there right now."
+msgstr ""
+
+msgctxt "144_Kiryu"
+msgid "Portugal, huh? All right. I'll bring your dad over right away."
+msgstr ""
+

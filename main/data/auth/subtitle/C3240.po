@@ -1,0 +1,21 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	352	292"
+msgid "Horie-chan."
+msgstr ""
+
+msgctxt " 	 	　	85	512	427"
+msgid "Akiyama-san! You startled me."
+msgstr ""
+
+msgctxt "		　	92	614	522"
+msgid "I only just heard from Hana that\\r\n"
+"you were down here in Osaka."
+msgstr ""
+
+msgctxt " 	 	改行位置修正	132	759	627"
+msgid "I never thought we'd be\\r\n"
+"seeing each other so soon."
+msgstr ""
+

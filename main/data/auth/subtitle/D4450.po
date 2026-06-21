@@ -1,0 +1,90 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "				 			60	402	342"
+msgid "Thanks for the spot."
+msgstr ""
+
+msgctxt "				 	　	分	67	482	415"
+msgid "Not much in my wallet but despair."
+msgstr ""
+
+msgctxt "				 	　	　	60	597	537"
+msgid "Here's your change."
+msgstr ""
+
+msgctxt "				 	　	　	77	697	620"
+msgid "Oh... You can keep it."
+msgstr ""
+
+msgctxt "				 	　	　	60	771	711"
+msgid "Seriously!?"
+msgstr ""
+
+msgctxt "				 	　	分	60	833	773"
+msgid "Freakin' Christmas came early!"
+msgstr ""
+
+msgctxt "				 	　	　	94	954	860"
+msgid "Couple of loose coins don't mean\\r\n"
+"shit when you run the Tojo Clan, huh?"
+msgstr ""
+
+msgctxt "				 	　	　	60	1023	963"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "				 	　	　	100	1281	1181"
+msgid "I'm trying to keep a low profile.\\r\n"
+"Don't do this to me."
+msgstr ""
+
+msgctxt "				 	　	　	60	1357	1297"
+msgid "Ah, crap."
+msgstr ""
+
+msgctxt "				 	　	　	122	1485	1363"
+msgid "Guess the yakuza life's\\r\n"
+"tougher than I thought."
+msgstr ""
+
+msgctxt "				 	　	　	60	1730	1670"
+msgid "What the hell!?"
+msgstr ""
+
+msgctxt "				 	　	　	60	1801	1741"
+msgid "I told you to keep your voice down!"
+msgstr ""
+
+msgctxt "				 	　	　	67	1927	1860"
+msgid "197-Win Pitcher Sawada Traded to Wyverns"
+msgstr ""
+
+msgctxt "				 	　	　	90	2019	1929"
+msgid "Is that the same Sawada?"
+msgstr ""
+
+msgctxt "				60ｆ以下です	　	　	46	2096	2050"
+msgid "Uh-oh."
+msgstr ""
+
+msgctxt "				 	　	分	89	2186	2097"
+msgid "I think I might've made a big mistake."
+msgstr ""
+
+msgctxt "				 	　	　	60	2247	2187"
+msgid "What about?"
+msgstr ""
+
+msgctxt "				60ｆ以下です	　	　	56	2339	2283"
+msgid "Dojima-kun, you go on ahead!"
+msgstr ""
+
+msgctxt "何？		2325		 	　	　	74	2414	2340"
+msgid "There's something I need to do first!"
+msgstr ""
+
+msgctxt "				 	　	　	60	2484	2424"
+msgid "Hey!"
+msgstr ""
+

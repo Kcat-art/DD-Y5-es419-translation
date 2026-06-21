@@ -1,0 +1,89 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		107	150	43"
+msgid "He's a lucky guy, having a place he can go back to."
+msgstr ""
+
+msgctxt " 	　	　	65	415	350"
+msgid "So what's my plan?"
+msgstr ""
+
+msgctxt " 	　	　	61	495	434"
+msgid "Where would I even call home?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	38	796	758"
+msgid "Hello?"
+msgstr ""
+
+msgctxt " 	　	　	78	875	797"
+msgid "How're the sights in Tokyo, Shinada?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	45	923	878"
+msgid "Takasugi-san!?"
+msgstr ""
+
+msgctxt " 	　	　	113	1037	924"
+msgid "You kinda bolted, so I got worried."
+msgstr ""
+
+msgctxt " 	　	　	125	1189	1064"
+msgid "What's there to worry about!?\\r\n"
+"I paid all the money back, didn't I!?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	52	1255	1203"
+msgid "Don't be like that!"
+msgstr ""
+
+msgctxt " 	　	　	117	1373	1256"
+msgid "It's not about the money.\\r\n"
+"I was worried about you."
+msgstr ""
+
+msgctxt " 	　	　	169	1597	1428"
+msgid "By the way, that masseuse,\\r\n"
+"Milky? She got released."
+msgstr ""
+
+msgctxt " 	　	　	80	1703	1623"
+msgid "She asked me to pass a message on to you."
+msgstr ""
+
+msgctxt " 	　	　	153	1885	1732"
+msgid "If you stop by, she'll give you\\r\n"
+"90 minutes for just 3,000 yen."
+msgstr ""
+
+msgctxt " 	　	　	69	2097	2028"
+msgid "Everyone misses you, bud."
+msgstr ""
+
+msgctxt " 	　	　	98	2219	2121"
+msgid "Come on back, Shinada."
+msgstr ""
+
+msgctxt " 	　	　	185	2469	2284"
+msgid "I never gave you a receipt for\\r\n"
+"your loan pay off, after all."
+msgstr ""
+
+msgctxt " 	　	　	124	2670	2546"
+msgid "Hey, Shinada! You even listening?"
+msgstr ""
+
+msgctxt " 	　	分	81	2765	2684"
+msgid "Hey! Hello, Shinada!?"
+msgstr ""
+
+msgctxt " 	　		79	2845	2766"
+msgid "Uh, did I lose you?"
+msgstr ""
+
+msgctxt " 	　	分	128	2989	2861"
+msgid "Shinada? Hey!\\r\n"
+"Can you hear me, Shinada!?"
+msgstr ""
+

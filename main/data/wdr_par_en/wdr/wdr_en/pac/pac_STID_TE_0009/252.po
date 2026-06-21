@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "188"
+msgid "定点_脅し02_拳突き上げ"
+msgstr ""
+
+msgctxt "192"
+msgid "E9540_look_kobushi"
+msgstr ""
+

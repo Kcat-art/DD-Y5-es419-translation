@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "108"
+msgid "What am I to do?"
+msgstr ""
+
+msgctxt "120"
+msgid "A snow festival angle?"
+msgstr ""
+
+msgctxt "1796"
+msgid "Idle"
+msgstr ""
+

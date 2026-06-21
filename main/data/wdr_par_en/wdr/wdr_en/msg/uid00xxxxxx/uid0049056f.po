@@ -1,0 +1,20 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "460"
+msgid "Eyewitness"
+msgstr ""
+
+msgctxt "464"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "72_Eyewitness"
+msgid "Hey, that guy walkin' toward the taxi stand... Was he\\r\n"
+"holdin' a knife?"
+msgstr ""
+
+msgctxt "84_Eyewitness"
+msgid "No, that can't be right. Musta been somethin' else."
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "320"
+msgid "Serious Woman"
+msgstr ""
+
+msgctxt "72_Serious Woman"
+msgid "We have to end this. It was never meant to work out. This long-distance romance is so hard."
+msgstr ""
+

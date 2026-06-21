@@ -1,0 +1,56 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	120	60"
+msgid "Cut the crap, jackoff!"
+msgstr ""
+
+msgctxt " 	　	　	102	352	250"
+msgid "Man, I hadn't even torn the seal\\r\n"
+"off those bad boys yet!"
+msgstr ""
+
+msgctxt " 	　	　	102	536	434"
+msgid "Keep jerkin' us around, n' that won't\\r\n"
+"be the only thing we're tearin' today!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	664	607"
+msgid "Now that you mention it."
+msgstr ""
+
+msgctxt " 	　	分	71	736	665"
+msgid "I think <Italic>I'm</Italic> the one getting jerked around."
+msgstr ""
+
+msgctxt " 	　	　	60	833	773"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt " 	　	　	136	970	834"
+msgid "You're after protection money, right?\\r\n"
+"Would it kill you to just say so?"
+msgstr ""
+
+msgctxt " 	　	　	82	1058	976"
+msgid "This is no way to negotiate."
+msgstr ""
+
+msgctxt " 	　	　	133	1197	1064"
+msgid "The whole \"wreck my office at the crack\\r\n"
+"of dawn\" routine's kinda pissing me off."
+msgstr ""
+
+msgctxt " 	　	　	106	1402	1296"
+msgid "You tryin' to pick a fight with us, pal?"
+msgstr ""
+
+msgctxt " 	　	　	135	1538	1403"
+msgid "Says the guy breaking my stuff.\\r\n"
+"Be glad to give you a workout, though."
+msgstr ""
+
+msgctxt " 	　	　	60	1652	1592"
+msgid "If ya say so, tough guy!"
+msgstr ""
+

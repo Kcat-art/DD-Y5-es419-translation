@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "116"
+msgid "Anyone feeling cold?"
+msgstr ""
+
+msgctxt "1632"
+msgid "M_NML_SET_stand_lookfor"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "572"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "576"
+msgid "Talk_Yes"
+msgstr ""
+

@@ -1,0 +1,16 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "360"
+msgid "Player"
+msgstr ""
+
+msgctxt "364"
+msgid "dummy"
+msgstr ""
+
+msgctxt "44_Player"
+msgid "(No matter where I go, it won't change the fact that I'm\\r\n"
+"broke. The batting center's the only option I have left.)"
+msgstr ""
+

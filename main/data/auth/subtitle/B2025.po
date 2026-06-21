@@ -1,0 +1,131 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	157	97"
+msgid "What was that?"
+msgstr ""
+
+msgctxt " 	　	分	60	222	162"
+msgid "Never seen ya swing that bad."
+msgstr ""
+
+msgctxt " 	　	　	98	335	237"
+msgid "Maybe if I wasn't stuffed full o' trash meat..."
+msgstr ""
+
+msgctxt " 	　	OK	195	562	367"
+msgid "Just messin'! These days, I'm strikin' out\\r\n"
+"on balls I used to crush into outer space."
+msgstr ""
+
+msgctxt " 	　	　	89	712	623"
+msgid "What, the other eye goin' bad, too?"
+msgstr ""
+
+msgctxt " 	　	　	92	869	777"
+msgid "Ya sure you can hold up, bro?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	51	943	892"
+msgid "Dunno what ya mean."
+msgstr ""
+
+msgctxt " 	　	　	66	1010	944"
+msgid "We ain't exactly gettin' younger."
+msgstr ""
+
+msgctxt " 	　	分	134	1153	1019"
+msgid "Sure it's just three years, but hard time'll\\r\n"
+"pulverize even the toughest of us."
+msgstr ""
+
+msgctxt " 	　	　	138	1326	1188"
+msgid "It ain't too late.\\r\n"
+"I can yank a few chains for ya."
+msgstr ""
+
+msgctxt " 	　	　	78	1412	1334"
+msgid "Get that prison shit outta the sentence."
+msgstr ""
+
+msgctxt " 	　	　	60	1527	1467"
+msgid "Fuck that."
+msgstr ""
+
+msgctxt " 	　	分	86	1623	1537"
+msgid "I already spent decades in the slammer."
+msgstr ""
+
+msgctxt " 	　	分	60	1706	1646"
+msgid "What's a few more years?"
+msgstr ""
+
+msgctxt " 	　	　	60	1832	1772"
+msgid "That your final answer?"
+msgstr ""
+
+msgctxt " 	　	　	60	1933	1873"
+msgid "Yeah."
+msgstr ""
+
+msgctxt " 	　	　	149	2711	2562"
+msgid "What's all this? Ya not gonna\\r\n"
+"fight me man-to-man?"
+msgstr ""
+
+msgctxt " 	　	　	100	2857	2757"
+msgid "Nah. My boys here'll handle ya."
+msgstr ""
+
+msgctxt " 	　	分	67	2937	2870"
+msgid "Stomach's eatin' me somethin' fierce."
+msgstr ""
+
+msgctxt " 	　	　	140	3120	2980"
+msgid "Still. I gotta know if you're\\r\n"
+"up for the big house."
+msgstr ""
+
+msgctxt " 	　	分	96	3231	3135"
+msgid "Wanna see it with my own eye."
+msgstr ""
+
+msgctxt " 	　	　	133	3556	3423"
+msgid "Bro. Sure ya won't regret not fightin'?"
+msgstr ""
+
+msgctxt " 	　	　	60	3655	3595"
+msgid "Why would I?"
+msgstr ""
+
+msgctxt " 	　	　	185	3895	3710"
+msgid "If we don't go at it now, we might\\r\n"
+"not get another chance."
+msgstr ""
+
+msgctxt " 	　	　	60	3998	3938"
+msgid "Ya good with that?"
+msgstr ""
+
+msgctxt " 	　	　	60	4086	4026"
+msgid "Sure am."
+msgstr ""
+
+msgctxt " 	　	　	60	4169	4109"
+msgid "All right then."
+msgstr ""
+
+msgctxt " 	　	　	132	4351	4219"
+msgid "Don't got much time.\\r\n"
+"Gonna have to settle this quick."
+msgstr ""
+
+msgctxt " 	　	　	60	4470	4410"
+msgid "You wanna see some strength?"
+msgstr ""
+
+msgctxt " 	　	　	143	4639	4496"
+msgid "Then hold that eye open...\\r\n"
+"and watch me!"
+msgstr ""
+

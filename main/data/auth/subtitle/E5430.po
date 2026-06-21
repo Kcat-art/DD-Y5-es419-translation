@@ -1,0 +1,108 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		63	560	497"
+msgid "Persistent, aren't you?"
+msgstr ""
+
+msgctxt " 	　	　	60	658	598"
+msgid "This ain't over."
+msgstr ""
+
+msgctxt " 	　	　	118	782	664"
+msgid "More of our guys'll be here any second."
+msgstr ""
+
+msgctxt " 	　	　	107	918	811"
+msgid "This town's fuckin' done."
+msgstr ""
+
+msgctxt " 	　	　	60	982	922"
+msgid "What?"
+msgstr ""
+
+msgctxt " 	　	　	71	1998	1927"
+msgid "Who the hell're they?"
+msgstr ""
+
+msgctxt " 	　	　	173	2590	2417"
+msgid "Far as Kurosawa's boys're concerned...\\r\n"
+"Consider 'em all mopped up."
+msgstr ""
+
+msgctxt " 	　	　	60	2781	2721"
+msgid "What the hell!?"
+msgstr ""
+
+msgctxt " 	　	　	99	2898	2799"
+msgid "While y'all were off dreamin'\\r\n"
+"of buildin' your little empire..."
+msgstr ""
+
+msgctxt " 	　	　	164	3070	2906"
+msgid "We were workin' on big dreams of our own."
+msgstr ""
+
+msgctxt " 	　	　	144	3312	3168"
+msgid "The Yamagasa Family, the Kitakata Family,\\r\n"
+"the Tojo Clan, and the Omi Alliance..."
+msgstr ""
+
+msgctxt " 	　	　	172	3493	3321"
+msgid "We all clashed with Dojima,\\r\n"
+"Majima, and Kiryu-han."
+msgstr ""
+
+msgctxt " 	　	分	76	3578	3502"
+msgid "And now it's the bond that links us."
+msgstr ""
+
+msgctxt " 	　	　	89	3790	3701"
+msgid "Your little schemes die here."
+msgstr ""
+
+msgctxt " 	　	分	157	3958	3801"
+msgid "You're on the shit list of every\\r\n"
+"yakuza in the goddamn country!"
+msgstr ""
+
+msgctxt " 	　	　	156	5175	5019"
+msgid "The Omi Alliance has never\\r\n"
+"bowed its head to anyone."
+msgstr ""
+
+msgctxt " 	　	　	78	5347	5269"
+msgid "That's what makes us the strongest."
+msgstr ""
+
+msgctxt " 	　	　	119	5533	5414"
+msgid "But today, I'm makin' a special exception!"
+msgstr ""
+
+msgctxt " 	　	　	104	5765	5661"
+msgid "Akiyama-han! We're in your debt!"
+msgstr ""
+
+msgctxt " 	　	　	147	6562	6415"
+msgid "So, how's it feel to be the only\\r\n"
+"lender to stand above the yakuza?"
+msgstr ""
+
+msgctxt " 	　	　	93	6673	6580"
+msgid "Well, I've had better days."
+msgstr ""
+
+msgctxt " 	　	　	122	6930	6808"
+msgid "What you just pulled off...\\r\n"
+"There aren't many who could do that."
+msgstr ""
+
+msgctxt " 	　	　	114	7558	7444"
+msgid "Now all that's left is to see\\r\n"
+"how Kiryu-san wraps this up."
+msgstr ""
+
+msgctxt " 	　	分	60	7646	7586"
+msgid "Then we can call it day."
+msgstr ""
+

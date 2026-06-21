@@ -1,0 +1,16 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "348"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "352"
+msgid "dummy"
+msgstr ""
+
+msgctxt "44_Akiyama"
+msgid "(Let's see. Horie-chan said the new girl should be in the\\r\n"
+"studio upstairs, didn't he?)"
+msgstr ""
+

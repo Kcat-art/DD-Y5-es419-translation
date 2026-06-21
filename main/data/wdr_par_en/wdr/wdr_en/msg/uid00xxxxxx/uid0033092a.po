@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "396"
+msgid "Exchanger"
+msgstr ""
+
+msgctxt "44_Exchanger"
+msgid "You can trade in your tags for prizes here. Anything catch your eye?"
+msgstr ""
+
+msgctxt "68_Exchanger"
+msgid "Sure. Drop by when you rake in some tags."
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "344"
+msgid "P_SAE_TLK_stand_udekumi_st"
+msgstr ""
+
+msgctxt "348"
+msgid "P_TLK_stand_kosite_st"
+msgstr ""
+

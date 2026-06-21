@@ -1,0 +1,63 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "596	NAME"
+msgid "Essence of Door Slamming"
+msgstr ""
+
+msgctxt "621	NAME"
+msgid "Essence of Snowman"
+msgstr ""
+
+msgctxt "640	NAME"
+msgid "Rainbow Prism Star"
+msgstr ""
+
+msgctxt "659	NAME"
+msgid "Double Juggle"
+msgstr ""
+
+msgctxt "673	NAME"
+msgid "Essence of Furious Thrusts"
+msgstr ""
+
+msgctxt "1035	TITLE"
+msgid "What a revelation!"
+msgstr ""
+
+msgctxt "1054	TITLE"
+msgid "Pushin' it too hard"
+msgstr ""
+
+msgctxt "1074	TITLE"
+msgid "Sotenbori Madonna"
+msgstr ""
+
+msgctxt "1092	TITLE"
+msgid "A poor imitation"
+msgstr ""
+
+msgctxt "1109	TITLE"
+msgid "A major contender!"
+msgstr ""
+
+msgctxt "1128	TEXT"
+msgid "Taken at a taxi stand in Nagasugai. This shot shows a taxi driver helping out a girl being chased by a stalker. The driver looked like an odd character, but he sure saved the day."
+msgstr ""
+
+msgctxt "1308	TEXT"
+msgid "Street performers gotta have all kinds of acts, like breathing fire and throwing knives. How'd this guy get invited to the snow festival anyway? He's gotta go train or come up with ideas or something like that."
+msgstr ""
+
+msgctxt "1519	TEXT"
+msgid "Here's Ulala-san showing off an amazing move. She was saying she's from a town near Sotenbori. It's pretty impressive how she can pull off something that dramatic."
+msgstr ""
+
+msgctxt "1683	TEXT"
+msgid "These guys got their just desserts for using dirty tricks against a rival. Business needs to be fair. Restaurants should compete on flavor alone. I feel sorry for the staff forced to follow orders like that, though."
+msgstr ""
+
+msgctxt "1899	TEXT"
+msgid "I gave him some tips on batting, but I couldn't believe my eyes when I saw this happen! If he can hit a home run like this, maybe he can go pro! Oh, but I guess curveballs are going to be a problem."
+msgstr ""
+

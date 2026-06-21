@@ -1,0 +1,334 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "449	377	313	241	 	 		72	449	377"
+msgid "Shinada! Hey, Shinada!"
+msgstr ""
+
+msgctxt "525	455	389	319	 	　	分	70	525	455"
+msgid "I know you're in there!"
+msgstr ""
+
+msgctxt "591	532	455	396	60ｆ以下です	　	　	59	591	532"
+msgid "Open up, you dummy!"
+msgstr ""
+
+msgctxt "720	592	584	456	 	　	　	128	720	592"
+msgid "Now! Head off the pillow,\\r\n"
+"hand on the doorknob!"
+msgstr ""
+
+msgctxt "893	758	757	622	 	　	　	135	893	758"
+msgid "Shinada! Did you forget your\\r\n"
+"promise to pay me back!?"
+msgstr ""
+
+msgctxt "1004	896	868	760	 	　	　	108	1004	896"
+msgid "Hurry up and open the dang door!"
+msgstr ""
+
+msgctxt "1445	1410	1309	1274	60ｆ以下です	　	　	35	1445	1410"
+msgid "I heard that!"
+msgstr ""
+
+msgctxt "1540	1446	1404	1310	 	　	　	94	1540	1446"
+msgid "Just hang on a sec, Uno-san."
+msgstr ""
+
+msgctxt "1668	1575	1532	1439	 	　	　	93	1668	1575"
+msgid "So you <Italic>are</Italic> home!\\r\n"
+"Let me in this instant!"
+msgstr ""
+
+msgctxt "1824	1678	1688	1542	 	　	　	146	1824	1678"
+msgid "Don't burst a blood vessel out there.\\r\n"
+"Is this any way to treat a friend?"
+msgstr ""
+
+msgctxt "1900	1835	1764	1699	 	　	　	65	1900	1835"
+msgid "Friend, my ass!"
+msgstr ""
+
+msgctxt "2017	1907	1881	1771	 	　	　	110	2017	1907"
+msgid "I can't wait to get you outta my life!"
+msgstr ""
+
+msgctxt "2081	2018	1945	1882	 	　	　	63	2081	2018"
+msgid "After I get my thirty grand, that is!"
+msgstr ""
+
+msgctxt "2236	2099	2100	1963	 	　	　	137	2236	2099"
+msgid "But, Uno-san, I still want <Italic>you</Italic> in my life."
+msgstr ""
+
+msgctxt "2324	2255	2188	2119	 	　	　	69	2324	2255"
+msgid "What kinda nonsense you talking about!?"
+msgstr ""
+
+msgctxt "2446	2336	2310	2200	 	　	　	110	2446	2336"
+msgid "They say relationships die\\r\n"
+"the moment the money runs out."
+msgstr ""
+
+msgctxt "2585	2460	2449	2324	 	　	分	125	2585	2460"
+msgid "That's why I'm holding out.\\r\n"
+"I'm just being a good friend."
+msgstr ""
+
+msgctxt "2710	2590	2574	2454	 	　	　	120	2710	2590"
+msgid "You always make up some kind of bullcrap\\r\n"
+"to weasel your way out of trouble!"
+msgstr ""
+
+msgctxt "2808	2711	2672	2575	 	　	　	97	2808	2711"
+msgid "And today I'm not having it!"
+msgstr ""
+
+msgctxt "2929	2809	2793	2673	 	　	分	120	2929	2809"
+msgid "Now get up, open up, and pay up!"
+msgstr ""
+
+msgctxt "3084	3027	2948	2891	60ｆ以下です	　	　	57	3084	3027"
+msgid "You a collector too?"
+msgstr ""
+
+msgctxt "3175	3085	3039	2949	 	　	　	90	3175	3085"
+msgid "You gonna be long?\\r\n"
+"I can come back later."
+msgstr ""
+
+msgctxt "3251	3191	3115	3055	 	　	　	60	3251	3191"
+msgid "Oh, no, uh..."
+msgstr ""
+
+msgctxt "3385	3325	3249	3189	 	　	　	60	3385	3325"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "3451	3390	3315	3254	 	　	分	61	3451	3390"
+msgid "You want me to help?"
+msgstr ""
+
+msgctxt "3549	3468	3413	3332	 	　	　	81	3549	3468"
+msgid "No, it's okay. I was just about to leave."
+msgstr ""
+
+msgctxt "3643	3570	3507	3434	 	　	　	73	3643	3570"
+msgid "Shinada, you better open up."
+msgstr ""
+
+msgctxt "3711	3651	3575	3515	 	　	分	60	3711	3651"
+msgid "The real thing's here."
+msgstr ""
+
+msgctxt "3711	3651	3575	3515	 	　	分	40	3760	3720"
+msgid "Wakey wakey, Shinada."
+msgstr ""
+
+msgctxt "4032	3986	3896	3850	60ｆ以下です	　	　	46	4032	3986"
+msgid "Takasugi-san!"
+msgstr ""
+
+msgctxt "4158	4033	4022	3897	 	　	　	125	4158	4033"
+msgid "Ran into your landlord earlier.\\r\n"
+"Pretty reasonable guy."
+msgstr ""
+
+msgctxt "4298	4159	4162	4023	 	　	　	139	4298	4159"
+msgid "When I offered to help get him his rent,\\r\n"
+"he was happy to hand over the keys."
+msgstr ""
+
+msgctxt "4436	4299	4300	4163	 	　	　	137	4436	4299"
+msgid "Oh, gee, he didn't have to do that.\\r\n"
+"I was gonna deposit it today."
+msgstr ""
+
+msgctxt "4592	4526	4456	4390	 	　	　	66	4592	4526"
+msgid "<Italic>And</Italic> you're borrowing\\r\n"
+"from that guy at the door?"
+msgstr ""
+
+msgctxt "4717	4607	4581	4471	 	　	　	110	4717	4607"
+msgid "Come on, I thought you knew\\r\n"
+"not to mooch off other civilians."
+msgstr ""
+
+msgctxt "4784	4724	4648	4588	 	　	分	60	4784	4724"
+msgid "That's how you lose friends."
+msgstr ""
+
+msgctxt "4926	4816	4790	4680	 	　	　	110	4926	4816"
+msgid "So true. Wise as always, Takasugi-san.\\r\n"
+"A modern-day sage."
+msgstr ""
+
+msgctxt "5057	4956	4921	4820	 	　	　	101	5057	4956"
+msgid "But you know what's really dumb?"
+msgstr ""
+
+msgctxt "5199	5075	5063	4939	 	　	　	124	5199	5075"
+msgid "Borrowing from a pro and\\r\n"
+"not paying back, Shinada!"
+msgstr ""
+
+msgctxt "5362	5275	5226	5139	 	　	　	87	5362	5275"
+msgid "Did you forget what today is?"
+msgstr ""
+
+msgctxt "5465	5366	5329	5230	 	　	　	99	5465	5366"
+msgid "Of course not! I remember!\\r\n"
+"I have to pay the interest today!"
+msgstr ""
+
+msgctxt "5548	5488	5412	5352	 	　	　	60	5548	5488"
+msgid "You betcha."
+msgstr ""
+
+msgctxt "5991	5878	5855	5742	 	　	　	113	5991	5878"
+msgid "My youngest's got more cash than that."
+msgstr ""
+
+msgctxt "6059	5999	5923	5863	 	　	　	60	6059	5999"
+msgid "And he's in third grade."
+msgstr ""
+
+msgctxt "6158	6098	6022	5962	 	　	　	60	6158	6098"
+msgid "Well, this is embarrassing."
+msgstr ""
+
+msgctxt "6497	6376	6361	6240	 	　	　	121	6497	6376"
+msgid "Shinada. Instead of wasting away\\r\n"
+"writing smut for a living..."
+msgstr ""
+
+msgctxt "6590	6502	6454	6366	 	　	分	88	6590	6502"
+msgid "Why don't I get you a real job?"
+msgstr ""
+
+msgctxt "6730	6596	6594	6460	 	　	　	134	6730	6596"
+msgid "You're not gonna sell me off\\r\n"
+"to a tuna boat or something, are you?"
+msgstr ""
+
+msgctxt "6916	6749	6780	6613	 	　	　	167	6916	6749"
+msgid "I got a small sheet metal shop as\\r\n"
+"collateral. They're short on staff."
+msgstr ""
+
+msgctxt "7014	6917	6878	6781	 	　	　	97	7014	6917"
+msgid "Oh yeah? And they pay good?"
+msgstr ""
+
+msgctxt "7014	6917	6878	6781	 	　	　	17	7039	7022"
+msgid "Yup."
+msgstr ""
+
+msgctxt "7201	7064	7065	6928	 	　	　	137	7201	7064"
+msgid "All you've gotta do is run some\\r\n"
+"sheet metal across a nice, big press."
+msgstr ""
+
+msgctxt "7270	7210	7134	7074	 	　	　	60	7270	7210"
+msgid "Sounds easy."
+msgstr ""
+
+msgctxt "7362	7289	7226	7153	 	　	　	73	7362	7289"
+msgid "First, you get on their payroll."
+msgstr ""
+
+msgctxt "7464	7373	7328	7237	 	　	分	91	7464	7373"
+msgid "After that, it's smooth sailing."
+msgstr ""
+
+msgctxt "7594	7480	7458	7344	 	　	　	114	7594	7480"
+msgid "Just shove your fingers in the press\\r\n"
+"and kiss them goodbye."
+msgstr ""
+
+msgctxt "7658	7600	7522	7464	60ｆ以下です	　	　	58	7658	7600"
+msgid "I get you, I get you."
+msgstr ""
+
+msgctxt "7698	7659	7562	7523	60ｆ以下です	　	　	39	7698	7659"
+msgid "Wait, what!?"
+msgstr ""
+
+msgctxt "7886	7699	7750	7563	 	　	　	187	7886	7699"
+msgid "Worker's comp'll cover the whole thing.\\r\n"
+"Insurance'll pay around 300 grand a finger."
+msgstr ""
+
+msgctxt "8031	7887	7895	7751	 	　	　	144	8031	7887"
+msgid "You only need to lose one, two, three..."
+msgstr ""
+
+msgctxt "8228	8132	8092	7996	 	　	　	96	8228	8132"
+msgid "And you'll still have enough to\\r\n"
+"pick your nose when it's all said and done."
+msgstr ""
+
+msgctxt "8326	8236	8190	8100	 	　	　	90	8326	8236"
+msgid "Whoa, okay, look⑬ I'm grateful\\r\n"
+"for the offer, but..."
+msgstr ""
+
+msgctxt "8470	8327	8334	8191	 	　	　	143	8470	8327"
+msgid "Here, look at this. I got an interview tonight.\\r\n"
+"Why don't I write up a story, get my fee..."
+msgstr ""
+
+msgctxt "8565	8471	8429	8335	 	　	　	94	8565	8471"
+msgid "And hustle that right over to you, Takasugi-san!"
+msgstr ""
+
+msgctxt "8652	8579	8516	8443	 	　	　	73	8652	8579"
+msgid "Well. That's more like it."
+msgstr ""
+
+msgctxt "8825	8664	8689	8528	 	　	　	161	8825	8664"
+msgid "Don't worry. Even I know it's stupid\\r\n"
+"not to pay off my interest."
+msgstr ""
+
+msgctxt "8901	8841	8765	8705	 	　	　	60	8901	8841"
+msgid "Then tell me."
+msgstr ""
+
+msgctxt "9003	8910	8867	8774	 	　	　	93	9003	8910"
+msgid "What are you doing lounging around in bed!?"
+msgstr ""
+
+msgctxt "9318	9258	9182	9122	 	　	　	60	9318	9258"
+msgid "Shinada."
+msgstr ""
+
+msgctxt "9442	9348	9306	9212	 	　	　	94	9442	9348"
+msgid "Don't forget you're dealing with a pro here."
+msgstr ""
+
+msgctxt "9513	9452	9377	9316	 	　	分	61	9513	9452"
+msgid "Consequences could be dire."
+msgstr ""
+
+msgctxt "9591	9527	9455	9391	 	　	　	64	9591	9527"
+msgid "Dire how, exactly?"
+msgstr ""
+
+msgctxt "9760	9598	9624	9462	 	　	　	162	9760	9598"
+msgid "If I felt like it, I could always see\\r\n"
+"what the Nagoya Family thinks about this."
+msgstr ""
+
+msgctxt "9856	9763	9720	9627	 	　	　	93	9856	9763"
+msgid "Oh, Takasugi-san, you and your dark humor."
+msgstr ""
+
+msgctxt "9955	9869	9819	9733	 	　	　	86	9955	9869"
+msgid "If you want this to stay a joke..."
+msgstr ""
+
+msgctxt "10059	9977	9923	9841	 	　	　	82	10059	9977"
+msgid "Then get your ass to work!"
+msgstr ""
+

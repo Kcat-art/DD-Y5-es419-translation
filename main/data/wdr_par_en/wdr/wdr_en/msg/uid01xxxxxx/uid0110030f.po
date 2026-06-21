@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "308"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "60_Haruka"
+msgid "It'll be... even!"
+msgstr ""
+
+msgctxt "72_Haruka"
+msgid "It'll be... odd!"
+msgstr ""
+

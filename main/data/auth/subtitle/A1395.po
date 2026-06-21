@@ -1,0 +1,110 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		118	415	297"
+msgid "Before you go. They found a body on\\r\n"
+"Mount Inuboe this morning."
+msgstr ""
+
+msgctxt " 	　	　	123	643	520"
+msgid "The face was pretty jacked up,\\r\n"
+"so they haven't confirmed an ID yet."
+msgstr ""
+
+msgctxt " 	　	　	116	775	659"
+msgid "But there was a Tojo pin on the lapel."
+msgstr ""
+
+msgctxt " 	　	　	111	1015	904"
+msgid "Ya sure you can stay outta this?"
+msgstr ""
+
+msgctxt " 	　	　	166	1360	1194"
+msgid "Crucial time for a crucial guy\\r\n"
+"like Daigo Dojima to be missin'."
+msgstr ""
+
+msgctxt " 	　	　	153	1558	1405"
+msgid "You may be the only one who\\r\n"
+"can sail the Tojo through this storm."
+msgstr ""
+
+msgctxt " 	　	　	84	1997	1913"
+msgid "If you need to go somewhere,\\r\n"
+"I'd be glad to give you a lift."
+msgstr ""
+
+msgctxt " 	　	　	123	2207	2084"
+msgid "But those are the only directions\\r\n"
+"I'll be taking from you."
+msgstr ""
+
+msgctxt " 	　	　	115	2380	2265"
+msgid "The path I walk... is mine to decide."
+msgstr ""
+
+msgctxt " 	　	　	84	2657	2573"
+msgid "I get ya. Have it your way."
+msgstr ""
+
+msgctxt " 	　	　	113	2810	2697"
+msgid "But you may wanna flip to\\r\n"
+"the news before ya decide."
+msgstr ""
+
+msgctxt " 	　	　	159	3068	2909"
+msgid "I think you and I are gonna be\\r\n"
+"gettin' to know each other real good soon."
+msgstr ""
+
+msgctxt " 	　	　	60	3151	3091"
+msgid "Later."
+msgstr ""
+
+msgctxt " 	　	　	171	3596	3425"
+msgid "Again, our top story today is the Sapporo\\r\n"
+"shooting incident early yesterday morning."
+msgstr ""
+
+msgctxt " 	　	　	78	3689	3611"
+msgid "Hokkaido Police have determined..."
+msgstr ""
+
+msgctxt " 	　	分	147	3837	3690"
+msgid "The victim was a senior member of Kanto's\\r\n"
+"organized crime syndicate, the Tojo Clan."
+msgstr ""
+
+msgctxt " 	　	　	64	3910	3846"
+msgid "He's been identified as Goro Majima."
+msgstr ""
+
+msgctxt " 	　	分	79	4013	3934"
+msgid "Details were released at\\r\n"
+"an impromptu press conference."
+msgstr ""
+
+msgctxt " 	　	　	128	4159	4031"
+msgid "Given the victim's status as a member\\r\n"
+"of the largest crime syndicate in Kanto..."
+msgstr ""
+
+msgctxt " 	　	　	116	4276	4160"
+msgid "Hokkaido Police are taking extra precautions to\\r\n"
+"determine the circumstances of Goro Majima's death."
+msgstr ""
+
+msgctxt " 	　	　	163	4442	4279"
+msgid "They also plan to work alongside the Tokyo\\r\n"
+"Metropolitan police in the investigation."
+msgstr ""
+
+msgctxt " 	　	　	60	4524	4464"
+msgid "We go now to the weather."
+msgstr ""
+
+msgctxt " 	　	　	144	4682	4538"
+msgid "Here's our meteorologist, Hayashida-san.\\r\n"
+"Hayashida-san?"
+msgstr ""
+

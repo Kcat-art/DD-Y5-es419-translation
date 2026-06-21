@@ -1,0 +1,132 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	288	228"
+msgid "I've been waiting."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	56	493	437"
+msgid "Fourth Chairman."
+msgstr ""
+
+msgctxt " 	　	　	99	593	494"
+msgid "It's you... Aizawa."
+msgstr ""
+
+msgctxt " 	　	　	60	783	723"
+msgid "What are you doing here?"
+msgstr ""
+
+msgctxt " 	　	　	60	906	846"
+msgid "To be honest..."
+msgstr ""
+
+msgctxt " 	　	分	78	997	919"
+msgid "I'm not really sure myself."
+msgstr ""
+
+msgctxt " 	　	　	60	1134	1074"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt " 	　	OK	212	1379	1167"
+msgid "Wasn't long ago that I was playing at chairman's\\r\n"
+"bodyguard, but I was just a dumb punk."
+msgstr ""
+
+msgctxt " 	　	　	137	1567	1430"
+msgid "Yet now, here I sit."
+msgstr ""
+
+msgctxt " 	　	　	60	1732	1672"
+msgid "That's Daigo's chair."
+msgstr ""
+
+msgctxt " 	　	　	78	1848	1770"
+msgid "You've got no business sitting there."
+msgstr ""
+
+msgctxt " 	　	　	65	1965	1900"
+msgid "You really think so?"
+msgstr ""
+
+msgctxt " 	　	　	99	2115	2016"
+msgid "If I don't have the right to sit here..."
+msgstr ""
+
+msgctxt " 	　	分	89	2229	2140"
+msgid "Chairman Dojima doesn't either."
+msgstr ""
+
+msgctxt " 	　	　	60	2330	2270"
+msgid "How do you figure?"
+msgstr ""
+
+msgctxt " 	　	　	121	2551	2430"
+msgid "Fourth Chairman... Come on."
+msgstr ""
+
+msgctxt " 	　	OK	224	2790	2566"
+msgid "You truly believe Daigo Dojima is the\\r\n"
+"right man to lead a force of 30,000 men?"
+msgstr ""
+
+msgctxt " 	　	　	60	2955	2895"
+msgid "You have a point here?"
+msgstr ""
+
+msgctxt " 	　		106	3110	3004"
+msgid "Chairman Dojima had a lot of\\r\n"
+"help is what I'm saying."
+msgstr ""
+
+msgctxt " 	　	分	107	3230	3123"
+msgid "Born the son of Patriarch Dojima..."
+msgstr ""
+
+msgctxt " 	　	　	102	3347	3245"
+msgid "Given the full support of you,\\r\n"
+"the fourth chairman..."
+msgstr ""
+
+msgctxt " 	　	　	164	3555	3391"
+msgid "And if the Tojo Clan hadn't fractured\\r\n"
+"after Fifth Chairman Terada's betrayal..."
+msgstr ""
+
+msgctxt " 	　	　	97	3667	3570"
+msgid "He never woulda made it to the top."
+msgstr ""
+
+msgctxt " 	　	　	106	3886	3780"
+msgid "Hell, if you think about it..."
+msgstr ""
+
+msgctxt " 	　	分	133	4020	3887"
+msgid "We yakuza have always put way\\r\n"
+"too much value on a guy's status."
+msgstr ""
+
+msgctxt " 	　	　	166	4223	4057"
+msgid "Even with all the money and power in the world,\\r\n"
+"you still need connections to climb the ranks."
+msgstr ""
+
+msgctxt " 	　	　	132	4398	4266"
+msgid "That's why we still go around doing\\r\n"
+"outdated shit like swearing oaths."
+msgstr ""
+
+msgctxt " 	　	　	154	4762	4608"
+msgid "You and Kurosawa...\\r\n"
+"How exactly are you connected?"
+msgstr ""
+
+msgctxt " 	　	　	75	5113	5038"
+msgid "Me and Chairman Kurosawa?"
+msgstr ""
+
+msgctxt " 	　	　	63	5204	5141"
+msgid "Simple. I'm his son."
+msgstr ""
+

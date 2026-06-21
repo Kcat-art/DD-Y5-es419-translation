@@ -1,0 +1,323 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "473	MISSION"
+msgid "Get Marten Pelts"
+msgstr ""
+
+msgctxt "490	MISSION"
+msgid "Supply the Trader"
+msgstr ""
+
+msgctxt "508	MISSION"
+msgid "Pray to Jizo Statues"
+msgstr ""
+
+msgctxt "529	MISSION"
+msgid "Get Bear Meat"
+msgstr ""
+
+msgctxt "543	MISSION"
+msgid "Find the Time Capsule"
+msgstr ""
+
+msgctxt "565	MISSION"
+msgid "The Outsider"
+msgstr ""
+
+msgctxt "578	MISSION"
+msgid "Get Rabbit Meat"
+msgstr ""
+
+msgctxt "594	MISSION"
+msgid "Get an Antler"
+msgstr ""
+
+msgctxt "608	MISSION"
+msgid "Hunt a Gold Stag"
+msgstr ""
+
+msgctxt "625	MISSION"
+msgid "Get Toxic Shrooms"
+msgstr ""
+
+msgctxt "643	MISSION"
+msgid "Hunter Test"
+msgstr ""
+
+msgctxt "655	MISSION"
+msgid "Chase the Snowman"
+msgstr ""
+
+msgctxt "673	MISSION"
+msgid "Get Some Bear Fat"
+msgstr ""
+
+msgctxt "691	MISSION"
+msgid "Trapper's Pride"
+msgstr ""
+
+msgctxt "707	MISSION"
+msgid "Get a Bear Skin"
+msgstr ""
+
+msgctxt "723	MISSION"
+msgid "Sell a Marten Pelt"
+msgstr ""
+
+msgctxt "742	MISSION"
+msgid "Sell a Fox Skin"
+msgstr ""
+
+msgctxt "758	MISSION"
+msgid "Sell Deer Meat"
+msgstr ""
+
+msgctxt "773	MISSION"
+msgid "Sell a Whole Deer"
+msgstr ""
+
+msgctxt "791	MISSION"
+msgid "Sell a Whole Bear"
+msgstr ""
+
+msgctxt "809	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "822	RESULT"
+msgid "s left"
+msgstr ""
+
+msgctxt "830	RESULT"
+msgid "d/%d"
+msgstr ""
+
+msgctxt "835	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "847	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "859	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "871	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "883	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "895	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "907	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "919	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "931	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "943	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "955	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "967	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "979	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "991	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "1003	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "1015	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "1027	RESULT"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "1039	EXPLANATION"
+msgid "I need to get three marten pelts and give them to the guy in the village."
+msgstr ""
+
+msgctxt "1113	EXPLANATION"
+msgid "The village's trader needs a million yen worth of business from what I hunt and trap."
+msgstr ""
+
+msgctxt "1199	EXPLANATION"
+msgid "There are twelve Jizo statues on the mountain. I oughta pray to them."
+msgstr ""
+
+msgctxt "1269	EXPLANATION"
+msgid "I should get bear meat and bring it to Kihachi-han."
+msgstr ""
+
+msgctxt "1321	EXPLANATION"
+msgid "Let's find that time capsule buried at the Ghost Pine for that grievin' guy."
+msgstr ""
+
+msgctxt "1398	EXPLANATION"
+msgid "A guy and his old mother went to the mountain. I should check on them."
+msgstr ""
+
+msgctxt "1469	EXPLANATION"
+msgid "A woman wants some rabbit meat for her mother-in-law's meal. I oughta help her out."
+msgstr ""
+
+msgctxt "1553	EXPLANATION"
+msgid "Let's find an antler for that guy with performance issues. Gotta help a brother out."
+msgstr ""
+
+msgctxt "1638	EXPLANATION"
+msgid "This guy in the village wants me to hunt a gold stag. This better not be a wild goose chase."
+msgstr ""
+
+msgctxt "1731	EXPLANATION"
+msgid "Gotta collect three toxic mushrooms for that fella from Tsukimino."
+msgstr ""
+
+msgctxt "1798	EXPLANATION"
+msgid "Let's get Okudera-han to check my shootin'."
+msgstr ""
+
+msgctxt "1842	EXPLANATION"
+msgid "There's a rumor of a wild snowman. How's a snowman runnin' around on its own?"
+msgstr ""
+
+msgctxt "1920	EXPLANATION"
+msgid "Let's find some bear fat for the woman in the village who has skin trouble."
+msgstr ""
+
+msgctxt "1996	EXPLANATION"
+msgid "A trapper went up the mountain. I should stop and say hi."
+msgstr ""
+
+msgctxt "2054	EXPLANATION"
+msgid "Gotta find a bear skin for that guy who ruined a yakuza's bear skin rug."
+msgstr ""
+
+msgctxt "2127	EXPLANATION"
+msgid "The trader said he'd pay double for a marten pelt. If I get one, it's his."
+msgstr ""
+
+msgctxt "2202	EXPLANATION"
+msgid "The trader said he'd pay double for a fox skin. If I get one, it's his."
+msgstr ""
+
+msgctxt "2274	EXPLANATION"
+msgid "The trader said he'd pay double for deer meat. If I get some, it's his."
+msgstr ""
+
+msgctxt "2346	EXPLANATION"
+msgid "The trader said he'd pay double for a whole deer. If I get one, it's his."
+msgstr ""
+
+msgctxt "2420	EXPLANATION"
+msgid "The trader said he'd pay double for a whole bear. If I get one, it's his."
+msgstr ""
+
+msgctxt "2494	EXPLANATION_END"
+msgid "Got the three marten pelts to the guy in the village. Glad to see him happy."
+msgstr ""
+
+msgctxt "2571	EXPLANATION_END"
+msgid "Finally sold the village's trader a million yen worth of what I hunted and trapped."
+msgstr ""
+
+msgctxt "2655	EXPLANATION_END"
+msgid "I visited all twelve Jizo statues on the mountain. Hope some good comes of it."
+msgstr ""
+
+msgctxt "2734	EXPLANATION_END"
+msgid "Got bear meat for Kihachi-han. Feels good to be appreciated."
+msgstr ""
+
+msgctxt "2795	EXPLANATION_END"
+msgid "Found the time capsule buried at the Ghost Pine. Ya gotta cherish your parents."
+msgstr ""
+
+msgctxt "2875	EXPLANATION_END"
+msgid "Rescued the guy and his old mother from the mountain. Ya gotta respect the wild."
+msgstr ""
+
+msgctxt "2956	EXPLANATION_END"
+msgid "Got some rabbit meat for that woman. They're an interesting family."
+msgstr ""
+
+msgctxt "3024	EXPLANATION_END"
+msgid "Found an antler for that deflated guy. Maybe it's worth a try."
+msgstr ""
+
+msgctxt "3087	EXPLANATION_END"
+msgid "Found a gold stag for the guy. Guess the legend was true."
+msgstr ""
+
+msgctxt "3145	EXPLANATION_END"
+msgid "I got the three toxic mushrooms for that guy from Tsukimino. Medicine's an odd thing."
+msgstr ""
+
+msgctxt "3231	EXPLANATION_END"
+msgid "Looks like I passed Okudera-han's test. Gotta keep learnin', though."
+msgstr ""
+
+msgctxt "3300	EXPLANATION_END"
+msgid "Turns out there was no wild snowman. It's fun to dream, I guess."
+msgstr ""
+
+msgctxt "3365	EXPLANATION_END"
+msgid "Got the bear fat to the woman with bad skin. Marriage, huh?"
+msgstr ""
+
+msgctxt "3425	EXPLANATION_END"
+msgid "Rescued the trapper from his own trap. Can never be too careful, I guess."
+msgstr ""
+
+msgctxt "3499	EXPLANATION_END"
+msgid "Found a bear skin for that ramen guy. That order sounded like a magic spell."
+msgstr ""
+
+msgctxt "3576	EXPLANATION_END"
+msgid "Sold a marten pelt to the trader."
+msgstr ""
+
+msgctxt "3610	EXPLANATION_END"
+msgid "Sold a fox skin to the trader."
+msgstr ""
+
+msgctxt "3641	EXPLANATION_END"
+msgid "Sold deer meat to the trader."
+msgstr ""
+
+msgctxt "3671	EXPLANATION_END"
+msgid "Sold a whole deer to the trader."
+msgstr ""
+
+msgctxt "3704	EXPLANATION_END"
+msgid "Sold a whole bear to the trader. Normal folks should steer clear of yakuza."
+msgstr ""
+

@@ -1,0 +1,124 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		117	531	414"
+msgid "Quit it with the fidgeting!\\r\n"
+"You're gonna drive me mad."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	51	619	568"
+msgid "Sorry."
+msgstr ""
+
+msgctxt " 	　	　	82	702	620"
+msgid "You're worried about Saejima, huh?"
+msgstr ""
+
+msgctxt " 	　	　	160	903	743"
+msgid "I get what you're going through.\\r\n"
+"But we can't do much but sit on our asses."
+msgstr ""
+
+msgctxt " 	　	　	130	1048	918"
+msgid "Besides, a trip to solitary's\\r\n"
+"usually worth at least three days."
+msgstr ""
+
+msgctxt " 	　	分	70	1120	1050"
+msgid "We're just gonna have to wait it out."
+msgstr ""
+
+msgctxt " 	　	　	71	1210	1139"
+msgid "I know that."
+msgstr ""
+
+msgctxt " 	　	分	98	1331	1233"
+msgid "Still... I can't help but worry."
+msgstr ""
+
+msgctxt " 	　	　	60	1483	1423"
+msgid "That reminds me."
+msgstr ""
+
+msgctxt " 	　	分	146	1634	1488"
+msgid "You ever get to have that chat with Saejima-san?"
+msgstr ""
+
+msgctxt " 	　	　	72	1741	1669"
+msgid "Yeah... I did."
+msgstr ""
+
+msgctxt " 	　	　	174	1942	1768"
+msgid "The heck was it for, anyway? You kept going on\\r\n"
+"about him being the only one you could talk to."
+msgstr ""
+
+msgctxt " 	　	　	76	2034	1958"
+msgid "You don't trust us with your dirty laundry?"
+msgstr ""
+
+msgctxt " 	　	　	84	2140	2056"
+msgid "Well, it was..."
+msgstr ""
+
+msgctxt " 	　	　	68	2223	2155"
+msgid "C'mon. Spill it."
+msgstr ""
+
+msgctxt " 	　	　	60	2294	2234"
+msgid "He's scared of the outside."
+msgstr ""
+
+msgctxt " 	　	　	153	2500	2347"
+msgid "A yakuza fresh off a decade in prison...\\r\n"
+"Can't imagine the storm waiting for him."
+msgstr ""
+
+msgctxt " 	　	　	66	2596	2530"
+msgid "What, that's it?"
+msgstr ""
+
+msgctxt " 	　	　	98	2759	2661"
+msgid "Nearly forgot, you're just about up for parole."
+msgstr ""
+
+msgctxt " 	　	OK	197	2999	2802"
+msgid "I envy you, man. You gotta be pinching\\r\n"
+"yourself at the thought of busting out of here."
+msgstr ""
+
+msgctxt " 	　	OK	195	3249	3054"
+msgid "Well... I'm not sure I'd go that far."
+msgstr ""
+
+msgctxt " 	　	OK	182	3454	3272"
+msgid "I hear you turned it down. Parole, that is.\\r\n"
+"Guards were talking about it."
+msgstr ""
+
+msgctxt " 	wrong timing?	　	83	3597	3514"
+msgid "You serious? Say it ain't so."
+msgstr ""
+
+msgctxt " 	　	　	180	3795	3615"
+msgid "From what I gather, he told the deputy warden\\r\n"
+"he feels no remorse for his crime."
+msgstr ""
+
+msgctxt " 	　	　	145	3973	3828"
+msgid "Come out with shit like that, they'll\\r\n"
+"lock you up and throw away the key."
+msgstr ""
+
+msgctxt " 	　	分	72	4049	3977"
+msgid "You all right in the head, man?"
+msgstr ""
+
+msgctxt " 	　	　	69	4161	4092"
+msgid "Explain yourself, Baba."
+msgstr ""
+
+msgctxt " 	　	　	60	4604	4544"
+msgid "Saejima-aniki."
+msgstr ""
+

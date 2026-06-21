@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		63	462	399"
+msgid "Well fought, bro."
+msgstr ""
+
+msgctxt " 	　	　	103	590	487"
+msgid "Really makin' up for lost time!"
+msgstr ""
+
+msgctxt " 	　	　	92	720	628"
+msgid "You ain't half bad either, bro."
+msgstr ""
+
+msgctxt " 	　	　	99	863	764"
+msgid "What? That all you got to offer!?"
+msgstr ""
+
+msgctxt " 	　	分	60	926	866"
+msgid "It ain't over yet!"
+msgstr ""
+
+msgctxt " 	　	　	156	1175	1019"
+msgid "Keep fighting, or Haruka Sawamura gets a bullet!"
+msgstr ""
+
+msgctxt " 	　	　	60	1362	1302"
+msgid "Damn it!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	58	1624	1566"
+msgid "What!?"
+msgstr ""
+
+msgctxt " 	　	分	80	1705	1625"
+msgid "Why isn't he answering!?"
+msgstr ""
+
+msgctxt " 	　	　	60	1799	1739"
+msgid "This'll clear things up."
+msgstr ""
+
+msgctxt " 	　	　	60	2195	2135"
+msgid "What!?"
+msgstr ""
+

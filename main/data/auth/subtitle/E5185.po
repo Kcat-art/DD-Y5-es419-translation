@@ -1,0 +1,43 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	513	453"
+msgid "What's the play, Kiryu?"
+msgstr ""
+
+msgctxt " 	　	分	96	617	521"
+msgid "One of us goin' down for good soon."
+msgstr ""
+
+msgctxt " 	　	　	64	732	668"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	50	783	733"
+msgid "But we don't have a choice."
+msgstr ""
+
+msgctxt " 	　		63	903	840"
+msgid "Until the culprit shows up..."
+msgstr ""
+
+msgctxt " 	　		86	1023	937"
+msgid "We can't stop fighting."
+msgstr ""
+
+msgctxt " 	　		60	1172	1112"
+msgid "You're right."
+msgstr ""
+
+msgctxt " 	　		92	1518	1426"
+msgid "Then here goes."
+msgstr ""
+
+msgctxt " 	　		60	1650	1590"
+msgid "Yeah."
+msgstr ""
+
+msgctxt " 	　		60	1787	1727"
+msgid "There's no need."
+msgstr ""
+

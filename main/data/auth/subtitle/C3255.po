@@ -1,0 +1,245 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "					 	 		132	166	34"
+msgid "Hold on a sec. <Italic>You're</Italic> the new girl\\r\n"
+"Park-san was raving about?"
+msgstr ""
+
+msgctxt "					 	　	　	97	306	209"
+msgid "I guess Horie-chan did mention Okinawa..."
+msgstr ""
+
+msgctxt "					 	　	　	60	391	331"
+msgid "Talk about a small world."
+msgstr ""
+
+msgctxt "					 	　	　	95	507	412"
+msgid "I don't get it, Akiyama-san.\\r\n"
+"What are you doing here?"
+msgstr ""
+
+msgctxt "					 	　	　	127	752	625"
+msgid "Truth of it is, I loaned Park-san a bit of capital."
+msgstr ""
+
+msgctxt "					60ｆ以下です	　	　	59	824	765"
+msgid "She borrowed money from you?"
+msgstr ""
+
+msgctxt "					 	　	　	181	1006	825"
+msgid "Yeah. She apparently looked all over Kansai,\\r\n"
+"but not a single lender would bite."
+msgstr ""
+
+msgctxt "					 	　	　	184	1215	1031"
+msgid "Then she heard about a shop up in Kamurocho\\r\n"
+"that'll loan any amount, no collateral."
+msgstr ""
+
+msgctxt "					 	　	　	60	1283	1223"
+msgid "So she went to Tokyo."
+msgstr ""
+
+msgctxt "					 	　	　	154	1452	1298"
+msgid "That shop was Sky Finance.\\r\n"
+"It's, uh, my company."
+msgstr ""
+
+msgctxt "					 	　	　	72	1547	1475"
+msgid "This was a smidge over a year ago."
+msgstr ""
+
+msgctxt "					 	　	　	120	1692	1572"
+msgid "I didn't realize she had money problems."
+msgstr ""
+
+msgctxt "					 	　	　	60	1757	1697"
+msgid "Oh, I wouldn't call them problems."
+msgstr ""
+
+msgctxt "					 	　	　	147	1908	1761"
+msgid "It's not like Park-san was busking\\r\n"
+"out on the street for a meal or anything."
+msgstr ""
+
+msgctxt "					 	　	　	84	2018	1934"
+msgid "But the amount she wanted...\\r\n"
+"It was intense."
+msgstr ""
+
+msgctxt "					 	　	　	60	2109	2049"
+msgid "How much was it?"
+msgstr ""
+
+msgctxt "					 	　	　	86	2222	2136"
+msgid "Well, er, just about..."
+msgstr ""
+
+msgctxt "					 	　	　	60	2295	2235"
+msgid "300 mil?"
+msgstr ""
+
+msgctxt "					 	　	　	93	2408	2315"
+msgid "300!? That's so much."
+msgstr ""
+
+msgctxt "					 	　	　	146	2578	2432"
+msgid "Yeah. And now, it sounds like\\r\n"
+"that money's vanished into thin air."
+msgstr ""
+
+msgctxt "					 	　	　	80	2681	2601"
+msgid "I was just gonna start looking into it."
+msgstr ""
+
+msgctxt "					 	　	　	140	2872	2732"
+msgid "Do you think... Park-san committed\\r\n"
+"suicide because of the missing money?"
+msgstr ""
+
+msgctxt "					 	　	　	60	3001	2941"
+msgid "It's not impossible."
+msgstr ""
+
+msgctxt "					 	　	　	104	3116	3012"
+msgid "But if you ask me, there's just no way."
+msgstr ""
+
+msgctxt "					 	　	　	60	3209	3149"
+msgid "Why's that?"
+msgstr ""
+
+msgctxt "　					 	　	　	117	3349	3232"
+msgid "Well you see, I have a pretty strict loan policy."
+msgstr ""
+
+msgctxt "					 	　	　	166	3518	3352"
+msgid "I put my potential clients through the wringer,\\r\n"
+"just to find out who it is I'm dealing with."
+msgstr ""
+
+msgctxt "					 	　	　	105	3631	3526"
+msgid "Basically my own special screening process."
+msgstr ""
+
+msgctxt "					 	　	　	129	3799	3670"
+msgid "If a client can't pass my test,\\r\n"
+"they don't get their loan."
+msgstr ""
+
+msgctxt "					 	　	　	101	3967	3866"
+msgid "Park-san came all the way\\r\n"
+"from Sotenbori just to see me."
+msgstr ""
+
+msgctxt "					 	　	分	83	4065	3982"
+msgid "And she passed my test with flying colors."
+msgstr ""
+
+msgctxt "					 	　	　	171	4275	4104"
+msgid "When people come knocking on my door, it's usually\\r\n"
+"'cause they're going through a little rough patch."
+msgstr ""
+
+msgctxt "					 	　	　	142	4434	4292"
+msgid "They don't mind begging for a quick fix,\\r\n"
+"but they won't risk their lives for it."
+msgstr ""
+
+msgctxt "					 	　	　	66	4508	4442"
+msgid "Not that I blame them."
+msgstr ""
+
+msgctxt "					 	　	　	95	4649	4554"
+msgid "But Park-san was unbending."
+msgstr ""
+
+msgctxt "					 	　	　	135	4810	4675"
+msgid "She would've fought off an entire army\\r\n"
+"if it meant achieving her dream."
+msgstr ""
+
+msgctxt "					60ｆ以下です	　	　	31	4861	4830"
+msgid "Her dream?"
+msgstr ""
+
+msgctxt "					 	　	　	75	4937	4862"
+msgid "Yup. That's right."
+msgstr ""
+
+msgctxt "					 	　	　	65	5035	4970"
+msgid "She didn't come to me just for money."
+msgstr ""
+
+msgctxt "					 	　	　	89	5144	5055"
+msgid "She came to get the means to chase her dream."
+msgstr ""
+
+msgctxt "					 	　	分	60	5236	5176"
+msgid "Even at risk of her life."
+msgstr ""
+
+msgctxt "					 	　	OK	190	5488	5298"
+msgid "It was the first time I'd ever found someone\\r\n"
+"so sincerely deserving of the loans I give out."
+msgstr ""
+
+msgctxt "					 	　	　	98	5635	5537"
+msgid "It's almost like that money\\r\n"
+"rained from the sky for <Italic>her</Italic>."
+msgstr ""
+
+msgctxt "					 	　	　	60	5722	5662"
+msgid "From the sky...?"
+msgstr ""
+
+msgctxt "					 	　	　	127	5875	5748"
+msgid "Huh? Oh, don't worry about that.\\r\n"
+"It's not important."
+msgstr ""
+
+msgctxt "					 	　	　	75	5987	5912"
+msgid "My point is, Park-san had a dream."
+msgstr ""
+
+msgctxt "					 	　	　	127	6131	6004"
+msgid "That, and an iron will that pushed\\r\n"
+"her through everything I threw at her."
+msgstr ""
+
+msgctxt "					 	　	分	71	6207	6136"
+msgid "Not once did she give up hope."
+msgstr ""
+
+msgctxt "					60ｆ以下です	　	　	54	6289	6235"
+msgid "So trust me."
+msgstr ""
+
+msgctxt "					 	　	分	127	6417	6290"
+msgid "Mirei Park was a strong woman.\\r\n"
+"One who'd never take her own life."
+msgstr ""
+
+msgctxt "					 	　	　	60	6510	6450"
+msgid "I agree."
+msgstr ""
+
+msgctxt "					 	　	　	86	6600	6514"
+msgid "That's why I'm here, Haruka-chan."
+msgstr ""
+
+msgctxt "					 	　	分	83	6703	6620"
+msgid "I know it won't be easy, but I need your help."
+msgstr ""
+
+msgctxt "					 	　	　	93	6833	6740"
+msgid "You were the last person\\r\n"
+"to see Park-san yesterday."
+msgstr ""
+
+msgctxt "					 	　	　	127	6992	6865"
+msgid "So if there was anything you noticed...\\r\n"
+"I need you to tell me."
+msgstr ""
+

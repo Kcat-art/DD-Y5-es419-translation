@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "Since we're here..."
+msgstr ""
+
+msgctxt "360"
+msgid "We're in Osaka..."
+msgstr ""
+

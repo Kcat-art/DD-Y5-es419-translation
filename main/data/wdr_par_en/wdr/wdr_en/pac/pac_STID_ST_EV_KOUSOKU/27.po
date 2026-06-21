@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "260"
+msgid "1-035/daigo_0026a"
+msgstr ""
+
+msgctxt "264"
+msgid "dummy"
+msgstr ""
+

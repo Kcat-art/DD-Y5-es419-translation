@@ -1,0 +1,355 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid "/‐"
+msgstr ""
+
+msgctxt "16"
+msgid "/‐"
+msgstr ""
+
+msgctxt "20"
+msgid "/‐"
+msgstr ""
+
+msgctxt "24"
+msgid "/‐"
+msgstr ""
+
+msgctxt "28"
+msgid "/‐"
+msgstr ""
+
+msgctxt "32"
+msgid "Owned"
+msgstr ""
+
+msgctxt "36"
+msgid "Owned"
+msgstr ""
+
+msgctxt "40"
+msgid "Owned"
+msgstr ""
+
+msgctxt "44"
+msgid "Owned"
+msgstr ""
+
+msgctxt "48"
+msgid "Owned"
+msgstr ""
+
+msgctxt "52"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "60"
+msgid "(Don't got anythin' in mind.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(I've got nothing selected.)  "
+msgstr ""
+
+msgctxt "68"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "72"
+msgid "(I don't have enough money for that.)"
+msgstr ""
+
+msgctxt "76"
+msgid "(Don't have the cash. How am I so broke?)"
+msgstr ""
+
+msgctxt "80"
+msgid "(Don't got the cash for that.)"
+msgstr ""
+
+msgctxt "84"
+msgid "(Don't got enough on me.)  "
+msgstr ""
+
+msgctxt "88"
+msgid "(Looks like I don't have enough.)"
+msgstr ""
+
+msgctxt "92"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "96"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "100"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "104"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "108"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "112"
+msgid "(I can't drink another drop.)"
+msgstr ""
+
+msgctxt "116"
+msgid "(Probably shouldn't. I'm seeing double as is."
+msgstr ""
+
+msgctxt "120"
+msgid "(Gonna explode if I drink any more.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(I can't drink anymore.)  "
+msgstr ""
+
+msgctxt "128"
+msgid "(I'm not old enough to drink.)"
+msgstr ""
+
+msgctxt "132"
+msgid "－"
+msgstr ""
+
+msgctxt "136"
+msgid "－"
+msgstr ""
+
+msgctxt "140"
+msgid "－"
+msgstr ""
+
+msgctxt "144"
+msgid "－"
+msgstr ""
+
+msgctxt "148"
+msgid "－"
+msgstr ""
+
+msgctxt "152"
+msgid "Order"
+msgstr ""
+
+msgctxt "156"
+msgid "Order"
+msgstr ""
+
+msgctxt "160"
+msgid "Order"
+msgstr ""
+
+msgctxt "164"
+msgid "Order"
+msgstr ""
+
+msgctxt "168"
+msgid "Order"
+msgstr ""
+
+msgctxt "412"
+msgid "sitcnt"
+msgstr ""
+
+msgctxt "492"
+msgid "Mama"
+msgstr ""
+
+msgctxt "524"
+msgid "A Yamazaki whisky made with carefully selected, mature malts for a flavorful, smooth finish."
+msgstr ""
+
+msgctxt "540"
+msgid "This is one of Japan's top single malt whiskies. It's become such a status symbol that whisky aficionados the world over have heard of it."
+msgstr ""
+
+msgctxt "544"
+msgid "They use carefully selected, perfectly matured single malts to get that great, smooth flavor."
+msgstr ""
+
+msgctxt "548"
+msgid "It's popular overseas, too."
+msgstr ""
+
+msgctxt "596"
+msgid "A whisky made in the Southern Alps of Japan. Has a fruity flavor with smoky accents."
+msgstr ""
+
+msgctxt "612"
+msgid "This one's made at Suntory's Hakushu distillery in Japan's South Alps, an area famous for its mountain spring water."
+msgstr ""
+
+msgctxt "616"
+msgid "Its fruity, creamy flavor combined with a distinctly smoky accent makes for a superb drinking experience."
+msgstr ""
+
+msgctxt "620"
+msgid "I recommend taking the first drink straight up, to fully appreciate its quality."
+msgstr ""
+
+msgctxt "668"
+msgid "One of Japan's premium brands, known internationally for its mellow flavor."
+msgstr ""
+
+msgctxt "684"
+msgid "This is a premium Japanese whisky that has won over whisky lovers around the world."
+msgstr ""
+
+msgctxt "688"
+msgid "This whisky starts with a single malt aged in Japanese Mizunara oak and then blended with over thirty different, painstakingly selected single malts."
+msgstr ""
+
+msgctxt "692"
+msgid "The mellow flavor produced by this process has earned it a gold prize in international competition."
+msgstr ""
+
+msgctxt "696"
+msgid "The finish is particularly good."
+msgstr ""
+
+msgctxt "700"
+msgid "This bottle is popularly given in gift exchanges. Not that I've ever been gifted one..."
+msgstr ""
+
+msgctxt "740"
+msgid "Uniquely matured in bourbon and sherry oak casks, this Scotch whisky is smooth and delicate with a fruity, oaky finish."
+msgstr ""
+
+msgctxt "756"
+msgid "The Macallan distillery, nestled in the Scottish highlands, has a storied 190-year history of careful attention to detail."
+msgstr ""
+
+msgctxt "760"
+msgid "Their Speyside single malt whiskies are crafted from carefully selected wheat, yeast, and the crystal-clear water of the Spey river."
+msgstr ""
+
+msgctxt "764"
+msgid "This whisky's taste invokes the aroma of dried fruit and the sweetness of cherries."
+msgstr ""
+
+msgctxt "768"
+msgid "You'll then feel the woodiness of the cask, followed by an aftertaste that invites vivid memories of toffee."
+msgstr ""
+
+msgctxt "772"
+msgid "This 10-year scotch, born in a cherry wood cask, is meant for casual enjoyment."
+msgstr ""
+
+msgctxt "812"
+msgid "The father of Japanese whisky, and possibly the most popular whisky in all of Japan."
+msgstr ""
+
+msgctxt "828"
+msgid "Kakubin is probably the most popular whisky in Japan, wouldn't you agree? Some call it the father of Japanese whisky.  "
+msgstr ""
+
+msgctxt "832"
+msgid "Its popularity shows no signs of waning,  even after seventy years on the market. It has a sweet aroma, depth, and full body. "
+msgstr ""
+
+msgctxt "836"
+msgid "The name Kakubin comes from its unique squared bottle shape."
+msgstr ""
+
+msgctxt "884"
+msgid "A carefully distilled spirit with a bright aroma and sweet fullness."
+msgstr ""
+
+msgctxt "900"
+msgid "Another extremely popular Japanese whisky. Malt whisky aged in sherry barrels at the Yamazaki Distillery are blended with carefully selected malt and grain whiskies."
+msgstr ""
+
+msgctxt "904"
+msgid "It has a bright aroma and delivers a sweet fullness in the mouth, and the finish is deep and mellow."
+msgstr ""
+
+msgctxt "908"
+msgid "A lot of people call it Daruma, because the round shape of its bottle looks like a Daruma doll. "
+msgstr ""
+
+msgctxt "956"
+msgid "Standard Ballantine's scotch. Not too heavy, not too light, but just right."
+msgstr ""
+
+msgctxt "972"
+msgid "That's a standard Scotch, made from a blend of over forty varieties of single malts. Not too heavy, not too light. It's got a great balance to it. "
+msgstr ""
+
+msgctxt "976"
+msgid "And the price isn't too high, either. I recommend it to casual Scotch drinkers. It's also a nice intro to blended whiskies, if you've never tried them before."
+msgstr ""
+
+msgctxt "1028"
+msgid "One of Japan's top brandies, famous for its fruity aroma and smooth flavor."
+msgstr ""
+
+msgctxt "1044"
+msgid "That's one of Japan's premium brandies. This bestseller has won over countless people with its bright, fruity bouquet and smooth taste."
+msgstr ""
+
+msgctxt "1048"
+msgid "As for the name... V.S.O.P stands for Very Superior Old Pale. But you probably already knew that.  "
+msgstr ""
+
+msgctxt "1100"
+msgid "A stellar shochu made with top-grade sweet potatoes from southern Kagoshima prefecture. Has a rounded body and a fruity fragrance."
+msgstr ""
+
+msgctxt "1116"
+msgid "The Kuromaru is an exquisite blend of two types of shochu-- one rich and strong and the other light and full of fruit aromas."
+msgstr ""
+
+msgctxt "1120"
+msgid "A unique variety of sweet potato from the Kagoshima region gives it a mild flavor and refreshing, clean finish."
+msgstr ""
+
+msgctxt "1172"
+msgid "A clean spring water soju made with premier Korean barley."
+msgstr ""
+
+msgctxt "1188"
+msgid "A prime example of Korean soju. A natural spring water base gives it a clean taste, while premium Korean barley gives it a mellow, rounded flavor."
+msgstr ""
+
+msgctxt "1192"
+msgid "It's not all that expensive, either. I'd say it offers excellent value for the price. I used to drink this all the time, and its taste is still as familiar as an old friend. "
+msgstr ""
+
+msgctxt "1196"
+msgid "To me, this bottle of soju brings back a lot of fond memories.  "
+msgstr ""
+
+msgctxt "1244"
+msgid "A standard rum with an oaky flavor and notes of vanilla."
+msgstr ""
+
+msgctxt "1260"
+msgid "A rum sold by Suntory. Rum is produced from sugarcane which is wrung and refined into molasses."
+msgstr ""
+
+msgctxt "1264"
+msgid "The color, grade, and flavor of rum varies with the production process, and Suntory Rum Gold is an amber-colored medium-bodied rum."
+msgstr ""
+
+msgctxt "1268"
+msgid "It's frequently used as a cocktail base, and it's reasonably priced so it won't break the bank, but..."
+msgstr ""
+
+msgctxt "1272"
+msgid "Rum-based cocktails tend to be sweet and go down easy, so drink responsibly."
+msgstr ""
+

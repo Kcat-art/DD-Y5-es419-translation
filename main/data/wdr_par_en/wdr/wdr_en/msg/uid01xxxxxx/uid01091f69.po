@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "76"
+msgid "You got <Color:8>Snare<Color:Default>."
+msgstr ""
+
+msgctxt "112"
+msgid "You got <Color:8>Cage Trap<Color:Default>."
+msgstr ""
+
+msgctxt "148"
+msgid "You got <Color:8>Leghold Trap<Color:Default>."
+msgstr ""
+

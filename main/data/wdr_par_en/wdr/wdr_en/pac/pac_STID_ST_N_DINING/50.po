@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1064"
+msgid "adv4_260/ushijima_0030"
+msgstr ""
+
+msgctxt "1068"
+msgid "P_SIN_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "1072"
+msgid "C4260_TSG_TLK_kamae"
+msgstr ""
+
+msgctxt "1076"
+msgid "ACDEV0040"
+msgstr ""
+
+msgctxt "1080"
+msgid "adv4_250/ushijima_0026"
+msgstr ""
+
+msgctxt "1084"
+msgid "M_NML_SET_stand_cook_yakitori"
+msgstr ""
+
+msgctxt "1088"
+msgid "0"
+msgstr ""
+

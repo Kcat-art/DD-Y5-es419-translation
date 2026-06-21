@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "304"
+msgid "Ramen Connoisseur"
+msgstr ""
+
+msgctxt "72_Ramen Connoisseur"
+msgid "The first one after work's special. Talkin' ramen, of course."
+msgstr ""
+

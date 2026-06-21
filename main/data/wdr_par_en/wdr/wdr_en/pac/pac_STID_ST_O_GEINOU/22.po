@@ -1,0 +1,59 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3448"
+msgid "adv3_455/haruka_0251"
+msgstr ""
+
+msgctxt "3452"
+msgid "ACDEV0054"
+msgstr ""
+
+msgctxt "3456"
+msgid "ACDEV0250"
+msgstr ""
+
+msgctxt "3460"
+msgid "0"
+msgstr ""
+
+msgctxt "3464"
+msgid "adv3_450_1/akiyama_0110"
+msgstr ""
+
+msgctxt "3468"
+msgid "adv3_435_1/akiyama_3_435_010"
+msgstr ""
+
+msgctxt "3472"
+msgid "ACDEV0150"
+msgstr ""
+
+msgctxt "3476"
+msgid "ACSAI0008"
+msgstr ""
+
+msgctxt "3480"
+msgid "adv3_430/akiyama_0085a"
+msgstr ""
+
+msgctxt "3484"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3488"
+msgid "adv3_420/akiyama_0075"
+msgstr ""
+
+msgctxt "3492"
+msgid "adv3_410_1/akiyama_0072a"
+msgstr ""
+
+msgctxt "3496"
+msgid "adv3_400/akiyama_0032"
+msgstr ""
+
+msgctxt "3500"
+msgid "kaiwabgm_fuon05"
+msgstr ""
+

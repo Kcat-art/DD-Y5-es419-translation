@@ -1,0 +1,151 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		123	305	182"
+msgid "Callin' it a night?\\r\n"
+"I wasn't finished talkin'."
+msgstr ""
+
+msgctxt " 	　	　	84	502	418"
+msgid "What're ya playin' at, Kiryu-han?"
+msgstr ""
+
+msgctxt " 	　	　	60	599	539"
+msgid "I've figured you out."
+msgstr ""
+
+msgctxt " 	　	分	212	839	627"
+msgid "You want me back in the Tojo Clan,\\r\n"
+"so you kidnapped Daigo."
+msgstr ""
+
+msgctxt " 	　	　	148	1021	873"
+msgid "Think ya know me?\\r\n"
+"You ain't figured out shit."
+msgstr ""
+
+msgctxt " 	　	　	128	1380	1252"
+msgid "I don't give a single fuck\\r\n"
+"where Daigo Dojima is."
+msgstr ""
+
+msgctxt " 	　	　	112	1500	1388"
+msgid "The real problem is you bein' here\\r\n"
+"not solvin' it for yourself."
+msgstr ""
+
+msgctxt " 	　	　	163	1757	1594"
+msgid "If Dojima kicks the bucket,\\r\n"
+"the Tojo Clan's gonna cave in on itself."
+msgstr ""
+
+msgctxt " 	　	　	113	1876	1763"
+msgid "What good's a war\\r\n"
+"if the enemy's already dead!?"
+msgstr ""
+
+msgctxt " 	　	分	60	1937	1877"
+msgid "That ain't the yakuza way!"
+msgstr ""
+
+msgctxt " 	　	　	75	2113	2038"
+msgid "All I care about is the fight!"
+msgstr ""
+
+msgctxt " 	　	分	107	2221	2114"
+msgid "I ain't one of those sad sacks who\\r\n"
+"sits on their ass countin' their cash!"
+msgstr ""
+
+msgctxt " 	　	　	116	2343	2227"
+msgid "I went yakuza to go up\\r\n"
+"against the strongest of the strong!"
+msgstr ""
+
+msgctxt " 	　	　	111	2523	2412"
+msgid "Seein' the Tojo like this\\r\n"
+"makes me wanna cry, man!"
+msgstr ""
+
+msgctxt " 	　	　	151	2680	2529"
+msgid "And if Daigo Dojima eats it,\\r\n"
+"any Omi chump could blow it down."
+msgstr ""
+
+msgctxt " 	　	　	121	2802	2681"
+msgid "That ain't the Tojo I know.\\r\n"
+"They deserve better than that!"
+msgstr ""
+
+msgctxt " 	　	　	60	2894	2834"
+msgid "Watase..."
+msgstr ""
+
+msgctxt " 	　	OK	183	3085	2902"
+msgid "I know you. Down in your gut,\\r\n"
+"ya got the same bloodlust I do."
+msgstr ""
+
+msgctxt " 	　	　	108	3293	3185"
+msgid "So let's drop the pretense, Kiryu-han."
+msgstr ""
+
+msgctxt " 	　	　	66	3373	3307"
+msgid "We're as yakuza as yakuza come."
+msgstr ""
+
+msgctxt " 	　	分	132	3509	3377"
+msgid "I can see in your eyes how\\r\n"
+"bored ya are out here!"
+msgstr ""
+
+msgctxt " 	　	　	81	3675	3594"
+msgid "Go back to the Tojo Clan."
+msgstr ""
+
+msgctxt " 	　	分	143	3829	3686"
+msgid "Then we can have a blast\\r\n"
+"makin' a proper war out of it."
+msgstr ""
+
+msgctxt " 	　	　	130	4110	3980"
+msgid "What, leavin' without a word?"
+msgstr ""
+
+msgctxt " 	　	　	60	4215	4155"
+msgid "You've got me all wrong."
+msgstr ""
+
+msgctxt " 	　	　	60	4338	4278"
+msgid "I'm nothing like you."
+msgstr ""
+
+msgctxt " 	　	　	70	4443	4373"
+msgid "You consider the yakuza a way to die."
+msgstr ""
+
+msgctxt " 	　	分	60	4519	4459"
+msgid "To me, being yakuza..."
+msgstr ""
+
+msgctxt " 	　	　	60	4608	4548"
+msgid "It's a way to live."
+msgstr ""
+
+msgctxt " 	　	　	76	4699	4623"
+msgid "Care to elaborate?"
+msgstr ""
+
+msgctxt " 	　	OK	227	4955	4728"
+msgid "We walk the same path, but you're\\r\n"
+"barreling toward death, while I fight for life."
+msgstr ""
+
+msgctxt " 	　	　	60	5045	4985"
+msgid "You'll get it one day."
+msgstr ""
+
+msgctxt " 	　	　	109	5182	5073"
+msgid "Yeah? Lookin' forward to it."
+msgstr ""
+

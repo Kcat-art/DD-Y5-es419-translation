@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "100"
+msgid "Better show Osaka some respect!"
+msgstr ""
+

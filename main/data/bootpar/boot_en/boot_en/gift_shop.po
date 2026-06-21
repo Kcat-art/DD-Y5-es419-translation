@@ -1,0 +1,95 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "236	HINT"
+msgid "A famous local specialty that goes great with rice. Features a standard level of spiciness."
+msgstr ""
+
+msgctxt "328	HINT"
+msgid "A famous local specialty that goes great with rice. Features a milder level of spiciness."
+msgstr ""
+
+msgctxt "418	HINT"
+msgid "A famous local specialty that goes great with rice. Features a higher level of spiciness."
+msgstr ""
+
+msgctxt "508	HINT"
+msgid "A famous local specialty that goes great with rice. It's as spicy as the original recipe."
+msgstr ""
+
+msgctxt "598	HINT"
+msgid "These Japanese sweets are an exquisite union of sweet red bean filling in a soft, delicate, mochi-like shell."
+msgstr ""
+
+msgctxt "708	HINT"
+msgid "The fluffy white casing and egg yolk and bean paste filling have made these sweets a popular treat for over a hundred years."
+msgstr ""
+
+msgctxt "833	HINT"
+msgid "This silly rice cracker is designed to look like a mask. Includes a real mask in the box!"
+msgstr ""
+
+msgctxt "923	HINT"
+msgid "Pickled greens covered with special spicy fish roe. This famous local specialty goes great with rice."
+msgstr ""
+
+msgctxt "1025	HINT"
+msgid "This crunchy snack is a delicious combination of sweet and salty flavors."
+msgstr ""
+
+msgctxt "1099	HINT"
+msgid "These cookies are Hokkaido's most famous regional snack. People love their satisfying crunch."
+msgstr ""
+
+msgctxt "1193	HINT"
+msgid "This candy is made from freeze-dried corn coated in chocolate."
+msgstr ""
+
+msgctxt "1256	HINT"
+msgid "These cookies may seem plain, but they're addictively delicious, owing to the original recipe that we still follow today."
+msgstr ""
+
+msgctxt "1378	HINT"
+msgid "People love the crunchiness of these curry-flavored rice crackers."
+msgstr ""
+
+msgctxt "1445	HINT"
+msgid "These rice crackers have been infused with the savory taste of karaage chicken."
+msgstr ""
+
+msgctxt "1525	HINT"
+msgid "Now you can easily enjoy Yamamotoya Honten's irresistible miso udon stew at home."
+msgstr ""
+
+msgctxt "1607	HINT"
+msgid "Made with plenty of sweet bean paste. Its gentle sweetness makes it Ryoguchiya Korekiyo's most popular dessert."
+msgstr ""
+
+msgctxt "1719	HINT"
+msgid "Whole shrimp are used to make these tasty, savory rice crackers."
+msgstr ""
+
+msgctxt "1784	HINT"
+msgid "People love the distinctive texture of these local sweets. They come in a variety of flavors, like sakura cherry and green tea."
+msgstr ""
+
+msgctxt "1912	HINT"
+msgid "This savory snack preserves the original product's soft texture and special sauce flavor."
+msgstr ""
+
+msgctxt "2002	HINT"
+msgid "This famous local specialty comes in a familiar red package. Each one is handmade to ensure its delicious taste."
+msgstr ""
+
+msgctxt "2115	HINT"
+msgid "These savory little balls are baked up using special ingredients and finished off with a secret sauce."
+msgstr ""
+
+msgctxt "2218	HINT"
+msgid "The savory flavor of sauce and mayo on these round bundles of goodness jump-starts any appetite. "
+msgstr ""
+
+msgctxt "2316	HINT"
+msgid "This is the region's most famous dish turned into a handy snack. Its sauce-and-dashi flavor is irresistible."
+msgstr ""
+

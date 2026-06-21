@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "104"
+msgid "Tasty takoyaki right here!"
+msgstr ""
+

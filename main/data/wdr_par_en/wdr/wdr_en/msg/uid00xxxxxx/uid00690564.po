@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "632"
+msgid "Hinata"
+msgstr ""
+
+msgctxt "636"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "44_Hinata"
+msgid "Let me get this straight. You want me to do a panther pose!? That's kind of freaky, isn't it?"
+msgstr ""
+
+msgctxt "56_Hinata"
+msgid "Fine... Just this one time!"
+msgstr ""
+

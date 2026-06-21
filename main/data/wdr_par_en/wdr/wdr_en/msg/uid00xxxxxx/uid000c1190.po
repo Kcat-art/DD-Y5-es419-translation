@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "408"
+msgid "Movie Buff"
+msgstr ""
+
+msgctxt "72_Movie Buff"
+msgid "I just saw a modern masterpiece in the theatre."
+msgstr ""
+
+msgctxt "84_Movie Buff"
+msgid "It's a shame that I don't have a friend I can share the experience with."
+msgstr ""
+

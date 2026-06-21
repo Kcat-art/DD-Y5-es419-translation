@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "424"
+msgid "dummy"
+msgstr ""
+
+msgctxt "428"
+msgid "A10690_gesui_hikiage"
+msgstr ""
+

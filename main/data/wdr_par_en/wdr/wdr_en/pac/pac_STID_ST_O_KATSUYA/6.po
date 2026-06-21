@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "744"
+msgid "adv3_600_2/akiyama_0251"
+msgstr ""
+
+msgctxt "748"
+msgid "adv3_600_1/oosaka_lady_0001a"
+msgstr ""
+

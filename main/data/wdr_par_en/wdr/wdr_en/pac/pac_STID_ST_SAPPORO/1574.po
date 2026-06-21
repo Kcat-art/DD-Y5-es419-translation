@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "You're kidding, right?"
+msgstr ""
+
+msgctxt "300"
+msgid "Sushi's better..."
+msgstr ""
+

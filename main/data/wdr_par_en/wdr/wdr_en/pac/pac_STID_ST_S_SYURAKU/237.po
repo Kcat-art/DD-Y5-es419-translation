@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "92"
+msgid "Where could they be?"
+msgstr ""
+
+msgctxt "104"
+msgid "Those mushrooms..."
+msgstr ""
+

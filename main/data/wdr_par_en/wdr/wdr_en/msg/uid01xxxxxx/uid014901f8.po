@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "684"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "88_Saejima"
+msgid "(Hey, this club...)"
+msgstr ""
+
+msgctxt "100_Saejima"
+msgid "(It's where that village runaway's supposed to be workin'.)"
+msgstr ""
+

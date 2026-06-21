@@ -1,0 +1,67 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "108"
+msgid "Kiryu-san, right?"
+msgstr ""
+
+msgctxt "120"
+msgid "You work for Katsuya? Some welcome this is after inviting me out here."
+msgstr ""
+
+msgctxt "132"
+msgid "Heh, wouldn't be any fun if we made it too easy, would it now?"
+msgstr ""
+
+msgctxt "144"
+msgid "Let's see if you're the man the chairman says ya are."
+msgstr ""
+
+msgctxt "156"
+msgid "It doesn't pay to underestimate me."
+msgstr ""
+
+msgctxt "168"
+msgid "All right, get 'im!"
+msgstr ""
+
+msgctxt "180"
+msgid "Saejima-san, right?"
+msgstr ""
+
+msgctxt "192"
+msgid "You Katsuya's man? Get outta the way. Ain't got no beef with you."
+msgstr ""
+
+msgctxt "204"
+msgid "Heh, wouldn't be any fun if we made it too easy, would it now?"
+msgstr ""
+
+msgctxt "216"
+msgid "Let's see if you're the man the chairman says ya are."
+msgstr ""
+
+msgctxt "228"
+msgid "Hmph. Who d'ya think you're dealin' with here?"
+msgstr ""
+
+msgctxt "240"
+msgid "All right, get 'im!"
+msgstr ""
+
+msgctxt "2252"
+msgid "Ousaka Enterprises Employee"
+msgstr ""
+
+msgctxt "2256"
+msgid "Player"
+msgstr ""
+
+msgctxt "2260"
+msgid "A10670_osaka_touteki"
+msgstr ""
+
+msgctxt "2264"
+msgid "dummy"
+msgstr ""
+

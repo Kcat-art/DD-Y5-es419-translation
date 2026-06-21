@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "564"
+msgid "Chilly Man"
+msgstr ""
+
+msgctxt "568"
+msgid "Indecisive Woman"
+msgstr ""
+
+msgctxt "100_Chilly Man"
+msgid "I'm freezing. Let's get inside somewhere. Anywhere."
+msgstr ""
+
+msgctxt "112_Indecisive Woman"
+msgid "Will you be patient? There are so many places that look good. How am I supposed to decide? Why do there have to be so many choices?"
+msgstr ""
+

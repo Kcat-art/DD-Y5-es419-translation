@@ -1,0 +1,12 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "272"
+msgid "Employee"
+msgstr ""
+
+msgctxt "44_Employee"
+msgid "Oh my, looks like you won a <Color:8>Kiss on the Cheek<Color:Default>. Congratulations!\\r\n"
+" "
+msgstr ""
+

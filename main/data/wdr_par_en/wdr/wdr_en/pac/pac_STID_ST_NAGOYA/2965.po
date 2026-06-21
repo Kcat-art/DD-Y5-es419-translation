@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "Gah! There goes my salary..."
+msgstr ""
+
+msgctxt "56"
+msgid "This is not happening!"
+msgstr ""
+

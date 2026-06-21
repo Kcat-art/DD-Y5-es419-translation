@@ -1,0 +1,235 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid "/‐"
+msgstr ""
+
+msgctxt "16"
+msgid "/‐"
+msgstr ""
+
+msgctxt "20"
+msgid "/‐"
+msgstr ""
+
+msgctxt "24"
+msgid "/‐"
+msgstr ""
+
+msgctxt "28"
+msgid "/‐"
+msgstr ""
+
+msgctxt "32"
+msgid "Owned"
+msgstr ""
+
+msgctxt "36"
+msgid "Owned"
+msgstr ""
+
+msgctxt "40"
+msgid "Owned"
+msgstr ""
+
+msgctxt "44"
+msgid "Owned"
+msgstr ""
+
+msgctxt "48"
+msgid "Owned"
+msgstr ""
+
+msgctxt "52"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "60"
+msgid "(Don't got anythin' picked out.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(I haven't selected anything.)  "
+msgstr ""
+
+msgctxt "68"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "72"
+msgid "(I don't have enough for that.)"
+msgstr ""
+
+msgctxt "76"
+msgid "(Don't have the cash. How am I so broke?)"
+msgstr ""
+
+msgctxt "80"
+msgid "(Don't got the cash for that.)"
+msgstr ""
+
+msgctxt "84"
+msgid "(Looks like I'm a little short.)  "
+msgstr ""
+
+msgctxt "88"
+msgid "(Looks like I don't have enough.)"
+msgstr ""
+
+msgctxt "92"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "96"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "100"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "104"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "108"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "112"
+msgid "(I don't have enough room.)"
+msgstr ""
+
+msgctxt "116"
+msgid "(Pockets are jam-packed as is.)"
+msgstr ""
+
+msgctxt "120"
+msgid "(Carryin' too much already.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(I don't have any space.)"
+msgstr ""
+
+msgctxt "128"
+msgid "(I don't have the space for that.)"
+msgstr ""
+
+msgctxt "132"
+msgid "(They're all sold out.)"
+msgstr ""
+
+msgctxt "136"
+msgid "(Fresh out.)"
+msgstr ""
+
+msgctxt "140"
+msgid "(Ain't a single one left.)"
+msgstr ""
+
+msgctxt "144"
+msgid "(I guess it's all sold out.)  "
+msgstr ""
+
+msgctxt "148"
+msgid "(I don't need any of this stuff.)"
+msgstr ""
+
+msgctxt "152"
+msgid "(Oh, I already have one.)"
+msgstr ""
+
+msgctxt "156"
+msgid "(Already have myself one of those.)"
+msgstr ""
+
+msgctxt "160"
+msgid "(Already got my hands on that.)"
+msgstr ""
+
+msgctxt "164"
+msgid "(Already got one of these.)  "
+msgstr ""
+
+msgctxt "168"
+msgid "(I already have one of those.)"
+msgstr ""
+
+msgctxt "172"
+msgid "－"
+msgstr ""
+
+msgctxt "176"
+msgid "－"
+msgstr ""
+
+msgctxt "180"
+msgid "－"
+msgstr ""
+
+msgctxt "184"
+msgid "－"
+msgstr ""
+
+msgctxt "188"
+msgid "－"
+msgstr ""
+
+msgctxt "192"
+msgid "Order"
+msgstr ""
+
+msgctxt "196"
+msgid "Order"
+msgstr ""
+
+msgctxt "200"
+msgid "Order"
+msgstr ""
+
+msgctxt "204"
+msgid "Order"
+msgstr ""
+
+msgctxt "208"
+msgid "Order"
+msgstr ""
+
+msgctxt "524"
+msgid "Fukuya's spicy fish roe has consistently maintained the same taste and quality since it was first introduced."
+msgstr ""
+
+msgctxt "556"
+msgid "This fish roe is light on the spice for those who can't take the heat."
+msgstr ""
+
+msgctxt "588"
+msgid "This spicy fish roe comes with a spicy sauce packaged separately for those who like it hot, but be prepared to sweat!"
+msgstr ""
+
+msgctxt "620"
+msgid "The taste of this spicy fish roe harks back to our founding days. We use only domestic fish roe and our own special seasonings."
+msgstr ""
+
+msgctxt "652"
+msgid "These famous Japanese sweets are made with a Hokkaido red bean filling wrapped in a soft, delicate, mochi-like shell."
+msgstr ""
+
+msgctxt "684"
+msgid "These egg-shaped Japanese sweets are made with a fluffy marshmallow shell encasing an egg yolk bean paste. Its flavor has been loved by kids and adults for over one hundred years."
+msgstr ""
+
+msgctxt "716"
+msgid "This humorous rice cracker, baked up crisp and savory, is designed to look like the mask used in Hakata Niwaka, a local folk art."
+msgstr ""
+
+msgctxt "748"
+msgid "This delicacy is from Hakata's famous Hanamidori. Loaded with spicy fish roe, its homemade flavor goes perfectly with rice."
+msgstr ""
+

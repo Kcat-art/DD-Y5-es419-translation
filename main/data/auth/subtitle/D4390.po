@@ -1,0 +1,274 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "		 	 		60	284	224"
+msgid "You okay?"
+msgstr ""
+
+msgctxt "		 	　	　	82	385	303"
+msgid "I'm fine. How's Uno-san?"
+msgstr ""
+
+msgctxt "		 	　	　	102	488	386"
+msgid "He'll pull through."
+msgstr ""
+
+msgctxt "		 	　	　	60	549	489"
+msgid "That's a relief."
+msgstr ""
+
+msgctxt "		 	　	　	159	722	563"
+msgid "Who would've thought the Nagoya Family\\r\n"
+"was made up of regular ol' townspeople?"
+msgstr ""
+
+msgctxt "		 	　	　	80	831	751"
+msgid "They've been watching us this whole time."
+msgstr ""
+
+msgctxt "		 	　	分	74	931	857"
+msgid "No wonder we couldn't figure it out."
+msgstr ""
+
+msgctxt "		60ｆ以下です	　	　	58	1033	975"
+msgid "But we're close."
+msgstr ""
+
+msgctxt "		 	　	　	83	1117	1034"
+msgid "If we find out who their boss is, we win."
+msgstr ""
+
+msgctxt "		 	　	　	70	1463	1393"
+msgid "Hey. Where do you think you're going?"
+msgstr ""
+
+msgctxt "		 	　	　	62	1573	1511"
+msgid "I'm leaving this rotten town."
+msgstr ""
+
+msgctxt "		 	　	　	60	1652	1592"
+msgid "Where to?"
+msgstr ""
+
+msgctxt "		 	　	　	60	1745	1685"
+msgid "Somewhere I don't know."
+msgstr ""
+
+msgctxt "		 	　	　	120	1880	1760"
+msgid "And this time, I'll make sure\\r\n"
+"they don't know me, either."
+msgstr ""
+
+msgctxt "		 	　	　	137	2032	1895"
+msgid "Don't be thick, man. The truth's\\r\n"
+"practically dangling in front of us."
+msgstr ""
+
+msgctxt "		 	　	　	60	2093	2033"
+msgid "Who am I supposed to suspect, then?"
+msgstr ""
+
+msgctxt "		 	　	　	95	2209	2114"
+msgid "My saint of a landlord? Or you!?"
+msgstr ""
+
+msgctxt "		60ｆ以下です	　	　	50	2282	2232"
+msgid "I'm done with this shit."
+msgstr ""
+
+msgctxt "		 	　	分	90	2373	2283"
+msgid "I thought I'd found somewhere I actually belong!"
+msgstr ""
+
+msgctxt "		 	　	　	162	2652	2490"
+msgid "Oh, and you want your money? Here.\\r\n"
+"My fingers are all yours."
+msgstr ""
+
+msgctxt "		 	　	　	139	2833	2694"
+msgid "I always thought that maybe someday,\\r\n"
+"I'd pick up a bat again."
+msgstr ""
+
+msgctxt "		 	　	　	85	2944	2859"
+msgid "But I was never a baseball player."
+msgstr ""
+
+msgctxt "		 	　	　	97	3053	2956"
+msgid "I was just their stupid pawn!"
+msgstr ""
+
+msgctxt "		 	　	　	133	3280	3147"
+msgid "Maybe they used you.\\r\n"
+"And maybe you only had one at bat."
+msgstr ""
+
+msgctxt "		 	　	　	63	3357	3294"
+msgid "But you were definitely a pro."
+msgstr ""
+
+msgctxt "		 	　	　	60	3481	3405"
+msgid "That home run you hit?"
+msgstr ""
+
+msgctxt "		 	　	分	116	3600	3484"
+msgid "It was inspirational.\\r\n"
+"Don't you get it, dumbass?"
+msgstr ""
+
+msgctxt "		 	　	　	90	3976	3886"
+msgid "That fan... That was you?"
+msgstr ""
+
+msgctxt "		 	　	OK	193	4222	4029"
+msgid "When you came looking for a loan last year,\\r\n"
+"I could barely believe my eyes."
+msgstr ""
+
+msgctxt "		 	　	　	87	4338	4251"
+msgid "Never thought I'd see you like that."
+msgstr ""
+
+msgctxt "		 	　	　	113	4469	4356"
+msgid "So then... you've known all this time?"
+msgstr ""
+
+msgctxt "		 	　	　	111	4595	4484"
+msgid "Sure have. Makes me sick how low you've fallen."
+msgstr ""
+
+msgctxt "		 	　	　	153	4779	4626"
+msgid "Though it did make it easy on the ol' conscience.\\r\n"
+"Hounding you for payment and all."
+msgstr ""
+
+msgctxt "		 	　	　	165	4976	4811"
+msgid "Then, the one who gave my home run ball\\r\n"
+"to that guy in the mask..."
+msgstr ""
+
+msgctxt "		 	　	　	62	5053	4991"
+msgid "It was me."
+msgstr ""
+
+msgctxt "		 	　	　	103	5157	5054"
+msgid "He came looking for you,\\r\n"
+"and landed at my doorstep."
+msgstr ""
+
+msgctxt "		 	　	　	159	5346	5187"
+msgid "He wouldn't tell me what, but he said\\r\n"
+"he had a big-money job for you."
+msgstr ""
+
+msgctxt "		 	　	　	157	5533	5376"
+msgid "All I had to do was play along.\\r\n"
+"Make sure you agreed to do it."
+msgstr ""
+
+msgctxt "		 	　	　	139	5700	5561"
+msgid "But I gotta say, I never\\r\n"
+"saw <Italic>this</Italic> shit coming."
+msgstr ""
+
+msgctxt "		 	　	　	64	5779	5715"
+msgid "Not in my wildest dreams."
+msgstr ""
+
+msgctxt "嫌だ嫌だ5883～		60ｆ以下です	　	　	55	5938	5883"
+msgid "You've gotta be kidding me!"
+msgstr ""
+
+msgctxt "		 	　	　	119	6058	5939"
+msgid "So, what!? Everyone's known\\r\n"
+"about me this whole time!?"
+msgstr ""
+
+msgctxt "		 	　	　	60	6174	6114"
+msgid "I want them back."
+msgstr ""
+
+msgctxt "		 	　	　	60	6321	6261"
+msgid "My money, and the ball."
+msgstr ""
+
+msgctxt "		 	　	分	81	6433	6352"
+msgid "I treasured that thing, you know."
+msgstr ""
+
+msgctxt "		60ｆ以下です	　	　	44	7167	7123"
+msgid "Manabe-san?"
+msgstr ""
+
+msgctxt "		 	　	　	111	7279	7168"
+msgid "Yup. Kubota didn't get it done."
+msgstr ""
+
+msgctxt "		 	　	　	101	7396	7295"
+msgid "I'll do it right this time. Guaranteed."
+msgstr ""
+
+msgctxt "		 	　	　	60	7473	7413"
+msgid "I'll let you know when it's over."
+msgstr ""
+
+msgctxt "		 	　	　	60	7596	7536"
+msgid "Manabe-san..."
+msgstr ""
+
+msgctxt "		 	　	　	60	7722	7662"
+msgid "You're in on this, too?"
+msgstr ""
+
+msgctxt "		 	　	　	168	7907	7739"
+msgid "If you're on their side, why'd you\\r\n"
+"help us run down this lead?"
+msgstr ""
+
+msgctxt "		60ｆ以下です	　	　	59	7991	7932"
+msgid "Help ya?"
+msgstr ""
+
+msgctxt "		 	　	分	102	8094	7992"
+msgid "All I told ya was someone was fixing matches."
+msgstr ""
+
+msgctxt "		 	　	　	109	8213	8104"
+msgid "Pretty sure I warned ya to keep your nose out."
+msgstr ""
+
+msgctxt "		 	　	　	123	8353	8230"
+msgid "You didn't think that would\\r\n"
+"actually stop me, did you?"
+msgstr ""
+
+msgctxt "		 	　	　	74	8487	8413"
+msgid "Nah, guess not."
+msgstr ""
+
+msgctxt "		 	　	　	88	8599	8511"
+msgid "We might be long past our playin' days..."
+msgstr ""
+
+msgctxt "		 	　	　	98	8705	8607"
+msgid "But there's not a soul alive\\r\n"
+"who likes watchin' a draw."
+msgstr ""
+
+msgctxt "		 	　	　	103	8824	8721"
+msgid "One way or another, someone's gotta win this."
+msgstr ""
+
+msgctxt "		 	　	　	60	8937	8877"
+msgid "You never change."
+msgstr ""
+
+msgctxt "		 	　	　	167	9116	8949"
+msgid "Even after all this time, you're still\\r\n"
+"that same batter I used to look up to."
+msgstr ""
+
+msgctxt "		 	　	　	144	9302	9158"
+msgid "Now how 'bout we settle this, Shinada?"
+msgstr ""
+

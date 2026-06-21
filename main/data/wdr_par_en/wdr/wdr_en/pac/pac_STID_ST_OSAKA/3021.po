@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "400"
+msgid "dummy"
+msgstr ""
+
+msgctxt "404"
+msgid "Dance Battle"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "132"
+msgid "I wonder how Masao's doing..."
+msgstr ""
+
+msgctxt "156"
+msgid "You're really leaving, Masao?"
+msgstr ""
+

@@ -1,0 +1,34 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		161	745	584"
+msgid "I wasn't expecting the Kamurocho\\r\n"
+"nightscape to be such a nice view."
+msgstr ""
+
+msgctxt " 	 	　	75	880	805"
+msgid "I knew you were alive."
+msgstr ""
+
+msgctxt " 	 	　	188	1110	922"
+msgid "Figured one of ya would make it\\r\n"
+"through this and take me out."
+msgstr ""
+
+msgctxt " 	 	　	95	1265	1170"
+msgid "That was the deal ya made with Katsuya, right?"
+msgstr ""
+
+msgctxt " 	 	　	60	1428	1368"
+msgid "Majima."
+msgstr ""
+
+msgctxt " 	 	　	60	1570	1510"
+msgid "Kurosawa."
+msgstr ""
+
+msgctxt " 	 	　	150	1780	1630"
+msgid "Well, turns out I need ya to\\r\n"
+"help me accomplish one last thing."
+msgstr ""
+

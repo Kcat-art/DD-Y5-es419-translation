@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "444"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "448"
+msgid "dummy"
+msgstr ""
+
+msgctxt "60_Shinada"
+msgid "Nuts! Lost him..."
+msgstr ""
+
+msgctxt "84_Shinada"
+msgid "*pant* Gah... *pant* No more..."
+msgstr ""
+

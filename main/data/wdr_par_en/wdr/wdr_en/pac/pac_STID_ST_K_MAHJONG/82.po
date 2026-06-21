@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1276"
+msgid "Waiting for player"
+msgstr ""
+

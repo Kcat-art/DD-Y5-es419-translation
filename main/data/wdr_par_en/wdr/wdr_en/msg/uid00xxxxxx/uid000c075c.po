@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "708"
+msgid "Cheerful Woman"
+msgstr ""
+
+msgctxt "712"
+msgid "Husky-voiced Woman"
+msgstr ""
+
+msgctxt "716"
+msgid "Husky-Voiced Woman"
+msgstr ""
+
+msgctxt "72_Cheerful Woman"
+msgid "I need to pick up some local gifts for friends back home. There's so much good stuff to choose from!"
+msgstr ""
+
+msgctxt "84_Cheerful Woman"
+msgid "Marimo."
+msgstr ""
+
+msgctxt "96_Cheerful Woman"
+msgid "I beg your pardon?"
+msgstr ""
+
+msgctxt "108_Cheerful Woman"
+msgid "How about Marimo moss balls?"
+msgstr ""
+

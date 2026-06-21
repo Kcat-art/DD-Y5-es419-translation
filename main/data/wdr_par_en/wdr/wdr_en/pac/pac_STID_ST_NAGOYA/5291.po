@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "232"
+msgid "adv4_160_02a/takasugi_4_160_020"
+msgstr ""
+

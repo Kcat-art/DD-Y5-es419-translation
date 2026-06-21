@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "244"
+msgid "Brash Man"
+msgstr ""
+
+msgctxt "72_Brash Man"
+msgid "Nice bod ya got there, hehehe..."
+msgstr ""
+

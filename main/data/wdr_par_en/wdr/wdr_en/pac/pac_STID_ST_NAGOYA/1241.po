@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "72"
+msgid "Right? Right?"
+msgstr ""
+
+msgctxt "264"
+msgid "Winter is all about..."
+msgstr ""
+

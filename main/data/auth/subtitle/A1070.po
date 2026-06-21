@@ -1,0 +1,57 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	380	320"
+msgid "Hi there!"
+msgstr ""
+
+msgctxt " 	60ｆ以下です	　	53	481	428"
+msgid "I'm Momo!"
+msgstr ""
+
+msgctxt " 	 	　	192	674	482"
+msgid "The heck? This is the cutest girl here?\\r\n"
+"Thought I asked fer your number one!"
+msgstr ""
+
+msgctxt "	 	　	153	828	675"
+msgid "Don't gimme that lip. I get folks\\r\n"
+"linin' up for me every day of the week!"
+msgstr ""
+
+msgctxt " 	 	　	82	1252	1170"
+msgid "Good evening. I'm Mayumi."
+msgstr ""
+
+msgctxt " 	 	　	117	1422	1305"
+msgid "Now <Italic>there's</Italic> a number one.\\r\n"
+"Freakin' gorgeous..."
+msgstr ""
+
+msgctxt " 	 	　	93	1544	1451"
+msgid "Don't tease me like that.\\r\n"
+"I'm long past my prime."
+msgstr ""
+
+msgctxt " 	 	　	66	1620	1554"
+msgid "Like heck y'are!"
+msgstr ""
+
+msgctxt "	 	　	122	1747	1625"
+msgid "C'mon, Suzuki-san.\\r\n"
+"Ain't this girl top-shelf?"
+msgstr ""
+
+msgctxt " 	 	　	60	1889	1829"
+msgid "Yeah, I guess so."
+msgstr ""
+
+msgctxt " 	 	　	183	2699	2516"
+msgid "Ugh, who do those Tojo pricks \\r\n"
+"think they are!? Makes me wanna hurl!"
+msgstr ""
+
+msgctxt " 	 	　	122	2822	2700"
+msgid "Hey! Y'bringin' us another bottle or what!?"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "196"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "44_Bartender"
+msgid "That was a fine match! Would you like to play Prize Bank Shot?"
+msgstr ""
+

@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "72"
+msgid "Here are the results! Congratulations to the winner!"
+msgstr ""
+
+msgctxt "84"
+msgid "Here are the results! Congratulations to the winner!"
+msgstr ""
+
+msgctxt "96"
+msgid "Here are the results! Congratulations to the winner!"
+msgstr ""
+
+msgctxt "108"
+msgid "Here are the results! Congratulations to the winner!"
+msgstr ""
+
+msgctxt "144"
+msgid "Here are the results! Congratulations to the winner!"
+msgstr ""
+
+msgctxt "156"
+msgid "Here are the results! Congratulations to the winner!"
+msgstr ""
+
+msgctxt "1812"
+msgid "dummy"
+msgstr ""
+

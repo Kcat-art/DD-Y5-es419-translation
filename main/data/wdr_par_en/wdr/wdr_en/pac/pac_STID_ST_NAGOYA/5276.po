@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1384"
+msgid "adv4_160_03/shinada_4_160_160"
+msgstr ""
+
+msgctxt "1388"
+msgid "adv4_140_10/takasugi_4_140_010"
+msgstr ""
+

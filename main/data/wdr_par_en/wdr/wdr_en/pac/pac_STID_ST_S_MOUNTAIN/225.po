@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "772"
+msgid "P_HNT"
+msgstr ""
+
+msgctxt "776"
+msgid "SS2_P_HNT_stand_nml"
+msgstr ""
+

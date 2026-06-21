@@ -1,0 +1,71 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "4016"
+msgid "Player"
+msgstr ""
+
+msgctxt "4020"
+msgid "Gambling Hall"
+msgstr ""
+
+msgctxt "4024"
+msgid "Casino"
+msgstr ""
+
+msgctxt "4028"
+msgid "Dojo"
+msgstr ""
+
+msgctxt "4032"
+msgid "Don't Enter"
+msgstr ""
+
+msgctxt "4036"
+msgid "Forget it."
+msgstr ""
+
+msgctxt "92_Player"
+msgid "(Here's the elevator. Where to go?)"
+msgstr ""
+
+msgctxt "152_Player"
+msgid "(Not now. I should come back later.)"
+msgstr ""
+
+msgctxt "164_Player"
+msgid "(No, forget it.)"
+msgstr ""
+
+msgctxt "188_Player"
+msgid "(Here's the elevator. Where to go?)"
+msgstr ""
+
+msgctxt "212_Player"
+msgid "(No, let's not.)"
+msgstr ""
+
+msgctxt "224_Player"
+msgid "(I'm not sure I want to go here alone...)"
+msgstr ""
+
+msgctxt "236_Player"
+msgid "(Here's the elevator. Where to go?)"
+msgstr ""
+
+msgctxt "296_Player"
+msgid "(Not now. I should come back later.)"
+msgstr ""
+
+msgctxt "308_Player"
+msgid "(No, forget it.)"
+msgstr ""
+
+msgctxt "320_Player"
+msgid "(Here's the elevator. Where to go?)"
+msgstr ""
+
+msgctxt "368_Player"
+msgid "(No, forget it.)"
+msgstr ""
+

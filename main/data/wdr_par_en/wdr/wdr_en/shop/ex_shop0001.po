@@ -1,0 +1,343 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid "Obtained"
+msgstr ""
+
+msgctxt "16"
+msgid "Obtained"
+msgstr ""
+
+msgctxt "20"
+msgid "Obtained"
+msgstr ""
+
+msgctxt "24"
+msgid "Obtained"
+msgstr ""
+
+msgctxt "28"
+msgid "Obtained"
+msgstr ""
+
+msgctxt "32"
+msgid "Take"
+msgstr ""
+
+msgctxt "36"
+msgid "Take"
+msgstr ""
+
+msgctxt "40"
+msgid "Take"
+msgstr ""
+
+msgctxt "44"
+msgid "Take"
+msgstr ""
+
+msgctxt "48"
+msgid "Take"
+msgstr ""
+
+msgctxt "52"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "60"
+msgid "(Gotta pick somethin' first.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(I haven't chosen anything.)"
+msgstr ""
+
+msgctxt "68"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "72"
+msgid "Can Get"
+msgstr ""
+
+msgctxt "76"
+msgid "Can Get"
+msgstr ""
+
+msgctxt "80"
+msgid "Can Get"
+msgstr ""
+
+msgctxt "84"
+msgid "Can Get"
+msgstr ""
+
+msgctxt "88"
+msgid "Can Get"
+msgstr ""
+
+msgctxt "92"
+msgid "That good enough for you?"
+msgstr ""
+
+msgctxt "96"
+msgid "That good enough for you?"
+msgstr ""
+
+msgctxt "100"
+msgid "That good enough for you?"
+msgstr ""
+
+msgctxt "104"
+msgid "That good enough for you?"
+msgstr ""
+
+msgctxt "108"
+msgid "That good enough for you?"
+msgstr ""
+
+msgctxt "112"
+msgid "(I don't have enough room.)"
+msgstr ""
+
+msgctxt "116"
+msgid "(Pockets are jam-packed as is.)"
+msgstr ""
+
+msgctxt "120"
+msgid "(Carryin' too much already.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(I have too much stuff.)  "
+msgstr ""
+
+msgctxt "128"
+msgid "(I'm carrying way too much already.)"
+msgstr ""
+
+msgctxt "132"
+msgid "dummy"
+msgstr ""
+
+msgctxt "136"
+msgid "dummy"
+msgstr ""
+
+msgctxt "140"
+msgid "dummy"
+msgstr ""
+
+msgctxt "144"
+msgid "dummy"
+msgstr ""
+
+msgctxt "148"
+msgid "dummy"
+msgstr ""
+
+msgctxt "152"
+msgid "(Oh, I already have one.)"
+msgstr ""
+
+msgctxt "156"
+msgid "(Already have myself one of those.)"
+msgstr ""
+
+msgctxt "160"
+msgid "(Already got my hands on that.)"
+msgstr ""
+
+msgctxt "164"
+msgid "(I already have this...)"
+msgstr ""
+
+msgctxt "168"
+msgid "(I already have one of those.)"
+msgstr ""
+
+msgctxt "524"
+msgid "A reward for achieving \"Legend of the Dragon\" in RGG Online. It's pretty rare!"
+msgstr ""
+
+msgctxt "556"
+msgid "A reward for achieving \"Ryu ga Gotoku All-Star\" in RGG Online. It's pretty rare!"
+msgstr ""
+
+msgctxt "588"
+msgid "A reward for achieving \"Great Leader\" in RGG Online. It's pretty rare!"
+msgstr ""
+
+msgctxt "620"
+msgid "A reward for achieving \"True Brawler\" in RGG Online. It's pretty rare!"
+msgstr ""
+
+msgctxt "652"
+msgid "A reward for achieving \"Gear Master\" in RGG Online. It's pretty rare!"
+msgstr ""
+
+msgctxt "684"
+msgid "A reward for achieving \"Bond of Friendship\" in RGG Online. It's pretty rare!"
+msgstr ""
+
+msgctxt "716"
+msgid "A reward for achieving \"Victor's Proof\" in RGG Online. It's pretty rare!"
+msgstr ""
+
+msgctxt "748"
+msgid "A reward for achieving \"Proof of the End\" in RGG Online. It's pretty rare!"
+msgstr ""
+
+msgctxt "780"
+msgid "A reward for achieving \"The Strong Become Stronger\" in RGG Online. It's pretty rare!"
+msgstr ""
+
+msgctxt "812"
+msgid "A reward for achieving \"Card Emperor\" in RGG Online. It improves your draws."
+msgstr ""
+
+msgctxt "844"
+msgid "A reward for achieving \"Building Owner\" in RGG Online. It'll help you out in Cee-lo games."
+msgstr ""
+
+msgctxt "876"
+msgid "A reward for achieving \"Completionist\" in RGG Online. Bring this if you want to win at baccarat."
+msgstr ""
+
+msgctxt "908"
+msgid "A reward for achieving \"Card Minister\" in RGG Online. You might wanna bring that to a poker game."
+msgstr ""
+
+msgctxt "940"
+msgid "A reward for achieving \"Initiate\" in RGG Online. It might confuse nearby gamblers."
+msgstr ""
+
+msgctxt "972"
+msgid "A reward for achieving \"VIP\" in RGG Online. If you really want to throw off other gamblers, use these."
+msgstr ""
+
+msgctxt "1004"
+msgid "A reward for achieving \"Cup of Oaths\" in RGG Online. It's apparently a powerful weapon material."
+msgstr ""
+
+msgctxt "1036"
+msgid "A reward for achieving \"Kamuro Stylist\" in RGG Online. I heard you lose money if you think about it."
+msgstr ""
+
+msgctxt "1068"
+msgid "A reward for achieving \"Battle Ranker\" in RGG Online. Could come in handy in a Cee-lo game."
+msgstr ""
+
+msgctxt "1100"
+msgid "A reward for achieving \"Card Tuner\" in RGG Online. I heard you gain money if you think about it."
+msgstr ""
+
+msgctxt "1132"
+msgid "A reward for achieving \"Kamuro Ammo Dump\" in RGG Online. It's apparently a powerful weapon material."
+msgstr ""
+
+msgctxt "1164"
+msgid "A reward for achieving \"Rare Card Collector\" in RGG Online. This is a go-to item for instant wins."
+msgstr ""
+
+msgctxt "1196"
+msgid "A reward for achieving \"Kamuro Pioneer\" in RGG Online. It's apparently a powerful weapon material."
+msgstr ""
+
+msgctxt "1228"
+msgid "A reward for achieving \"Walking Megabank\" in RGG Online. Bring this if you want to win at baccarat."
+msgstr ""
+
+msgctxt "1260"
+msgid "A reward for achieving \"Troubleshooter\" in RGG Online. It puts pressure on the dealer."
+msgstr ""
+
+msgctxt "1292"
+msgid "A reward for achieving \"Thanks For The Feedback!\" in RGG Online. A must-have if you like slots."
+msgstr ""
+
+msgctxt "1324"
+msgid "A reward for achieving \"Kamuro Alchemist\" in RGG Online. It makes it easier to win at slots."
+msgstr ""
+
+msgctxt "1356"
+msgid "A reward for achieving \"Human Bulldozer\" in RGG Online. It's a charm that comes in handy during Cee-Lo."
+msgstr ""
+
+msgctxt "1388"
+msgid "A reward for achieving \"Mr. Gacha\" in RGG Online. Ueyama would kill for one of these."
+msgstr ""
+
+msgctxt "1420"
+msgid "A reward for achieving \"Risky Synthesis\" in RGG Online. Apparently, it makes pachinko tables spin like crazy."
+msgstr ""
+
+msgctxt "1452"
+msgid "A reward for achieving \"Regular Customer\" in RGG Online. It makes you win at pachinko more often."
+msgstr ""
+
+msgctxt "1484"
+msgid "A reward for achieving \"Fashion Leader\" in RGG Online. Maybe it'll come in handy when modding weapons!"
+msgstr ""
+
+msgctxt "1516"
+msgid "A reward for achieving \"Card Collector\" in RGG Online. Maybe it'll come in handy when modding weapons!"
+msgstr ""
+
+msgctxt "1548"
+msgid "A reward for achieving \"Kamuro Gunpowder Keg\" in RGG Online. Maybe it'll come in handy when modding weapons!"
+msgstr ""
+
+msgctxt "1580"
+msgid "A reward for achieving \"Joy of Bonds\" in RGG Online. Maybe it'll come in handy when modding weapons!"
+msgstr ""
+
+msgctxt "1612"
+msgid "A reward for achieving \"Gacha Debut\" in RGG Online. Ueyama is collecting these like a madman."
+msgstr ""
+
+msgctxt "1644"
+msgid "A reward for achieving \"First Steps\" in RGG Online. Maybe it'll come in handy when modding weapons!"
+msgstr ""
+
+msgctxt "1676"
+msgid "A reward for achieving \"Thank You For Your Business!\" in RGG Online. It's a set of items that soothes the wounded body in combat."
+msgstr ""
+
+msgctxt "1708"
+msgid "A reward for achieving \"Moral Man\" in RGG Online. Maybe it'll come in handy when modding weapons!"
+msgstr ""
+
+msgctxt "1740"
+msgid "A reward for achieving \"Thank You For Your Business!\" in RGG Online. It's a set of items that soothes the wounded body in combat."
+msgstr ""
+
+msgctxt "1772"
+msgid "A reward for achieving \"Kamuro Moneymaker\" in RGG Online. Use it as you please."
+msgstr ""
+
+msgctxt "1804"
+msgid "A reward for achieving \"First Completion\" in RGG Online. It's a set of items that soothes the wounded body in combat."
+msgstr ""
+
+msgctxt "1836"
+msgid "A reward for achieving \"Yakuza: Dead Souls\" in RGG Online. Ueyama would kill for one of these."
+msgstr ""
+
+msgctxt "1868"
+msgid "A reward for achieving \"Militant Enforcer\" in RGG Online. It's a set of items that soothes the wounded body in combat."
+msgstr ""
+
+msgctxt "1900"
+msgid "A reward for achieving \"Block Shops Complete\" in RGG Online. I heard it makes timing easier at slots."
+msgstr ""
+
+msgctxt "1932"
+msgid "A reward for achieving \"Traps Are Important\" in RGG Online. It's a set of items that soothes the wounded body in combat."
+msgstr ""
+

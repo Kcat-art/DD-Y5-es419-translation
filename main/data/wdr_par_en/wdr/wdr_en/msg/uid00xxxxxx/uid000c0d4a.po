@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "364"
+msgid "Praying Man"
+msgstr ""
+
+msgctxt "72_Praying Man"
+msgid "Please, please, please, make me handsome. Make me handsome. Oh, please..."
+msgstr ""
+

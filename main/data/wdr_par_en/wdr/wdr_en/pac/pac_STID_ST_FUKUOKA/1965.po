@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "They're so sweet."
+msgstr ""
+
+msgctxt "248"
+msgid "Hakata dialect..."
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "300"
+msgid "Man on a Roll"
+msgstr ""
+
+msgctxt "72_Man on a Roll"
+msgid "Today's a good day! I can't lose, even when I try! Wahaha!"
+msgstr ""
+

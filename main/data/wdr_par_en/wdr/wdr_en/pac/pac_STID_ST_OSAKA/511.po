@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "4724"
+msgid "adv3_250_1/horie_0086a"
+msgstr ""
+
+msgctxt "4728"
+msgid "adv3_195_2/haruka_3_196_010"
+msgstr ""
+
+msgctxt "4732"
+msgid "adv3_195_1/akari_3_195_010"
+msgstr ""
+
+msgctxt "4736"
+msgid "adv3_140/horie_0043a"
+msgstr ""
+
+msgctxt "4740"
+msgid "adv3_050_4/akari_3_051_010"
+msgstr ""
+
+msgctxt "4744"
+msgid "kaiwabgm_happy01"
+msgstr ""
+
+msgctxt "4748"
+msgid "adv3_050_3/akari_3_050_010"
+msgstr ""
+
+msgctxt "4752"
+msgid "adv3_045_1/horie_3_045_010"
+msgstr ""
+
+msgctxt "4756"
+msgid "dummy"
+msgstr ""
+

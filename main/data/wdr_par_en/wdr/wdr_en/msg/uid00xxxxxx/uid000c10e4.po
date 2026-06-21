@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "344"
+msgid "Healthy Man"
+msgstr ""
+
+msgctxt "72_Healthy Man"
+msgid "Yes, I'm actually calling from bed at home. Yes, I'm terribly sorry. *cough* Wheeze!"
+msgstr ""
+

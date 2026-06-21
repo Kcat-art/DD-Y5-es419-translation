@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "708"
+msgid "Kaguya"
+msgstr ""
+
+msgctxt "712"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "44_Kaguya"
+msgid "I really have to pose like a panther?"
+msgstr ""
+
+msgctxt "56_Kaguya"
+msgid "Well, okay, then... I'll do it, just for you, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+

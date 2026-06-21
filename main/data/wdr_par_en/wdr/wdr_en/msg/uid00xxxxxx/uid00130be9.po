@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "756"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "760"
+msgid "M_KAW_TLK_sitchr_yes"
+msgstr ""
+
+msgctxt "764"
+msgid "M_KAW_TLK_sitchr_good"
+msgstr ""
+
+msgctxt "44_Tatsuya"
+msgid "Okay, I'll leave it up to you. Surprise me!"
+msgstr ""
+
+msgctxt "104_Tatsuya"
+msgid "Oh, wow, good choice!"
+msgstr ""
+

@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "492"
+msgid "adv2_340/kitakata_0015a"
+msgstr ""
+

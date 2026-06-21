@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "728"
+msgid "M_NML_SET_sitchr_nml_04"
+msgstr ""
+

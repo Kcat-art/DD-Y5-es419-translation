@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "984"
+msgid "adv2_210/saejima_2_210_030"
+msgstr ""
+
+msgctxt "988"
+msgid "adv2_210/okudera_2_210_010"
+msgstr ""
+

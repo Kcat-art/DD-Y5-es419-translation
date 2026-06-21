@@ -1,0 +1,16 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	451	391"
+msgid "It's you..."
+msgstr ""
+
+msgctxt " 	 	　	60	585	525"
+msgid "Baba!"
+msgstr ""
+
+msgctxt " 	 		113	799	686"
+msgid "Baba-chan...\\r\n"
+"The hell's goin' on!?"
+msgstr ""
+

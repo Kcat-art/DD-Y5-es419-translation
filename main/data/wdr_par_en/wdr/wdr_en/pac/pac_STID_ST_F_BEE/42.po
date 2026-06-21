@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "568"
+msgid "Darts is over here."
+msgstr ""
+

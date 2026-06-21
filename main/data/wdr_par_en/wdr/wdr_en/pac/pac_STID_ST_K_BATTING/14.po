@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "124"
+msgid "You did it, Uncle Kaz!"
+msgstr ""
+
+msgctxt "148"
+msgid "Aw, too bad!"
+msgstr ""
+
+msgctxt "172"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "184"
+msgid "Look! An academic mode! Are you good with numbers?"
+msgstr ""
+

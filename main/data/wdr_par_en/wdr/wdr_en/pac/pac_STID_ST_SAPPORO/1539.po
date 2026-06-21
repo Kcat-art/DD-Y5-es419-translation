@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "It's not so easy."
+msgstr ""
+
+msgctxt "248"
+msgid "Hmmm..."
+msgstr ""
+

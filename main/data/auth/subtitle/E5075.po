@@ -1,0 +1,49 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		120	1095	975"
+msgid "Get your ass up here, Aizawa."
+msgstr ""
+
+msgctxt " 	　	　	93	1240	1147"
+msgid "Take me out and find Morinaga."
+msgstr ""
+
+msgctxt " 	　	　	122	1398	1276"
+msgid "And if seein' him again doesn't\\r\n"
+"settle the matter for ya..."
+msgstr ""
+
+msgctxt " 	　	分	87	1508	1421"
+msgid "Then pummel him 'til you're satisfied."
+msgstr ""
+
+msgctxt " 	　	　	60	1610	1550"
+msgid "Saejima-san..."
+msgstr ""
+
+msgctxt " 	　	　	97	1735	1638"
+msgid "Wallow in self pity all ya want..."
+msgstr ""
+
+msgctxt " 	　	　	145	1899	1754"
+msgid "But when your brother starts\\r\n"
+"strayin' down the wrong path..."
+msgstr ""
+
+msgctxt " 	　	　	96	2071	1975"
+msgid "It's up to you to set him straight."
+msgstr ""
+
+msgctxt " 	　	　	91	2375	2284"
+msgid "So move it, Aizawa."
+msgstr ""
+
+msgctxt " 	　	　	60	2644	2584"
+msgid "Okay."
+msgstr ""
+
+msgctxt " 	　		82	3235	3153"
+msgid "Let's go, Aizawa."
+msgstr ""
+

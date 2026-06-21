@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "676"
+msgid "P_SIN_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "680"
+msgid "M_SHP_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "684"
+msgid "ArmsID"
+msgstr ""
+

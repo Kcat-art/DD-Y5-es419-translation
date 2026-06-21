@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "172"
+msgid "Oh, man. What am I gonna do?"
+msgstr ""
+
+msgctxt "184"
+msgid "It's time for the audition."
+msgstr ""
+
+msgctxt "208"
+msgid "It's time for the audition."
+msgstr ""
+
+msgctxt "220"
+msgid "Oh, man. What am I gonna do?"
+msgstr ""
+
+msgctxt "268"
+msgid "Haruka-chan!"
+msgstr ""
+
+msgctxt "280"
+msgid "Let's go!"
+msgstr ""
+

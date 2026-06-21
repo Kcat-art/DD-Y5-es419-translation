@@ -1,0 +1,227 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid "/‐"
+msgstr ""
+
+msgctxt "16"
+msgid "/‐"
+msgstr ""
+
+msgctxt "20"
+msgid "/‐"
+msgstr ""
+
+msgctxt "24"
+msgid "/‐"
+msgstr ""
+
+msgctxt "28"
+msgid "/‐"
+msgstr ""
+
+msgctxt "32"
+msgid "Owned"
+msgstr ""
+
+msgctxt "36"
+msgid "Owned"
+msgstr ""
+
+msgctxt "40"
+msgid "Owned"
+msgstr ""
+
+msgctxt "44"
+msgid "Owned"
+msgstr ""
+
+msgctxt "48"
+msgid "Owned"
+msgstr ""
+
+msgctxt "52"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "60"
+msgid "(Don't got anythin' picked out.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(I haven't selected anything.)  "
+msgstr ""
+
+msgctxt "68"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "72"
+msgid "(I don't have enough for that.)"
+msgstr ""
+
+msgctxt "76"
+msgid "(Don't have the cash. How am I so broke?)"
+msgstr ""
+
+msgctxt "80"
+msgid "(Don't got the cash for that.)"
+msgstr ""
+
+msgctxt "84"
+msgid "(Looks like I'm a little short.)  "
+msgstr ""
+
+msgctxt "88"
+msgid "(Looks like I don't have enough.)"
+msgstr ""
+
+msgctxt "92"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "96"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "100"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "104"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "108"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "112"
+msgid "(I don't have enough room.)"
+msgstr ""
+
+msgctxt "116"
+msgid "(Pockets are jam-packed as is.)"
+msgstr ""
+
+msgctxt "120"
+msgid "(Carryin' too much already.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(I don't have any space.)"
+msgstr ""
+
+msgctxt "128"
+msgid "(I don't have the space for that.)"
+msgstr ""
+
+msgctxt "132"
+msgid "(They're all sold out.)"
+msgstr ""
+
+msgctxt "136"
+msgid "(Fresh out.)"
+msgstr ""
+
+msgctxt "140"
+msgid "(Ain't a single one left.)"
+msgstr ""
+
+msgctxt "144"
+msgid "(I guess it's all sold out.)  "
+msgstr ""
+
+msgctxt "148"
+msgid "(I don't need any of this stuff.)"
+msgstr ""
+
+msgctxt "152"
+msgid "(Oh, I already have one.)"
+msgstr ""
+
+msgctxt "156"
+msgid "(Already have myself one of those.)"
+msgstr ""
+
+msgctxt "160"
+msgid "(Already got my hands on that.)"
+msgstr ""
+
+msgctxt "164"
+msgid "(Already got one of these.)  "
+msgstr ""
+
+msgctxt "168"
+msgid "(I already have one of those.)"
+msgstr ""
+
+msgctxt "172"
+msgid "－"
+msgstr ""
+
+msgctxt "176"
+msgid "－"
+msgstr ""
+
+msgctxt "180"
+msgid "－"
+msgstr ""
+
+msgctxt "184"
+msgid "－"
+msgstr ""
+
+msgctxt "188"
+msgid "－"
+msgstr ""
+
+msgctxt "192"
+msgid "Order"
+msgstr ""
+
+msgctxt "196"
+msgid "Order"
+msgstr ""
+
+msgctxt "200"
+msgid "Order"
+msgstr ""
+
+msgctxt "204"
+msgid "Order"
+msgstr ""
+
+msgctxt "208"
+msgid "Order"
+msgstr ""
+
+msgctxt "524"
+msgid "This rice soup turns stew-like with the addition of white sauce and black pepper. Enjoy it carbonara style with an egg on top."
+msgstr ""
+
+msgctxt "556"
+msgid "The sweetness of slow-fried onions and the deep flavor of minced chicken are ramped up with special spices."
+msgstr ""
+
+msgctxt "588"
+msgid "The heat of aged broad bean chili paste shines through in this East-West mashup. Japanese beef fat adds extra richness."
+msgstr ""
+
+msgctxt "620"
+msgid "This luxurious, flavorful new twist on Napolitan pasta replaces sausage with salsiccia and mushrooms with porcini."
+msgstr ""
+
+msgctxt "652"
+msgid "This Korean tofu stew masterpiece brings together sweet seafood, rich shellfish, and exquisite sauce Américaine."
+msgstr ""
+
+msgctxt "684"
+msgid "This masterpiece is simple yet irresistible. The beautiful flavor of eggs and milk is accentuated with aromatic vanilla beans."
+msgstr ""
+

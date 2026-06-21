@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "484"
+msgid "Buzzed Junior Employee"
+msgstr ""
+
+msgctxt "488"
+msgid "Depressed Senior Employee"
+msgstr ""
+
+msgctxt "72_Buzzed Junior Employee"
+msgid "Come on, let's go here next!"
+msgstr ""
+
+msgctxt "84_Buzzed Junior Employee"
+msgid "Nah, I'm tapped out. I blew the last of my spending money already. I'm done for the rest of the month."
+msgstr ""
+

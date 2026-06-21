@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "584"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "588"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Okudera"
+msgid "Why are you leaving? We haven't spotted any deer yet."
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "Oh, right."
+msgstr ""
+

@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "116"
+msgid "Exchange Prizes"
+msgstr ""
+

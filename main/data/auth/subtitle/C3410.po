@@ -1,0 +1,50 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	310	250"
+msgid "Boys."
+msgstr ""
+
+msgctxt " 	　	　	60	374	314"
+msgid "So?"
+msgstr ""
+
+msgctxt " 	　	分	66	452	386"
+msgid "Ya find that letter or not?"
+msgstr ""
+
+msgctxt " 	　	　	124	582	458"
+msgid "Well you see, this little brat\\r\n"
+"won't fess up, so..."
+msgstr ""
+
+msgctxt " 	　	　	80	710	630"
+msgid "Then <Italic>make</Italic> her, shithead!"
+msgstr ""
+
+msgctxt " 	　	　	76	978	902"
+msgid "I'm through wastin' time with ya."
+msgstr ""
+
+msgctxt " 	　	　	60	1077	1017"
+msgid "Spit it out, girl."
+msgstr ""
+
+msgctxt " 	　	　	148	1243	1095"
+msgid "I know ya got it. Or do ya wanna\\r\n"
+"take the same little leap your president did?"
+msgstr ""
+
+msgctxt " 	　	　	60	1403	1343"
+msgid "Don't interrupt me!"
+msgstr ""
+
+msgctxt " 	　	　	178	1647	1469"
+msgid "Sorry, but it needs to be done.\\r\n"
+"You've tested my patience long enough."
+msgstr ""
+
+msgctxt " 	　	　	60	1746	1686"
+msgid "Chairman!?"
+msgstr ""
+

@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1220"
+msgid "P_SAE_sitchr"
+msgstr ""
+
+msgctxt "1224"
+msgid "P_SAE_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "1228"
+msgid "P_SAE_TLK_sitchr_kamae_st"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Where am I on the map?"
+msgstr ""
+
+msgctxt "252"
+msgid "Hey, wait a sec..."
+msgstr ""
+

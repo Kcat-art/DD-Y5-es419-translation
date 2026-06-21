@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "200"
+msgid "逃げる"
+msgstr ""
+

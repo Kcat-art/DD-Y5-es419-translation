@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "376"
+msgid "Forlorn Man"
+msgstr ""
+
+msgctxt "72_Forlorn Man"
+msgid "Something's wrong. Only ten minutes till our meet-up time, and no one's shown up. They might be in some kinda trouble!"
+msgstr ""
+

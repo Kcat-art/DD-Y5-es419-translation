@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "128"
+msgid "A10680_osaka_zouen"
+msgstr ""
+

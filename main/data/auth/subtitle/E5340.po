@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	 	 		60	157	97"
+msgid "Sixty seconds and counting!"
+msgstr ""
+
+msgctxt "	 	 	　	97	585	488"
+msgid "Haruka. You ready to go?"
+msgstr ""
+
+msgctxt "	 	 	　	114	823	700"
+msgid "This is only the beginning for Dream Line."
+msgstr ""
+
+msgctxt "	 	 	　	88	950	862"
+msgid "Let's have a blast out there!"
+msgstr ""
+
+msgctxt "					2632	2533"
+msgid "This silly dream, this ray of hope"
+msgstr ""
+
+msgctxt "					2799	2633"
+msgid "Fading faster than scribbles on the pavement"
+msgstr ""
+
+msgctxt "					2900	2800"
+msgid "Should I just give in?"
+msgstr ""
+

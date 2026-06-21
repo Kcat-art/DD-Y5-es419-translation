@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "656"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "660"
+msgid "dummy"
+msgstr ""
+
+msgctxt "664"
+msgid "Player"
+msgstr ""
+
+msgctxt "44_Okudera"
+msgid "What are you doing? Aren't you going to introduce yourself to the trader?"
+msgstr ""
+
+msgctxt "68_Player"
+msgid "Ah. Right."
+msgstr ""
+

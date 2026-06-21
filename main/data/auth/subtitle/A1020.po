@@ -1,0 +1,34 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	975	915"
+msgid "Mind giving me a lift?"
+msgstr ""
+
+msgctxt " 	 	　	66	1140	1074"
+msgid "I said I'd like a ride."
+msgstr ""
+
+msgctxt " 	 	　	138	1351	1213"
+msgid "Then ask the taxi at the front.\\r\n"
+"That's how this works."
+msgstr ""
+
+msgctxt " 	 	　	114	1502	1388"
+msgid "No. I think I'd prefer this one."
+msgstr ""
+
+msgctxt " 	 	　	188	1740	1552"
+msgid "You have no reason to turn me away. And drivers\\r\n"
+"can't refuse a paying customer without justification."
+msgstr ""
+
+msgctxt " 	 	　	60	2237	2177"
+msgid "Where to, sir?"
+msgstr ""
+
+msgctxt " 	 	　	86	2340	2254"
+msgid "Just drive.\\r\n"
+"I don't care where."
+msgstr ""
+

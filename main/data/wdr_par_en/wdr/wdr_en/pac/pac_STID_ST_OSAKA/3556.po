@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "76"
+msgid "Get your okonomiyaki here!"
+msgstr ""
+
+msgctxt "88"
+msgid "Hot and tasty!"
+msgstr ""
+

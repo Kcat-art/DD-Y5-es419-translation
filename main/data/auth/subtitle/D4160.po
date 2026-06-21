@@ -1,0 +1,8 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "			■海外版追加字幕（品田のサヨナラホームランボール）				115	640	525"
+msgid "6/8/1997 Tatsuo Shinada\\r\n"
+"off Tokyo Gigants pitcher Sawada"
+msgstr ""
+

@@ -1,0 +1,128 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	60ｆ以下です	60ｆ以下です		45	184	139"
+msgid "Oh, that's him!"
+msgstr ""
+
+msgctxt "	 	　	　	117	302	185"
+msgid "See him over there?\\r\n"
+"That's the producer, Manda-san."
+msgstr ""
+
+msgctxt "	 	　	　	60	406	346"
+msgid "Shall we?"
+msgstr ""
+
+msgctxt "	 	　	　	98	727	629"
+msgid "Shoot... T-Set is with him."
+msgstr ""
+
+msgctxt "	 	　	　	75	831	756"
+msgid "They dropped us for Osaka Talent."
+msgstr ""
+
+msgctxt "	 	　	　	69	958	889"
+msgid "Nothing for you to worry about, though."
+msgstr ""
+
+msgctxt "	 	　	　	97	1130	1033"
+msgid "Make sure we get lots of\\r\n"
+"support in the finals, Manda-san!"
+msgstr ""
+
+msgctxt "	 	　	　	138	1269	1131"
+msgid "Oh, no problem there! You two draw\\r\n"
+"a bigger crowd than anyone!"
+msgstr ""
+
+msgctxt "	 	　	　	171	1450	1279"
+msgid "Well, good luck today, girls!\\r\n"
+"Mai-chan, Azusa-chan, take care of yourselves!"
+msgstr ""
+
+msgctxt "	 	　	　	60	1531	1471"
+msgid "Thank you, sir!"
+msgstr ""
+
+msgctxt "	 	　	　	104	1682	1578"
+msgid "Hello there, Manda-san! \\r\n"
+"It's Horie, from Dyna Chair!"
+msgstr ""
+
+msgctxt "	 	　	　	80	1777	1697"
+msgid "I thought we'd come say hello before the show."
+msgstr ""
+
+msgctxt "追加	 	　	　	60	1865	1805"
+msgid "Hot!"
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	　	35	1993	1958"
+msgid "I'm so sorry!"
+msgstr ""
+
+msgctxt "	 	　	　	60	2054	1994"
+msgid "Manda-san!"
+msgstr ""
+
+msgctxt "	 	　	　	101	2185	2084"
+msgid "Just before the finals, too."
+msgstr ""
+
+msgctxt "	 	　	分	101	2289	2188"
+msgid "That's one way to introduce yourself."
+msgstr ""
+
+msgctxt "	 	　	　	153	2443	2290"
+msgid "What's wrong with you?\\r\n"
+"Do you even look where you're going?"
+msgstr ""
+
+msgctxt "	 	　	　	102	2546	2444"
+msgid "Seriously. You should really be more careful."
+msgstr ""
+
+msgctxt "	 	　	分	60	2617	2557"
+msgid "Dyna Chair-san."
+msgstr ""
+
+msgctxt "	 	　	　	79	2773	2694"
+msgid "We're so sorry, Manda-san! Here!"
+msgstr ""
+
+msgctxt "	 	　	　	68	2859	2791"
+msgid "I really can't apologize enough!"
+msgstr ""
+
+msgctxt "	 	　	　	118	2978	2860"
+msgid "Sometimes, a single mistake is all\\r\n"
+"it takes to lose everything."
+msgstr ""
+
+msgctxt "	 	　	分	120	3217	3011"
+msgid "As for you, your career will never take off\\r\n"
+"if you can't even get along with kids your own age."
+msgstr ""
+
+msgctxt "	 	　	　	60	3278	3218"
+msgid "We're very sorry, sir!"
+msgstr ""
+
+msgctxt "	 	　	　	99	3378	3279"
+msgid "C'mon, Haruka-chan! Hurry up\\r\n"
+"and apologize to the man!"
+msgstr ""
+
+msgctxt "	 	　	　	60	3460	3400"
+msgid "It was an honest mistake, sir!"
+msgstr ""
+
+msgctxt "	 	　	　	77	3577	3500"
+msgid "Long as ya don't make another in the finals."
+msgstr ""
+
+msgctxt "	 	　	　	60	3804	3744"
+msgid "Of all the rotten luck..."
+msgstr ""
+

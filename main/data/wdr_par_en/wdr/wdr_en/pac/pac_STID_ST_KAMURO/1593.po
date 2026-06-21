@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Where's the Karaokekan?"
+msgstr ""
+
+msgctxt "244"
+msgid "I'm on edge!"
+msgstr ""
+

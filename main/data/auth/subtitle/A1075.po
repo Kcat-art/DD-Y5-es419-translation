@@ -1,0 +1,252 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	　		130	175	45"
+msgid "Those guys're sure kickin' up a storm.\\r\n"
+"Who are they, anyways?"
+msgstr ""
+
+msgctxt " 	　	　	117	301	184"
+msgid "Oh, them?\\r\n"
+"They're our protection."
+msgstr ""
+
+msgctxt " 	　	　	90	393	303"
+msgid "Protection? Y'mean yakuza?"
+msgstr ""
+
+msgctxt " 	　	　	177	571	394"
+msgid "Yup. Small-timers, though.\\r\n"
+"Just 'bout the bottom rung of the Yamagasa ladder."
+msgstr ""
+
+msgctxt " 	　	　	93	680	587"
+msgid "Why they gotta come boozin' here?"
+msgstr ""
+
+msgctxt " 	　	分	126	807	681"
+msgid "It ain't protection if they're only showin' up\\r\n"
+"when there's not a speck o' trouble."
+msgstr ""
+
+msgctxt " 	　	　	63	872	809"
+msgid "'Parently these're special circumstances."
+msgstr ""
+
+msgctxt " 	　	　	60	935	875"
+msgid "Some group from Tokyo in town."
+msgstr ""
+
+msgctxt " 	　	　	130	1110	980"
+msgid "Think they're called the Tojo Clan?\\r\n"
+"They're all over Nagasu right now."
+msgstr ""
+
+msgctxt " 	　	　	150	1261	1111"
+msgid "If yer askin' me, I'd bet those guys're\\r\n"
+"here to keep any of them Tojo folks out."
+msgstr ""
+
+msgctxt " 	　	　	107	1406	1299"
+msgid "All clean over my head,\\r\n"
+"but it stinks o' trouble."
+msgstr ""
+
+msgctxt " 	　	　	85	1517	1432"
+msgid "Just wish they stayed away on payday."
+msgstr ""
+
+msgctxt " 	　	分	60	1578	1518"
+msgid "Right, Suzuki-san?"
+msgstr ""
+
+msgctxt " 	　	　	76	1664	1588"
+msgid "Yeah, I guess."
+msgstr ""
+
+msgctxt " 	　	　	74	1751	1677"
+msgid "It's a real crick in the neck."
+msgstr ""
+
+msgctxt " 	　	分	118	1870	1752"
+msgid "Them hangin' here on payday's\\r\n"
+"gonna scare all our customers off."
+msgstr ""
+
+msgctxt " 	　	　	84	1955	1871"
+msgid "Not to mention they're\\r\n"
+"sloshed outta their minds."
+msgstr ""
+
+msgctxt " 	　	分	92	2070	1978"
+msgid "Bunch o' dang pests."
+msgstr ""
+
+msgctxt " 	　	　	92	2239	2147"
+msgid "Why we gotta sit around in this dump?"
+msgstr ""
+
+msgctxt " 	　	　	164	2410	2246"
+msgid "Y'wanna deal with the Tojo? I say we knock 'em\\r\n"
+"clean on their asses n' right outta Fukuoka!"
+msgstr ""
+
+msgctxt " 	　	　	126	2537	2411"
+msgid "Guess the main family doesn't\\r\n"
+"wanna ruffle any feathers."
+msgstr ""
+
+msgctxt " 	　	　	64	2636	2572"
+msgid "Equal alliance my ass."
+msgstr ""
+
+msgctxt " 	　	分	161	2798	2637"
+msgid "We sign up for that shit, those Tojo fucks'll\\r\n"
+"still treat us like somethin' they stepped in!"
+msgstr ""
+
+msgctxt " 	　	　	71	2907	2836"
+msgid "The main family jus' don't get it."
+msgstr ""
+
+msgctxt " 	　	　	116	3024	2908"
+msgid "Got that right. Then there's their chairman."
+msgstr ""
+
+msgctxt " 	　	分	86	3111	3025"
+msgid "Some jackoff called Daigo Dojima."
+msgstr ""
+
+msgctxt " 	　	　	67	3185	3118"
+msgid "Rumor has it guy's only 36."
+msgstr ""
+
+msgctxt " 	　	　	129	3315	3186"
+msgid "36!? That's younger'n me!"
+msgstr ""
+
+msgctxt " 	　	　	87	3405	3318"
+msgid "'Parently he only got the gig 'cause of his daddy."
+msgstr ""
+
+msgctxt " 	　	分	69	3479	3410"
+msgid "Read it in the Weekly Jitsuwa."
+msgstr ""
+
+msgctxt " 	　	　	168	3648	3480"
+msgid "So then we're gonna be takin' orders from\\r\n"
+"some little brat who still pisses the bed?"
+msgstr ""
+
+msgctxt " 	　		101	3799	3698"
+msgid "Fuck that! I ain't standin' for it!"
+msgstr ""
+
+msgctxt " 	　	　	108	4025	3917"
+msgid "Empty? Great service ya got."
+msgstr ""
+
+msgctxt " 	　	　	166	4188	4029"
+msgid "Hey, we're dry over here!\\r\n"
+"Get us a new bottle, n' make it snappy!"
+msgstr ""
+
+msgctxt " 	　	　	29	4220	4191"
+msgid "Coming right up, sir."
+msgstr ""
+
+msgctxt " 	　	　	36	4346	4310"
+msgid "Here you are, sir.\\r\n"
+"Apologies for the wait."
+msgstr ""
+
+msgctxt " 	　	　	60	4407	4347"
+msgid "Too fuckin' slow!"
+msgstr ""
+
+msgctxt " 	　	　	60	4676	4616"
+msgid "Sir?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	53	4803	4750"
+msgid "Enough's enough!"
+msgstr ""
+
+msgctxt " 	　	分	60	4864	4804"
+msgid "I'm tossin' those punks out!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	50	4945	4895"
+msgid "Chief."
+msgstr ""
+
+msgctxt " 	　	　	108	5054	4946"
+msgid "It's all good, all good!\\r\n"
+"Just sit back n' watch!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	59	5114	5055"
+msgid "Hey, you over there!"
+msgstr ""
+
+msgctxt " 	　	分	66	5181	5115"
+msgid "Pipe down! Yer ruinin' the vibe!"
+msgstr ""
+
+msgctxt " 	　	　	151	5333	5182"
+msgid "Y'gotta be more considerate of how\\r\n"
+"other customers feel when you're drinkin'!"
+msgstr ""
+
+msgctxt " 	　	　	148	5538	5390"
+msgid "Drunk fool. Y'think you can just\\r\n"
+"run your mouth at us like that!?"
+msgstr ""
+
+msgctxt " 	　	　	114	5870	5756"
+msgid "You're pretty quick to attack a civilian."
+msgstr ""
+
+msgctxt " 	　	分	110	6010	5900"
+msgid "I guess the Yamagasa Family doesn't\\r\n"
+"offer etiquette classes."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	6077	6020"
+msgid "Say what?"
+msgstr ""
+
+msgctxt " 	　	分	85	6163	6078"
+msgid "And who the shit're you!?"
+msgstr ""
+
+msgctxt " 	　	　	138	6348	6210"
+msgid "Right. It's no surprise you don't know."
+msgstr ""
+
+msgctxt " 	　	　	60	6409	6349"
+msgid "N' I don't care, either!"
+msgstr ""
+
+msgctxt " 	　	　	105	6517	6412"
+msgid "Fair enough. That'll make this easier."
+msgstr ""
+
+msgctxt " 	　	　	114	6675	6561"
+msgid "Well? I'm ready when you are."
+msgstr ""
+
+msgctxt " 	　	　	163	6855	6692"
+msgid "The hell're ya mumblin' about, man?\\r\n"
+"Y'picked the wrong day to mess with us!"
+msgstr ""
+
+msgctxt " 	　	　	149	7009	6860"
+msgid "Lucky for us, we were just thinkin'\\r\n"
+"we could use a nice new punchin' bag."
+msgstr ""
+
+msgctxt " 	　	　	72	7089	7017"
+msgid "Hope yer ready to die!"
+msgstr ""
+

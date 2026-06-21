@@ -1,0 +1,53 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	267	207"
+msgid "Yay!"
+msgstr ""
+
+msgctxt " 	　	　	81	350	269"
+msgid "Nice! Good news, right, Haruka?"
+msgstr ""
+
+msgctxt " 	　	　	123	474	351"
+msgid "Let's do this! We made number\\r\n"
+"one and two in the Princess League."
+msgstr ""
+
+msgctxt " 	　	　	86	561	475"
+msgid "Time to show Tokyo what we can do, right?"
+msgstr ""
+
+msgctxt " 	　	　	60	661	601"
+msgid "Yeah."
+msgstr ""
+
+msgctxt " 	　	　	77	878	801"
+msgid "Hello? Who do we got here?"
+msgstr ""
+
+msgctxt " 	　	　	71	950	879"
+msgid "Uh, excuse me."
+msgstr ""
+
+msgctxt " 	　	　	111	1080	969"
+msgid "Is there a Haruka Sawamura-san here?"
+msgstr ""
+
+msgctxt " 	　	　	67	1188	1121"
+msgid "Yeah, right here."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	36	1251	1215"
+msgid "What's this regarding?"
+msgstr ""
+
+msgctxt " 	　	　	182	1434	1252"
+msgid "I actually came to pass on a\\r\n"
+"message from Kazuma Kiryu-san."
+msgstr ""
+
+msgctxt " 	　	　	97	1617	1520"
+msgid "Can you spare a few minutes?"
+msgstr ""
+

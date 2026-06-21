@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "316"
+msgid "E9790_tamuro_chohatsu"
+msgstr ""
+

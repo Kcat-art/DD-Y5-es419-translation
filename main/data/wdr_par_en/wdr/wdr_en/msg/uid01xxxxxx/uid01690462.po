@@ -1,0 +1,12 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "The farther back you pull it, the stronger the shot will be."
+msgstr ""
+
+msgctxt "56"
+msgid "Moving it straight back towards you is the key to making accurate shots.\\r\n"
+"Moving it straight back towards you is the key to making accurate shots."
+msgstr ""
+

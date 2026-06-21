@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "572"
+msgid "Impressed Man"
+msgstr ""
+
+msgctxt "576"
+msgid "Impressed Woman"
+msgstr ""
+
+msgctxt "72_Impressed Man"
+msgid "Are you kidding me? Hokkaido's seafood is badass! It's so fresh and tasty! Cheap, too!"
+msgstr ""
+
+msgctxt "84_Impressed Man"
+msgid "Oh, yeah. It's mind blowing. Hokkaido's crazy. The seafood here's nuts."
+msgstr ""
+

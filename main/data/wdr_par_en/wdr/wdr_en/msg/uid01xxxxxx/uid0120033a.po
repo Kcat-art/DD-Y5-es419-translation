@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "288"
+msgid "Wada"
+msgstr ""
+
+msgctxt "292"
+msgid "目的地"
+msgstr ""
+
+msgctxt "44_Wada"
+msgid "Looks like we're almost there."
+msgstr ""
+

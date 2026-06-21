@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "616"
+msgid "adv4_280/shinada_0367"
+msgstr ""
+

@@ -1,0 +1,144 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	436	376"
+msgid "Acting Chairman."
+msgstr ""
+
+msgctxt " 	　	　	115	555	440"
+msgid "It's from the Yamagasa captain, Yahata."
+msgstr ""
+
+msgctxt " 	　	　	60	649	589"
+msgid "Yahata?"
+msgstr ""
+
+msgctxt " 	　	　	60	758	698"
+msgid "So he survived."
+msgstr ""
+
+msgctxt " 	　	　	60	856	796"
+msgid "Do you want me to hang up?"
+msgstr ""
+
+msgctxt " 	　	　	60	973	913"
+msgid "He's after a deal."
+msgstr ""
+
+msgctxt " 	　	　	60	1098	1038"
+msgid "Give it."
+msgstr ""
+
+msgctxt " 	　	　	60	1262	1202"
+msgid "This is Aoyama."
+msgstr ""
+
+msgctxt " 	　	　	60	1380	1320"
+msgid "Yes."
+msgstr ""
+
+msgctxt " 	　	　	88	1475	1387"
+msgid "The Tojo Clan has no intention\\r\n"
+"of cutting a deal with you."
+msgstr ""
+
+msgctxt " 	　	　	86	1630	1544"
+msgid "Our houses are in open war."
+msgstr ""
+
+msgctxt " 	　	　	60	1864	1804"
+msgid "Are you sure that's wise?"
+msgstr ""
+
+msgctxt " 	　	　	60	1997	1937"
+msgid "I'm not sure I understand."
+msgstr ""
+
+msgctxt " 	　	　	84	2091	2007"
+msgid "I said, we're kickin' this\\r\n"
+"war into top gear!"
+msgstr ""
+
+msgctxt " 	　	分	73	2165	2092"
+msgid "Yer gonna pay fer what\\r\n"
+"ya did to the boss!"
+msgstr ""
+
+msgctxt " 	　	　	122	2362	2240"
+msgid "Might as well make a spectacle outta it."
+msgstr ""
+
+msgctxt " 	　	　	130	2505	2375"
+msgid "Tomorrow night. Hakata pier,\\r\n"
+"Warehouse 27."
+msgstr ""
+
+msgctxt " 	　	　	60	2616	2556"
+msgid "Ya got that?"
+msgstr ""
+
+msgctxt " 	　	　	128	2785	2657"
+msgid "I'm lookin' forward to\\r\n"
+"cavin' yer damn face in."
+msgstr ""
+
+msgctxt " 	　	　	94	3026	2932"
+msgid "That good enough, Kiryu-san?"
+msgstr ""
+
+msgctxt " 	　	　	84	3288	3204"
+msgid "What did they say, Acting Chairman?"
+msgstr ""
+
+msgctxt " 	　	　	143	3549	3406"
+msgid "They want an old-fashioned battle.\\r\n"
+"Even gave us a time and place."
+msgstr ""
+
+msgctxt " 	　	　	60	3628	3568"
+msgid "A full-on brawl at the\\r\n"
+"pier tomorrow night."
+msgstr ""
+
+msgctxt " 	　	　	124	3795	3671"
+msgid "What, like some afterschool fist fight?"
+msgstr ""
+
+msgctxt " 	　	　	106	3905	3799"
+msgid "Don't let them get under\\r\n"
+"your skin, Acting Chairman."
+msgstr ""
+
+msgctxt " 	　	分	63	3971	3908"
+msgid "It may even be a trap."
+msgstr ""
+
+msgctxt " 	　	　	77	4105	4028"
+msgid "Not showing would play\\r\n"
+"right into their hand!"
+msgstr ""
+
+msgctxt " 	　	　	126	4255	4129"
+msgid "The mighty Tojo Clan can't be seen\\r\n"
+"backing down from these backwater hicks."
+msgstr ""
+
+msgctxt " 	　	　	155	4448	4293"
+msgid "Once we have control of their turf,\\r\n"
+"we'll need our reputation to demand respect."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	46	4529	4483"
+msgid "Apologies, sir."
+msgstr ""
+
+msgctxt " 	　	　	94	4624	4530"
+msgid "Put the word out to everyone\\r\n"
+"still down in Fukuoka."
+msgstr ""
+
+msgctxt " 	　	　	122	4782	4660"
+msgid "That sworn brother of mine may\\r\n"
+"finally have a use, too."
+msgstr ""
+

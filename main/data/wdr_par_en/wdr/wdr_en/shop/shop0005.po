@@ -1,0 +1,423 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid "/‐"
+msgstr ""
+
+msgctxt "16"
+msgid "/‐"
+msgstr ""
+
+msgctxt "20"
+msgid "/‐"
+msgstr ""
+
+msgctxt "24"
+msgid "/‐"
+msgstr ""
+
+msgctxt "28"
+msgid "/‐"
+msgstr ""
+
+msgctxt "32"
+msgid "Owned"
+msgstr ""
+
+msgctxt "36"
+msgid "Owned"
+msgstr ""
+
+msgctxt "40"
+msgid "Owned"
+msgstr ""
+
+msgctxt "44"
+msgid "Owned"
+msgstr ""
+
+msgctxt "48"
+msgid "Owned"
+msgstr ""
+
+msgctxt "52"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "60"
+msgid "(Don't got anythin' picked out.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(I haven't selected anything.)  "
+msgstr ""
+
+msgctxt "68"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "72"
+msgid "(I don't have enough for that.)"
+msgstr ""
+
+msgctxt "76"
+msgid "(Don't have the cash. How am I so broke?)"
+msgstr ""
+
+msgctxt "80"
+msgid "(Don't got the cash for that.)"
+msgstr ""
+
+msgctxt "84"
+msgid "(Looks like I'm a little short.)  "
+msgstr ""
+
+msgctxt "88"
+msgid "(Looks like I don't have enough.)"
+msgstr ""
+
+msgctxt "92"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "96"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "100"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "104"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "108"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "112"
+msgid "(I don't have enough room.)"
+msgstr ""
+
+msgctxt "116"
+msgid "(Pockets are jam-packed as is.)"
+msgstr ""
+
+msgctxt "120"
+msgid "(Carryin' too much already.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(I don't have any space.)"
+msgstr ""
+
+msgctxt "128"
+msgid "(I don't have the space for that.)"
+msgstr ""
+
+msgctxt "132"
+msgid "(They're all sold out.)"
+msgstr ""
+
+msgctxt "136"
+msgid "(Fresh out.)"
+msgstr ""
+
+msgctxt "140"
+msgid "(Ain't a single one left.)"
+msgstr ""
+
+msgctxt "144"
+msgid "(I guess it's all sold out.)  "
+msgstr ""
+
+msgctxt "148"
+msgid "(I don't need any of this stuff.)"
+msgstr ""
+
+msgctxt "152"
+msgid "(Oh, I already have one.)"
+msgstr ""
+
+msgctxt "156"
+msgid "(Already have myself one of those.)"
+msgstr ""
+
+msgctxt "160"
+msgid "(Already got my hands on that.)"
+msgstr ""
+
+msgctxt "164"
+msgid "(Already got one of these.)  "
+msgstr ""
+
+msgctxt "168"
+msgid "(I already have one of those.)"
+msgstr ""
+
+msgctxt "172"
+msgid "－"
+msgstr ""
+
+msgctxt "176"
+msgid "－"
+msgstr ""
+
+msgctxt "180"
+msgid "－"
+msgstr ""
+
+msgctxt "184"
+msgid "－"
+msgstr ""
+
+msgctxt "188"
+msgid "－"
+msgstr ""
+
+msgctxt "192"
+msgid "Order"
+msgstr ""
+
+msgctxt "196"
+msgid "Order"
+msgstr ""
+
+msgctxt "200"
+msgid "Order"
+msgstr ""
+
+msgctxt "204"
+msgid "Order"
+msgstr ""
+
+msgctxt "208"
+msgid "Order"
+msgstr ""
+
+msgctxt "524"
+msgid "This magazine contains information on Tokyo. Show it at certain shops to receive a discount."
+msgstr ""
+
+msgctxt "556"
+msgid "Toughness Z comes in handy when you need a little health boost."
+msgstr ""
+
+msgctxt "588"
+msgid "Tauriner charges up your Heat a little."
+msgstr ""
+
+msgctxt "620"
+msgid "Staminan XX charges up your health and Heat significantly."
+msgstr ""
+
+msgctxt "652"
+msgid "This ramen has a chicken and pork-based soup combined with spices and soy sauce for a rich, tasty flavor."
+msgstr ""
+
+msgctxt "684"
+msgid "Miso and pork mixed with spicy vegetables make for a succulent soup in this miso ramen."
+msgstr ""
+
+msgctxt "716"
+msgid "A Super Cup of squid yakisoba. Its flavor is enhanced with fresh, tasty squid."
+msgstr ""
+
+msgctxt "748"
+msgid "Enjoy our firm, flash-fried \"3D\" noodles with a rich mix of sauces made with garlic, cinnamon, cloves, and other spices."
+msgstr ""
+
+msgctxt "780"
+msgid "Low-calorie noodles are paired with mouth-watering wontons and soy sauce for a rich, flavorful cup of soup."
+msgstr ""
+
+msgctxt "812"
+msgid "Fluffy eggs, seafood, seaweed extract, and glass noodles combine to make a thoroughly delicious cup of soup."
+msgstr ""
+
+msgctxt "844"
+msgid "This low-calorie noodle soup is made with minced meat, sesame paste, and miso."
+msgstr ""
+
+msgctxt "876"
+msgid "The Soup Harusame: Jjigae selection includes fish sauce, garlic, and hot peppers. A spicy, Korean-style soup."
+msgstr ""
+
+msgctxt "908"
+msgid "This cup of soup contains hot, savory soup with cabbage, seaweed, corn, and glass noodles."
+msgstr ""
+
+msgctxt "940"
+msgid "Comes in a handy, upright container. You can never get enough of these firm noodles bathed in a rich, flavorful sauce."
+msgstr ""
+
+msgctxt "972"
+msgid "This ramen is full of delicate seaweed, which gives it a unique, ocean-y taste."
+msgstr ""
+
+msgctxt "1004"
+msgid "There is more than enough of this piping hot oden assortment to satisfy your hunger. Perfect for a cold winter evening."
+msgstr ""
+
+msgctxt "1036"
+msgid "A rice ball with boiled seaweed at its center."
+msgstr ""
+
+msgctxt "1068"
+msgid "This rice ball has a tuna and mayonnaise filling."
+msgstr ""
+
+msgctxt "1100"
+msgid "This salmon rice ball is an old standard."
+msgstr ""
+
+msgctxt "1132"
+msgid "This is a bento lunch set with plenty of variety. I haven't met a customer yet who hasn't loved it."
+msgstr ""
+
+msgctxt "1164"
+msgid "This tonkatsu lunch set is made with rich Satsuma pork."
+msgstr ""
+
+msgctxt "1196"
+msgid "A standard clubhouse sandwich with tomatoes, lettuce, and cheese."
+msgstr ""
+
+msgctxt "1228"
+msgid "Tuna, egg, and mayo on white bread."
+msgstr ""
+
+msgctxt "1260"
+msgid "Yakisoba with cabbage and pork. The smell of the sauce is simply irresistible."
+msgstr ""
+
+msgctxt "1292"
+msgid "This tasty bun is freshly steamed and piping hot."
+msgstr ""
+
+msgctxt "1324"
+msgid "This piping hot bean paste bun will warm you up."
+msgstr ""
+
+msgctxt "1356"
+msgid "This large bottle of sake can be enjoyed heated or chilled."
+msgstr ""
+
+msgctxt "1388"
+msgid "A carton of plain milk, pasteurized for extra flavor."
+msgstr ""
+
+msgctxt "1420"
+msgid "Dogs love this brand of dog food. Careful you don't get mobbed by furry friends when opening the bag."
+msgstr ""
+
+msgctxt "1452"
+msgid "Carefully selected nigiri-style sushi packed neatly into a box. Definitely worth the price."
+msgstr ""
+
+msgctxt "1484"
+msgid "This charcoal-grilled chicken on a skewer has a savory smell that is out of this world."
+msgstr ""
+
+msgctxt "1516"
+msgid "Turmeric and other natural ingredients make this supplement effective against hangovers."
+msgstr ""
+
+msgctxt "1548"
+msgid "Canned coffee specially brewed with top-quality Guatemalan beans to bring out the flavor."
+msgstr ""
+
+msgctxt "1580"
+msgid "This extravagant canned coffee is made with high-quality coffee beans."
+msgstr ""
+
+msgctxt "1612"
+msgid "Drip filtered at a low temperature with espresso for a smooth blend that goes down easy."
+msgstr ""
+
+msgctxt "1644"
+msgid "Oolong tea is the quintessential nonalcoholic drink. Enjoy its exquisite fragrance and flavor."
+msgstr ""
+
+msgctxt "1676"
+msgid "This 350 ml bottle of oolong tea goes well with any meal. It contains polyphenol, a natural chemical that reduces fat absorption."
+msgstr ""
+
+msgctxt "1708"
+msgid "Mineral water from the Southern Alps, extracted from the virgin snow atop Mount Kai-Komagatake."
+msgstr ""
+
+msgctxt "1740"
+msgid "Masters from Kyoto's famed Fukujuen Tea Company carefully select tea leaves for this 500 ml bottle of green tea."
+msgstr ""
+
+msgctxt "1772"
+msgid "Masters from Kyoto's famed Fukujuen Tea Company carefully select tea leaves for this 500 ml bottle of dark-brewed green tea."
+msgstr ""
+
+msgctxt "1804"
+msgid "Lemon soda packed with seventy lemons' worth of vitamin C and juice squeezed from real lemons. Refreshing and healthy."
+msgstr ""
+
+msgctxt "1836"
+msgid "This mild sports drink made from eleven fruits and other ingredients has a sweet grapefruit flavor you'll love."
+msgstr ""
+
+msgctxt "1868"
+msgid "Packs 1,000 mg of vitamin C, as much as fifty whole lemons! It's perfect for quickly rehydrating the body."
+msgstr ""
+
+msgctxt "1900"
+msgid "This carbonated beverage has been a favorite in France since 1936. Enjoy the delectable flavor of sun-bathed oranges."
+msgstr ""
+
+msgctxt "1932"
+msgid "A bottle of sesame-wheat tea. Great for lowering blood pressure."
+msgstr ""
+
+msgctxt "1964"
+msgid "This 350 ml can of premium beer was brewed to maximize the rich, refreshing taste of hops and barley."
+msgstr ""
+
+msgctxt "1996"
+msgid "Delicious malt and two types of hops are brewed specially for this rich, great-tasting low-malt beer. Comes in a 350 ml can."
+msgstr ""
+
+msgctxt "2028"
+msgid "This bracing mix of soda and refreshing lemon flavor is just like the highballs offered at bars and restaurants."
+msgstr ""
+
+msgctxt "2060"
+msgid "Made from lemons grown in the Mediterranean region, this drink combines refreshing flavor with a distinctive aftertaste."
+msgstr ""
+
+msgctxt "2092"
+msgid "This is the most basic of food seasonings."
+msgstr ""
+
+msgctxt "2124"
+msgid "You can find this seasoning almost anywhere, but try not to get it into your eyes."
+msgstr ""
+
+msgctxt "2156"
+msgid "This superglue can bond almost anything together."
+msgstr ""
+
+msgctxt "2188"
+msgid "This spicy condiment is a must for people who like it hot, but try not to get it into your eyes."
+msgstr ""
+
+msgctxt "2220"
+msgid "A classic umbrella, like the ones they used to make."
+msgstr ""
+
+msgctxt "2252"
+msgid "Use this repair kit to restore a weapon's durability."
+msgstr ""
+

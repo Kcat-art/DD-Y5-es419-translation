@@ -1,0 +1,20 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "56"
+msgid "You got <Color:8>Toughness Z<Color:Default>."
+msgstr ""
+
+msgctxt "576"
+msgid "Employee"
+msgstr ""
+
+msgctxt "44_Employee"
+msgid "Oh my, looks like you won a <Color:8>Toughness Z<Color:Default>. Congratulations!\\r\n"
+" "
+msgstr ""
+
+msgctxt "80_Employee"
+msgid "."
+msgstr ""
+

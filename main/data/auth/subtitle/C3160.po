@@ -1,0 +1,55 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		76	138	62"
+msgid "I'm going to Tokyo tomorrow."
+msgstr ""
+
+msgctxt "		　	96	252	154"
+msgid "So, I'm leaving Horie a memo\\r\n"
+"on things to do while I'm gone."
+msgstr ""
+
+msgctxt " 	 	改行位置修正	102	422	320"
+msgid "But... why are you writing it with your left hand?"
+msgstr ""
+
+msgctxt " 	 	　	88	519	431"
+msgid "Oh, that? Remember when Ogita pushed me down?"
+msgstr ""
+
+msgctxt "		　	77	632	555"
+msgid "I hurt my right hand pretty badly in the fall."
+msgstr ""
+
+msgctxt " 	 	　	98	785	687"
+msgid "I don't understand.\\r\n"
+"I thought you were right-handed."
+msgstr ""
+
+msgctxt " 	 	　	123	976	853"
+msgid "I am. But that wasn't the case at first."
+msgstr ""
+
+msgctxt " 	 	　	155	1162	1007"
+msgid "When I was placed with my foster parents,\\r\n"
+"they insisted I switch to my right hand."
+msgstr ""
+
+msgctxt " 	 	　	67	1231	1164"
+msgid "They were quite strict about it."
+msgstr ""
+
+msgctxt " 	 	　	97	1368	1271"
+msgid "I suppose that's not how\\r\n"
+"kids are raised nowadays."
+msgstr ""
+
+msgctxt " 	 	　	93	1518	1425"
+msgid "Back then, it was common practice."
+msgstr ""
+
+msgctxt " 	 	　	78	1834	1756"
+msgid "There. All done."
+msgstr ""
+

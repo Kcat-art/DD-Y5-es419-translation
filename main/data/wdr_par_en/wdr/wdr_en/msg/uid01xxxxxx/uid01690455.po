@@ -1,0 +1,16 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "Banking\\r\n"
+"Before playing, you must decide who goes first."
+msgstr ""
+
+msgctxt "56"
+msgid "Each player strikes the cue ball. The player whose ball stops closest to them goes first."
+msgstr ""
+
+msgctxt "68"
+msgid "However, the ball must hit the opposing cushion once in order to be counted."
+msgstr ""
+

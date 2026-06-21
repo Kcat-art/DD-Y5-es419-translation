@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "264"
+msgid "M_NML_TLK_btl_after01_lp"
+msgstr ""
+

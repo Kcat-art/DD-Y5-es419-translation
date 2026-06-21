@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "What's takin' her?"
+msgstr ""
+
+msgctxt "248"
+msgid "Girl's takin' forever!"
+msgstr ""
+

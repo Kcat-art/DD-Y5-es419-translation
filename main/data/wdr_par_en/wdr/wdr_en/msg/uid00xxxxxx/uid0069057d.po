@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "660"
+msgid "Honoka"
+msgstr ""
+
+msgctxt "664"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "44_Honoka"
+msgid "Pose like a panther? Really?"
+msgstr ""
+
+msgctxt "56_Honoka"
+msgid "Fine... But only 'cause you deserve it, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+

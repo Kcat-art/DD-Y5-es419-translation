@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "124"
+msgid "You won big, Uncle Kaz!"
+msgstr ""
+
+msgctxt "148"
+msgid "Aw, too bad!"
+msgstr ""
+
+msgctxt "172"
+msgid "Uncle Kaz! Play roulette!"
+msgstr ""
+

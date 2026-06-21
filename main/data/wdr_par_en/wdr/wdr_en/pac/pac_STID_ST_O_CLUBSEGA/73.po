@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "444"
+msgid "ACDEV0148"
+msgstr ""
+
+msgctxt "448"
+msgid "F_NML_SET_stand_sinasadame_01"
+msgstr ""
+

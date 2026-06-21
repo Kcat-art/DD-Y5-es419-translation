@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "492"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Saejima"
+msgid "(Hm, this snowman's huge. How many hours did some poor yap spend rollin' those snowballs?)"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "(Heck, rollin' a giant snowball is somethin'. Maybe that's an idea for the street performer.)"
+msgstr ""
+

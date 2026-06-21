@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "656"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "660"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Okudera"
+msgid "Where's the signal coming from right now?"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "Pretty damn deep in the woods. It's somewhere I been before, though."
+msgstr ""
+
+msgctxt "68_Okudera"
+msgid "The distance is no matter to me－let's follow it! Just keep checking that we're on the right track as we go."
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "Will do."
+msgstr ""
+

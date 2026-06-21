@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "536"
+msgid "adv4_245_01/shinada_4_245_010"
+msgstr ""
+
+msgctxt "540"
+msgid "adv4_240/takasugi_0116"
+msgstr ""
+
+msgctxt "544"
+msgid "P_TLK_sitgrd_agura_kamae"
+msgstr ""
+

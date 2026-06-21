@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "296"
+msgid "A10580_bulldozer"
+msgstr ""
+
+msgctxt "300"
+msgid "dummy"
+msgstr ""
+

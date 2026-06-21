@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1036"
+msgid "adv2_150/baba_0081"
+msgstr ""
+
+msgctxt "1040"
+msgid "adv2_135/kosaka_2_135_010"
+msgstr ""
+
+msgctxt "1044"
+msgid "ACDEV0278"
+msgstr ""
+
+msgctxt "1048"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1052"
+msgid "adv2_130/saejima_2_130_010"
+msgstr ""
+

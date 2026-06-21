@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "196"
+msgid "dummy"
+msgstr ""
+
+msgctxt "200"
+msgid "A10510_snow_jump"
+msgstr ""
+

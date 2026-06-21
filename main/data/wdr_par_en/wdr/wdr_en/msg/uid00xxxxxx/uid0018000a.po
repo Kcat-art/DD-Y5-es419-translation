@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "272"
+msgid "Barker"
+msgstr ""
+
+msgctxt "72_Barker"
+msgid "Hello! Please drop in and check out Club SEGA."
+msgstr ""
+

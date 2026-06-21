@@ -1,0 +1,24 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "556"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "560"
+msgid "Go Inside"
+msgstr ""
+
+msgctxt "564"
+msgid "Stay Put"
+msgstr ""
+
+msgctxt "44_Akiyama"
+msgid "(He hasn't come out yet. Should I go in and see how he's\\r\n"
+"doing?)"
+msgstr ""
+
+msgctxt "56_Akiyama"
+msgid "(I'll just wait and see.)"
+msgstr ""
+

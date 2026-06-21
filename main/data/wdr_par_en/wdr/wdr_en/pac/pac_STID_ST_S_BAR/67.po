@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "712"
+msgid "Billiards is over here"
+msgstr ""
+
+msgctxt "716"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "720"
+msgid "Idle"
+msgstr ""
+

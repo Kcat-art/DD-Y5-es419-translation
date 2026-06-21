@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "320"
+msgid "Wada"
+msgstr ""
+
+msgctxt "324"
+msgid "ブレーキ"
+msgstr ""
+
+msgctxt "44_Wada"
+msgid "Could get a red light. Careful with the brakes."
+msgstr ""
+

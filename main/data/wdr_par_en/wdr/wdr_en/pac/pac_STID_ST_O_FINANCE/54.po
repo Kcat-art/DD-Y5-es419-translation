@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1520"
+msgid "adv3_630/akiyama_0274"
+msgstr ""
+
+msgctxt "1524"
+msgid "adv3_615/akiyama_0255"
+msgstr ""
+
+msgctxt "1528"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1532"
+msgid "adv3_460/oosaka_deka_0004a"
+msgstr ""
+
+msgctxt "1536"
+msgid "ACDEV0102"
+msgstr ""
+
+msgctxt "1540"
+msgid "kaiwabgm_fuon03"
+msgstr ""
+

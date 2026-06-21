@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3048"
+msgid "M_NML_SET_stand_lookup_02"
+msgstr ""
+

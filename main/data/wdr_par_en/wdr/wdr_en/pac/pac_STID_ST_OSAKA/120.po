@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "104"
+msgid "Hoo, I'm stuffed!"
+msgstr ""
+
+msgctxt "128"
+msgid "Cursed PrintCircle?"
+msgstr ""
+

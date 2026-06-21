@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Shall we go?"
+msgstr ""
+
+msgctxt "256"
+msgid "Mahjong's a must..."
+msgstr ""
+

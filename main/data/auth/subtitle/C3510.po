@@ -1,0 +1,138 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		179	191	12"
+msgid "Princess League 2012 has finally reached its climax!\\r\n"
+"The finals begiiin... NOW!"
+msgstr ""
+
+msgctxt " 	 	　	131	349	218"
+msgid "Let's get things started off with\\r\n"
+"a brief recap of all the rules."
+msgstr ""
+
+msgctxt " 	 	　	94	459	365"
+msgid "In these finals, every round will be a concert battle!"
+msgstr ""
+
+msgctxt " 	 	　	95	558	463"
+msgid "The contestants will go head to head,\\r\n"
+"performing live right here in our studio!"
+msgstr ""
+
+msgctxt " 	 	　	165	724	559"
+msgid "And you, our audience, will decide the winner!"
+msgstr ""
+
+msgctxt " 	 	　	135	870	735"
+msgid "The Princess League features the most\\r\n"
+"exciting battle system... Possibly ever devised!"
+msgstr ""
+
+msgctxt " 	 	　	99	971	872"
+msgid "Each team has a dedicated stage."
+msgstr ""
+
+msgctxt " 	 	　	227	1108	972"
+msgid "They must fight for the fans' devotion\\r\n"
+"in real time, performing simultaneously!"
+msgstr ""
+
+msgctxt "				1199	1109"
+msgid "Because the love of the fans is\\r\n"
+"what the Princess League is all about!"
+msgstr ""
+
+msgctxt " 	 	　	107	1310	1203"
+msgid "The fans determine who wins."
+msgstr ""
+
+msgctxt " 	 	　	95	1410	1315"
+msgid "Here's how:\\r\n"
+"During the live performance..."
+msgstr ""
+
+msgctxt " 	 	　	182	1593	1411"
+msgid "The audience members will\\r\n"
+"move to the stage they prefer."
+msgstr ""
+
+msgctxt " 	 	　	220	1822	1602"
+msgid "Once the songs are finished, the victor will be\\r\n"
+"the team with the most audience members!"
+msgstr ""
+
+msgctxt " 	 	　	95	1933	1838"
+msgid "Now, these finals will have three rounds."
+msgstr ""
+
+msgctxt " 	 	　	83	2020	1937"
+msgid "Round 1 is a pop showdown..."
+msgstr ""
+
+msgctxt " 	 	　	140	2169	2029"
+msgid "Where the contestants will be\\r\n"
+"judged on their charm and vocal skills."
+msgstr ""
+
+msgctxt " 	 	　	92	2270	2178"
+msgid "Round 2 is a dance-off!"
+msgstr ""
+
+msgctxt " 	 	　	79	2356	2277"
+msgid "The contestants will boogie to an uptempo song."
+msgstr ""
+
+msgctxt " 	 	　	175	2532	2357"
+msgid "And we'll see who really gets the crowd going!"
+msgstr ""
+
+msgctxt " 	 	　	197	2732	2538"
+msgid "The team that has more points\\r\n"
+"at the end of both rounds..."
+msgstr ""
+
+msgctxt " 	 		222	2955	2733"
+msgid "Will receive a bonus to be applied in the third\\r\n"
+"round, giving that team a distinct advantage!"
+msgstr ""
+
+msgctxt " 	 	　	215	3181	2966"
+msgid "So you can see... Rounds 1 and 2 will\\r\n"
+"have a huge impact on the outcome!"
+msgstr ""
+
+msgctxt " 	 	　	259	3368	3196"
+msgid "Our publishing partner has promised\\r\n"
+"the winner of this fierce battle..."
+msgstr ""
+
+msgctxt "				3455	3369"
+msgid "A major record label debut!"
+msgstr ""
+
+msgctxt " 	 	　	163	3683	3520"
+msgid "Is it just me, or did they crank up the heat in here?\\r\n"
+"Maybe it's coming from our red-hot idols!"
+msgstr ""
+
+msgctxt " 	 	　	91	3776	3685"
+msgid "Are you ready for us to bring them out?"
+msgstr ""
+
+msgctxt " 	 	　	84	3905	3821"
+msgid "I can't heeear you!"
+msgstr ""
+
+msgctxt " 	 	　	115	4090	3977"
+msgid "Okay, well, I think they're ready too."
+msgstr ""
+
+msgctxt " 	 		201	4292	4091"
+msgid "Let me introduce you to our final superstar acts."
+msgstr ""
+
+msgctxt " 	 	　	125	4418	4293"
+msgid "Starting with this gorgeous team!"
+msgstr ""
+

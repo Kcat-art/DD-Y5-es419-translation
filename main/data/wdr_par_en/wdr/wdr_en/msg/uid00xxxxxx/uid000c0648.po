@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "468"
+msgid "Indecisive Man"
+msgstr ""
+
+msgctxt "72_Indecisive Man"
+msgid "Do I muster up my courage and go inside, or do I duck out? Decision time, come on... This maid café thing is more challengin' than it looks, and I'm not even in the door yet."
+msgstr ""
+

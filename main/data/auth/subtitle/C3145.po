@@ -1,0 +1,103 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		111	241	130"
+msgid "You did good.\\r\n"
+"Good enough to make up for earlier."
+msgstr ""
+
+msgctxt " 	　	　	131	386	255"
+msgid "Besides, I owe Park-san a favor\\r\n"
+"or two from back in our heyday."
+msgstr ""
+
+msgctxt " 	　	　	103	490	387"
+msgid "Still, we must apologize for what happened!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	571	514"
+msgid "I really am sorry, sir!"
+msgstr ""
+
+msgctxt " 	　	　	101	673	572"
+msgid "It's all in the past now.\\r\n"
+"Water under the bridge."
+msgstr ""
+
+msgctxt " 	　	　	60	750	690"
+msgid "By the way, Haruka-chan."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	33	790	757"
+msgid "Yes, sir?"
+msgstr ""
+
+msgctxt " 	　	　	116	907	791"
+msgid "That makeup. Did you do it yourself?"
+msgstr ""
+
+msgctxt " 	　	　	84	1052	968"
+msgid "Oh, no. Our boss helped me."
+msgstr ""
+
+msgctxt " 	　	　	96	1191	1095"
+msgid "That so? Park-san, huh?"
+msgstr ""
+
+msgctxt " 	　	　	117	1351	1234"
+msgid "Is there... something wrong with it?"
+msgstr ""
+
+msgctxt " 	　	　	67	1419	1352"
+msgid "No, not at all."
+msgstr ""
+
+msgctxt " 	　	　	121	1543	1422"
+msgid "Didn't mean to offend. It's just,\\r\n"
+"when I look at Haruka-chan..."
+msgstr ""
+
+msgctxt " 	　	　	85	1629	1544"
+msgid "I can't help but think of\\r\n"
+"Park-san when she was young."
+msgstr ""
+
+msgctxt " 	　	　	60	1709	1649"
+msgid "Our Park-san?"
+msgstr ""
+
+msgctxt " 	　	　	97	1828	1731"
+msgid "Morning, noon, and night..."
+msgstr ""
+
+msgctxt " 	　	　	97	1937	1840"
+msgid "Some women get more beautiful\\r\n"
+"every time you see them."
+msgstr ""
+
+msgctxt " 	　	　	197	2170	1973"
+msgid "Ya know, in this line of work, ya can't\\r\n"
+"be too sure of how a girl's gonna do."
+msgstr ""
+
+msgctxt " 	　	　	77	2260	2183"
+msgid "They're always changing, growing."
+msgstr ""
+
+msgctxt " 	　	　	97	2412	2315"
+msgid "I could've sworn T-Set had it in the bag."
+msgstr ""
+
+msgctxt " 	　	　	158	2571	2413"
+msgid "But I'm starting to think you might\\r\n"
+"give 'em a run for their money."
+msgstr ""
+
+msgctxt " 	　	　	60	2679	2619"
+msgid "Eh, don't mind me."
+msgstr ""
+
+msgctxt " 	　	　	131	2860	2729"
+msgid "Anyhow, good luck in the Princess League, ya hear?"
+msgstr ""
+

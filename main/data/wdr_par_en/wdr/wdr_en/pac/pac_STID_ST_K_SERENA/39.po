@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1236"
+msgid "adv5_220/akiyama_0496"
+msgstr ""
+
+msgctxt "1240"
+msgid "adv5_205_1/akiyama_5_205_010"
+msgstr ""
+
+msgctxt "1244"
+msgid "dummy"
+msgstr ""
+

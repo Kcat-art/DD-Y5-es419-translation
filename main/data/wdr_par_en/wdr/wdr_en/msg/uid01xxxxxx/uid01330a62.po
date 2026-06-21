@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1276"
+msgid "Player"
+msgstr ""
+
+msgctxt "1280"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1284"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1288"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1292"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "1296"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "(The <Color:8>Limited Millennium Tower Burger<Color:Default>... That's a lot of food.)"
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "(The <Color:8>Limited Millennium Tower Burger<Color:Default>... That's a huge amount of food.)"
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "(The <Color:8>Limited Millennium Tower Burger<Color:Default>... That thing's big.)"
+msgstr ""
+
+msgctxt "92_Shinada"
+msgid "(The <Color:8>Limited Millennium Tower Burger<Color:Default>... I'd like to eat that someday.)"
+msgstr ""
+
+msgctxt "104_Haruka"
+msgid "(The <Color:8>Limited Millennium Tower Burger<Color:Default>... That looks huge.)"
+msgstr ""
+

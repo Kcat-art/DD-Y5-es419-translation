@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "288"
+msgid "ACYAM0000"
+msgstr ""
+
+msgctxt "292"
+msgid "dummy"
+msgstr ""
+

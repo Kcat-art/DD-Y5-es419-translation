@@ -1,0 +1,63 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	 		65	480	415"
+msgid "<Italic>Taichi Suzuki</Italic>"
+msgstr ""
+
+msgctxt " 	 		60	862	802"
+msgid "Nice town."
+msgstr ""
+
+msgctxt " 	 	　	100	985	885"
+msgid "I see why so many people have ended up here."
+msgstr ""
+
+msgctxt " 	 	　	63	1135	1072"
+msgid "Have you been driving long?"
+msgstr ""
+
+msgctxt " 	 	　	60	1250	1190"
+msgid "About six months now."
+msgstr ""
+
+msgctxt " 	 	　	60	1325	1265"
+msgid "That's all?"
+msgstr ""
+
+msgctxt " 	 	　	124	1460	1336"
+msgid "I guess you don't quite have\\r\n"
+"the lay of the land yet, then."
+msgstr ""
+
+msgctxt " 	 	　	60	1579	1519"
+msgid "Not really."
+msgstr ""
+
+msgctxt " 	 	　	60	1661	1601"
+msgid "Shame."
+msgstr ""
+
+msgctxt "	 	　	143	1813	1670"
+msgid "I was hoping you'd be able to fill me in\\r\n"
+"on what life is like down here."
+msgstr ""
+
+msgctxt " 	 	　	92	1990	1898"
+msgid "The truth is, I'm from Tokyo myself."
+msgstr ""
+
+msgctxt " 	 	　	124	2150	2026"
+msgid "I've only come to Fukuoka for some\\r\n"
+"pressing business dealings."
+msgstr ""
+
+msgctxt " 	 	　	221	2511	2290"
+msgid "Ah, well. If you don't mind, I'm going to think\\r\n"
+"out loud for a bit. Please pay it no mind."
+msgstr ""
+
+msgctxt "This text has no context info. The text is used in A1030.po. Position in file: 16"
+msgid " "
+msgstr ""
+

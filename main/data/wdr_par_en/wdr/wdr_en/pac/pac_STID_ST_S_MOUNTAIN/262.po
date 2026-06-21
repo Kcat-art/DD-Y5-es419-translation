@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "(Got 'im! Time to get outta here!)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Gotta make it down the mountain!)"
+msgstr ""
+
+msgctxt "412"
+msgid "Saejima"
+msgstr ""
+

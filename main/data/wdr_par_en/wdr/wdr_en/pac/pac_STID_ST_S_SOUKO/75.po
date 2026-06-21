@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "484"
+msgid "adv2_173/nishinawife_2_173_190"
+msgstr ""
+
+msgctxt "488"
+msgid "adv2_173/nishinawife_2_173_010"
+msgstr ""
+
+msgctxt "492"
+msgid "dummy"
+msgstr ""
+

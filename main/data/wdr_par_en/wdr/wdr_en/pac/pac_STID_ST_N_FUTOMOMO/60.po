@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "612"
+msgid "adv4_010_10/shinada_0021"
+msgstr ""
+
+msgctxt "616"
+msgid "ACYAM0102"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "368"
+msgid "Checking Equipment"
+msgstr ""
+
+msgctxt "44_Checking Equipment"
+msgid "If you go to the mountain, or prepare to go, all of the weapons and equipment you are wearing will be removed. Check your equipment using the Pause Menu."
+msgstr ""
+

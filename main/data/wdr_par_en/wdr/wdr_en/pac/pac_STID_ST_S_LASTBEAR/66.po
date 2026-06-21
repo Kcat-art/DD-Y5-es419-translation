@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "436"
+msgid "adv2_900/saejima_2_900_620"
+msgstr ""
+
+msgctxt "440"
+msgid "dummy"
+msgstr ""
+

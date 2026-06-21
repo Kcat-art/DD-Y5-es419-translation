@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "628"
+msgid "Amateur Historian"
+msgstr ""
+
+msgctxt "632"
+msgid "City-savvy Friend"
+msgstr ""
+
+msgctxt "72_Amateur Historian"
+msgid "I hear they finally completed Kamurocho Hills. It's kind of amazing they pulled it off, especially when you think about all the complications they had with the project."
+msgstr ""
+
+msgctxt "84_City-savvy Friend"
+msgid "Yeah. I wonder what happened to all the homeless that were living there, though. They're really cleaning up the city lately."
+msgstr ""
+

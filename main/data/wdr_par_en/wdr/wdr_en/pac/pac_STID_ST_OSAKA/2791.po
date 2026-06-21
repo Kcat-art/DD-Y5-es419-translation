@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "108"
+msgid "Ha! Victory Road my ass."
+msgstr ""
+
+msgctxt "132"
+msgid "Dammit! That caught me off guard."
+msgstr ""
+

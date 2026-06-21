@@ -1,0 +1,359 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid "Obtained"
+msgstr ""
+
+msgctxt "16"
+msgid "Obtained"
+msgstr ""
+
+msgctxt "20"
+msgid "Obtained"
+msgstr ""
+
+msgctxt "24"
+msgid "Obtained"
+msgstr ""
+
+msgctxt "28"
+msgid "Obtained"
+msgstr ""
+
+msgctxt "32"
+msgid "Take"
+msgstr ""
+
+msgctxt "36"
+msgid "Take"
+msgstr ""
+
+msgctxt "40"
+msgid "Take"
+msgstr ""
+
+msgctxt "44"
+msgid "Take"
+msgstr ""
+
+msgctxt "48"
+msgid "Take"
+msgstr ""
+
+msgctxt "52"
+msgid "(I haven't chosen anything...)"
+msgstr ""
+
+msgctxt "56"
+msgid "(Haven't picked anything out.)"
+msgstr ""
+
+msgctxt "60"
+msgid "(Gotta pick somethin' first.)"
+msgstr ""
+
+msgctxt "64"
+msgid "(I haven't chosen anything.)"
+msgstr ""
+
+msgctxt "68"
+msgid "(I don't have anything picked out...)"
+msgstr ""
+
+msgctxt "72"
+msgid "Can Get"
+msgstr ""
+
+msgctxt "76"
+msgid "Can Get"
+msgstr ""
+
+msgctxt "80"
+msgid "Can Get"
+msgstr ""
+
+msgctxt "84"
+msgid "Can Get"
+msgstr ""
+
+msgctxt "88"
+msgid "Can Get"
+msgstr ""
+
+msgctxt "92"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "96"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "100"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "104"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "108"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "112"
+msgid "(I don't have enough room.)"
+msgstr ""
+
+msgctxt "116"
+msgid "(Pockets are jam-packed as is.)"
+msgstr ""
+
+msgctxt "120"
+msgid "(Carryin' too much already.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(I have too much stuff.)  "
+msgstr ""
+
+msgctxt "128"
+msgid "(I'm carrying way too much already.)"
+msgstr ""
+
+msgctxt "132"
+msgid "dummy"
+msgstr ""
+
+msgctxt "136"
+msgid "dummy"
+msgstr ""
+
+msgctxt "140"
+msgid "dummy"
+msgstr ""
+
+msgctxt "144"
+msgid "dummy"
+msgstr ""
+
+msgctxt "148"
+msgid "dummy"
+msgstr ""
+
+msgctxt "152"
+msgid "(Oh, I already have one.)"
+msgstr ""
+
+msgctxt "156"
+msgid "(Already have myself one of those.)"
+msgstr ""
+
+msgctxt "160"
+msgid "(Already got my hands on that.)"
+msgstr ""
+
+msgctxt "164"
+msgid "(I already have this...)"
+msgstr ""
+
+msgctxt "168"
+msgid "(I already have one of those.)"
+msgstr ""
+
+msgctxt "524"
+msgid "This unusual ring will make your attacks stronger as your health is depleted."
+msgstr ""
+
+msgctxt "556"
+msgid "The ultimate symbol of strength. Enemies will flock to you to challenge your bold claim."
+msgstr ""
+
+msgctxt "588"
+msgid "These earrings are full of passionate energy that will make your fighting spirit less likely to fall while you're dancing."
+msgstr ""
+
+msgctxt "620"
+msgid "This belt helps you lift heavy enemies as if they weigh nothing at all."
+msgstr ""
+
+msgctxt "652"
+msgid "This metal roof ornament of a shachihoko, a legendary creature with a tiger's head and carp's body, can do some serious damage."
+msgstr ""
+
+msgctxt "684"
+msgid "This unusual pistol never runs out of bullets."
+msgstr ""
+
+msgctxt "716"
+msgid "Legends say a dragon tore off this scale to give to a mortal in thanks for removing a curse. Its sharp edges can cut anything."
+msgstr ""
+
+msgctxt "748"
+msgid "This dragon seal that once belonged to a Chinese emperor is brimming with an awesome presence."
+msgstr ""
+
+msgctxt "780"
+msgid "Wear this pin to keep you from tiring out while you're dancing."
+msgstr ""
+
+msgctxt "812"
+msgid "This tail was taken from a wicked dragon by means of a ruse. It is said to tear stone apart as if it were paper."
+msgstr ""
+
+msgctxt "844"
+msgid "If I win a fight with this binding on, something lucky's supposed to happen."
+msgstr ""
+
+msgctxt "876"
+msgid "These mysterious socks somehow earn you money while you walk in them."
+msgstr ""
+
+msgctxt "908"
+msgid "The power of Venus transforms you into a warrior of love! Increases enthusiasm a hundredfold! ...Probably."
+msgstr ""
+
+msgctxt "940"
+msgid "These beads will reduce the number of unwanted confrontations around town."
+msgstr ""
+
+msgctxt "972"
+msgid "These gloves are said to increase your Heat by draining your opponent's when you grab him."
+msgstr ""
+
+msgctxt "1004"
+msgid "Helps you find people who are looking for a fight."
+msgstr ""
+
+msgctxt "1036"
+msgid "The adorable snowman on this weapon remains pure white, no matter how much blood splashes on it."
+msgstr ""
+
+msgctxt "1068"
+msgid "The same perfume a certain celebrity uses."
+msgstr ""
+
+msgctxt "1100"
+msgid "This supposedly magic weapon features an adorable penguin on the end that is said to come alive each night."
+msgstr ""
+
+msgctxt "1132"
+msgid "A rare weapon that brings great luck to those who swing it."
+msgstr ""
+
+msgctxt "1164"
+msgid "This mail is said to have a powerful blessing upon it that keeps bullets from hitting you."
+msgstr ""
+
+msgctxt "1196"
+msgid "The Expulsion S-12 is a kickass shotgun."
+msgstr ""
+
+msgctxt "1228"
+msgid "This banana has been frozen so hard that anyone struck by it will take some serious damage."
+msgstr ""
+
+msgctxt "1260"
+msgid "Generates super high voltage with its improved batteries. Blows opponents away."
+msgstr ""
+
+msgctxt "1292"
+msgid "A platinum ruler with its length sharpened into a blade, making it easier to use. Very sturdy."
+msgstr ""
+
+msgctxt "1324"
+msgid "This crimson stone draws you in with its beauty. It is said that a small kingdom was wiped out in a battle over this jewel."
+msgstr ""
+
+msgctxt "1356"
+msgid "This Master Ball isn't great for fights, but you can equip it to bowl."
+msgstr ""
+
+msgctxt "1388"
+msgid "A big frozen tuna said to be worth several millions of yen. Its eyes stare at you, unblinking."
+msgstr ""
+
+msgctxt "1420"
+msgid "A club that is great when used as a weapon, but useless for playing golf."
+msgstr ""
+
+msgctxt "1452"
+msgid "This stone will save you from the brink of death, but only once."
+msgstr ""
+
+msgctxt "1484"
+msgid "A legendary blade made by a swordsmith of extraordinary talent. It is said to sometimes drink in the blood of its victims."
+msgstr ""
+
+msgctxt "1516"
+msgid "This mail is said to provide the protection of the Dragon God and keep bullets from hitting you."
+msgstr ""
+
+msgctxt "1548"
+msgid "This talisman maintains the Heat Gauge at maximum at all times."
+msgstr ""
+
+msgctxt "1580"
+msgid "This box is filled with items that any fighter would find useful."
+msgstr ""
+
+msgctxt "1612"
+msgid "This box is filled with items that any fighter would find useful."
+msgstr ""
+
+msgctxt "1644"
+msgid "This box is filled with items that any fighter would find useful."
+msgstr ""
+
+msgctxt "1676"
+msgid "This box is filled with items that any fighter would find useful."
+msgstr ""
+
+msgctxt "1708"
+msgid "This box is filled with items that any fighter would find useful."
+msgstr ""
+
+msgctxt "1740"
+msgid "This box is filled with items that any fighter would find useful."
+msgstr ""
+
+msgctxt "1772"
+msgid "This box is filled with items that any fighter would find useful."
+msgstr ""
+
+msgctxt "1804"
+msgid "This box is filled with items that any fighter would find useful."
+msgstr ""
+
+msgctxt "1836"
+msgid "This pack contains items that can make your time in Kamurocho much more enjoyable."
+msgstr ""
+
+msgctxt "1868"
+msgid "This pack contains items that can make your time in Kamurocho much more enjoyable."
+msgstr ""
+
+msgctxt "1900"
+msgid "This pack contains items that can make your time in Kamurocho much more enjoyable."
+msgstr ""
+
+msgctxt "1932"
+msgid "This pack contains items that can make your time in Kamurocho much more enjoyable."
+msgstr ""
+
+msgctxt "1964"
+msgid "This pack contains items that can make your time in Kamurocho much more enjoyable."
+msgstr ""
+
+msgctxt "1996"
+msgid "This pack contains items that can make your time in Kamurocho much more enjoyable."
+msgstr ""
+
+msgctxt "2028"
+msgid "This pack contains items that can make your time in Kamurocho much more enjoyable."
+msgstr ""
+
+msgctxt "2060"
+msgid "This pack contains items that can make your time in Kamurocho much more enjoyable."
+msgstr ""
+

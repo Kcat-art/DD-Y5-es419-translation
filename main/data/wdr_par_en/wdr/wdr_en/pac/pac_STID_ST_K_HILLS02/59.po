@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "384"
+msgid "adv5_050/akiyama_0373"
+msgstr ""
+
+msgctxt "388"
+msgid "P_AKI_TLK_sitsofa_kamae"
+msgstr ""
+
+msgctxt "392"
+msgid "P_AKI_sitsofa"
+msgstr ""
+

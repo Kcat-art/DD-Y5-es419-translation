@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "296"
+msgid "Mirthful Man"
+msgstr ""
+
+msgctxt "72_Mirthful Man"
+msgid "Let's go for a drink somewhere. Somewhere where the girls are pretty."
+msgstr ""
+

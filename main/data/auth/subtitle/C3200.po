@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "			60	402	342"
+msgid "Man, it's chilly!"
+msgstr ""
+

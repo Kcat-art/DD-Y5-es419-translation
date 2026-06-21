@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "380"
+msgid "T11490_akiyama_ST"
+msgstr ""
+

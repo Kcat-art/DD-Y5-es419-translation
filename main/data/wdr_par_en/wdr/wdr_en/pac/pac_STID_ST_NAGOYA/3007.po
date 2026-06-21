@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "832"
+msgid "M_NML_SET_sitground_obie"
+msgstr ""
+

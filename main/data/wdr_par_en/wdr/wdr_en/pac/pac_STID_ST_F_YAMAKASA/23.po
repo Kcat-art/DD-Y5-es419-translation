@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "What the flyin' shit?"
+msgstr ""
+
+msgctxt "72"
+msgid "How'd ya get in here!? Get 'em, boys!"
+msgstr ""
+
+msgctxt "84"
+msgid "Damn, the lookout spotted us. We better hurry."
+msgstr ""
+
+msgctxt "752"
+msgid "Yamagasa Family Member"
+msgstr ""
+
+msgctxt "756"
+msgid "Player"
+msgstr ""
+
+msgctxt "760"
+msgid "7e008001"
+msgstr ""
+
+msgctxt "764"
+msgid "dummy"
+msgstr ""
+

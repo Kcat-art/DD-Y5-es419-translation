@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1856"
+msgid "adv1_090/kiryu_0144a"
+msgstr ""
+
+msgctxt "1860"
+msgid "ACYAM0102"
+msgstr ""
+
+msgctxt "1864"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1868"
+msgid "P_TLK_sitgrd_agura_kamae"
+msgstr ""
+
+msgctxt "1872"
+msgid "adv1_100_1/mayumi_1_078_010"
+msgstr ""
+

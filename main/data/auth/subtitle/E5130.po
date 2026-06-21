@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	389	329"
+msgid "Hold it right there!"
+msgstr ""
+
+msgctxt " 	 	テキスト修正	66	490	424"
+msgid "Aw, man!"
+msgstr ""
+
+msgctxt " 	 	　	89	612	523"
+msgid "We came all the way here to see you."
+msgstr ""
+
+msgctxt " 	 	　	94	716	622"
+msgid "You weren't in a rush or anything, right?"
+msgstr ""
+
+msgctxt " 	 	　	89	807	718"
+msgid "I don't know anything, I swear!"
+msgstr ""
+

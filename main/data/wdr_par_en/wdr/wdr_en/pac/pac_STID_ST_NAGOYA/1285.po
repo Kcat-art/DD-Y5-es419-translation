@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "Come on!"
+msgstr ""
+
+msgctxt "312"
+msgid "PrintCircle photos..."
+msgstr ""
+

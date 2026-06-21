@@ -1,0 +1,49 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	748	688"
+msgid "Hey, buddy."
+msgstr ""
+
+msgctxt " 	　	　	60	848	788"
+msgid "Can I ask ya somethin'?"
+msgstr ""
+
+msgctxt " 	　	　	180	1123	943"
+msgid "If ya shared a dream with\\r\n"
+"your friend, and he got killed..."
+msgstr ""
+
+msgctxt " 	　	　	83	1225	1142"
+msgid "Would ya get revenge or prioritize the dream?"
+msgstr ""
+
+msgctxt " 	　	　	95	1461	1366"
+msgid "I'd want revenge, for sure."
+msgstr ""
+
+msgctxt " 	　	　	122	1696	1574"
+msgid "But if he wouldn't want\\r\n"
+"me to get revenge for him..."
+msgstr ""
+
+msgctxt " 	　	分	60	1768	1708"
+msgid "Then I'd go for the dream."
+msgstr ""
+
+msgctxt " 	　	　	78	1857	1779"
+msgid "Shouldering each other's dreams..."
+msgstr ""
+
+msgctxt " 	　	　	134	2049	1915"
+msgid "That's kinda what friends are for, right?"
+msgstr ""
+
+msgctxt " 	　	　	97	2347	2250"
+msgid "I hear ya. Sorry for the random question."
+msgstr ""
+
+msgctxt " 	　	　	60	2439	2379"
+msgid "See ya."
+msgstr ""
+

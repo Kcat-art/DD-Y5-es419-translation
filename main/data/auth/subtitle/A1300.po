@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	60	318	258"
+msgid "I brought a guest."
+msgstr ""
+
+msgctxt "	60	526	466"
+msgid "It's you."
+msgstr ""
+
+msgctxt "	60	599	539"
+msgid "The Yamagasa patriarch..."
+msgstr ""
+
+msgctxt "分	60	669	609"
+msgid "Madarame."
+msgstr ""
+

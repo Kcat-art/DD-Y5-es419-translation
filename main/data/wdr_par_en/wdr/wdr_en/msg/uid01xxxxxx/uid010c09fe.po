@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "220"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "60_Haruka"
+msgid "(I'm a little too young for this place...)"
+msgstr ""
+

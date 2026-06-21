@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "188"
+msgid "定点_脅し01_顔近づけ"
+msgstr ""
+
+msgctxt "192"
+msgid "E9740_stand_tsukitobashi"
+msgstr ""
+

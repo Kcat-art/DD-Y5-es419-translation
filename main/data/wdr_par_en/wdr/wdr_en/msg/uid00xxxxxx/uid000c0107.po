@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "160"
+msgid "咳をしていた男"
+msgstr ""
+
+msgctxt "164"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "44_咳をしていた男"
+msgid "飲み物助かったよ。"
+msgstr ""
+

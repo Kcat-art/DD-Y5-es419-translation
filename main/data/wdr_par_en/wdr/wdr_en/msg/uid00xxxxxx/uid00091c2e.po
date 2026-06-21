@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "160"
+msgid "Kimiyo"
+msgstr ""
+
+msgctxt "44_Kimiyo"
+msgid "Okudera-san will be so happy to see you."
+msgstr ""
+

@@ -1,0 +1,20 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "708"
+msgid "Policeman"
+msgstr ""
+
+msgctxt "712"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "56_Policeman"
+msgid "What are you guys up to!?"
+msgstr ""
+
+msgctxt "68_Policeman"
+msgid "(Uh-oh... Getting written up by the police could cause\\r\n"
+"　problems for the company. Better make a run for it!)"
+msgstr ""
+

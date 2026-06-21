@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	746	686"
+msgid "It may not always seem it..."
+msgstr ""
+
+msgctxt " 	 	　	72	832	760"
+msgid "But I'm trying my best to walk this path."
+msgstr ""
+
+msgctxt " 	 	　	60	950	890"
+msgid "Fourth Chairman."
+msgstr ""
+
+msgctxt " 	 	　	60	1245	1185"
+msgid "I'm home."
+msgstr ""
+
+msgctxt " 	 	字を修正	99	1459	1360"
+msgid "You left the kettle on!"
+msgstr ""
+
+msgctxt " 	 	　	60	1683	1623"
+msgid "Hey, you."
+msgstr ""
+
+msgctxt " 	 		60	1795	1735"
+msgid "Hey. Welcome home."
+msgstr ""
+

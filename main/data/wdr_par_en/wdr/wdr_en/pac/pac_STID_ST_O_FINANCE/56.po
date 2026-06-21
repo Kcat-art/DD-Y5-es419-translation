@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1468"
+msgid "adv3_437_1b/akiyama_3_437_060"
+msgstr ""
+
+msgctxt "1472"
+msgid "P_AKI_TLK_sitsofa_kamae"
+msgstr ""
+
+msgctxt "1476"
+msgid "P_AKI_sitsofa"
+msgstr ""
+
+msgctxt "1480"
+msgid "adv3_390/hakamada_0012"
+msgstr ""
+
+msgctxt "1484"
+msgid "adv3_380/akiyama_0003"
+msgstr ""
+
+msgctxt "1488"
+msgid "ACSAI0008"
+msgstr ""
+
+msgctxt "1492"
+msgid "P_AKI_TLK_stand_phone_lp"
+msgstr ""
+

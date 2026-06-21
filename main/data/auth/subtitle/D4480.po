@@ -1,0 +1,112 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		72	161	89"
+msgid "You talk too much, Sawada."
+msgstr ""
+
+msgctxt " 	　	　	67	393	326"
+msgid "If you won't shoot, I will."
+msgstr ""
+
+msgctxt " 	　	　	122	537	415"
+msgid "And then, I'll have to dispose of you, too."
+msgstr ""
+
+msgctxt " 	　	　	60	657	597"
+msgid "I know that."
+msgstr ""
+
+msgctxt " 	　	　	60	784	724"
+msgid "The Nagoya Family..."
+msgstr ""
+
+msgctxt " 	　	分	156	946	790"
+msgid "They have no idea the Kuroha Family\\r\n"
+"has been controlling them this entire time."
+msgstr ""
+
+msgctxt " 	　	　	142	1113	971"
+msgid "They put their trust in me\\r\n"
+"and Fujita. For Nagoya's sake..."
+msgstr ""
+
+msgctxt " 	　	分	60	1174	1114"
+msgid "They followed our every order."
+msgstr ""
+
+msgctxt " 	　	　	60	1270	1208"
+msgid "I hope you can believe that at least."
+msgstr ""
+
+msgctxt " 	　	　	60	1379	1319"
+msgid "Sawada..."
+msgstr ""
+
+msgctxt " 	　	　	104	1586	1482"
+msgid "Are you ready, Shinada?"
+msgstr ""
+
+msgctxt " 	　	　	103	2067	1964"
+msgid "Shinada... Die!"
+msgstr ""
+
+msgctxt " 	　	　	63	2463	2400"
+msgid "How...?"
+msgstr ""
+
+msgctxt " 	　	　	112	2755	2643"
+msgid "So, you knew the Gigants' signs after all."
+msgstr ""
+
+msgctxt " 	　	　	175	3011	2836"
+msgid "Well, yeah. Learning your\\r\n"
+"opponent's signs is batting 101."
+msgstr ""
+
+msgctxt " 	　	　	106	3903	3797"
+msgid "Sawada. Why'd you try to save me?"
+msgstr ""
+
+msgctxt " 	　	　	60	3981	3921"
+msgid "I've always wanted to know."
+msgstr ""
+
+msgctxt " 	　	　	98	4084	3986"
+msgid "How you managed to get a read on my fastball."
+msgstr ""
+
+msgctxt " 	　	　	108	4262	4154"
+msgid "I can't let you die without telling me the truth."
+msgstr ""
+
+msgctxt " 	　	　	60	4332	4272"
+msgid "That's all."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	46	4402	4356"
+msgid "Fair enough."
+msgstr ""
+
+msgctxt " 	　	　	150	4553	4403"
+msgid "Now about that home run 15 years ago.\\r\n"
+"Did you steal our signs?"
+msgstr ""
+
+msgctxt " 	　	　	134	4698	4564"
+msgid "How 'bout I tell you\\r\n"
+"if we both walk out of here alive?"
+msgstr ""
+
+msgctxt " 	　	　	60	4780	4720"
+msgid "That'll do."
+msgstr ""
+
+msgctxt " 	　	　	86	5009	4923"
+msgid "Perfect. Then let's get swinging."
+msgstr ""
+
+msgctxt " 	　	　	60	5082	5022"
+msgid "Yeah."
+msgstr ""
+

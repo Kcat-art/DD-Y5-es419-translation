@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "340"
+msgid "Defiant Husband"
+msgstr ""
+
+msgctxt "60_Defiant Husband"
+msgid "A hostess club is where a man's troubles go to die. All aboard! Next stop, the worries graveyard!"
+msgstr ""
+

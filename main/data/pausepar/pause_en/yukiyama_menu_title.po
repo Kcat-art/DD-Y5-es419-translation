@@ -1,0 +1,51 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "281	TITTLE"
+msgid "Hunter Lesson"
+msgstr ""
+
+msgctxt "295	TITTLE"
+msgid "Creeping Terror"
+msgstr ""
+
+msgctxt "311	TITTLE"
+msgid "White Darkness"
+msgstr ""
+
+msgctxt "326	TITTLE"
+msgid "The Third Man"
+msgstr ""
+
+msgctxt "340	TITTLE"
+msgid "Kill or Be Killed"
+msgstr ""
+
+msgctxt "358	TITTLE"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "365	TITTLE"
+msgid "Pride's Toll"
+msgstr ""
+
+msgctxt "378	TITTLE"
+msgid "Tag the Beast"
+msgstr ""
+
+msgctxt "392	TITTLE"
+msgid "Okudera's Escort"
+msgstr ""
+
+msgctxt "409	TITTLE"
+msgid "The Truth"
+msgstr ""
+
+msgctxt "419	TITTLE"
+msgid "Principles"
+msgstr ""
+
+msgctxt "430	TITTLE"
+msgid "Free Entry"
+msgstr ""
+

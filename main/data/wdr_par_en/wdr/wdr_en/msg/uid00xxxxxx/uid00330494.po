@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3016"
+msgid "Driver"
+msgstr ""
+
+msgctxt "3020"
+msgid "Go to the Tenkaichi Street Entrance"
+msgstr ""
+
+msgctxt "3024"
+msgid "Go to the Pink Street Entrance"
+msgstr ""
+
+msgctxt "3028"
+msgid "Go to East Park Boulevard"
+msgstr ""
+
+msgctxt "3032"
+msgid "Go to North Hotel District"
+msgstr ""
+
+msgctxt "3036"
+msgid "Go to West Shichifuku Street"
+msgstr ""
+
+msgctxt "3040"
+msgid "Stay Here"
+msgstr ""
+
+msgctxt "3044"
+msgid "dummy"
+msgstr ""
+
+msgctxt "44_Driver"
+msgid "Would you like to go back to Kamurocho?"
+msgstr ""
+

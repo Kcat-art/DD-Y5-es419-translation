@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "512"
+msgid "Excited Tourist"
+msgstr ""
+
+msgctxt "516"
+msgid "Calm Tourist"
+msgstr ""
+
+msgctxt "72_Excited Tourist"
+msgid "Whoa! Wow! I can't believe I'm finally seeing this! I'm really here! Woohoo!"
+msgstr ""
+
+msgctxt "84_Excited Tourist"
+msgid "Come on! You got enough photos already, don't you?"
+msgstr ""
+

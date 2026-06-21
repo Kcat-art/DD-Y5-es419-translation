@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "268"
+msgid "Pick up the phone, you cow."
+msgstr ""
+
+msgctxt "4652"
+msgid "ACDEV0138"
+msgstr ""
+
+msgctxt "4656"
+msgid "ACYAM0102"
+msgstr ""
+
+msgctxt "4660"
+msgid "0"
+msgstr ""
+

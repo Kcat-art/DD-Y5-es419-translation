@@ -1,0 +1,124 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 			60	215	155"
+msgid "Home run."
+msgstr ""
+
+msgctxt " 	　	　	60	332	272"
+msgid "How...?"
+msgstr ""
+
+msgctxt " 	　	　	91	472	381"
+msgid "How'd you know I was gonna throw a curve?"
+msgstr ""
+
+msgctxt " 	　	　	60	613	553"
+msgid "It's not that I knew."
+msgstr ""
+
+msgctxt " 	　	　	60	685	625"
+msgid "I was waiting for it."
+msgstr ""
+
+msgctxt " 	　	　	60	768	708"
+msgid "So thanks."
+msgstr ""
+
+msgctxt " 	　	　	145	998	853"
+msgid "I must've been waiting for that\\r\n"
+"curveball for 15 years now."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	50	1084	1034"
+msgid "No joke."
+msgstr ""
+
+msgctxt " 	　	　	88	1173	1085"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt " 	　	　	172	1370	1198"
+msgid "At Koshien 20 years ago,\\r\n"
+"I struck out on your fastball."
+msgstr ""
+
+msgctxt " 	　	　	130	1534	1404"
+msgid "So for the next four years,\\r\n"
+"when I was on the Wyverns' farm..."
+msgstr ""
+
+msgctxt " 	　	　	139	1690	1551"
+msgid "I spent day after day thinking\\r\n"
+"about how I'd hit your next one."
+msgstr ""
+
+msgctxt " 	　	　	82	1814	1732"
+msgid "Then in our game 15 years ago..."
+msgstr ""
+
+msgctxt " 	　	分	69	1917	1848"
+msgid "My big hit finally came."
+msgstr ""
+
+msgctxt " 	　	　	60	2022	1962"
+msgid "But..."
+msgstr ""
+
+msgctxt " 	　	　	60	2086	2026"
+msgid "I couldn't get a read on your curve."
+msgstr ""
+
+msgctxt " 	　	　	123	2300	2177"
+msgid "If Fujita-san hadn't signaled you\\r\n"
+"to throw that fastball..."
+msgstr ""
+
+msgctxt " 	　	　	79	2403	2324"
+msgid "If you'd kept throwing curves..."
+msgstr ""
+
+msgctxt " 	　	　	88	2556	2468"
+msgid "You would've struck me out for sure."
+msgstr ""
+
+msgctxt " 	　	　	100	2700	2600"
+msgid "As it happens, I got that home run."
+msgstr ""
+
+msgctxt " 	　	　	98	2832	2734"
+msgid "I thought all my hard work\\r\n"
+"had brought my dream to life."
+msgstr ""
+
+msgctxt " 	　	　	138	3009	2871"
+msgid "But if it only happened 'cause\\r\n"
+"you and Fujita-san took pity on me..."
+msgstr ""
+
+msgctxt " 	　	　	93	3139	3046"
+msgid "Well, there's no glory in that."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	59	3233	3174"
+msgid "Shinada..."
+msgstr ""
+
+msgctxt " 	　	　	62	3296	3234"
+msgid "Thanks for being honest with me."
+msgstr ""
+
+msgctxt " 	　	　	106	3502	3396"
+msgid "Took a while...\\r\n"
+"But it was worth the wait."
+msgstr ""
+
+msgctxt " 	　	　	116	3930	3814"
+msgid "Guess I can retire in peace now.\\r\n"
+"About time, huh?"
+msgstr ""
+
+msgctxt " 	　	　	86	4092	4006"
+msgid "I owe you one, Sawada."
+msgstr ""
+

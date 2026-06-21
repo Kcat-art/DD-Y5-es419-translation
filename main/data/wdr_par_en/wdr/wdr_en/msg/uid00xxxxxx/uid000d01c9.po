@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "436"
+msgid "Troubled Inmate"
+msgstr ""
+
+msgctxt "440"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "72_Troubled Inmate"
+msgid "This is too much. I've been dreaming of gourmet dinners every night. Then I wake up to whatever this is."
+msgstr ""
+
+msgctxt "84_Troubled Inmate"
+msgid "Maybe I'll get used to it."
+msgstr ""
+

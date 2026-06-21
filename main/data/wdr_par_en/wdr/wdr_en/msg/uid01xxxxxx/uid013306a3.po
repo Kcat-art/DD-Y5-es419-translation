@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "68"
+msgid "%s"
+msgstr ""
+
+msgctxt "628"
+msgid "Player"
+msgstr ""
+
+msgctxt "632"
+msgid "dummy"
+msgstr ""
+
+msgctxt "636"
+msgid "M_NML_SET_stand_camera_kamae"
+msgstr ""
+
+msgctxt "640"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "56_Player"
+msgid "(Interesting scenery here.)"
+msgstr ""
+
+msgctxt "80_Player"
+msgid "(This photo looks great!)"
+msgstr ""
+

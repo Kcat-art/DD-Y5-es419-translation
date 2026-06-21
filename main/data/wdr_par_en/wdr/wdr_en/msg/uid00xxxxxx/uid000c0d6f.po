@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "316"
+msgid "Unwell Youth"
+msgstr ""
+
+msgctxt "72_Unwell Youth"
+msgid "I can't stop coughing. *cough* Was it because I didn't wash my hands or gargle when I got home yesterday?"
+msgstr ""
+

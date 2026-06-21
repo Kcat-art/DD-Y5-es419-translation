@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "680"
+msgid "Reminiscing Reporter"
+msgstr ""
+
+msgctxt "684"
+msgid "Nostalgic Journalist"
+msgstr ""
+
+msgctxt "72_Reminiscing Reporter"
+msgid "The year's over already. Time flies, huh?"
+msgstr ""
+
+msgctxt "84_Nostalgic Journalist"
+msgid "Yeah. I guess it's already more than six months since Deputy Police Commissioner Munakata's suicide."
+msgstr ""
+
+msgctxt "96_Reminiscing Reporter"
+msgid "Huh? I don't remember that."
+msgstr ""
+
+msgctxt "108_Nostalgic Journalist"
+msgid "What!?"
+msgstr ""
+

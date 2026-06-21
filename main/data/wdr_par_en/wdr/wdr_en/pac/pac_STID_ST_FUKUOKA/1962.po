@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "I'm starvin'."
+msgstr ""
+
+msgctxt "244"
+msgid "Motsunabe..."
+msgstr ""
+

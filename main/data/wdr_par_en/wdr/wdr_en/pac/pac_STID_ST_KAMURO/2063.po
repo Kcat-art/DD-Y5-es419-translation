@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1444"
+msgid "P_TLK_stand_tired_lp"
+msgstr ""
+

@@ -1,0 +1,111 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	410	350"
+msgid "Yard's straight ahead."
+msgstr ""
+
+msgctxt " 	　	　	60	928	868"
+msgid "The shit?"
+msgstr ""
+
+msgctxt " 	　	　	92	1489	1397"
+msgid "Aniki... What happened to him?"
+msgstr ""
+
+msgctxt " 	　	　	69	1955	1886"
+msgid "Get out of there, Saejima! Run!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	40	2014	1974"
+msgid "Kosaka-han!"
+msgstr ""
+
+msgctxt " 	　	　	101	2116	2015"
+msgid "I'm sorry! I did all I could to stop them!"
+msgstr ""
+
+msgctxt " 	　	　	97	2218	2121"
+msgid "You have to run!\\r\n"
+"You have to escape!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	56	2300	2244"
+msgid "Kosaka-han?"
+msgstr ""
+
+msgctxt " 	　	　	60	2361	2301"
+msgid "Kosaka-han!"
+msgstr ""
+
+msgctxt " 	　	　	101	2650	2549"
+msgid "Going somewhere, Saejima?"
+msgstr ""
+
+msgctxt " 	　	　	98	2767	2669"
+msgid "Kugihara! How could you!?"
+msgstr ""
+
+msgctxt " 	　	　	215	3000	2785"
+msgid "If I let you walk now, who would play\\r\n"
+"with all the little friends I pulled together?"
+msgstr ""
+
+msgctxt " 	　	　	103	3112	3009"
+msgid "They've just been <Italic>dying</Italic> to meet you!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	56	3979	3923"
+msgid "Baba-chan."
+msgstr ""
+
+msgctxt " 	　	　	60	4040	3980"
+msgid "Yeah."
+msgstr ""
+
+msgctxt " 	　	　	60	4127	4067"
+msgid "Tell me somethin'."
+msgstr ""
+
+msgctxt " 	　	　	88	4232	4144"
+msgid "Ya think Kosaka-han would want us\\r\n"
+"lettin' this trash live?"
+msgstr ""
+
+msgctxt " 	　	　	105	4439	4334"
+msgid "Of course he would.\\r\n"
+"No doubt in my mind."
+msgstr ""
+
+msgctxt " 	　	　	60	4555	4495"
+msgid "With ya there."
+msgstr ""
+
+msgctxt " 	　	　	60	4714	4654"
+msgid "Listen good!"
+msgstr ""
+
+msgctxt " 	　	　	60	4870	4810"
+msgid "I ain't gonna kill ya!"
+msgstr ""
+
+msgctxt " 	　	　	60	4959	4899"
+msgid "But y'know."
+msgstr ""
+
+msgctxt " 	　	分	110	5080	4970"
+msgid "Some shit in life hurts worse than death."
+msgstr ""
+
+msgctxt " 	　	　	60	5157	5097"
+msgid "N' you're about to find out what!"
+msgstr ""
+
+msgctxt " 	　	　	83	5505	5422"
+msgid "Every day, 'til ya finally croak..."
+msgstr ""
+
+msgctxt " 	　	分	102	5637	5535"
+msgid "You're gonna wish I'd ended ya here!"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "224"
+msgid "TEST_上原"
+msgstr ""
+
+msgctxt "228"
+msgid "E9740_stand_tsukitobashi"
+msgstr ""
+

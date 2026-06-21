@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "256"
+msgid "Player"
+msgstr ""
+
+msgctxt "44_Player"
+msgid "(Now doesn't look like a good time. I'll give the old man and Sosuke some space for now.)"
+msgstr ""
+

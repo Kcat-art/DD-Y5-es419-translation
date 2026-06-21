@@ -1,0 +1,45 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "			117	133	16"
+msgid "The moment we've all been\\r\n"
+"waiting for is finally here!"
+msgstr ""
+
+msgctxt "		　	83	220	137"
+msgid "Ready or not, here it comes!"
+msgstr ""
+
+msgctxt "		　	160	383	223"
+msgid "The curtain is about to go up on the third\\r\n"
+"and final round of the Princess League!"
+msgstr ""
+
+msgctxt "		　	111	537	426"
+msgid "Surely we all know the rules by now!"
+msgstr ""
+
+msgctxt "		　	197	739	542"
+msgid "The contestant who corrals the biggest audience\\r\n"
+"by the end of their performance wins round three!"
+msgstr ""
+
+msgctxt "		　	90	869	779"
+msgid "We've finally made it to the final round!"
+msgstr ""
+
+msgctxt "		　	186	1062	876"
+msgid "I don't need to tell you how important the points\\r\n"
+"earned tonight will be in determining our winner!"
+msgstr ""
+
+msgctxt "		　	214	1316	1102"
+msgid "When all is said and done, only one side will wear\\r\n"
+"the Princess League crown! Who will it be!?"
+msgstr ""
+
+msgctxt "		　	242	1559	1317"
+msgid "Now then, let's introduce our players!\\r\n"
+"First up, our outstanding idol duo!"
+msgstr ""
+

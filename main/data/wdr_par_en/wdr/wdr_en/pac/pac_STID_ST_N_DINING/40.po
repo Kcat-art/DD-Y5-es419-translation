@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "392"
+msgid "adv4_080_01/ushijima_0018"
+msgstr ""
+
+msgctxt "396"
+msgid "P_SIN_TLK_sitcnt_kamae"
+msgstr ""
+

@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "292"
+msgid "adv1_140/furumichi_1_140_240"
+msgstr ""
+

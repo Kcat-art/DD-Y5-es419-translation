@@ -1,0 +1,122 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	59	255	34"
+msgid "Not long ago, I did a magazine interview. When it\\r\n"
+"was announced you'd be in the Princess League finals."
+msgstr ""
+
+msgctxt " 	　	　	119	375	256"
+msgid "My ex-husband naturally caught wind...\\r\n"
+"and sent me this letter."
+msgstr ""
+
+msgctxt " 	　	　	60	712	647"
+msgid "He asked me to meet him in Tokyo."
+msgstr ""
+
+msgctxt " 	　	　	123	957	834"
+msgid "Truth be told, I thought I'd never see him again."
+msgstr ""
+
+msgctxt " 	　	　	95	1079	984"
+msgid "He chose to walk a path I\\r\n"
+"could never follow him down."
+msgstr ""
+
+msgctxt " 	　	分	116	1200	1084"
+msgid "Until now, I hadn't heard a single word from him."
+msgstr ""
+
+msgctxt " 	　	　	60	1274	1214"
+msgid "Ma'am..."
+msgstr ""
+
+msgctxt " 	　	　	141	1455	1314"
+msgid "But, this is so important to you.\\r\n"
+"I can't possibly accept it."
+msgstr ""
+
+msgctxt " 	　	　	60	1522	1462"
+msgid "Of course you can."
+msgstr ""
+
+msgctxt " 	　	　	122	1690	1568"
+msgid "Though actually, there's something I need in return."
+msgstr ""
+
+msgctxt " 	　	　	149	1891	1742"
+msgid "Haruka. I have... a favor to ask of you."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	41	1953	1912"
+msgid "What is it?"
+msgstr ""
+
+msgctxt " 	　	　	148	2102	1954"
+msgid "It's been so long since I've seen my ex...\\r\n"
+"I've aged more than I care to admit."
+msgstr ""
+
+msgctxt " 	　	　	107	2252	2145"
+msgid "I... don't want him to be\\r\n"
+"disappointed in what he sees."
+msgstr ""
+
+msgctxt " 	　	　	105	2409	2304"
+msgid "Do you think you could meet him in my place?"
+msgstr ""
+
+msgctxt " 	　	分	146	2567	2421"
+msgid "Afterward, you can bring him over to me."
+msgstr ""
+
+msgctxt " 	　	　	156	2762	2606"
+msgid "I'd prefer he didn't see this old,\\r\n"
+"haggard face in any bright light."
+msgstr ""
+
+msgctxt " 	　	　	71	2839	2768"
+msgid "I'll do anything you ask me to."
+msgstr ""
+
+msgctxt " 	　	　	137	3002	2865"
+msgid "But you have nothing to worry about.\\r\n"
+"I think you're beautiful, Park-san."
+msgstr ""
+
+msgctxt " 	　	　	124	3141	3017"
+msgid "Thank you. I see you've mastered\\r\n"
+"the art of flattery."
+msgstr ""
+
+msgctxt " 	　	　	60	3218	3158"
+msgid "I really mean it!"
+msgstr ""
+
+msgctxt " 	　	　	164	3495	3331"
+msgid "He promised he'd come to your concert in Tokyo."
+msgstr ""
+
+msgctxt " 	　	　	107	3625	3518"
+msgid "I'll ask you again as it gets closer."
+msgstr ""
+
+msgctxt " 	　	　	143	3807	3664"
+msgid "That fountain pen will be\\r\n"
+"proof that I sent you."
+msgstr ""
+
+msgctxt " 	　	　	134	3966	3832"
+msgid "In other words, it's your key to\\r\n"
+"meeting up with him."
+msgstr ""
+
+msgctxt " 	　	　	60	4096	4036"
+msgid "...I'll do it."
+msgstr ""
+
+msgctxt " 	　	　	60	4204	4144"
+msgid "Thank you, Haruka."
+msgstr ""
+

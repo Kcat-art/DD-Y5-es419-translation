@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "404"
+msgid "adv2_125/saejima_2_125_010"
+msgstr ""
+
+msgctxt "408"
+msgid "P_TLK_sitgrd_agura_kamae"
+msgstr ""
+

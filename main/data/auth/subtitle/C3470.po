@@ -1,0 +1,21 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		205	560	355"
+msgid "\"I look forward to seeing you after\\r\n"
+"the concert at the Japan Dome.\""
+msgstr ""
+
+msgctxt " 	 	　	172	765	593"
+msgid "\"Don't worry, I'll be coming alone.\\r\n"
+"That's a promise.\""
+msgstr ""
+
+msgctxt " 	 	　	60	858	798"
+msgid "\"Goro Majima.\""
+msgstr ""
+
+msgctxt " 	 	　	60	967	907"
+msgid "Park-san..."
+msgstr ""
+

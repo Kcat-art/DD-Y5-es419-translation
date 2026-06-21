@@ -1,0 +1,135 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	390	330"
+msgid "Two days since the big scrap..."
+msgstr ""
+
+msgctxt " 	　	分	110	507	397"
+msgid "And you're back on the clock.\\r\n"
+"Helluva work ethic."
+msgstr ""
+
+msgctxt " 	　	　	60	742	682"
+msgid "You again?"
+msgstr ""
+
+msgctxt " 	　	　	82	896	814"
+msgid "Heard you put on quite a show."
+msgstr ""
+
+msgctxt " 	　	　	96	1030	934"
+msgid "Don't know what you're talking about."
+msgstr ""
+
+msgctxt " 	　	　	73	1170	1097"
+msgid "It's no use hidin' things from me."
+msgstr ""
+
+msgctxt " 	　	　	73	1280	1207"
+msgid "So, how's the leg?"
+msgstr ""
+
+msgctxt " 	　	　	60	1642	1582"
+msgid "I got ya."
+msgstr ""
+
+msgctxt " 	　	　	124	2164	2040"
+msgid "So you know, Watase headed\\r\n"
+"back to Kansai this morning."
+msgstr ""
+
+msgctxt " 	　	　	144	2350	2206"
+msgid "Heard he stopped by the\\r\n"
+"police morgue on his way."
+msgstr ""
+
+msgctxt " 	　	分	81	2432	2351"
+msgid "Wanted to light some incense\\r\n"
+"for Aoyama, apparently."
+msgstr ""
+
+msgctxt " 	　	　	130	2610	2480"
+msgid "Crazy. He didn't even realize\\r\n"
+"Aoyama was tryin' to use him."
+msgstr ""
+
+msgctxt " 	　	分	60	2678	2618"
+msgid "Bit of a moron, huh?"
+msgstr ""
+
+msgctxt " 	　	　	172	2975	2803"
+msgid "Kinda surprisin' that the Omi keeps\\r\n"
+"old-school guys like him around."
+msgstr ""
+
+msgctxt " 	　	　	81	3079	2998"
+msgid "Almost makes me proud of 'em."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	47	3234	3187"
+msgid "Forget it."
+msgstr ""
+
+msgctxt " 	　	分	116	3351	3235"
+msgid "I know that's strange comin' from me."
+msgstr ""
+
+msgctxt " 	　	　	110	3490	3380"
+msgid "He should be the sharpest thorn in my side..."
+msgstr ""
+
+msgctxt " 	　	　	70	3626	3556"
+msgid "Man, guess I'm goin' soft."
+msgstr ""
+
+msgctxt " 	　	　	75	3725	3650"
+msgid "Would you say you two are close?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	51	3800	3749"
+msgid "Hell nah."
+msgstr ""
+
+msgctxt " 	　	分	77	3878	3801"
+msgid "But when ya been on the force long as I have..."
+msgstr ""
+
+msgctxt " 	　	　	130	4021	3891"
+msgid "Even your enemy starts makin' ya sentimental."
+msgstr ""
+
+msgctxt " 	　	　	138	4189	4051"
+msgid "You musta had a cop or two\\r\n"
+"ya came to see eye to eye with."
+msgstr ""
+
+msgctxt " 	　	　	79	4284	4205"
+msgid "That's kinda how me n' Watase are."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	44	4470	4426"
+msgid "Oh, by the way..."
+msgstr ""
+
+msgctxt " 	　	　	165	4636	4471"
+msgid "Watase told the local detectives\\r\n"
+"to give you his regards."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	46	4704	4658"
+msgid "To me?"
+msgstr ""
+
+msgctxt " 	　	　	111	4816	4705"
+msgid "Yeah, said he'd settle the Omi side."
+msgstr ""
+
+msgctxt " 	　	分	79	4896	4817"
+msgid "Then settle the score in Tokyo."
+msgstr ""
+
+msgctxt " 	　	　	60	5086	5026"
+msgid "You're goin' too, right?"
+msgstr ""
+

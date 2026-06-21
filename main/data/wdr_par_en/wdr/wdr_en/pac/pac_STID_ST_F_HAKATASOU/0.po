@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "352"
+msgid "P_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "356"
+msgid "M_NML_TLK_sitcnt_kamae"
+msgstr ""
+

@@ -1,0 +1,97 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		123	511	388"
+msgid "The sewers, huh?\\r\n"
+"Color me impressed."
+msgstr ""
+
+msgctxt " 	　	　	125	724	599"
+msgid "You're Kitakata, yeah?\\r\n"
+"Head o' the Kitakata Family?"
+msgstr ""
+
+msgctxt " 	　	　	130	875	745"
+msgid "That's right.\\r\n"
+"Meaning you're Taiga Saejima."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	47	965	918"
+msgid "Yup."
+msgstr ""
+
+msgctxt " 	　	　	60	1026	966"
+msgid "Good finally meeting you."
+msgstr ""
+
+msgctxt " 	　	分	67	1115	1048"
+msgid "Been waiting a long time."
+msgstr ""
+
+msgctxt " 	　	　	107	1247	1140"
+msgid "Oh yeah? N' why's that?"
+msgstr ""
+
+msgctxt " 	　	OK	187	1441	1254"
+msgid "You heard all about Majima's death, didn't you?\\r\n"
+"That's why you broke outta Abashiri."
+msgstr ""
+
+msgctxt " 	　	　	105	1562	1457"
+msgid "To meet the guy who bumped off your bro."
+msgstr ""
+
+msgctxt " 	　	分	60	1626	1566"
+msgid "Right?"
+msgstr ""
+
+msgctxt " 	　	　	65	1830	1765"
+msgid "About that."
+msgstr ""
+
+msgctxt " 	　	分	101	1944	1843"
+msgid "There's something I've gotta tell you."
+msgstr ""
+
+msgctxt " 	　	　	60	2028	1968"
+msgid "What's that?"
+msgstr ""
+
+msgctxt " 	　	　	130	2270	2140"
+msgid "The last thing Goro Majima ever said."
+msgstr ""
+
+msgctxt " 	　	分	60	2340	2280"
+msgid "Interested?"
+msgstr ""
+
+msgctxt " 	　	　	115	2535	2420"
+msgid "Got a place nobody'll bother us.\\r\n"
+"We can talk there."
+msgstr ""
+
+msgctxt " 	　	　	74	2662	2588"
+msgid "Aniki. This might be a trap."
+msgstr ""
+
+msgctxt " 	　	　	167	3009	2842"
+msgid "Don't fret. Not even my boys know\\r\n"
+"about this spot of mine. Police, neither."
+msgstr ""
+
+msgctxt " 	　	　	119	3145	3026"
+msgid "Already said, we both want something outta this."
+msgstr ""
+
+msgctxt " 	　	分	80	3229	3149"
+msgid "Now c'mon. Before someone finds us."
+msgstr ""
+
+msgctxt "  	　	　	60	3298	3238"
+msgid "Aniki..."
+msgstr ""
+
+msgctxt " 	　	　	114	3500	3386"
+msgid "Fine then. I'll go with ya."
+msgstr ""
+

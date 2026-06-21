@@ -1,0 +1,88 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "448"
+msgid "\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+"\\r\n"
+"　"
+msgstr ""
+
+msgctxt "5548"
+msgid "adv3_240/horie_3_240_010a"
+msgstr ""
+
+msgctxt "5552"
+msgid "adv3_230/paku_0092a"
+msgstr ""
+
+msgctxt "5556"
+msgid "adv3_220/horie_0077"
+msgstr ""
+
+msgctxt "5560"
+msgid "adv3_200/christina_0001"
+msgstr ""
+
+msgctxt "5564"
+msgid "C3200_HAL_dance_fin"
+msgstr ""
+
+msgctxt "5568"
+msgid "adv3_190/paku_0078"
+msgstr ""
+
+msgctxt "5572"
+msgid "adv3_180/horie_0058"
+msgstr ""
+
+msgctxt "5576"
+msgid "adv3_170_2/yamaura_0003"
+msgstr ""
+
+msgctxt "5580"
+msgid "adv3_170_1/yamaura_0001b"
+msgstr ""
+
+msgctxt "5584"
+msgid "adv3_150/horie_3_150_010"
+msgstr ""
+
+msgctxt "5588"
+msgid "ACDEV0190"
+msgstr ""
+
+msgctxt "5592"
+msgid "ACDEV0188"
+msgstr ""
+
+msgctxt "5596"
+msgid "adv3_067_1/horie_3_067_010"
+msgstr ""
+
+msgctxt "5600"
+msgid "adv3_060_1/haruka_0053"
+msgstr ""
+
+msgctxt "5604"
+msgid "adv3_020_2/ogita_0015a"
+msgstr ""
+
+msgctxt "5608"
+msgid "HAL_NML_TLK_stand_idle_dance"
+msgstr ""
+
+msgctxt "5612"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5616"
+msgid "adv3_010_1/ogita_0005a"
+msgstr ""
+
+msgctxt "5620"
+msgid "Talk_Ase"
+msgstr ""
+

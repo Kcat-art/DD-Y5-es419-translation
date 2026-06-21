@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "232"
+msgid "Player"
+msgstr ""
+
+msgctxt "60_Player"
+msgid "(They're cleaning now. Can't go in.)"
+msgstr ""
+

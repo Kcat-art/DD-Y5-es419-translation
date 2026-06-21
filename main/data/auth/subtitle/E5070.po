@@ -1,0 +1,44 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		126	167	41"
+msgid "Yeah. He's a curious one, all right."
+msgstr ""
+
+msgctxt " 	　	　	60	654	594"
+msgid "No way."
+msgstr ""
+
+msgctxt " 	　		60	720	660"
+msgid "I can't..."
+msgstr ""
+
+msgctxt " 	　	分	104	827	723"
+msgid "I can't die until I find Morinaga-aniki!"
+msgstr ""
+
+msgctxt " 	　	　	79	1424	1345"
+msgid "Shit. He ain't gonna be\\r\n"
+"able to get up at this rate."
+msgstr ""
+
+msgctxt " 	　	　	60	1802	1742"
+msgid "Hold up..."
+msgstr ""
+
+msgctxt " 	　	　	116	1964	1848"
+msgid "I'm not dead yet, you sonuvabitch!"
+msgstr ""
+
+msgctxt " 	　	　	60	2356	2296"
+msgid "When you come at me..."
+msgstr ""
+
+msgctxt " 	　		90	2472	2382"
+msgid "You better be ready to kill!"
+msgstr ""
+
+msgctxt " 	　		60	3960	3900"
+msgid "Who're you!?"
+msgstr ""
+

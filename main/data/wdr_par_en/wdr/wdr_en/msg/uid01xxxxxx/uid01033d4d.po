@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "104"
+msgid "A10700_shinada_plant"
+msgstr ""
+

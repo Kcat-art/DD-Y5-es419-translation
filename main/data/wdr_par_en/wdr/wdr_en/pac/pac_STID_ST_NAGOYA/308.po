@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1568"
+msgid "M_NML_SET_stand_lookfor_02"
+msgstr ""
+

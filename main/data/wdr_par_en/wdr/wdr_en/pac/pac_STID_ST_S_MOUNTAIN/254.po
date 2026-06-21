@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "140"
+msgid "(This shack ain't gonna protect no one. Gotta get off the mountain...)"
+msgstr ""
+
+msgctxt "164"
+msgid "(No time to be restin'. Gotta hunt a bear and get it's bile.)"
+msgstr ""
+
+msgctxt "992"
+msgid "Saejima"
+msgstr ""
+

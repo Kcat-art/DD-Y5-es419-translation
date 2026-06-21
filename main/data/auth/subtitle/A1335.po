@@ -1,0 +1,242 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		69	308	239"
+msgid "Hey, it's that asshole!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	412	355"
+msgid "Easy, boys."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	52	465	413"
+msgid "But cap, he's...!"
+msgstr ""
+
+msgctxt " 	　	　	88	554	466"
+msgid "I said stand down, y'buncha morons!"
+msgstr ""
+
+msgctxt " 	　	　	60	971	911"
+msgid "Y'got business here?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	1189	1132"
+msgid "What's that?"
+msgstr ""
+
+msgctxt " 	　	　	60	1250	1190"
+msgid "Word from Madarame."
+msgstr ""
+
+msgctxt " 	　	分	103	1376	1273"
+msgid "It's a declaration dissolving\\r\n"
+"the Yamagasa Family."
+msgstr ""
+
+msgctxt " 	　	　	126	1896	1770"
+msgid "Figures. It's just like\\r\n"
+"the old man to pull this."
+msgstr ""
+
+msgctxt " 	　	　	152	2076	1924"
+msgid "Madarame seems to think you're on\\r\n"
+"a collision course with the Tojo Clan."
+msgstr ""
+
+msgctxt " 	　	　	142	2256	2114"
+msgid "He wrote this to protect you.\\r\n"
+"And entrusted it to me."
+msgstr ""
+
+msgctxt " 	　	　	60	2400	2340"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt " 	　	　	85	2625	2540"
+msgid "What, not gonna tear it up?"
+msgstr ""
+
+msgctxt " 	　	　	145	2803	2658"
+msgid "We're only livin' on this green earth to\\r\n"
+"serve Patriarch Madarame."
+msgstr ""
+
+msgctxt " 	　	　	117	2935	2818"
+msgid "It don't even matter what\\r\n"
+"happens to the Yamagasa Family."
+msgstr ""
+
+msgctxt " 	　	　	66	3042	2976"
+msgid "We'd avenge the boss either way."
+msgstr ""
+
+msgctxt " 	　		70	3136	3066"
+msgid "He's all we got."
+msgstr ""
+
+msgctxt " 	　	　	96	3298	3202"
+msgid "If it's revenge you want,\\r\n"
+"come and get it."
+msgstr ""
+
+msgctxt " 	　	　	63	3431	3368"
+msgid "I ain't that dense."
+msgstr ""
+
+msgctxt " 	　	分	143	3599	3456"
+msgid "It was that Aoyama fucker from the\\r\n"
+"Tojo Clan who knifed the patriarch."
+msgstr ""
+
+msgctxt " 	　	　	74	3694	3620"
+msgid "Figured it out when HQ got blown to shit."
+msgstr ""
+
+msgctxt " 	　	分	117	3838	3721"
+msgid "You ain't the type to stoop that low."
+msgstr ""
+
+msgctxt " 	　	　	135	3995	3860"
+msgid "So let me get this straight.\\r\n"
+"Even if the Yamagasa crumbles..."
+msgstr ""
+
+msgctxt " 	　	分	90	4110	4020"
+msgid "You still want revenge on Aoyama?"
+msgstr ""
+
+msgctxt " 	　	　	172	4306	4134"
+msgid "Damn straight. This ain't about turf\\r\n"
+"or protocols or relations anymore."
+msgstr ""
+
+msgctxt " 	　	　	94	4419	4325"
+msgid "It's one-hundred percent pure yakuza justice."
+msgstr ""
+
+msgctxt " 	　	　	60	4522	4462"
+msgid "All right, then."
+msgstr ""
+
+msgctxt " 	　	　	68	4915	4847"
+msgid "The shit? What'd ya do that for!?"
+msgstr ""
+
+msgctxt " 	　	　	72	4993	4921"
+msgid "The Yamagasa Family isn't disbanding."
+msgstr ""
+
+msgctxt " 	　	分	109	5138	5029"
+msgid "There's something I need you to do."
+msgstr ""
+
+msgctxt " 	　	　	60	5208	5148"
+msgid "Y'givin' us orders?"
+msgstr ""
+
+msgctxt " 	　	　	144	5379	5235"
+msgid "When I first came to Nagasu,\\r\n"
+"it felt almost exactly like Kamurocho."
+msgstr ""
+
+msgctxt " 	　	　	139	5559	5420"
+msgid "For better or worse, the Yamagasa\\r\n"
+"Family keeps this town in balance."
+msgstr ""
+
+msgctxt " 	　	　	183	5784	5601"
+msgid "If the Yamagasa is out of the picture,\\r\n"
+"other groups are just going to muscle in."
+msgstr ""
+
+msgctxt " 	　	分	97	5887	5790"
+msgid "Wouldn't be great for business."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	53	5945	5892"
+msgid "What business?"
+msgstr ""
+
+msgctxt " 	　	　	127	6073	5946"
+msgid "I don't really look the part,\\r\n"
+"but I drive a taxi in town."
+msgstr ""
+
+msgctxt " 	　	分	92	6197	6105"
+msgid "So I can't let the Yamagasa just fade away."
+msgstr ""
+
+msgctxt " 	　	　	171	6411	6240"
+msgid "You still have a job to do here.\\r\n"
+"Get this city back on its feet."
+msgstr ""
+
+msgctxt " 	　	　	116	6528	6412"
+msgid "Huh!? Y'ain't makin' a lick o' sense!"
+msgstr ""
+
+msgctxt " 	　	　	139	6696	6557"
+msgid "Keep stickin' yer nose where it\\r\n"
+"don't belong, and I'll chop it off!"
+msgstr ""
+
+msgctxt " 	　	　	131	6861	6730"
+msgid "That's the right attitude.\\r\n"
+"But you'll need more than that."
+msgstr ""
+
+msgctxt " 	　	OK	180	7068	6888"
+msgid "If you make a run at the Tojo Clan now,\\r\n"
+"you'd all end up leaving in body bags."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	36	7115	7079"
+msgid "What'd you say!?"
+msgstr ""
+
+msgctxt " 	　	　	118	7234	7116"
+msgid "If you still want to go after Aoyama,\\r\n"
+"I won't stand in your way."
+msgstr ""
+
+msgctxt " 	　	　	60	7332	7272"
+msgid "But first..."
+msgstr ""
+
+msgctxt " 	　	　	113	7488	7375"
+msgid "You'll need to see\\r\n"
+"if you can get through me."
+msgstr ""
+
+msgctxt " 	　	　	60	7584	7495"
+msgid "Huh!? What're ya smokin'!?"
+msgstr ""
+
+msgctxt " 	　	　	108	7776	7668"
+msgid "One hit. That's all it'll\\r\n"
+"take to floor you."
+msgstr ""
+
+msgctxt " 	　	　	121	8131	8010"
+msgid "Y'may have beaten me once,\\r\n"
+"but I ain't lost a rematch."
+msgstr ""
+
+msgctxt " 	　	　	70	8222	8152"
+msgid "First round was just a warm-up."
+msgstr ""
+
+msgctxt " 	　	分	106	8333	8227"
+msgid "This time I'm puttin' ya\\r\n"
+"in the ground fer sure."
+msgstr ""
+
+msgctxt " 	　	　	60	8420	8360"
+msgid "Then shut up and show me."
+msgstr ""
+
+msgctxt " 	　	　	60	8524	8464"
+msgid "I'm ready when you are."
+msgstr ""
+

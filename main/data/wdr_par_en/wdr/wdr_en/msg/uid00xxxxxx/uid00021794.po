@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "100"
+msgid "Change characters?"
+msgstr ""
+
+msgctxt "556"
+msgid "Yes"
+msgstr ""
+
+msgctxt "560"
+msgid "No"
+msgstr ""
+

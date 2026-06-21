@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "108"
+msgid "プリセットカメラ"
+msgstr ""
+

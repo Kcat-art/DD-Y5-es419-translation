@@ -1,0 +1,41 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "			170	232	62"
+msgid "Dancing in perfect unison and singing in\\r\n"
+"pitch-perfect harmony is this duo's claim to fame!　"
+msgstr ""
+
+msgctxt "		　	232	469	237"
+msgid "Their popularity has skyrocketed\\r\n"
+"from right out of the gate!"
+msgstr ""
+
+msgctxt "		　	126	600	474"
+msgid "T-Set!"
+msgstr ""
+
+msgctxt "		　	163	865	702"
+msgid "They're going against the talented newcomer who\\r\n"
+"suddenly blasted ahead of all other challengers!"
+msgstr ""
+
+msgctxt "		　	187	1057	870"
+msgid "Can this surprising diamond in the rough realize\\r\n"
+"her dreams here in the Princess League!?"
+msgstr ""
+
+msgctxt "		　	148	1215	1067"
+msgid "Haruka Sawamura!"
+msgstr ""
+
+msgctxt "		　	206	1588	1382"
+msgid "Which of them will attract the most audience\\r\n"
+"members with their dazzling performance!?"
+msgstr ""
+
+msgctxt "		　	146	1735	1589"
+msgid "It's time to find out!\\r\n"
+"Ready?"
+msgstr ""
+

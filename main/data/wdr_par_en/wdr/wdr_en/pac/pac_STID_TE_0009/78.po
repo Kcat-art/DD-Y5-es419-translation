@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "840"
+msgid "福引"
+msgstr ""
+

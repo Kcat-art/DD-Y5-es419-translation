@@ -1,0 +1,16 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "416"
+msgid "dummy"
+msgstr ""
+
+msgctxt "420"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "(I don't have time to take any detours. I should send the money at that convenience store.)\\r\n"
+"　 "
+msgstr ""
+

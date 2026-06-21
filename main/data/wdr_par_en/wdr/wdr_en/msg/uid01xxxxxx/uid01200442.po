@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1700"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1704"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1708"
+msgid "HAL_TLK_stand_unhappy"
+msgstr ""
+
+msgctxt "1712"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "1716"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "136_Haruka"
+msgid "Wow, Uncle Kaz! You're amazing! I bet you'd make tons of money if you were a fisherman!"
+msgstr ""
+
+msgctxt "160_Haruka"
+msgid "Aw. Too bad. Well, better luck next time."
+msgstr ""
+
+msgctxt "172_Haruka"
+msgid "Why don't you try using a <Color:8>Catnip Stick<Color:Default> or a <Color:8>Tuna Burger Set<Color:Default>?"
+msgstr ""
+
+msgctxt "196_Haruka"
+msgid "Uncle Kaz! Catch me a <Color:8>ghost koi<Color:Default>!"
+msgstr ""
+
+msgctxt "208_Haruka"
+msgid "Why don't you try using a <Color:8>Catnip Stick<Color:Default> or a <Color:8>Tuna Burger Set<Color:Default>?"
+msgstr ""
+
+msgctxt "220_Kiryu"
+msgid "(Haruka wants me to catch a <Color:8>ghost koi<Color:Default>, huh?)"
+msgstr ""
+

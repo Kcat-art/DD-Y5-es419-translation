@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "496"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "500"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Okudera"
+msgid "Saejima, we shouldn't go any further than this. We don't want to run into Yama-oroshi."
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "Okay. Got it."
+msgstr ""
+

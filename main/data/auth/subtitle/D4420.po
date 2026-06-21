@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "						113	53"
+msgid "From now on..."
+msgstr ""
+
+msgctxt "						205	145"
+msgid "This job is mine."
+msgstr ""
+
+msgctxt "						280	220"
+msgid "You stay out of it."
+msgstr ""
+
+msgctxt "						368	308"
+msgid "Tatsuo."
+msgstr ""
+
+msgctxt "たつお405～						471	360"
+msgid "Huh? Tatsuo...?"
+msgstr ""
+
+msgctxt "						558	498"
+msgid "You're...!"
+msgstr ""
+
+msgctxt "						630	570"
+msgid "Remember me?"
+msgstr ""
+
+msgctxt "						772	710"
+msgid "The name's Dojima."
+msgstr ""
+
+msgctxt "						859	773"
+msgid "We went to West Kamuro High together."
+msgstr ""
+

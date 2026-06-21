@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "92"
+msgid "I caved..."
+msgstr ""
+
+msgctxt "116"
+msgid "Tickets..."
+msgstr ""
+

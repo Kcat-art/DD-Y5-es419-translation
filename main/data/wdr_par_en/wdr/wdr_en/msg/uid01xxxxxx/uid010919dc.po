@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "392"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "44_Saejima"
+msgid "(I'll start with areas I've already visited.)"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "(Should be signs of him somewhere... maybe footprints.)"
+msgstr ""
+

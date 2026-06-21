@@ -1,0 +1,20 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "267	207	360	300		 	 		60	267	207"
+msgid "Fight your way up, Aizawa."
+msgstr ""
+
+msgctxt "474	414	567	507		 	　	　	60	474	414"
+msgid "I don't care how many years it takes you."
+msgstr ""
+
+msgctxt "632	519	725	612		 	　	　	113	632	519"
+msgid "Fight your way up, then come at me again."
+msgstr ""
+
+msgctxt "814	695	907	788		 	　	　	119	814	695"
+msgid "I'll be there.\\r\n"
+"Whenever you're ready."
+msgstr ""
+

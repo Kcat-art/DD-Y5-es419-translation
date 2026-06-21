@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	237	177"
+msgid "Not bad."
+msgstr ""
+
+msgctxt " 	 	　	124	369	245"
+msgid "Well? You done trying to stop me?"
+msgstr ""
+
+msgctxt " 	 	　	80	656	576"
+msgid "Yeah. I accept defeat."
+msgstr ""
+
+msgctxt " 	 	　	177	885	708"
+msgid "Then... I'm going with you to Tokyo."
+msgstr ""
+
+msgctxt " 	 	　	115	984	924"
+msgid "I won't object."
+msgstr ""
+
+msgctxt "		分	60	1060	1000"
+msgid "Not after that."
+msgstr ""
+

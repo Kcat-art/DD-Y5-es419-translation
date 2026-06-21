@@ -1,0 +1,275 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1819	POPUP"
+msgid "Hey there."
+msgstr ""
+
+msgctxt "1830	POPUP"
+msgid "See ya."
+msgstr ""
+
+msgctxt "1838	POPUP"
+msgid "Let's play."
+msgstr ""
+
+msgctxt "1850	POPUP"
+msgid "Oh, yeah!"
+msgstr ""
+
+msgctxt "1860	POPUP"
+msgid "Bah!"
+msgstr ""
+
+msgctxt "1865	POPUP"
+msgid "I won."
+msgstr ""
+
+msgctxt "1872	POPUP"
+msgid "Lost that one."
+msgstr ""
+
+msgctxt "1887	POPUP"
+msgid "dealer_throw"
+msgstr ""
+
+msgctxt "1900	POPUP"
+msgid "Sitting this one out."
+msgstr ""
+
+msgctxt "1922	POPUP"
+msgid "This is a sure bet!"
+msgstr ""
+
+msgctxt "1942	POPUP"
+msgid "I'll go with this!"
+msgstr ""
+
+msgctxt "1961	POPUP"
+msgid "no_more_bet"
+msgstr ""
+
+msgctxt "1973	POPUP"
+msgid "Hello."
+msgstr ""
+
+msgctxt "1980	POPUP"
+msgid "Goodbye."
+msgstr ""
+
+msgctxt "1989	POPUP"
+msgid "Let's play."
+msgstr ""
+
+msgctxt "2001	POPUP"
+msgid "I won."
+msgstr ""
+
+msgctxt "2008	POPUP"
+msgid "I lost..."
+msgstr ""
+
+msgctxt "2018	POPUP"
+msgid "dealer_throw"
+msgstr ""
+
+msgctxt "2031	POPUP"
+msgid "Here's my bet."
+msgstr ""
+
+msgctxt "2046	POPUP"
+msgid "How about this?"
+msgstr ""
+
+msgctxt "2062	POPUP"
+msgid "Here goes!"
+msgstr ""
+
+msgctxt "2073	POPUP"
+msgid "Time to spin!"
+msgstr ""
+
+msgctxt "2087	POPUP"
+msgid "That's quite a bet, <!--Name-->-san."
+msgstr ""
+
+msgctxt "2124	POPUP"
+msgid "You should try again, <!--Name-->-san."
+msgstr ""
+
+msgctxt "2163	POPUP"
+msgid "Wassup!"
+msgstr ""
+
+msgctxt "2171	POPUP"
+msgid "I'm outta here."
+msgstr ""
+
+msgctxt "2187	POPUP"
+msgid "Game on!"
+msgstr ""
+
+msgctxt "2196	POPUP"
+msgid "Booyah!"
+msgstr ""
+
+msgctxt "2204	POPUP"
+msgid "Argh!"
+msgstr ""
+
+msgctxt "2210	POPUP"
+msgid "I won, man!"
+msgstr ""
+
+msgctxt "2222	POPUP"
+msgid "Man, I lost..."
+msgstr ""
+
+msgctxt "2237	POPUP"
+msgid "dealer_throw"
+msgstr ""
+
+msgctxt "2250	POPUP"
+msgid "Meh..."
+msgstr ""
+
+msgctxt "2257	POPUP"
+msgid "Right here!"
+msgstr ""
+
+msgctxt "2269	POPUP"
+msgid "I'm going with this."
+msgstr ""
+
+msgctxt "2290	POPUP"
+msgid "no_more_bet"
+msgstr ""
+
+msgctxt "2302	POPUP"
+msgid "Shall we begin?"
+msgstr ""
+
+msgctxt "2318	POPUP"
+msgid "Farewell."
+msgstr ""
+
+msgctxt "2328	POPUP"
+msgid "Here we go."
+msgstr ""
+
+msgctxt "2340	POPUP"
+msgid "Yes!"
+msgstr ""
+
+msgctxt "2345	POPUP"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "2352	POPUP"
+msgid "Victory!"
+msgstr ""
+
+msgctxt "2361	POPUP"
+msgid "Defeat..."
+msgstr ""
+
+msgctxt "2371	POPUP"
+msgid "dealer_throw"
+msgstr ""
+
+msgctxt "2384	POPUP"
+msgid "I'll sit this one out."
+msgstr ""
+
+msgctxt "2407	POPUP"
+msgid "This is the one!"
+msgstr ""
+
+msgctxt "2424	POPUP"
+msgid "Here's my wager."
+msgstr ""
+
+msgctxt "2441	POPUP"
+msgid "no_more_bet"
+msgstr ""
+
+msgctxt "2453	POPUP"
+msgid "Let's get started."
+msgstr ""
+
+msgctxt "2472	POPUP"
+msgid "Hmph."
+msgstr ""
+
+msgctxt "2478	POPUP"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "2494	POPUP"
+msgid "That's how it goes."
+msgstr ""
+
+msgctxt "2514	POPUP"
+msgid "What the...?"
+msgstr ""
+
+msgctxt "2527	POPUP"
+msgid "dealer_throw"
+msgstr ""
+
+msgctxt "2540	POPUP"
+msgid "Now, here's my bet."
+msgstr ""
+
+msgctxt "2560	POPUP"
+msgid "This game's on!"
+msgstr ""
+
+msgctxt "2576	POPUP"
+msgid "Let's play!"
+msgstr ""
+
+msgctxt "2588	POPUP"
+msgid "I'm leaving!"
+msgstr ""
+
+msgctxt "2601	POPUP"
+msgid "Here goes!"
+msgstr ""
+
+msgctxt "2612	POPUP"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "2618	POPUP"
+msgid "Tsk!"
+msgstr ""
+
+msgctxt "2623	POPUP"
+msgid "Sweet!"
+msgstr ""
+
+msgctxt "2630	POPUP"
+msgid "Boo!"
+msgstr ""
+
+msgctxt "2635	POPUP"
+msgid "dealer_throw"
+msgstr ""
+
+msgctxt "2648	POPUP"
+msgid "I'll bet next time."
+msgstr ""
+
+msgctxt "2668	POPUP"
+msgid "Come on!"
+msgstr ""
+
+msgctxt "2677	POPUP"
+msgid "That should do it."
+msgstr ""
+
+msgctxt "2696	POPUP"
+msgid "no_more_bet"
+msgstr ""
+

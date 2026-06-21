@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "780"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "784"
+msgid "Idle"
+msgstr ""
+

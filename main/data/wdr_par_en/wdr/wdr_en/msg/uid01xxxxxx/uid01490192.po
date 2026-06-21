@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1012"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1016"
+msgid "Go In"
+msgstr ""
+
+msgctxt "1020"
+msgid "Don't Go In"
+msgstr ""
+
+msgctxt "44_Haruka"
+msgid "(Castle Records? This is where Airi Yuki-san is performing.\\r\n"
+"I wonder if I should try to get her autograph for\\r\n"
+"Horie-san.)"
+msgstr ""
+
+msgctxt "56_Haruka"
+msgid "(I don't know. I don't have an appointment or anything!\\r\n"
+"Maybe I should do this later.)"
+msgstr ""
+
+msgctxt "68_Haruka"
+msgid "(It'll take some courage to do this without an appointment,\\r\n"
+"but, for Horie-san, I'll give it a try!)"
+msgstr ""
+

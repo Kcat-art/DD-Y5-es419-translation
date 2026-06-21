@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "748"
+msgid "adv4_030/kubotaman2_0004"
+msgstr ""
+
+msgctxt "752"
+msgid "ACDEV0058"
+msgstr ""
+
+msgctxt "756"
+msgid "adv4_020_04/shinada_0039"
+msgstr ""
+

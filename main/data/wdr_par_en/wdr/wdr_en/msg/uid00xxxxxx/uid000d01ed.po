@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "468"
+msgid "Fearful Woman"
+msgstr ""
+
+msgctxt "72_Fearful Woman"
+msgid "There are so many policemen around. I wonder what happened..."
+msgstr ""
+
+msgctxt "84_Fearful Woman"
+msgid "Oh, gosh, maybe there's some violent criminal lurking about... I'd better hurry home!"
+msgstr ""
+

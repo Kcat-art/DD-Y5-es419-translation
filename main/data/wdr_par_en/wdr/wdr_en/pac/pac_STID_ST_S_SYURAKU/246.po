@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "424"
+msgid "adv2_900/sakurai_2_900_080"
+msgstr ""
+
+msgctxt "428"
+msgid "P_TLK_sitgrd_agura_kamae"
+msgstr ""
+
+msgctxt "432"
+msgid "dummy"
+msgstr ""
+

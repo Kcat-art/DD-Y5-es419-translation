@@ -1,0 +1,25 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "			54	543	489"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "		　	60	604	544"
+msgid "Rare to see him outta the house."
+msgstr ""
+
+msgctxt "	　		83	1151	1068"
+msgid "\"Here's your ball\\r\n"
+"and your money.\""
+msgstr ""
+
+msgctxt "			196	1382	1186"
+msgid "\"Should be more than enough. Get your children \\r\n"
+"something nice with whatever's left over.\"\\r\n"
+msgstr ""
+
+msgctxt "		　	99	2604	2505"
+msgid "He knows damn well I ain't even married..."
+msgstr ""
+

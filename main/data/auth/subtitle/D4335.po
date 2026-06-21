@@ -1,0 +1,146 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		75	273	198"
+msgid "Just fess up already!"
+msgstr ""
+
+msgctxt " 	　	　	139	443	304"
+msgid "Give it a break. I can't confess\\r\n"
+"to what I didn't do!"
+msgstr ""
+
+msgctxt " 	　	　	98	551	453"
+msgid "Can't you just let me go home?"
+msgstr ""
+
+msgctxt " 	　	　	101	653	552"
+msgid "We've got a series with Hiroshima starting\\r\n"
+"tomorrow with a playoff spot on the line."
+msgstr ""
+
+msgctxt " 	　	　	141	893	752"
+msgid "Then let's see if this helps hurry things up."
+msgstr ""
+
+msgctxt " 	　	　	69	1179	1110"
+msgid "You know who that is, don't you?"
+msgstr ""
+
+msgctxt " 	　	　	81	1305	1224"
+msgid "We played together in high school."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	58	1424	1366"
+msgid "Well he came straight to us."
+msgstr ""
+
+msgctxt " 	　	　	153	1578	1425"
+msgid "Testifying that you paid him to\\r\n"
+"steal signs from the Gigants' catcher."
+msgstr ""
+
+msgctxt " 	　	　	94	1694	1600"
+msgid "It's definitely him in the photo..."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	47	1744	1697"
+msgid "But that guy handing him the cash isn't me!"
+msgstr ""
+
+msgctxt " 	　	　	89	1834	1745"
+msgid "C'mon, this whole thing is stupid!"
+msgstr ""
+
+msgctxt " 	　	　	106	1943	1837"
+msgid "You can't even prove this is me in the photo!"
+msgstr ""
+
+msgctxt " 	　	　	114	2059	1945"
+msgid "You're seriously falling for this shit?\\r\n"
+"What's wrong with you!?"
+msgstr ""
+
+msgctxt " 	　	　	133	2280	2147"
+msgid "I've had enough. I can feel myself\\r\n"
+"getting weaker by the minute in here."
+msgstr ""
+
+msgctxt " 	　	　	60	2341	2281"
+msgid "Let me go!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	55	2411	2356"
+msgid "There's something else."
+msgstr ""
+
+msgctxt " 	　	分	151	2563	2412"
+msgid "I hear you bet two million\\r\n"
+"on the Wyverns winning."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	52	2616	2564"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt " 	　	OK	183	2800	2617"
+msgid "The guy in the photo told us everything.\\r\n"
+"You fixed that game and we damn well know it!"
+msgstr ""
+
+msgctxt " 	　	　	60	2888	2828"
+msgid "You've gotta be kidding me."
+msgstr ""
+
+msgctxt " 	　	　	141	3045	2904"
+msgid "You had him steal the catcher's signs,\\r\n"
+"then won big off the bet you put down!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	53	3104	3051"
+msgid "Are you out of your mind!?"
+msgstr ""
+
+msgctxt " 	　	　	112	3217	3105"
+msgid "Even if I knew what pitch was coming,\\r\n"
+"how could I make sure I'd hit a homer?"
+msgstr ""
+
+msgctxt " 	　	　	60	3278	3218"
+msgid "Use your damn brains!"
+msgstr ""
+
+msgctxt " 	　	　	83	3362	3279"
+msgid "Don't get so worked up, Shinada."
+msgstr ""
+
+msgctxt " 	　	　	127	3505	3378"
+msgid "Listen. You've already got your punishment."
+msgstr ""
+
+msgctxt " 	　	　	161	3689	3528"
+msgid "If you just admit you did it,\\r\n"
+"we might agree not to press charges."
+msgstr ""
+
+msgctxt " 	　	　	60	3779	3719"
+msgid "What do you mean, punishment?"
+msgstr ""
+
+msgctxt " 	　	　	81	3873	3792"
+msgid "Me? What are you talking about?"
+msgstr ""
+
+msgctxt " 	　	　	60	3964	3904"
+msgid "You didn't hear?"
+msgstr ""
+
+msgctxt " 	　	　	162	4138	3976"
+msgid "The Federation's spoken. You're banned\\r\n"
+"from professional baseball, for life."
+msgstr ""
+
+msgctxt " 	　	　	60	4291	4231"
+msgid "For life!?"
+msgstr ""
+

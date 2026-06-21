@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "284"
+msgid "E9760_kenka_ichamon"
+msgstr ""
+

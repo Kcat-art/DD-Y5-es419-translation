@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "412"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "60_Shinada"
+msgid "(Now, then... What's it going to be?)"
+msgstr ""
+
+msgctxt "72_Shinada"
+msgid "(Now, then... What's it going to be?)"
+msgstr ""
+

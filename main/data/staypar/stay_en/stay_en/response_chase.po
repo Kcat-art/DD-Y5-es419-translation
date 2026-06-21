@@ -1,0 +1,163 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3450	POPUP"
+msgid "Huff... Huff..."
+msgstr ""
+
+msgctxt "3467	POPUP"
+msgid "Augh!"
+msgstr ""
+
+msgctxt "3475	POPUP"
+msgid "Wait! Saejima!"
+msgstr ""
+
+msgctxt "3495	POPUP"
+msgid "Stop!"
+msgstr ""
+
+msgctxt "3508	POPUP"
+msgid "Dammit! Ugh..."
+msgstr ""
+
+msgctxt "3524	POPUP"
+msgid "Ow!"
+msgstr ""
+
+msgctxt "3530	POPUP"
+msgid "Hey, wait!"
+msgstr ""
+
+msgctxt "3546	POPUP"
+msgid "Santa, wait!"
+msgstr ""
+
+msgctxt "3564	POPUP"
+msgid "Santa!"
+msgstr ""
+
+msgctxt "3576	POPUP"
+msgid "Whee!"
+msgstr ""
+
+msgctxt "3588	POPUP"
+msgid "Grah!"
+msgstr ""
+
+msgctxt "3595	POPUP"
+msgid "Ow!"
+msgstr ""
+
+msgctxt "3602	POPUP"
+msgid "Leave me alone!"
+msgstr ""
+
+msgctxt "3619	POPUP"
+msgid "That hurt!"
+msgstr ""
+
+msgctxt "3633	POPUP"
+msgid "Damn it!"
+msgstr ""
+
+msgctxt "3643	POPUP"
+msgid "Ugh!"
+msgstr ""
+
+msgctxt "3651	POPUP"
+msgid "Huff... Huff..."
+msgstr ""
+
+msgctxt "3668	POPUP"
+msgid "Ngh!"
+msgstr ""
+
+msgctxt "3676	POPUP"
+msgid "Rgh!"
+msgstr ""
+
+msgctxt "3682	POPUP"
+msgid "Oof!"
+msgstr ""
+
+msgctxt "3690	POPUP"
+msgid "Huff... Huff..."
+msgstr ""
+
+msgctxt "3710	POPUP"
+msgid "Hey, wait!"
+msgstr ""
+
+msgctxt "3722	POPUP"
+msgid "Hah!"
+msgstr ""
+
+msgctxt "3731	POPUP"
+msgid "Huff... Huff..."
+msgstr ""
+
+msgctxt "3747	POPUP"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "3752	POPUP"
+msgid "Dammit!"
+msgstr ""
+
+msgctxt "3763	POPUP"
+msgid "Come on!"
+msgstr ""
+
+msgctxt "3774	POPUP"
+msgid "Gah!"
+msgstr ""
+
+msgctxt "3779	POPUP"
+msgid "attack1"
+msgstr ""
+
+msgctxt "3787	POPUP"
+msgid "attack2"
+msgstr ""
+
+msgctxt "3795	POPUP"
+msgid "pursuit"
+msgstr ""
+
+msgctxt "3803	POPUP"
+msgid "escape"
+msgstr ""
+
+msgctxt "3810	POPUP"
+msgid "jump"
+msgstr ""
+
+msgctxt "3815	POPUP"
+msgid "damage"
+msgstr ""
+
+msgctxt "3822	POPUP"
+msgid "attack1"
+msgstr ""
+
+msgctxt "3830	POPUP"
+msgid "attack2"
+msgstr ""
+
+msgctxt "3838	POPUP"
+msgid "pursuit"
+msgstr ""
+
+msgctxt "3846	POPUP"
+msgid "escape"
+msgstr ""
+
+msgctxt "3853	POPUP"
+msgid "jump"
+msgstr ""
+
+msgctxt "3858	POPUP"
+msgid "damage"
+msgstr ""
+

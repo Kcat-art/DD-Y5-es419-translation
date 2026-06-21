@@ -1,0 +1,216 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	77	17"
+msgid "Patriarch Aoyama."
+msgstr ""
+
+msgctxt " 	　	　	105	195	90"
+msgid "So you're the one who\\r\n"
+"kidnapped Chairman Dojima!"
+msgstr ""
+
+msgctxt " 	　	　	62	615	553"
+msgid "What do you think you're doing?"
+msgstr ""
+
+msgctxt " 	　	　	60	705	645"
+msgid "Put the gun down."
+msgstr ""
+
+msgctxt " 	　	　	60	828	768"
+msgid "I want an answer!"
+msgstr ""
+
+msgctxt " 	　	　	75	960	885"
+msgid "Do you realize what you're doing?"
+msgstr ""
+
+msgctxt " 	　	　	60	1067	1007"
+msgid "I'm the acting chairman."
+msgstr ""
+
+msgctxt " 	　	　	80	1190	1110"
+msgid "The very top of the Tojo Clan."
+msgstr ""
+
+msgctxt " 	　	　	65	1338	1273"
+msgid "You think you can just shoot me?"
+msgstr ""
+
+msgctxt " 	　	　	85	1515	1430"
+msgid "That depends on your answer."
+msgstr ""
+
+msgctxt " 	　	　	82	2145	2063"
+msgid "Aniki, what was that!?"
+msgstr ""
+
+msgctxt " 	　	　	60	2260	2200"
+msgid "They're blanks."
+msgstr ""
+
+msgctxt " 	　	　	118	2455	2337"
+msgid "It's the only way I'd be\\r\n"
+"sure I could trust you."
+msgstr ""
+
+msgctxt " 	　	　	158	2675	2517"
+msgid "Can't give a loose cannon punk\\r\n"
+"like you real bullets, now can I?"
+msgstr ""
+
+msgctxt " 	　	　	93	2792	2699"
+msgid "What if you'd mistakenly shot a civilian?"
+msgstr ""
+
+msgctxt " 	　	分	72	2891	2819"
+msgid "We'd have the force\\r\n"
+"breathing down our necks."
+msgstr ""
+
+msgctxt " 	　	　	171	3156	2985"
+msgid "I'm quite strict about misconduct in my ranks.\\r\n"
+"You're aware what comes next, Morinaga."
+msgstr ""
+
+msgctxt " 	　	　	60	3337	3277"
+msgid "Patriarch Aoyama!"
+msgstr ""
+
+msgctxt " 	　	　	60	3415	3355"
+msgid "Farewell."
+msgstr ""
+
+msgctxt " 	　	　	60	3637	3577"
+msgid "Aniki!"
+msgstr ""
+
+msgctxt " 	　	　	60	3768	3708"
+msgid "Morinaga!"
+msgstr ""
+
+msgctxt " 	　	分	64	3847	3783"
+msgid "Aoyama... How could you?"
+msgstr ""
+
+msgctxt " 	　	　	80	3928	3848"
+msgid "Don't get involved, Fourth Chairman."
+msgstr ""
+
+msgctxt " 	　	　	71	4010	3939"
+msgid "I prefer to keep this internal."
+msgstr ""
+
+msgctxt " 	　	分	84	4105	4021"
+msgid "A matter of Tojo discipline."
+msgstr ""
+
+msgctxt " 	　	　	60	4204	4144"
+msgid "You bastard!"
+msgstr ""
+
+msgctxt " 	　	　	60	4481	4421"
+msgid "I must thank you."
+msgstr ""
+
+msgctxt " 	　	　	144	4644	4500"
+msgid "You've given me just the out I needed\\r\n"
+"to make a clean getaway."
+msgstr ""
+
+msgctxt " 	　	　	60	4726	4666"
+msgid "What?"
+msgstr ""
+
+msgctxt " 	　	　	60	5005	4945"
+msgid "What's goin' on in here!?"
+msgstr ""
+
+msgctxt " 	　	　	60	5130	5070"
+msgid "The fuck!?"
+msgstr ""
+
+msgctxt " 	　	　	62	5211	5149"
+msgid "Captain Yahata!"
+msgstr ""
+
+msgctxt " 	　	分	62	5275	5213"
+msgid "They assaulted Patriarch Madarame."
+msgstr ""
+
+msgctxt " 	　	　	60	5352	5292"
+msgid "They what!?"
+msgstr ""
+
+msgctxt " 	　	　	65	5461	5396"
+msgid "Boss! Boss...!"
+msgstr ""
+
+msgctxt " 	　	　	122	5622	5500"
+msgid "Someone, call an ambulance!\\r\n"
+"We gotta get 'im to a hospital!"
+msgstr ""
+
+msgctxt " 	　	　	105	6007	5902"
+msgid "Who're you, asshole?"
+msgstr ""
+
+msgctxt " 	　	　	83	6126	6043"
+msgid "It might take a while to explain."
+msgstr ""
+
+msgctxt " 	　	　	60	6205	6167"
+msgid "Aizawa!"
+msgstr ""
+
+msgctxt " 	　	　	17	6227	6210"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt " 	　	　	118	6356	6238"
+msgid "Get Morinaga out of here.\\r\n"
+"I'll hold them off!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	48	6427	6379"
+msgid "But...!"
+msgstr ""
+
+msgctxt " 	　	　	60	6488	6428"
+msgid "Just go!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	54	6546	6492"
+msgid "Don't let him..."
+msgstr ""
+
+msgctxt " 	　	分	76	6623	6547"
+msgid "Don't you dare let him die!"
+msgstr ""
+
+msgctxt " 	　	　	60	6733	6673"
+msgid "Okay!"
+msgstr ""
+
+msgctxt " 	　	　	69	6998	6929"
+msgid "So yer the one who stabbed the boss?"
+msgstr ""
+
+msgctxt " 	　	　	108	7123	7015"
+msgid "No. But under the circumstances..."
+msgstr ""
+
+msgctxt " 	　	分	83	7227	7144"
+msgid "I doubt you'd believe what I have to say."
+msgstr ""
+
+msgctxt " 	　	　	141	7392	7251"
+msgid "Don't wanna hear yer excuses.\\r\n"
+"You'll pay for this with yer life."
+msgstr ""
+
+msgctxt " 	　	　	69	7546	7477"
+msgid "Die, you son of a bitch!"
+msgstr ""
+

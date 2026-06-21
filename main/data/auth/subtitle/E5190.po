@@ -1,0 +1,77 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		116	491	375"
+msgid "Glad to see you made it to Tokyo, Kiryu."
+msgstr ""
+
+msgctxt " 	　	　	90	665	575"
+msgid "What's he doin' here?"
+msgstr ""
+
+msgctxt " 	　	　	106	830	724"
+msgid "You're the detective from Organized Crime..."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	48	879	831"
+msgid "Wrong."
+msgstr ""
+
+msgctxt " 	　	分	107	987	880"
+msgid "He ain't no detective."
+msgstr ""
+
+msgctxt " 	　	　	60	1064	1004"
+msgid "That guy..."
+msgstr ""
+
+msgctxt " 	　	　	70	1145	1075"
+msgid "Is our boss."
+msgstr ""
+
+msgctxt " 	　	　	60	1216	1156"
+msgid "Your boss?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	36	1272	1236"
+msgid "No way..."
+msgstr ""
+
+msgctxt " 	　	　	144	1417	1273"
+msgid "Yes. He's the one behind all of this."
+msgstr ""
+
+msgctxt " 	　		83	1515	1432"
+msgid "The Seventh Chairman of the Omi Alliance."
+msgstr ""
+
+msgctxt " 	　	分	85	1651	1566"
+msgid "Tsubasa Kurosawa himself."
+msgstr ""
+
+msgctxt " 	　	　	157	1824	1667"
+msgid "He's... the Omi Alliance chairman?"
+msgstr ""
+
+msgctxt " 	　	　	154	2283	2129"
+msgid "My aim's slippin'. Can't hit\\r\n"
+"shit from this distance."
+msgstr ""
+
+msgctxt " 	　	　	95	2455	2360"
+msgid "Hold on. I haven't said my piece yet."
+msgstr ""
+
+msgctxt " 	　	分	117	2585	2468"
+msgid "Stay put for a spell, Fourth Chairman."
+msgstr ""
+
+msgctxt " 	　	　	63	2724	2661"
+msgid "Still got two rounds left."
+msgstr ""
+
+msgctxt " 	　	分	157	2882	2725"
+msgid "When I'm done talking, I'll put\\r\n"
+"you outta your misery, okay?"
+msgstr ""
+

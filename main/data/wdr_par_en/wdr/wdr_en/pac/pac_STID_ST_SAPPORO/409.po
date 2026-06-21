@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "108"
+msgid "Better get a disguise."
+msgstr ""
+
+msgctxt "132"
+msgid "That takes care of that."
+msgstr ""
+
+msgctxt "144"
+msgid "They coulda set an ambush for Baba-chan, too. Better regroup soon."
+msgstr ""
+
+msgctxt "1232"
+msgid "Player"
+msgstr ""
+
+msgctxt "1236"
+msgid "adv2_333_1/baba_0146"
+msgstr ""
+
+msgctxt "1240"
+msgid "adv2_333_1/saejima_2_333_040"
+msgstr ""
+
+msgctxt "1244"
+msgid "dummy"
+msgstr ""
+

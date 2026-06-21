@@ -1,0 +1,54 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		93	233	140"
+msgid "Well? Did that calm your nerves a bit?"
+msgstr ""
+
+msgctxt " 	　	　	60	309	249"
+msgid "Yes, very much so!"
+msgstr ""
+
+msgctxt " 	　	　	145	461	316"
+msgid "Things will be ramping up again tomorrow.\\r\n"
+"This'll be our last chance to relax for a while."
+msgstr ""
+
+msgctxt " 	　	　	60	528	468"
+msgid "Your lessons will be relentless."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	36	578	542"
+msgid "Can you handle that?"
+msgstr ""
+
+msgctxt " 	　	　	66	645	579"
+msgid "Of course. I'll do whatever it takes."
+msgstr ""
+
+msgctxt " 	　	　	60	787	727"
+msgid "Haruka?"
+msgstr ""
+
+msgctxt " 	　	　	87	960	873"
+msgid "Here. I have a gift for you."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	59	1119	1060"
+msgid "To thank you for the brooch."
+msgstr ""
+
+msgctxt " 	　	分	107	1227	1120"
+msgid "It's a bit early, but this is\\r\n"
+"to commemorate your big debut."
+msgstr ""
+
+msgctxt " 	　	　	90	1318	1228"
+msgid "What? But you've already given me so much."
+msgstr ""
+
+msgctxt " 	　	　	80	1399	1319"
+msgid "Don't worry about that.\\r\n"
+"Just open it."
+msgstr ""
+

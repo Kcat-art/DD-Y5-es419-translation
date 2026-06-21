@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1096"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1100"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1104"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1108"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "1112"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "136_Haruka"
+msgid "Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "160_Haruka"
+msgid "Aww, I really wanted that..."
+msgstr ""
+
+msgctxt "184_Haruka"
+msgid "That <Color:8>Black Umbrella<Color:Default> is pretty cool, isn't it? Don't you think it'd suit me?"
+msgstr ""
+
+msgctxt "196_Kiryu"
+msgid "(Hmm. I think Haruka wants me to buy her a <Color:8>Black Umbrella<Color:Default>.)"
+msgstr ""
+

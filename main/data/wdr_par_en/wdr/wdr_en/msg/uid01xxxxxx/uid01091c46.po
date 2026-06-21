@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1436"
+msgid "Kimiyo"
+msgstr ""
+
+msgctxt "1440"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1444"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1448"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "44_Kimiyo"
+msgid "Saejima-san!"
+msgstr ""
+
+msgctxt "68_Saejima"
+msgid "Somethin' the matter?"
+msgstr ""
+
+msgctxt "80_Kimiyo"
+msgid "It's Okudera-san. He has a really high fever. Sakurai-san is with him now, but..."
+msgstr ""
+
+msgctxt "92_Saejima"
+msgid "Okudera-han's sick?"
+msgstr ""
+
+msgctxt "104_Kimiyo"
+msgid "*sniff* We think his injury from Yama-oroshi might be infected."
+msgstr ""
+
+msgctxt "116_Kimiyo"
+msgid "You should go see him. You never know what could happen."
+msgstr ""
+
+msgctxt "128_Saejima"
+msgid "Yeah, I understand."
+msgstr ""
+

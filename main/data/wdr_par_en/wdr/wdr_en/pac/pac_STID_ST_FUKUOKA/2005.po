@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "I wanna lose weight..."
+msgstr ""
+
+msgctxt "252"
+msgid "Tripe diet?"
+msgstr ""
+

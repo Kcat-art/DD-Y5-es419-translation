@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Feelin' flush tonight!"
+msgstr ""
+
+msgctxt "240"
+msgid "Gotta line up..."
+msgstr ""
+

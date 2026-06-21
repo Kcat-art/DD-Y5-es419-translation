@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "76"
+msgid "Saejima, where are you going? Get closer to the game. Don't forget to stay in a crouch!"
+msgstr ""
+
+msgctxt "88"
+msgid "Saejima, what are you doing? Reload your gun."
+msgstr ""
+
+msgctxt "100"
+msgid "Saejima, what are you doing? Shoot that boulder across the river."
+msgstr ""
+
+msgctxt "840"
+msgid "Okudera"
+msgstr ""
+

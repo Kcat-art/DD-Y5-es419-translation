@@ -1,0 +1,22 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "							197	22"
+msgid "Well, folks, it looks like it's time for this\\r\n"
+"year's Princess League to finally come to a close."
+msgstr ""
+
+msgctxt "							363	200"
+msgid "The studio is still bursting with excitement, \\r\n"
+"but I'm afraid we must bid you farewell."
+msgstr ""
+
+msgctxt "							534	404"
+msgid "That said, be sure to join us next year for\\r\n"
+"another exciting season of the Princess League!"
+msgstr ""
+
+msgctxt "							655	535"
+msgid "Goodbye! See you next time!"
+msgstr ""
+

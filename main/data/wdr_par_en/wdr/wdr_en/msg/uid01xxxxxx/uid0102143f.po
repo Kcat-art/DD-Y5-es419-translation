@@ -1,0 +1,16 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "372"
+msgid "dummy"
+msgstr ""
+
+msgctxt "376"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "(I should follow Baba and head to the hideout he got for me.)\\r\n"
+"　 "
+msgstr ""
+

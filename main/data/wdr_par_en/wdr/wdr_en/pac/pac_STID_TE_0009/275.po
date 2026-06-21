@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "188"
+msgid "定点_煙草_威嚇"
+msgstr ""
+
+msgctxt "192"
+msgid "E9700_look_tabako"
+msgstr ""
+

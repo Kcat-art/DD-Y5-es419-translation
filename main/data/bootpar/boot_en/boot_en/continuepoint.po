@@ -1,0 +1,43 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "752	NAME"
+msgid "Test  "
+msgstr ""
+
+msgctxt "761	NAME"
+msgid "Load Last Nagasugai Save  "
+msgstr ""
+
+msgctxt "790	NAME"
+msgid "Load Last Nagasugai Save  "
+msgstr ""
+
+msgctxt "819	NAME"
+msgid "Load Last Nagasugai Save  "
+msgstr ""
+
+msgctxt "848	NAME"
+msgid "Load Last Tsukimino Save  "
+msgstr ""
+
+msgctxt "877	NAME"
+msgid "Load Last Sotenbori Save  "
+msgstr ""
+
+msgctxt "906	NAME"
+msgid "Load Last Sotenbori Save  "
+msgstr ""
+
+msgctxt "935	NAME"
+msgid "Load Last Kineicho Save  "
+msgstr ""
+
+msgctxt "963	NAME"
+msgid "Load Last Kamurocho Save  "
+msgstr ""
+
+msgctxt "992	NAME"
+msgid "Load Last New Serena Save  "
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "(Got too far ahead of Narumi. Gotta go back for 'im.)"
+msgstr ""
+
+msgctxt "312"
+msgid "Player"
+msgstr ""
+

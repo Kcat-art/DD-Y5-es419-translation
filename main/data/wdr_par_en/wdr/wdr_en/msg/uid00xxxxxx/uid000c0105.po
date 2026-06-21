@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "144"
+msgid "牛丼男"
+msgstr ""
+
+msgctxt "44_牛丼男"
+msgid "牛飯サンキュー！"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Time for some noodles."
+msgstr ""
+
+msgctxt "264"
+msgid "Nagoya's all about..."
+msgstr ""
+

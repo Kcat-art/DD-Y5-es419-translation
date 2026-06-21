@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "112"
+msgid "飲食店"
+msgstr ""
+

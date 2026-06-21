@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "224"
+msgid "Wistful Woman"
+msgstr ""
+
+msgctxt "72_Wistful Woman"
+msgid "Evenings make me sentimental."
+msgstr ""
+

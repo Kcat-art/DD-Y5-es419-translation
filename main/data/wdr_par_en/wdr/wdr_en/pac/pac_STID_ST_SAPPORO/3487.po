@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "104"
+msgid "Gah! I can't do this..."
+msgstr ""
+

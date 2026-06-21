@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "516"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "520"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "44_Saejima"
+msgid "We're gettin' close."
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "He's still movin' away from us, but we're closin' the gap for sure."
+msgstr ""
+
+msgctxt "68_Okudera"
+msgid "Good, let's keep up the chase."
+msgstr ""
+

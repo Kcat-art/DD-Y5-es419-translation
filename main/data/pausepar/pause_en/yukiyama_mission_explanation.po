@@ -1,0 +1,659 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "473	NAME"
+msgid "Rescue Baba"
+msgstr ""
+
+msgctxt "485	NAME"
+msgid "Rescue Baba"
+msgstr ""
+
+msgctxt "497	NAME"
+msgid "Rescue Baba"
+msgstr ""
+
+msgctxt "509	NAME"
+msgid "Hunter Lesson"
+msgstr ""
+
+msgctxt "523	NAME"
+msgid "Hunter Lesson"
+msgstr ""
+
+msgctxt "537	NAME"
+msgid "Hunter Lesson"
+msgstr ""
+
+msgctxt "551	NAME"
+msgid "Hunter Lesson"
+msgstr ""
+
+msgctxt "565	NAME"
+msgid "Hunter Lesson"
+msgstr ""
+
+msgctxt "579	NAME"
+msgid "Hunter Lesson"
+msgstr ""
+
+msgctxt "593	NAME"
+msgid "Hunter Lesson"
+msgstr ""
+
+msgctxt "607	NAME"
+msgid "Hunter Lesson"
+msgstr ""
+
+msgctxt "621	NAME"
+msgid "Hunter Lesson"
+msgstr ""
+
+msgctxt "635	NAME"
+msgid "Hunter Lesson"
+msgstr ""
+
+msgctxt "649	NAME"
+msgid "Hunter Lesson"
+msgstr ""
+
+msgctxt "663	NAME"
+msgid "Creeping Terror"
+msgstr ""
+
+msgctxt "679	NAME"
+msgid "Creeping Terror"
+msgstr ""
+
+msgctxt "695	NAME"
+msgid "Creeping Terror"
+msgstr ""
+
+msgctxt "711	NAME"
+msgid "Creeping Terror"
+msgstr ""
+
+msgctxt "727	NAME"
+msgid "Creeping Terror"
+msgstr ""
+
+msgctxt "743	NAME"
+msgid "Creeping Terror"
+msgstr ""
+
+msgctxt "759	NAME"
+msgid "Creeping Terror"
+msgstr ""
+
+msgctxt "775	NAME"
+msgid "Creeping Terror"
+msgstr ""
+
+msgctxt "791	NAME"
+msgid "White Darkness"
+msgstr ""
+
+msgctxt "806	NAME"
+msgid "White Darkness"
+msgstr ""
+
+msgctxt "821	NAME"
+msgid "White Darkness"
+msgstr ""
+
+msgctxt "836	NAME"
+msgid "White Darkness"
+msgstr ""
+
+msgctxt "851	NAME"
+msgid "White Darkness"
+msgstr ""
+
+msgctxt "866	NAME"
+msgid "White Darkness"
+msgstr ""
+
+msgctxt "881	NAME"
+msgid "White Darkness"
+msgstr ""
+
+msgctxt "896	NAME"
+msgid "The Third Man"
+msgstr ""
+
+msgctxt "910	NAME"
+msgid "The Third Man"
+msgstr ""
+
+msgctxt "924	NAME"
+msgid "The Third Man"
+msgstr ""
+
+msgctxt "938	NAME"
+msgid "The Third Man"
+msgstr ""
+
+msgctxt "952	NAME"
+msgid "The Third Man"
+msgstr ""
+
+msgctxt "966	NAME"
+msgid "Kill or Be Killed"
+msgstr ""
+
+msgctxt "984	NAME"
+msgid "Kill or Be Killed"
+msgstr ""
+
+msgctxt "1002	NAME"
+msgid "Kill or Be Killed"
+msgstr ""
+
+msgctxt "1020	NAME"
+msgid "Kill or Be Killed"
+msgstr ""
+
+msgctxt "1038	NAME"
+msgid "Kill or Be Killed"
+msgstr ""
+
+msgctxt "1056	NAME"
+msgid "Kill or Be Killed"
+msgstr ""
+
+msgctxt "1074	NAME"
+msgid "Kill or Be Killed"
+msgstr ""
+
+msgctxt "1092	NAME"
+msgid "Kill or Be Killed"
+msgstr ""
+
+msgctxt "1110	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1117	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1124	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1131	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1138	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1145	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1152	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1159	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1166	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1173	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1180	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1187	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1194	NAME"
+msgid "Hubris"
+msgstr ""
+
+msgctxt "1201	NAME"
+msgid "Pride's Toll"
+msgstr ""
+
+msgctxt "1214	NAME"
+msgid "Pride's Toll"
+msgstr ""
+
+msgctxt "1227	NAME"
+msgid "Pride's Toll"
+msgstr ""
+
+msgctxt "1240	NAME"
+msgid "Pride's Toll"
+msgstr ""
+
+msgctxt "1253	NAME"
+msgid "Pride's Toll"
+msgstr ""
+
+msgctxt "1266	NAME"
+msgid "Pride's Toll"
+msgstr ""
+
+msgctxt "1279	NAME"
+msgid "Pride's Toll"
+msgstr ""
+
+msgctxt "1292	NAME"
+msgid "Tag the Beast"
+msgstr ""
+
+msgctxt "1306	NAME"
+msgid "Tag the Beast"
+msgstr ""
+
+msgctxt "1320	NAME"
+msgid "Tag the Beast"
+msgstr ""
+
+msgctxt "1334	NAME"
+msgid "Tag the Beast"
+msgstr ""
+
+msgctxt "1348	NAME"
+msgid "Okudera's Escort"
+msgstr ""
+
+msgctxt "1365	NAME"
+msgid "Okudera's Escort"
+msgstr ""
+
+msgctxt "1382	NAME"
+msgid "Okudera's Escort"
+msgstr ""
+
+msgctxt "1399	NAME"
+msgid "Okudera's Escort"
+msgstr ""
+
+msgctxt "1416	NAME"
+msgid "Okudera's Escort"
+msgstr ""
+
+msgctxt "1433	NAME"
+msgid "Okudera's Escort"
+msgstr ""
+
+msgctxt "1450	NAME"
+msgid "The Truth"
+msgstr ""
+
+msgctxt "1460	NAME"
+msgid "The Truth"
+msgstr ""
+
+msgctxt "1470	NAME"
+msgid "The Truth"
+msgstr ""
+
+msgctxt "1480	NAME"
+msgid "Principles"
+msgstr ""
+
+msgctxt "1491	NAME"
+msgid "Principles"
+msgstr ""
+
+msgctxt "1502	NAME"
+msgid "Principles"
+msgstr ""
+
+msgctxt "1513	NAME"
+msgid "Principles"
+msgstr ""
+
+msgctxt "1524	NAME"
+msgid "Principles"
+msgstr ""
+
+msgctxt "1535	NAME"
+msgid "Hunter Test"
+msgstr ""
+
+msgctxt "1547	NAME"
+msgid "Free Entry"
+msgstr ""
+
+msgctxt "1558	EXPLANATION"
+msgid "Gotta follow the river to avoid gettin' lost. Have to hurry before the cold gets me."
+msgstr ""
+
+msgctxt "1643	EXPLANATION"
+msgid "There's a bear nearby. Gotta follow the river and find Baba-chan."
+msgstr ""
+
+msgctxt "1709	EXPLANATION"
+msgid "Baba-chan could be in trouble. Better hurry."
+msgstr ""
+
+msgctxt "1754	EXPLANATION"
+msgid "Gotta get a rabbit to nurse Baba back to health."
+msgstr ""
+
+msgctxt "1803	EXPLANATION"
+msgid "Okudera-han's supposed to be close. Guess I should go deeper."
+msgstr ""
+
+msgctxt "1865	EXPLANATION"
+msgid "Okudera-han says it's important. Gotta crouch and make sure I ain't seen."
+msgstr ""
+
+msgctxt "1939	EXPLANATION"
+msgid "Gotta reload to use the gun. Let's give it a go."
+msgstr ""
+
+msgctxt "1988	EXPLANATION"
+msgid "Gotta nail the boulder across the stream."
+msgstr ""
+
+msgctxt "2030	EXPLANATION"
+msgid "Off to find that huntin' hut. I should check the map to avoid gettin' lost."
+msgstr ""
+
+msgctxt "2106	EXPLANATION"
+msgid "Look for deer tracks, huh? Should be some right around here."
+msgstr ""
+
+msgctxt "2167	EXPLANATION"
+msgid "Gotta follow the deer tracks. They'll lead me to my prey."
+msgstr ""
+
+msgctxt "2225	EXPLANATION"
+msgid "I'll crouch down to sneak up on deer. Gotta hunt to survive on the mountain, right?"
+msgstr ""
+
+msgctxt "2309	EXPLANATION"
+msgid "Time to collect the deer I shot. Can't waste the life they gave up for me."
+msgstr ""
+
+msgctxt "2384	EXPLANATION"
+msgid "Back to the village. Gotta repay Nishina-han's wife for the favor."
+msgstr ""
+
+msgctxt "2451	EXPLANATION"
+msgid "After returning the favor, I'll head over to Okudera-han and learn to trap."
+msgstr ""
+
+msgctxt "2527	EXPLANATION"
+msgid "Gotta go up along the river and look for trap sites."
+msgstr ""
+
+msgctxt "2580	EXPLANATION"
+msgid "Set a trap at that trap site there, huh? Sounds easy enough."
+msgstr ""
+
+msgctxt "2641	EXPLANATION"
+msgid "There should be other trap sites here. I should find 'em with a quick look around."
+msgstr ""
+
+msgctxt "2724	EXPLANATION"
+msgid "There should be one more trap site here. Gotta find it somehow."
+msgstr ""
+
+msgctxt "2788	EXPLANATION"
+msgid "I set traps at the trap sites around here. Guess I'll go check if anything's been caught yet."
+msgstr ""
+
+msgctxt "2882	EXPLANATION"
+msgid "Yama-oroshi! Here!? I gotta chase it away from the village!"
+msgstr ""
+
+msgctxt "2942	EXPLANATION"
+msgid "Two choices. Leave for Tsukimino now, or stay here to hunt a while longer."
+msgstr ""
+
+msgctxt "3017	EXPLANATION"
+msgid "Nishina-han and another guy haven't come back from the mountain yet..."
+msgstr ""
+
+msgctxt "3088	EXPLANATION"
+msgid "Nishina-han hasn't returned from the mountain. I should check on his wife."
+msgstr ""
+
+msgctxt "3163	EXPLANATION"
+msgid "Nishina-han's wife is worried. Gotta tell Okudera-han and, then go find these people."
+msgstr ""
+
+msgctxt "3249	EXPLANATION"
+msgid "Gotta find some sort of a clue. Guess I'll just hike around till I find one."
+msgstr ""
+
+msgctxt "3326	EXPLANATION"
+msgid "These footprints should lead me to Nishina-han or the lost guy."
+msgstr ""
+
+msgctxt "3390	EXPLANATION"
+msgid "This guy's gonna need food."
+msgstr ""
+
+msgctxt "3418	EXPLANATION"
+msgid "The mountain's a rough place. I gotta be tougher to survive."
+msgstr ""
+
+msgctxt "3479	EXPLANATION"
+msgid "There's a stranger at the village entrance. Sakurai-han seemed concerned, too."
+msgstr ""
+
+msgctxt "3558	EXPLANATION"
+msgid "Narumi's after Yama-oroshi as well. Better let Okudera-han know."
+msgstr ""
+
+msgctxt "3623	EXPLANATION"
+msgid "That blast had to be Narumi's doin'. Gotta go deeper and find him."
+msgstr ""
+
+msgctxt "3690	EXPLANATION"
+msgid "Narumi's gotta be close. Let's follow the footprints from the blast site."
+msgstr ""
+
+msgctxt "3764	EXPLANATION"
+msgid "That Narumi better not cause any trouble. Not gonna lie, I'm worried."
+msgstr ""
+
+msgctxt "3834	EXPLANATION"
+msgid "Okudera-han's sick. Gotta check on him..."
+msgstr ""
+
+msgctxt "3876	EXPLANATION"
+msgid "I gotta get bear bile for Okudera-han. Need to get ready and tell Sakurai-han before I head out."
+msgstr ""
+
+msgctxt "3973	EXPLANATION"
+msgid "First, I gotta find some bear tracks. Gotta make sure the cold doesn't do me in, too."
+msgstr ""
+
+msgctxt "4059	EXPLANATION"
+msgid "Follow the bear tracks, and I'll find a bear. Can't lose sight of these tracks."
+msgstr ""
+
+msgctxt "4139	EXPLANATION"
+msgid "Bears could be in the area. Gotta be careful."
+msgstr ""
+
+msgctxt "4185	EXPLANATION"
+msgid "This area seems to be the bear's territory. I'll find it and get the bile I need."
+msgstr ""
+
+msgctxt "4267	EXPLANATION"
+msgid "Managed to take that bear down. Just need the bile, and to give thanks for it."
+msgstr ""
+
+msgctxt "4346	EXPLANATION"
+msgid "Okudera-han's condition's settled, but what'll I do from here?"
+msgstr ""
+
+msgctxt "4409	EXPLANATION"
+msgid "Narumi scattered bear bait across the mountain. Gotta tell Sakurai-han when I can go get them."
+msgstr ""
+
+msgctxt "4504	EXPLANATION"
+msgid "There's supposed to be around eight pieces of bear bait scattered around. Gotta go on foot and find 'em."
+msgstr ""
+
+msgctxt "4609	EXPLANATION"
+msgid "Found one. Seven left. Got a long ways to go."
+msgstr ""
+
+msgctxt "4655	EXPLANATION"
+msgid "That's the second one. Six more bear bait pieces to go."
+msgstr ""
+
+msgctxt "4711	EXPLANATION"
+msgid "That's the third. Where are the other five pieces?"
+msgstr ""
+
+msgctxt "4762	EXPLANATION"
+msgid "Four found. Halfway there."
+msgstr ""
+
+msgctxt "4789	EXPLANATION"
+msgid "Finally. That's five. Three more to go."
+msgstr ""
+
+msgctxt "4829	EXPLANATION"
+msgid "That's six recovered, two more to go. Not much left."
+msgstr ""
+
+msgctxt "4882	EXPLANATION"
+msgid "That's seven . Just one left to find. Gotta keep at it."
+msgstr ""
+
+msgctxt "4938	EXPLANATION"
+msgid "Got all the bear bait, but that gunfire's worryin'. Better check it out."
+msgstr ""
+
+msgctxt "5011	EXPLANATION"
+msgid "Narumi might be where he was before. Let's track his footprints."
+msgstr ""
+
+msgctxt "5076	EXPLANATION"
+msgid "I can't kill Yama-oroshi now. Gotta beat it down off the mountain!"
+msgstr ""
+
+msgctxt "5143	EXPLANATION"
+msgid "Made it off the mountain, but just barely. Did Narumi make it down safe?"
+msgstr ""
+
+msgctxt "5216	EXPLANATION"
+msgid "Narumi's not back from the mountain. Gotta tell Sakurai-han and rescue Narumi."
+msgstr ""
+
+msgctxt "5295	EXPLANATION"
+msgid "Gotta head to where Yama-oroshi appeared. Should be some clues there."
+msgstr ""
+
+msgctxt "5365	EXPLANATION"
+msgid "Narumi might still be alive. Gotta follow this blood trail."
+msgstr ""
+
+msgctxt "5425	EXPLANATION"
+msgid "That's a lot of blood. Gotta hurry. Narumi might be bleedin' out."
+msgstr ""
+
+msgctxt "5491	EXPLANATION"
+msgid "Gotta get Narumi to the village. Despite all he's done, I ain't lettin' him die."
+msgstr ""
+
+msgctxt "5572	EXPLANATION"
+msgid "Not far to the village now. Gotta get there before Narumi drops dead."
+msgstr ""
+
+msgctxt "5642	EXPLANATION"
+msgid "Narumi went off to a hospital in town. Okudera-han's condition is worryin' me, though."
+msgstr ""
+
+msgctxt "5729	EXPLANATION"
+msgid "Okudera-han's better. What a relief. Gotta get ready to shoot Yama-oroshi with a transmitter shot."
+msgstr ""
+
+msgctxt "5828	EXPLANATION"
+msgid "Gotta find Yama-oroshi with nothin' to go on. Maybe I'll head to mid-mountain as a start."
+msgstr ""
+
+msgctxt "5918	EXPLANATION"
+msgid "Shootin' the back or legs is no good. Gotta plug it right in the belly. I'll take the shot when it stands!"
+msgstr ""
+
+msgctxt "6025	EXPLANATION"
+msgid "Got the transmitter planted. Mission accomplished. Back to the village."
+msgstr ""
+
+msgctxt "6097	EXPLANATION"
+msgid "We know where Yama-oroshi is. Gotta get ready to go up with Okudera-han."
+msgstr ""
+
+msgctxt "6170	EXPLANATION"
+msgid "Yama-oroshi's location is on the map. We'll use that to chase it down."
+msgstr ""
+
+msgctxt "6241	EXPLANATION"
+msgid "Yama-oroshi's movin' deeper into the wild. Gotta rely on this signal and chase it down."
+msgstr ""
+
+msgctxt "6329	EXPLANATION"
+msgid "It's going even deeper? Well, we just gotta keep chasin' it this way."
+msgstr ""
+
+msgctxt "6399	EXPLANATION"
+msgid "It's still goin' deeper up the mountain. Gotta be careful while chasin' the signal."
+msgstr ""
+
+msgctxt "6483	EXPLANATION"
+msgid "Yama-oroshi's across the canyon. Even Okudera-han can't do a thing about that."
+msgstr ""
+
+msgctxt "6562	EXPLANATION"
+msgid "Okudera-han went up by himself. The man's still too weak for that. I gotta help him."
+msgstr ""
+
+msgctxt "6647	EXPLANATION"
+msgid "Okudera-han's been up there a long while. I'll go deeper and find the man."
+msgstr ""
+
+msgctxt "6722	EXPLANATION"
+msgid "Nishina-han said he had somethin' to show me at his place..."
+msgstr ""
+
+msgctxt "6783	EXPLANATION"
+msgid "Nishina-han's in his storage shed. What's he want to show me?"
+msgstr ""
+
+msgctxt "6845	EXPLANATION"
+msgid "Gotta settle things with Yama-oroshi. Time to get geared up at Okudera-han's and go."
+msgstr ""
+
+msgctxt "6930	EXPLANATION"
+msgid "Yama-oroshi should be around here. Gotta stay alert..."
+msgstr ""
+
+msgctxt "6985	EXPLANATION"
+msgid "Time to settle score. This is one fight I can't lose!"
+msgstr ""
+
+msgctxt "7039	EXPLANATION"
+msgid "The gun's useless! Nothin' to do but slug it out!"
+msgstr ""
+
+msgctxt "7089	EXPLANATION"
+msgid "Gotta pick off all three, nice and neat. Concentrate."
+msgstr ""
+
+msgctxt "7143	EXPLANATION"
+msgid "Yama-oroshi won't come down near the village again. I should visit Okudera-han now and then."
+msgstr ""
+

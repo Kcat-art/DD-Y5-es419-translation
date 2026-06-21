@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "800"
+msgid "P_SIN_TLK_stand_syagamu_lp"
+msgstr ""
+

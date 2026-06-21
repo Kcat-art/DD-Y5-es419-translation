@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "It's just a bit annoying."
+msgstr ""
+
+msgctxt "244"
+msgid "Stupid winter..."
+msgstr ""
+

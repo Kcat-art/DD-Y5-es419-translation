@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "472"
+msgid "Schedule"
+msgstr ""
+

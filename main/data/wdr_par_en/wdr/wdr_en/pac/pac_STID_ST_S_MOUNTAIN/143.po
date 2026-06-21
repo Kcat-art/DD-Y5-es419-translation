@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "272"
+msgid "M_nml_stand"
+msgstr ""
+

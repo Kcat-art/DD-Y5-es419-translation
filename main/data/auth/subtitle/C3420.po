@@ -1,0 +1,186 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	155	95"
+msgid "Excuse me."
+msgstr ""
+
+msgctxt " 	　		78	454	376"
+msgid "It's you... Katsuya!"
+msgstr ""
+
+msgctxt " 	　		78	818	740"
+msgid "Haruka? Haruka!"
+msgstr ""
+
+msgctxt " 	　		96	938	842"
+msgid "She's merely fainted.\\r\n"
+"I assure you she isn't hurt."
+msgstr ""
+
+msgctxt " 	　		60	1054	994"
+msgid "What's the meaning of this?"
+msgstr ""
+
+msgctxt " 	　	OK	188	1278	1090"
+msgid "My sincerest apologies. Someone so precious to this\\r\n"
+"agency should never have been put in harm's way."
+msgstr ""
+
+msgctxt " 	　		60	1410	1350"
+msgid "I have a confession to make, Akiyama-san."
+msgstr ""
+
+msgctxt " 	　		92	1528	1436"
+msgid "I am the president of Osaka Talent, yes."
+msgstr ""
+
+msgctxt " 	　	分	82	1620	1538"
+msgid "But there's another title I prefer to keep hidden."
+msgstr ""
+
+msgctxt " 	　		180	1830	1650"
+msgid "I also serve as the Omi Alliance Chief of HQ, \\r\n"
+"and chairman of Ousaka Enterprises."
+msgstr ""
+
+msgctxt " 	　		157	2085	1928"
+msgid "Kanai, the man who assaulted both Park-san\\r\n"
+"and Horie-san, is a part of my organization."
+msgstr ""
+
+msgctxt "60ｆ以下です	　		55	2151	2096"
+msgid "Words cannot express my apologies."
+msgstr ""
+
+msgctxt "60ｆ以下です	　		55	2207	2152"
+msgid "Cut the act, man!"
+msgstr ""
+
+msgctxt " 	　	OK	201	2409	2208"
+msgid "You likely won't believe it, but I only learned of\\r\n"
+"Kanai's horrific actions myself a short time ago."
+msgstr ""
+
+msgctxt " 	　		136	2549	2413"
+msgid "Please know that obtaining that letter\\r\n"
+"was our singular objective in all this."
+msgstr ""
+
+msgctxt " 	　	分	118	2672	2554"
+msgid "It's the only way for us to track\\r\n"
+"down Park-san's former husband, you see."
+msgstr ""
+
+msgctxt " 	　		75	2810	2735"
+msgid "And this ex? Just who is he?"
+msgstr ""
+
+msgctxt " 	　		92	2940	2848"
+msgid "Well you see, the truth is..."
+msgstr ""
+
+msgctxt "60ｆ以下です	　		59	3049	2990"
+msgid "He's a top Tojo officer."
+msgstr ""
+
+msgctxt " 	　		60	3110	3050"
+msgid "Goro Majima."
+msgstr ""
+
+msgctxt " 	　		60	3202	3142"
+msgid "You're full of it."
+msgstr ""
+
+msgctxt " 	　		93	3310	3217"
+msgid "Majima reportedly passed away\\r\n"
+"in Sapporo just the other day."
+msgstr ""
+
+msgctxt " 	　		85	3409	3324"
+msgid "But I'm sure he's very much still alive."
+msgstr ""
+
+msgctxt " 	　		110	3555	3440"
+msgid "My entire organization is attempting\\r\n"
+"to locate him as we speak."
+msgstr ""
+
+msgctxt " 	　		144	3729	3585"
+msgid "You see, Majima sent Park\\r\n"
+"a letter requesting a meeting."
+msgstr ""
+
+msgctxt " 	　		75	3828	3753"
+msgid "And we'd like to see it for ourselves."
+msgstr ""
+
+msgctxt " 	　		60	3927	3867"
+msgid "Don't know a thing about it."
+msgstr ""
+
+msgctxt " 	　		77	4095	4018"
+msgid "No, but I believe <Italic>she</Italic> does."
+msgstr ""
+
+msgctxt " 	　		60	4185	4125"
+msgid "What gives you that idea?"
+msgstr ""
+
+msgctxt " 	　		91	4289	4198"
+msgid "She has something. A fountain pen."
+msgstr ""
+
+msgctxt " 	　		75	4381	4306"
+msgid "It was one of Park-san's most prized possessions."
+msgstr ""
+
+msgctxt " 	　		122	4526	4404"
+msgid "Haruka having it now must mean\\r\n"
+"Park-san trusted her with everything."
+msgstr ""
+
+msgctxt " 	　	分	60	4599	4539"
+msgid "At least, that's my theory."
+msgstr ""
+
+msgctxt " 	　		60	4689	4629"
+msgid "What's your deal?"
+msgstr ""
+
+msgctxt " 	　		185	4908	4721"
+msgid "Park-san and I, we're cut from the same cloth.\\r\n"
+"We've been industry friends for decades."
+msgstr ""
+
+msgctxt " 	　		114	5021	4909"
+msgid "Or, should I say, comrades in arms."
+msgstr ""
+
+msgctxt " 	　		153	5252	5099"
+msgid "Whatever you choose to call us, her death\\r\n"
+"has been a point of great pain for me."
+msgstr ""
+
+msgctxt " 	　		131	5468	5337"
+msgid "When Haruka-san comes to, please\\r\n"
+"ask her to give me the letter."
+msgstr ""
+
+msgctxt " 	　		116	5602	5486"
+msgid "It's for the best. For all parties."
+msgstr ""
+
+msgctxt " 	　		70	5728	5658"
+msgid "Sounds almost like a demand to me."
+msgstr ""
+
+msgctxt " 	　		137	5905	5768"
+msgid "I'm aware. But I wouldn't be\\r\n"
+"much of a yakuza if it didn't."
+msgstr ""
+
+msgctxt " 	　		108	6053	5945"
+msgid "So. I hope you make the right choice."
+msgstr ""
+

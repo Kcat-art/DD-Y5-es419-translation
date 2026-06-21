@@ -1,0 +1,109 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		73	114	41"
+msgid "A little makeup goes a long way."
+msgstr ""
+
+msgctxt " 	　	分	67	195	128"
+msgid "Even the plainest girl can shine\\r\n"
+"with proper technique."
+msgstr ""
+
+msgctxt " 	　	　	151	413	262"
+msgid "And a pretty girl like you?\\r\n"
+"It could really put you a grade above."
+msgstr ""
+
+msgctxt " 	　	　	88	605	517"
+msgid "You should think about getting\\r\n"
+"some more fashionable clothes, too."
+msgstr ""
+
+msgctxt " 	　	　	103	755	652"
+msgid "Don't be content thinking you're\\r\n"
+"pretty enough just the way you are."
+msgstr ""
+
+msgctxt " 	　	　	108	886	778"
+msgid "But I'm not pretty.\\r\n"
+"Not even a little."
+msgstr ""
+
+msgctxt " 	　	　	147	1172	1025"
+msgid "All the more reason you should\\r\n"
+"learn how to perfect your makeup, then."
+msgstr ""
+
+msgctxt " 	　	　	93	1280	1187"
+msgid "Refining your image is no easy task."
+msgstr ""
+
+msgctxt " 	　	　	135	1438	1303"
+msgid "But now that you're in the industry,\\r\n"
+"you have to be in constant pursuit of beauty."
+msgstr ""
+
+msgctxt " 	　	　	60	1602	1542"
+msgid "Something funny?"
+msgstr ""
+
+msgctxt " 	　	　	84	1699	1615"
+msgid "I'm just happy."
+msgstr ""
+
+msgctxt " 	　	　	60	1760	1700"
+msgid "Happy I lectured you?"
+msgstr ""
+
+msgctxt " 	　	　	126	1967	1833"
+msgid "I never thought we'd be doing stuff like this.\\r\n"
+"Stuff like putting on makeup together."
+msgstr ""
+
+msgctxt " 	　	　	60	2108	2048"
+msgid "I'm really glad."
+msgstr ""
+
+msgctxt " 	　	　	60	2934	2874"
+msgid "I guess it's true, then."
+msgstr ""
+
+msgctxt " 	　	分	60	3011	2951"
+msgid "That every girl needs a mother."
+msgstr ""
+
+msgctxt " 	　	　	136	3228	3092"
+msgid "Haruka. Next time I'll take you to\\r\n"
+"the hottest fashion spot in town."
+msgstr ""
+
+msgctxt " 	　	　	60	3296	3236"
+msgid "We'll spruce up that wardrobe of yours."
+msgstr ""
+
+msgctxt " 	　	　	60	3378	3318"
+msgid "Do you mean it?"
+msgstr ""
+
+msgctxt " 	　	　	81	3460	3379"
+msgid "I <Italic>always</Italic> mean it."
+msgstr ""
+
+msgctxt " 	　	分	60	3538	3478"
+msgid "Have I ever proven otherwise?"
+msgstr ""
+
+msgctxt " 	　	　	114	3983	3869"
+msgid "There, all done.\\r\n"
+"Do your best today."
+msgstr ""
+
+msgctxt " 	　	　	60	4065	4005"
+msgid "I will. And, um..."
+msgstr ""
+
+msgctxt " 	　	分	60	4147	4087"
+msgid "I appreciate all your help!"
+msgstr ""
+

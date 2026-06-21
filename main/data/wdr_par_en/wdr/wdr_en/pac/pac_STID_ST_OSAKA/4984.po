@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "Are ya serious right now?"
+msgstr ""
+
+msgctxt "100"
+msgid "My mind's made up!"
+msgstr ""
+

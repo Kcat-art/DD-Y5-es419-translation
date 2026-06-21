@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "You can save the game at phone booths."
+msgstr ""
+
+msgctxt "488"
+msgid "Save"
+msgstr ""
+
+msgctxt "492"
+msgid "Cancel"
+msgstr ""
+

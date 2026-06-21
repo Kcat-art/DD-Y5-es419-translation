@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "(Wouldn't be surprised to see a bear 'round here... Gotta be careful.)"
+msgstr ""
+
+msgctxt "352"
+msgid "Saejima"
+msgstr ""
+

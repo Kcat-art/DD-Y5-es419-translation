@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "212"
+msgid "dummy"
+msgstr ""
+
+msgctxt "44_dummy"
+msgid "名古屋コーチンに名前をつけます。"
+msgstr ""
+

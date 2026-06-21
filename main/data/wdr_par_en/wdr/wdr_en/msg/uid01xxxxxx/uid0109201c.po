@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "688"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "(I swear I'll find ya...)"
+msgstr ""
+
+msgctxt "68_Saejima"
+msgid "(The transmitter put 'im around this spot.)"
+msgstr ""
+

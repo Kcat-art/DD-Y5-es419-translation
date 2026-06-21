@@ -1,0 +1,72 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		65	384	319"
+msgid "What's your next move gonna be, Akiyama-san?"
+msgstr ""
+
+msgctxt " 	　	　	104	500	396"
+msgid "For now, all I can do is\\r\n"
+"sit tight 'til Haruka-chan wakes up."
+msgstr ""
+
+msgctxt " 	　	　	171	707	536"
+msgid "But whether or not she has the letter,\\r\n"
+"we're skipping town. It's not safe here."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	789	732"
+msgid "You're leavin' Osaka?"
+msgstr ""
+
+msgctxt " 	　	　	109	899	790"
+msgid "At the crack of dawn tomorrow,\\r\n"
+"I'm taking Haruka-chan up to Kamurocho."
+msgstr ""
+
+msgctxt " 	　	　	145	1069	924"
+msgid "The whole city's Tojo Clan turf.\\r\n"
+"The Omi'll have no choice but to tread carefully."
+msgstr ""
+
+msgctxt " 	　	　	104	1190	1086"
+msgid "And besides. Haruka's got a gig she can't miss."
+msgstr ""
+
+msgctxt " 	　	　	89	1280	1191"
+msgid "You mean her concert at the Japan Dome?"
+msgstr ""
+
+msgctxt " 	　	　	98	1379	1281"
+msgid "Yup. She's worked too hard\\r\n"
+"for it to come to nothing."
+msgstr ""
+
+msgctxt " 	　	分	104	1496	1392"
+msgid "And one way or another, we've gotta\\r\n"
+"make Park-san's dream come true."
+msgstr ""
+
+msgctxt " 	　	　	159	1717	1558"
+msgid "Guess we <Italic>were</Italic> plannin' to go to Tokyo.\\r\n"
+"Didn't think this is how it'd happen, though."
+msgstr ""
+
+msgctxt " 	　	　	109	1854	1745"
+msgid "Regardless. Let's just let\\r\n"
+"Haruka-chan sleep for now."
+msgstr ""
+
+msgctxt " 	　	　	60	1973	1913"
+msgid "Right."
+msgstr ""
+
+msgctxt "	　	　	95	2640	2545"
+msgid "Sender: Unknown. Call the following number\\r\n"
+"when you get this message."
+msgstr ""
+
+msgctxt " 	　	　	60	3050	2990"
+msgid "Hello?"
+msgstr ""
+

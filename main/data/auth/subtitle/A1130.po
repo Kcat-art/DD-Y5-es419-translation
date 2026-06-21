@@ -1,0 +1,271 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	500	440"
+msgid "So what do you want?"
+msgstr ""
+
+msgctxt " 	　	OK	210	746	536"
+msgid "As I'm sure you're already aware, my partner\\r\n"
+"and I are here on behalf of the Tojo Clan."
+msgstr ""
+
+msgctxt " 	　	　	106	907	801"
+msgid "Chairman Dojima is in Fukuoka on official business."
+msgstr ""
+
+msgctxt " 	　	　	144	1063	919"
+msgid "And we've been tasked with keeping him safe\\r\n"
+"by the chief of headquarters, Aoyama."
+msgstr ""
+
+msgctxt " 	　	分	73	1141	1068"
+msgid "Head of his own family,\\r\n"
+"and assistant to the chairman."
+msgstr ""
+
+msgctxt " 	　	　	71	1219	1148"
+msgid "My name is Morinaga."
+msgstr ""
+
+msgctxt " 	　	分	105	1345	1240"
+msgid "And this is my junior associate, Aizawa."
+msgstr ""
+
+msgctxt " 	　	　	60	1420	1360"
+msgid "Spare me the introductions."
+msgstr ""
+
+msgctxt " 	　	分	108	1538	1430"
+msgid "What did you drag me here to ask about?"
+msgstr ""
+
+msgctxt " 	　	　	60	1640	1580"
+msgid "Chairman Dojima's whereabouts."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	46	1724	1678"
+msgid "His whereabouts?"
+msgstr ""
+
+msgctxt " 	　	　	70	1795	1725"
+msgid "Yes. You see, last night..."
+msgstr ""
+
+msgctxt " 	　	分	171	1971	1800"
+msgid "The chairman met Patriarch Madarame of the\\r\n"
+"Yamagasa Family in Nagasugai for alliance talks."
+msgstr ""
+
+msgctxt " 	　	OK	183	2171	1988"
+msgid "The negotiations themselves proceeded unimpeded,\\r\n"
+"but we lost track of the chairman directly after."
+msgstr ""
+
+msgctxt " 	　	　	122	2360	2238"
+msgid "At the end of the meeting,\\r\n"
+"Chairman Dojima went off alone..."
+msgstr ""
+
+msgctxt " 	　	分	84	2447	2363"
+msgid "And was last seen getting into a taxi."
+msgstr ""
+
+msgctxt " 	　	OK	180	2648	2468"
+msgid "We attempted to follow him by car,\\r\n"
+"but weren't familiar enough with the Fukuoka roads."
+msgstr ""
+
+msgctxt " 	　	　	112	2766	2654"
+msgid "In the end, we regrettably lost sight\\r\n"
+"of the chairman's taxi."
+msgstr ""
+
+msgctxt " 	　	　	141	2966	2825"
+msgid "We cross-checked the taxi's license plate number\\r\n"
+"with the Road Transport Bureau, though..."
+msgstr ""
+
+msgctxt " 	　	　	111	3079	2968"
+msgid "And found the car was registered\\r\n"
+"to a Nagasu Taxi Company."
+msgstr ""
+
+msgctxt " 	　	　	166	3250	3084"
+msgid "Not long after, we determined that\\r\n"
+"the driver's name was Taichi Suzuki."
+msgstr ""
+
+msgctxt " 	　	　	152	3458	3306"
+msgid "But we have no reason to believe\\r\n"
+"the chairman knew anyone by that name."
+msgstr ""
+
+msgctxt " 	　	　	143	3608	3465"
+msgid "It only seemed proper we came\\r\n"
+"to meet this mysterious Taichi Suzuki-san."
+msgstr ""
+
+msgctxt " 	　	分	119	3728	3609"
+msgid "So we waited until you\\r\n"
+"eventually showed your face."
+msgstr ""
+
+msgctxt " 	　	OK	176	3981	3805"
+msgid "It did seem strange. The chairman intentionally\\r\n"
+"chose a taxi in the middle of the queue."
+msgstr ""
+
+msgctxt " 	　	　	95	4084	3989"
+msgid "I didn't see what could compel him to do that."
+msgstr ""
+
+msgctxt " 	　	　	60	4160	4100"
+msgid "But I have an idea now."
+msgstr ""
+
+msgctxt " 	　	OK	166	4399	4233"
+msgid "I'd never have imagined the driver was in fact\\r\n"
+"Kazuma Kiryu-san, fourth chairman of the Tojo Clan."
+msgstr ""
+
+msgctxt " 	　	　	85	4497	4412"
+msgid "I'm still in disbelief,\\r\n"
+"to be honest."
+msgstr ""
+
+msgctxt " 	　	　	60	4609	4549"
+msgid "You have the wrong guy."
+msgstr ""
+
+msgctxt " 	　	OK	175	4852	4677"
+msgid "Kiryu-san. Do you know where\\r\n"
+"Chairman Dojima is or not?"
+msgstr ""
+
+msgctxt " 	　	　	157	5086	4929"
+msgid "I took a passenger on the highway,\\r\n"
+"then dropped him off back near Nagasugai."
+msgstr ""
+
+msgctxt " 	　	　	60	5199	5139"
+msgid "That's all I've got for you."
+msgstr ""
+
+msgctxt " 	　	　	60	5308	5248"
+msgid "Is that truly it?"
+msgstr ""
+
+msgctxt " 	　	　	60	5405	5345"
+msgid "Yeah."
+msgstr ""
+
+msgctxt " 	　	　	60	5689	5629"
+msgid "Now are we done here?"
+msgstr ""
+
+msgctxt " 	　	　	71	5769	5698"
+msgid "I have a shift to get to."
+msgstr ""
+
+msgctxt " 	　	　	77	5863	5786"
+msgid "So that's how it is, Kiryu-san?"
+msgstr ""
+
+msgctxt " 	　	　	155	6075	5920"
+msgid "You'd really abandon Chairman Dojima\\r\n"
+"without so much as batting an eye?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	56	6162	6106"
+msgid "Excuse me?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	52	6215	6163"
+msgid "You heard me."
+msgstr ""
+
+msgctxt " 	　	分	130	6346	6216"
+msgid "This is a pivotal moment for the Tojo Clan."
+msgstr ""
+
+msgctxt " 	　	　	65	6446	6381"
+msgid "That's why we've come to Fukuoka."
+msgstr ""
+
+msgctxt " 	　	　	129	6605	6476"
+msgid "The chairman vanishing at a time\\r\n"
+"like this is no insignificant matter."
+msgstr ""
+
+msgctxt " 	　	　	127	6761	6634"
+msgid "There could have been an\\r\n"
+"accident, or worse."
+msgstr ""
+
+msgctxt " 	　	　	154	6978	6824"
+msgid "And yet, you don't seem even\\r\n"
+"the slightest bit concerned."
+msgstr ""
+
+msgctxt " 	　	　	100	7112	7012"
+msgid "You'd hang the chairman out\\r\n"
+"to dry like he was nothing to you!?"
+msgstr ""
+
+msgctxt " 	　	　	60	7195	7135"
+msgid "Aizawa!"
+msgstr ""
+
+msgctxt " 	　	　	143	7475	7332"
+msgid "I haven't been wearing the\\r\n"
+"Tojo badge for all that long."
+msgstr ""
+
+msgctxt " 	　	　	131	7624	7493"
+msgid "Truth be told, all I know about\\r\n"
+"you are the stories, Fourth Chairman."
+msgstr ""
+
+msgctxt " 	　	　	71	7745	7674"
+msgid "But it was the chairman who\\r\n"
+"was always telling them."
+msgstr ""
+
+msgctxt " 	　	　	110	7885	7775"
+msgid "He said it was his duty to protect\\r\n"
+"the Tojo Clan you left to him."
+msgstr ""
+
+msgctxt " 	　	　	60	8007	7947"
+msgid "Aizawa."
+msgstr ""
+
+msgctxt " 	　	OK	174	8263	8089"
+msgid "The other execs don't want us having\\r\n"
+"these talks with the Yamagasa Family."
+msgstr ""
+
+msgctxt " 	　	　	97	8389	8292"
+msgid "Say they're not even in\\r\n"
+"the same league as the Tojo."
+msgstr ""
+
+msgctxt " 	　	分	73	8485	8412"
+msgid "How this equal alliance is anything but."
+msgstr ""
+
+msgctxt " 	　	OK	199	8715	8516"
+msgid "But the chairman took it all in stride\\r\n"
+"because of what he promised you."
+msgstr ""
+
+msgctxt " 	　	　	64	8871	8807"
+msgid "So please, Fourth Chairman."
+msgstr ""
+
+msgctxt " 	　	分	113	9006	8893"
+msgid "Tell us where the chairman\\r\n"
+"was going that night."
+msgstr ""
+

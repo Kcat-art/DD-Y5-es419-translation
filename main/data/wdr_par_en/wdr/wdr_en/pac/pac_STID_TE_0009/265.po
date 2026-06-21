@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "252"
+msgid "たむろ_立ち上がり怒り"
+msgstr ""
+
+msgctxt "256"
+msgid "E9810_tamuro_angry"
+msgstr ""
+

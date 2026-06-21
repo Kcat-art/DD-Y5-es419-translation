@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "180"
+msgid "Curry is a drink, after all."
+msgstr ""
+
+msgctxt "184"
+msgid "Well yeah, if it's curry soup."
+msgstr ""
+

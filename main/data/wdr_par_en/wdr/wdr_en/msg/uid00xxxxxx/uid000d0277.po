@@ -1,0 +1,31 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "820"
+msgid "Urban Legend Aficionado"
+msgstr ""
+
+msgctxt "824"
+msgid "Uninterested Woman"
+msgstr ""
+
+msgctxt "828"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "72_Urban Legend Aficionado"
+msgid "Remember that old urban legend about the place called Purgatory under this city?"
+msgstr ""
+
+msgctxt "84_Uninterested Woman"
+msgid "Nope. That's the first I've heard of it."
+msgstr ""
+
+msgctxt "96_Urban Legend Aficionado"
+msgid "You didn't hear that one? They said it was under the land where Kamurocho Hills went up, but I guess there wasn't any truth to it."
+msgstr ""
+
+msgctxt "108_Uninterested Woman"
+msgid "Maybe instead of wasting your time chasing urban legends, you could get a job."
+msgstr ""
+

@@ -1,0 +1,59 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1872	NAME"
+msgid "Legendary Arena Grand Prix"
+msgstr ""
+
+msgctxt "1899	NAME"
+msgid "Ranked Arena Grand Prix"
+msgstr ""
+
+msgctxt "1923	NAME"
+msgid "Maximum Grand Prix"
+msgstr ""
+
+msgctxt "1942	NAME"
+msgid "Twin Dragon Grand Prix"
+msgstr ""
+
+msgctxt "1965	NAME"
+msgid "Weapon Master Grand Prix"
+msgstr ""
+
+msgctxt "1990	NAME"
+msgid "Street Fight Grand Prix"
+msgstr ""
+
+msgctxt "2014	NAME"
+msgid "Limited Berserk"
+msgstr ""
+
+msgctxt "2030	NAME"
+msgid "King of Kings"
+msgstr ""
+
+msgctxt "2044	NAME"
+msgid "Deathmatch 100"
+msgstr ""
+
+msgctxt "2059	NAME"
+msgid "Breakout Grand Prix"
+msgstr ""
+
+msgctxt "2079	NAME"
+msgid "Heat Bomber Grand Prix"
+msgstr ""
+
+msgctxt "2161	EXP_FIRST"
+msgid " "
+msgstr ""
+
+msgctxt "2165	EXP_FIRST"
+msgid " "
+msgstr ""
+
+msgctxt "2257	EXP_THIRD"
+msgid "d"
+msgstr ""
+

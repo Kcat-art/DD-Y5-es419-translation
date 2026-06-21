@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Huh? Hey, it's that Saejima guy!"
+msgstr ""
+
+msgctxt "72"
+msgid "You got some nerve coming here in that getup! I'm going to fuck you up real good!"
+msgstr ""
+
+msgctxt "512"
+msgid "Kitakata Family Member"
+msgstr ""
+
+msgctxt "516"
+msgid "A8080_appear_5men_B"
+msgstr ""
+

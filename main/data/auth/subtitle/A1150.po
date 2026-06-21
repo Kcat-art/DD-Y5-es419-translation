@@ -1,0 +1,177 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		70	465	395"
+msgid "<Italic>Morning Glory Orphanage</Italic>"
+msgstr ""
+
+msgctxt " 	 		60	1472	1412"
+msgid "You're really going, huh?"
+msgstr ""
+
+msgctxt " 	　	　	60	1590	1530"
+msgid "Yeah."
+msgstr ""
+
+msgctxt " 	　	　	140	1769	1629"
+msgid "But why? I already said I'm staying here with you."
+msgstr ""
+
+msgctxt " 	　		63	1880	1817"
+msgid "You'll be in high school next year."
+msgstr ""
+
+msgctxt " 	　	分	133	2023	1890"
+msgid "Taichi and Koji will graduate\\r\n"
+"junior high the year after that."
+msgstr ""
+
+msgctxt " 	　	　	90	2127	2037"
+msgid "You don't need me watching over you anymore."
+msgstr ""
+
+msgctxt " 	　	　	100	2268	2168"
+msgid "And don't assume I'm doing this for your sake."
+msgstr ""
+
+msgctxt " 	　	　	117	2404	2287"
+msgid "I'm just getting tired of all this babysitting."
+msgstr ""
+
+msgctxt " 	　	　	96	2510	2414"
+msgid "Liar. I can see it in your face."
+msgstr ""
+
+msgctxt " 	　	　	144	2673	2529"
+msgid "Believe it. This is the best thing for me."
+msgstr ""
+
+msgctxt " 	　	　	73	2760	2687"
+msgid "You going into show business\\r\n"
+"has nothing to do with it."
+msgstr ""
+
+msgctxt " 	　	　	72	2853	2781"
+msgid "I know there's more to it than that!"
+msgstr ""
+
+msgctxt " 	　	　	92	2953	2861"
+msgid "You're lying through your teeth\\r\n"
+"and I know it, Uncle Kaz."
+msgstr ""
+
+msgctxt " 	　	　	60	3201	3141"
+msgid "It's the money, isn't it?"
+msgstr ""
+
+msgctxt " 	　	　	134	3373	3239"
+msgid "Park-san said she'd make sure\\r\n"
+"we were taken care of."
+msgstr ""
+
+msgctxt " 	　	分	60	3436	3376"
+msgid "But only if you leave, right?"
+msgstr ""
+
+msgctxt " 	　	　	165	3678	3513"
+msgid "Sorry. I know you're only\\r\n"
+"lying for our sake."
+msgstr ""
+
+msgctxt " 	　	　	135	3899	3764"
+msgid "But that doesn't mean\\r\n"
+"I don't deserve the truth."
+msgstr ""
+
+msgctxt " 	　	　	140	4283	4143"
+msgid "Taichi is saying he wants to skip\\r\n"
+"high school and just get a job."
+msgstr ""
+
+msgctxt " 	　	　	96	4422	4326"
+msgid "It's not only Taichi.\\r\n"
+"Ayako and Koji, too."
+msgstr ""
+
+msgctxt " 	　	　	105	4541	4436"
+msgid "Now even Shiro is talking\\r\n"
+"about finding work."
+msgstr ""
+
+msgctxt " 	　	　	125	4716	4591"
+msgid "They'd sacrifice their futures\\r\n"
+"to help you and protect Morning Glory."
+msgstr ""
+
+msgctxt " 	　	　	102	4843	4741"
+msgid "They say they can hold things together\\r\n"
+"until you're ready to come home."
+msgstr ""
+
+msgctxt " 	　	　	69	4940	4871"
+msgid "They'd do that for me?"
+msgstr ""
+
+msgctxt " 	　	　	132	5112	4980"
+msgid "Of course. You're their ray of hope."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	59	5205	5146"
+msgid "If you came back a star..."
+msgstr ""
+
+msgctxt " 	　	　	174	5380	5206"
+msgid "Nothing would make them happier.\\r\n"
+"I'm sure of it."
+msgstr ""
+
+msgctxt " 	　	　	60	5510	5450"
+msgid "Guys..."
+msgstr ""
+
+msgctxt " 	　	　	115	5646	5531"
+msgid "But they're too young to be\\r\n"
+"throwing their lives away."
+msgstr ""
+
+msgctxt " 	　	OK	181	5879	5698"
+msgid "We might be strapped for cash,\\r\n"
+"but that's no reason to squander your chances."
+msgstr ""
+
+msgctxt " 	　	　	60	5940	5880"
+msgid "I won't let them do it."
+msgstr ""
+
+msgctxt " 	　	　	157	6115	5958"
+msgid "Still... they want you here with us\\r\n"
+"more than anything."
+msgstr ""
+
+msgctxt " 	　	　	60	6217	6157"
+msgid "And I agree."
+msgstr ""
+
+msgctxt " 	　	　	155	6408	6253"
+msgid "Thank you, Haruka.\\r\n"
+"But... the timing's right."
+msgstr ""
+
+msgctxt " 	　	OK	183	6625	6442"
+msgid "I always knew. We'd have to go\\r\n"
+"our separate ways someday."
+msgstr ""
+
+msgctxt " 	　	　	61	6774	6713"
+msgid "So I'm going."
+msgstr ""
+
+msgctxt " 	　	　	142	6958	6816"
+msgid "Because I love you.\\r\n"
+"And everyone else at Morning Glory."
+msgstr ""
+
+msgctxt " 	　	　	60	7060	7000"
+msgid "Uncle Kaz..."
+msgstr ""
+

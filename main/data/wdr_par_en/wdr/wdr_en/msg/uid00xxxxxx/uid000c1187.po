@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "296"
+msgid "Terrible Bowler"
+msgstr ""
+
+msgctxt "72_Terrible Bowler"
+msgid "What does it take to get better at bowling? Will using different balls make me better?"
+msgstr ""
+

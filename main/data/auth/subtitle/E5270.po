@@ -1,0 +1,67 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		107	810	703"
+msgid "Oh come on. You always\\r\n"
+"mess up at the same section."
+msgstr ""
+
+msgctxt " 	　	　	148	963	815"
+msgid "I know it's the hardest part, and\\r\n"
+"it sucks that it's right at the end..."
+msgstr ""
+
+msgctxt " 	　	分	76	1041	965"
+msgid "But it doesn't even seem like\\r\n"
+"you have the steps memorized."
+msgstr ""
+
+msgctxt " 	　	　	60	1102	1042"
+msgid "Sorry."
+msgstr ""
+
+msgctxt " 	　	　	78	1215	1137"
+msgid "Sensei, can I try one more time?"
+msgstr ""
+
+msgctxt " 	　	　	60	1629	1569"
+msgid "It's rough."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	48	1731	1683"
+msgid "My two girls here..."
+msgstr ""
+
+msgctxt " 	　	分	134	1866	1732"
+msgid "Not much goin' for 'em in the personality\\r\n"
+"department, but they dance and sing like pros."
+msgstr ""
+
+msgctxt " 	　	　	121	1997	1876"
+msgid "They pick up new routines quick,\\r\n"
+"and they've got the technique to pull 'em off."
+msgstr ""
+
+msgctxt " 	　	　	83	2101	2018"
+msgid "Haruka, on the other hand..."
+msgstr ""
+
+msgctxt " 	　	　	60	2175	2115"
+msgid "She ain't ready."
+msgstr ""
+
+msgctxt " 	　	　	138	2324	2186"
+msgid "Maybe not, but Park-san pinned\\r\n"
+"her dreams on that girl."
+msgstr ""
+
+msgctxt " 	　	　	144	2501	2357"
+msgid "Whatever it takes, we gotta get\\r\n"
+"her to master this song in a day."
+msgstr ""
+
+msgctxt " 	　	　	168	2670	2502"
+msgid "True. Tomorrow night, they'll be\\r\n"
+"on stage in the Dome."
+msgstr ""
+

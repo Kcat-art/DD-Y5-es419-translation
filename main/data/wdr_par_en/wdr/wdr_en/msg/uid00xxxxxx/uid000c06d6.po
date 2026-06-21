@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "296"
+msgid "Pensive Young Man"
+msgstr ""
+
+msgctxt "72_Pensive Young Man"
+msgid "Nice view, eh? This is my favorite scenery in town."
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "260"
+msgid "Enemy"
+msgstr ""
+
+msgctxt "44_Enemy"
+msgid "The chase will begin 10 seconds into the battle."
+msgstr ""
+

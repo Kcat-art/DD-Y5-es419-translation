@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "204"
+msgid "受付"
+msgstr ""
+

@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1248"
+msgid "adv3_040_1/horie_3_040_020"
+msgstr ""
+

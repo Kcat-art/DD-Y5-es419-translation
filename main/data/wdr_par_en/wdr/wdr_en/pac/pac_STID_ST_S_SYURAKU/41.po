@@ -1,0 +1,67 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "13148"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13152"
+msgid "adv2_230/okudera_2_230_010"
+msgstr ""
+
+msgctxt "13156"
+msgid "P_TLK_sitgrd_agura_kamae"
+msgstr ""
+
+msgctxt "13160"
+msgid "P_TLK_sitgrd_agura_kamae_st"
+msgstr ""
+
+msgctxt "13164"
+msgid "Let's go trapping."
+msgstr ""
+
+msgctxt "13168"
+msgid "adv2_210/okudera_2_210_030"
+msgstr ""
+
+msgctxt "13172"
+msgid "adv2_210/okudera_2_210_010"
+msgstr ""
+
+msgctxt "13176"
+msgid "kaiwabgm_ambsyuraku"
+msgstr ""
+
+msgctxt "13180"
+msgid "Heading for the mountain?"
+msgstr ""
+
+msgctxt "13184"
+msgid "adv2_230/saejima_0319b"
+msgstr ""
+
+msgctxt "13188"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "13192"
+msgid "P_SAE_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "13196"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "13200"
+msgid "P_SAE_stand"
+msgstr ""
+
+msgctxt "13204"
+msgid "Heading for the mountain? Come see me."
+msgstr ""
+
+msgctxt "13208"
+msgid "adv2_230/okudera_0032"
+msgstr ""
+

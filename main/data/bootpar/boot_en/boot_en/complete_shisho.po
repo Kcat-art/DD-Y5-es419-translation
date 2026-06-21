@@ -1,0 +1,820 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "274	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "284	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "294	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "304	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "314	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "324	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "334	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "344	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "354	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "364	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "374	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "384	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "394	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "404	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "414	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "424	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "434	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "444	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "454	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "464	CATEGORY"
+msgid "Tatsuya"
+msgstr ""
+
+msgctxt "474	CATEGORY"
+msgid "Minamida"
+msgstr ""
+
+msgctxt "485	CATEGORY"
+msgid "Minamida"
+msgstr ""
+
+msgctxt "496	CATEGORY"
+msgid "Minamida"
+msgstr ""
+
+msgctxt "507	CATEGORY"
+msgid "Minamida"
+msgstr ""
+
+msgctxt "518	CATEGORY"
+msgid "Minamida"
+msgstr ""
+
+msgctxt "529	CATEGORY"
+msgid "Minamida"
+msgstr ""
+
+msgctxt "540	CATEGORY"
+msgid "Minamida"
+msgstr ""
+
+msgctxt "551	CATEGORY"
+msgid "Minamida"
+msgstr ""
+
+msgctxt "562	CATEGORY"
+msgid "Minamida"
+msgstr ""
+
+msgctxt "573	CATEGORY"
+msgid "Minamida"
+msgstr ""
+
+msgctxt "584	CATEGORY"
+msgid "Sosuke"
+msgstr ""
+
+msgctxt "593	CATEGORY"
+msgid "Sosuke"
+msgstr ""
+
+msgctxt "602	CATEGORY"
+msgid "Sosuke"
+msgstr ""
+
+msgctxt "611	CATEGORY"
+msgid "Sosuke"
+msgstr ""
+
+msgctxt "620	CATEGORY"
+msgid "Sosuke"
+msgstr ""
+
+msgctxt "629	CATEGORY"
+msgid "Tendo"
+msgstr ""
+
+msgctxt "637	CATEGORY"
+msgid "Tendo"
+msgstr ""
+
+msgctxt "645	CATEGORY"
+msgid "Tendo"
+msgstr ""
+
+msgctxt "653	CATEGORY"
+msgid "Tendo"
+msgstr ""
+
+msgctxt "661	CATEGORY"
+msgid "Tendo"
+msgstr ""
+
+msgctxt "669	CATEGORY"
+msgid "Tendo"
+msgstr ""
+
+msgctxt "677	CATEGORY"
+msgid "Saigo"
+msgstr ""
+
+msgctxt "685	CATEGORY"
+msgid "Saigo"
+msgstr ""
+
+msgctxt "693	CATEGORY"
+msgid "Saigo"
+msgstr ""
+
+msgctxt "701	CATEGORY"
+msgid "Saigo"
+msgstr ""
+
+msgctxt "709	CATEGORY"
+msgid "Saigo"
+msgstr ""
+
+msgctxt "717	CATEGORY"
+msgid "Saigo"
+msgstr ""
+
+msgctxt "725	CATEGORY"
+msgid "Ayanokoji"
+msgstr ""
+
+msgctxt "737	CATEGORY"
+msgid "Ayanokoji"
+msgstr ""
+
+msgctxt "749	CATEGORY"
+msgid "Ayanokoji"
+msgstr ""
+
+msgctxt "761	CATEGORY"
+msgid "Ayanokoji"
+msgstr ""
+
+msgctxt "773	CATEGORY"
+msgid "Ayanokoji"
+msgstr ""
+
+msgctxt "785	CATEGORY"
+msgid "Ayanokoji"
+msgstr ""
+
+msgctxt "797	CATEGORY"
+msgid "Yoko"
+msgstr ""
+
+msgctxt "804	CATEGORY"
+msgid "Yoko"
+msgstr ""
+
+msgctxt "811	CATEGORY"
+msgid "Yoko"
+msgstr ""
+
+msgctxt "818	CATEGORY"
+msgid "Yoko"
+msgstr ""
+
+msgctxt "825	CATEGORY"
+msgid "Yoko"
+msgstr ""
+
+msgctxt "832	CATEGORY"
+msgid "Yoko"
+msgstr ""
+
+msgctxt "839	CATEGORY"
+msgid "Igarashi"
+msgstr ""
+
+msgctxt "850	CATEGORY"
+msgid "Igarashi"
+msgstr ""
+
+msgctxt "861	CATEGORY"
+msgid "Igarashi"
+msgstr ""
+
+msgctxt "872	CATEGORY"
+msgid "Igarashi"
+msgstr ""
+
+msgctxt "883	CATEGORY"
+msgid "Igarashi"
+msgstr ""
+
+msgctxt "894	CATEGORY"
+msgid "Igarashi"
+msgstr ""
+
+msgctxt "905	CATEGORY"
+msgid "Igarashi"
+msgstr ""
+
+msgctxt "916	CATEGORY"
+msgid "Igarashi"
+msgstr ""
+
+msgctxt "927	CATEGORY"
+msgid "Igarashi"
+msgstr ""
+
+msgctxt "938	NAME"
+msgid "Kiryu in Training"
+msgstr ""
+
+msgctxt "958	NAME"
+msgid "Gourmet Kiryu"
+msgstr ""
+
+msgctxt "974	NAME"
+msgid "Gourmet King Kiryu"
+msgstr ""
+
+msgctxt "995	NAME"
+msgid "New Dish (Kiryu)"
+msgstr ""
+
+msgctxt "1014	NAME"
+msgid "Saejima in Training"
+msgstr ""
+
+msgctxt "1036	NAME"
+msgid "Gourmet Saejima"
+msgstr ""
+
+msgctxt "1054	NAME"
+msgid "Gourmet King Saejima"
+msgstr ""
+
+msgctxt "1077	NAME"
+msgid "New Dish (Saejima)"
+msgstr ""
+
+msgctxt "1098	NAME"
+msgid "Haruka in Training"
+msgstr ""
+
+msgctxt "1119	NAME"
+msgid "Gourmet Haruka"
+msgstr ""
+
+msgctxt "1136	NAME"
+msgid "Gourmet Queen Haruka"
+msgstr ""
+
+msgctxt "1159	NAME"
+msgid "New Dish (Haruka)"
+msgstr ""
+
+msgctxt "1179	NAME"
+msgid "Akiyama in Training"
+msgstr ""
+
+msgctxt "1201	NAME"
+msgid "Gourmet Akiyama"
+msgstr ""
+
+msgctxt "1219	NAME"
+msgid "Gourmet King Akiyama"
+msgstr ""
+
+msgctxt "1242	NAME"
+msgid "New Dish (Akiyama)"
+msgstr ""
+
+msgctxt "1263	NAME"
+msgid "Shinada in Training"
+msgstr ""
+
+msgctxt "1285	NAME"
+msgid "Gourmet Shinada"
+msgstr ""
+
+msgctxt "1303	NAME"
+msgid "Gourmet King Shinada"
+msgstr ""
+
+msgctxt "1326	NAME"
+msgid "New Dish (Shinada)"
+msgstr ""
+
+msgctxt "1347	NAME"
+msgid "Nagasugai Road Battle "
+msgstr ""
+
+msgctxt "1372	NAME"
+msgid "Tsukimino Road Battle "
+msgstr ""
+
+msgctxt "1397	NAME"
+msgid "Sotenbori Road Battle: Haruka Sotenbori"
+msgstr ""
+
+msgctxt "1439	NAME"
+msgid "Sotenbori Road Battle: Akiyama Sotenbori"
+msgstr ""
+
+msgctxt "1482	NAME"
+msgid "Kineicho Road Battle "
+msgstr ""
+
+msgctxt "1506	NAME"
+msgid "Kamurocho Road Battle"
+msgstr ""
+
+msgctxt "1530	NAME"
+msgid "Yahata Flashback"
+msgstr ""
+
+msgctxt "1549	NAME"
+msgid "Kugihara Flashback"
+msgstr ""
+
+msgctxt "1570	NAME"
+msgid "Ogita Flashback"
+msgstr ""
+
+msgctxt "1588	NAME"
+msgid "Daigo Flashback"
+msgstr ""
+
+msgctxt "1606	NAME"
+msgid "Gale Scroll"
+msgstr ""
+
+msgctxt "1620	NAME"
+msgid "Heat Haze Scroll"
+msgstr ""
+
+msgctxt "1639	NAME"
+msgid "Flowing Water Scroll"
+msgstr ""
+
+msgctxt "1662	NAME"
+msgid "Tiger's Den Scroll"
+msgstr ""
+
+msgctxt "1683	NAME"
+msgid "Ultimate Scroll"
+msgstr ""
+
+msgctxt "1701	NAME"
+msgid "Wisdom of the Soul"
+msgstr ""
+
+msgctxt "1722	NAME"
+msgid "Wisdom of the Cliffs"
+msgstr ""
+
+msgctxt "1745	NAME"
+msgid "Wisdom of the Flames"
+msgstr ""
+
+msgctxt "1768	NAME"
+msgid "Wisdom of the Earth"
+msgstr ""
+
+msgctxt "1790	NAME"
+msgid "Wisdom of the Sky"
+msgstr ""
+
+msgctxt "1810	NAME"
+msgid "Wisdom of the Truth"
+msgstr ""
+
+msgctxt "1832	NAME"
+msgid "Suicidal Running"
+msgstr ""
+
+msgctxt "1851	NAME"
+msgid "Suicidal Shooting"
+msgstr ""
+
+msgctxt "1871	NAME"
+msgid "Suicidal Combat"
+msgstr ""
+
+msgctxt "1889	NAME"
+msgid "True Suic. Running"
+msgstr ""
+
+msgctxt "1910	NAME"
+msgid "True Suic. Shooting"
+msgstr ""
+
+msgctxt "1932	NAME"
+msgid "True Suic. Combat"
+msgstr ""
+
+msgctxt "1952	NAME"
+msgid "Path to Manhood 1"
+msgstr ""
+
+msgctxt "1972	NAME"
+msgid "Path to Manhood 2"
+msgstr ""
+
+msgctxt "1992	NAME"
+msgid "Path to Manhood 3"
+msgstr ""
+
+msgctxt "2012	NAME"
+msgid "Path to Manhood 4"
+msgstr ""
+
+msgctxt "2032	NAME"
+msgid "Path to Manhood 5"
+msgstr ""
+
+msgctxt "2052	NAME"
+msgid "Path to Manhood F"
+msgstr ""
+
+msgctxt "2072	NAME"
+msgid "Secret to Good Health"
+msgstr ""
+
+msgctxt "2096	NAME"
+msgid "Secret to Body Care"
+msgstr ""
+
+msgctxt "2118	NAME"
+msgid "How to Look Fabulous"
+msgstr ""
+
+msgctxt "2141	NAME"
+msgid "Secret to Great Hair"
+msgstr ""
+
+msgctxt "2164	NAME"
+msgid "Believe in Yourself"
+msgstr ""
+
+msgctxt "2186	NAME"
+msgid "Dream On"
+msgstr ""
+
+msgctxt "2197	NAME"
+msgid "Heat Eye Training"
+msgstr ""
+
+msgctxt "2217	NAME"
+msgid "Swing Curs. Training"
+msgstr ""
+
+msgctxt "2240	NAME"
+msgid "Slugging Training"
+msgstr ""
+
+msgctxt "2260	NAME"
+msgid "Batting Eye Training"
+msgstr ""
+
+msgctxt "2283	NAME"
+msgid "Impact Training"
+msgstr ""
+
+msgctxt "2301	NAME"
+msgid "Foul Training"
+msgstr ""
+
+msgctxt "2317	NAME"
+msgid "Heat Eye Training 2"
+msgstr ""
+
+msgctxt "2339	NAME"
+msgid "Heat Eye Training 3"
+msgstr ""
+
+msgctxt "2361	NAME"
+msgid "Heat Eye Training F"
+msgstr ""
+
+msgctxt "2925	EXPLANATION"
+msgid "Tatsuya has begun to show Kiryu what being a gourmet is all about."
+msgstr ""
+
+msgctxt "2992	EXPLANATION"
+msgid "Tatsuya has shown Kiryu what it takes to be a master gourmet."
+msgstr ""
+
+msgctxt "3054	EXPLANATION"
+msgid "Tatsuya has shown Kiryu what it takes to be a king of gourmets."
+msgstr ""
+
+msgctxt "3118	EXPLANATION"
+msgid "Kiryu can now order Tatsuya's new dish at the Senbo food stall in \n"
+"Nagasugai."
+msgstr ""
+
+msgctxt "3196	EXPLANATION"
+msgid "Tatsuya has begun to show Saejima what being a gourmet is all about."
+msgstr ""
+
+msgctxt "3265	EXPLANATION"
+msgid "Tatsuya has shown Saejima what it takes to be a master gourmet."
+msgstr ""
+
+msgctxt "3329	EXPLANATION"
+msgid "Tatsuya has shown Saejima what it takes to be a king of gourmets."
+msgstr ""
+
+msgctxt "3395	EXPLANATION"
+msgid "Saejima can now order Tatsuya's new dish at Café Alps in Tsukimino."
+msgstr ""
+
+msgctxt "3464	EXPLANATION"
+msgid "Tatsuya has begun to show Haruka what being a gourmet is all about."
+msgstr ""
+
+msgctxt "3532	EXPLANATION"
+msgid "Tatsuya has shown Haruka what it takes to be a master gourmet."
+msgstr ""
+
+msgctxt "3595	EXPLANATION"
+msgid "Tatsuya has shown Haruka what it takes to be a queen of gourmets."
+msgstr ""
+
+msgctxt "3661	EXPLANATION"
+msgid "Haruka can now order Tatsuya's new dish at Montblanc Coffee in Sotenbori."
+msgstr ""
+
+msgctxt "3735	EXPLANATION"
+msgid "Tatsuya has begun to show Akiyama what being a gourmet is all about."
+msgstr ""
+
+msgctxt "3804	EXPLANATION"
+msgid "Tatsuya has shown Akiyama what it takes to be a master gourmet."
+msgstr ""
+
+msgctxt "3868	EXPLANATION"
+msgid "Tatsuya has shown Akiyama what it takes to be a king of gourmets."
+msgstr ""
+
+msgctxt "3934	EXPLANATION"
+msgid "Akiyama can now order Tatsuya's new dish at Kanrai in Kamurocho."
+msgstr ""
+
+msgctxt "3999	EXPLANATION"
+msgid "Tatsuya has begun to show Shinada what being a gourmet is all about."
+msgstr ""
+
+msgctxt "4068	EXPLANATION"
+msgid "Tatsuya has shown Shinada what it takes to be a master gourmet."
+msgstr ""
+
+msgctxt "4132	EXPLANATION"
+msgid "Tatsuya has shown Shinada what it takes to be a king of gourmets."
+msgstr ""
+
+msgctxt "4198	EXPLANATION"
+msgid "Shinada can now order Tatsuya's new dish at Café Alps in Kineicho."
+msgstr ""
+
+msgctxt "4266	EXPLANATION"
+msgid "You completed the Nagasugai Road Battle."
+msgstr ""
+
+msgctxt "4307	EXPLANATION"
+msgid "You completed the Tsukimino Road Battle."
+msgstr ""
+
+msgctxt "4348	EXPLANATION"
+msgid "You completed Haruka's Sotenbori Road Battle."
+msgstr ""
+
+msgctxt "4394	EXPLANATION"
+msgid "You completed Akiyama's Sotenbori Road Battle."
+msgstr ""
+
+msgctxt "4441	EXPLANATION"
+msgid "You completed the Kineicho Road Battle."
+msgstr ""
+
+msgctxt "4481	EXPLANATION"
+msgid "You completed the Kamurocho Road Battle."
+msgstr ""
+
+msgctxt "4522	EXPLANATION"
+msgid "You completed the Yahata Flashback Battle."
+msgstr ""
+
+msgctxt "4565	EXPLANATION"
+msgid "You completed the Kugihara Flashback Battle."
+msgstr ""
+
+msgctxt "4610	EXPLANATION"
+msgid "You completed the Ogita Flashback Battle."
+msgstr ""
+
+msgctxt "4652	EXPLANATION"
+msgid "You completed the Daigo Flashback Battle."
+msgstr ""
+
+msgctxt "4694	EXPLANATION"
+msgid "You completed the Gale Scroll training."
+msgstr ""
+
+msgctxt "4734	EXPLANATION"
+msgid "You completed the Heat Haze Scroll training."
+msgstr ""
+
+msgctxt "4779	EXPLANATION"
+msgid "You completed the Flowing Water Scroll training."
+msgstr ""
+
+msgctxt "4828	EXPLANATION"
+msgid "You completed the Tiger's Den Scroll training."
+msgstr ""
+
+msgctxt "4875	EXPLANATION"
+msgid "You completed the Ultimate Scroll training."
+msgstr ""
+
+msgctxt "4919	EXPLANATION"
+msgid "You completed Wisdom of the Soul."
+msgstr ""
+
+msgctxt "4953	EXPLANATION"
+msgid "You completed Wisdom of the Cliffs."
+msgstr ""
+
+msgctxt "4989	EXPLANATION"
+msgid "You completed Wisdom of the Flames."
+msgstr ""
+
+msgctxt "5025	EXPLANATION"
+msgid "You completed Wisdom of the Earth."
+msgstr ""
+
+msgctxt "5060	EXPLANATION"
+msgid "You completed Wisdom of the Sky."
+msgstr ""
+
+msgctxt "5093	EXPLANATION"
+msgid "You completed Wisdom of the Truth."
+msgstr ""
+
+msgctxt "5128	EXPLANATION"
+msgid "You completed Suicidal Running."
+msgstr ""
+
+msgctxt "5160	EXPLANATION"
+msgid "You completed Suicidal Shooting."
+msgstr ""
+
+msgctxt "5193	EXPLANATION"
+msgid "You completed Suicidal Combat."
+msgstr ""
+
+msgctxt "5224	EXPLANATION"
+msgid "You completed True Suicidal Running."
+msgstr ""
+
+msgctxt "5261	EXPLANATION"
+msgid "You completed True Suicidal Shooting."
+msgstr ""
+
+msgctxt "5299	EXPLANATION"
+msgid "You completed True Suicidal Combat."
+msgstr ""
+
+msgctxt "5335	EXPLANATION"
+msgid "You completed Path to Manhood (Step 1)."
+msgstr ""
+
+msgctxt "5375	EXPLANATION"
+msgid "You completed Path to Manhood (Step 2)."
+msgstr ""
+
+msgctxt "5415	EXPLANATION"
+msgid "You completed Path to Manhood (Step 3)."
+msgstr ""
+
+msgctxt "5455	EXPLANATION"
+msgid "You completed Path to Manhood (Step 4)."
+msgstr ""
+
+msgctxt "5495	EXPLANATION"
+msgid "You completed Path to Manhood (Step 5)."
+msgstr ""
+
+msgctxt "5535	EXPLANATION"
+msgid "You completed Path to Manhood (Final)."
+msgstr ""
+
+msgctxt "5574	EXPLANATION"
+msgid "You completed The Secret to Good Health."
+msgstr ""
+
+msgctxt "5615	EXPLANATION"
+msgid "You completed The Secret to Body Care."
+msgstr ""
+
+msgctxt "5654	EXPLANATION"
+msgid "You completed How to Look Fabulous."
+msgstr ""
+
+msgctxt "5690	EXPLANATION"
+msgid "You completed The Secret to Great Hair."
+msgstr ""
+
+msgctxt "5730	EXPLANATION"
+msgid "You completed Believe in Yourself."
+msgstr ""
+
+msgctxt "5765	EXPLANATION"
+msgid "You completed Dream On."
+msgstr ""
+
+msgctxt "5789	EXPLANATION"
+msgid "You completed river-fishing training."
+msgstr ""
+
+msgctxt "5827	EXPLANATION"
+msgid "You completed beginner course training at the batting center."
+msgstr ""
+
+msgctxt "5889	EXPLANATION"
+msgid "You completed intermediate course training at the batting center."
+msgstr ""
+
+msgctxt "5955	EXPLANATION"
+msgid "You completed pool training."
+msgstr ""
+
+msgctxt "5984	EXPLANATION"
+msgid "You completed karaoke training."
+msgstr ""
+
+msgctxt "6016	EXPLANATION"
+msgid "You completed UFO Catcher training."
+msgstr ""
+
+msgctxt "6052	EXPLANATION"
+msgid "You completed nutrition training level 1."
+msgstr ""
+
+msgctxt "6094	EXPLANATION"
+msgid "You completed nutrition training level 2."
+msgstr ""
+
+msgctxt "6136	EXPLANATION"
+msgid "You completed marlin-fishing training."
+msgstr ""
+

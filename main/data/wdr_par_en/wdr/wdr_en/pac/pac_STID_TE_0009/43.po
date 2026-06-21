@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "108"
+msgid "#13427のtest"
+msgstr ""
+

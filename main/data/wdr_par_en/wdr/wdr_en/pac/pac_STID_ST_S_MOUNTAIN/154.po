@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "What are you doing, Saejima? Set up a trap on that site."
+msgstr ""
+
+msgctxt "268"
+msgid "Okudera"
+msgstr ""
+

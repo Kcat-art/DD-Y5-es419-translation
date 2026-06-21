@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "188"
+msgid "A10430_yamakasa_syokaki"
+msgstr ""
+
+msgctxt "192"
+msgid "0b1301a0"
+msgstr ""
+

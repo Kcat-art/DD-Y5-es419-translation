@@ -1,0 +1,33 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		64	528	464"
+msgid "Funny, isn't it?"
+msgstr ""
+
+msgctxt " 	　		177	732	555"
+msgid "If I'd done this earlier,\\r\n"
+"none of this would have happened."
+msgstr ""
+
+msgctxt " 	　	　	60	989	929"
+msgid "It's my confession."
+msgstr ""
+
+msgctxt " 	　	分	143	1145	1002"
+msgid "It'll be on the front page\\r\n"
+"of tomorrow's papers."
+msgstr ""
+
+msgctxt " 	　	　	60	1347	1287"
+msgid "Let's put an end to this."
+msgstr ""
+
+msgctxt " 	　		66	1434	1368"
+msgid "It's the best thing we could do."
+msgstr ""
+
+msgctxt "	　		100	2310	2210"
+msgid "<Italic>Omi Alliance</Italic>"
+msgstr ""
+

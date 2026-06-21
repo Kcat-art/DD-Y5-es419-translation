@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "One of these days."
+msgstr ""
+
+msgctxt "372"
+msgid "One of these days..."
+msgstr ""
+

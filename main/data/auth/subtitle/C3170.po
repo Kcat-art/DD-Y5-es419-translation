@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	65	5"
+msgid "Mama! What's for dinner?"
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	49	120	71"
+msgid "What do you want, Sa-chan?"
+msgstr ""
+
+msgctxt " 	60ｆ以下です	　	53	174	121"
+msgid "Um... How 'bout curry!?"
+msgstr ""
+
+msgctxt " 	60ｆ以下です	　	48	223	175"
+msgid "Curry it is, then!"
+msgstr ""
+
+msgctxt "	60ｆ以下です	改行した	57	281	224"
+msgid "Ya mean it? Let's go home and eat!"
+msgstr ""
+
+msgctxt " 	 	　	60	342	282"
+msgid "Okay, okay."
+msgstr ""
+

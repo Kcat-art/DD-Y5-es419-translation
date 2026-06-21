@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "384"
+msgid "adv1_130/madarame_0019"
+msgstr ""
+
+msgctxt "388"
+msgid "dummy"
+msgstr ""
+

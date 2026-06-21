@@ -1,0 +1,21 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "812"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "60_Haruka"
+msgid "(Someone else wants to have a dance battle with me? I wonder\\r\n"
+"who it'll be this time?)"
+msgstr ""
+
+msgctxt "72_Haruka"
+msgid "(It says they'll be waiting near the entrance to the\\r\n"
+"Bunzaemon Outdoor Mall. Okay, let's go see.)"
+msgstr ""
+
+msgctxt "96_Haruka"
+msgid "(Oh! An email from Akari!)"
+msgstr ""
+

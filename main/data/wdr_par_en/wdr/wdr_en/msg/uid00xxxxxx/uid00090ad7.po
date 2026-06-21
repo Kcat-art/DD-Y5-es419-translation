@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "344"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "348"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "44_Daigo"
+msgid "----Change (null)----."
+msgstr ""
+

@@ -1,0 +1,411 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1358	QUESTION"
+msgid "What is 1+2+3+3?"
+msgstr ""
+
+msgctxt "1375	QUESTION"
+msgid "What is (27-7)÷4?"
+msgstr ""
+
+msgctxt "1394	QUESTION"
+msgid "What is 16-3*4?"
+msgstr ""
+
+msgctxt "1410	QUESTION"
+msgid "What is 1+2+7+5-6?"
+msgstr ""
+
+msgctxt "1429	QUESTION"
+msgid "What is (2+19)÷7?"
+msgstr ""
+
+msgctxt "1448	QUESTION"
+msgid "What is 14÷(9-2)?"
+msgstr ""
+
+msgctxt "1467	QUESTION"
+msgid "What is 7*3-12?"
+msgstr ""
+
+msgctxt "1483	QUESTION"
+msgid "What is (13-9)*2?"
+msgstr ""
+
+msgctxt "1501	QUESTION"
+msgid "What is 3*3-2*2*2?"
+msgstr ""
+
+msgctxt "1520	QUESTION"
+msgid "What is 3*2÷6+3?"
+msgstr ""
+
+msgctxt "1538	QUESTION"
+msgid "What is 5-4+6-4+4?"
+msgstr ""
+
+msgctxt "1557	QUESTION"
+msgid "What is 3+2*(3-1)?"
+msgstr ""
+
+msgctxt "1576	QUESTION"
+msgid "What is 1*2+3-4+5?"
+msgstr ""
+
+msgctxt "1595	QUESTION"
+msgid "What is 10÷2+3-4?"
+msgstr ""
+
+msgctxt "1614	QUESTION"
+msgid "What is (1+3)*6÷3"
+msgstr ""
+
+msgctxt "1633	QUESTION"
+msgid "What is (54-34)÷4?"
+msgstr ""
+
+msgctxt "1653	QUESTION"
+msgid "What is 3+21÷7?"
+msgstr ""
+
+msgctxt "1670	QUESTION"
+msgid "What is 1+2+3-4+5"
+msgstr ""
+
+msgctxt "1688	QUESTION"
+msgid "What is 2*2*2-5?"
+msgstr ""
+
+msgctxt "1705	QUESTION"
+msgid "What is 4+5+7-12?"
+msgstr ""
+
+msgctxt "1723	QUESTION"
+msgid "What is 2*3*4÷6?"
+msgstr ""
+
+msgctxt "1741	QUESTION"
+msgid "What is 3+24÷3-4?"
+msgstr ""
+
+msgctxt "1760	QUESTION"
+msgid "What is 6*3+4-21?"
+msgstr ""
+
+msgctxt "1778	QUESTION"
+msgid "What is 5+6-7+8-9?"
+msgstr ""
+
+msgctxt "1797	QUESTION"
+msgid "What is 6*2-6÷3-6?"
+msgstr ""
+
+msgctxt "1817	QUESTION"
+msgid "What is 2*3*4-8-7?"
+msgstr ""
+
+msgctxt "1836	QUESTION"
+msgid "What is 67-21-41?"
+msgstr ""
+
+msgctxt "1854	QUESTION"
+msgid "What is (31-27)*2?"
+msgstr ""
+
+msgctxt "1873	QUESTION"
+msgid "What is 58-38-19?"
+msgstr ""
+
+msgctxt "1891	QUESTION"
+msgid "What is 32-9-8-7?"
+msgstr ""
+
+msgctxt "1909	QUESTION"
+msgid "What is 8+14+9-25?"
+msgstr ""
+
+msgctxt "1928	QUESTION"
+msgid "What is 26-125÷5?"
+msgstr ""
+
+msgctxt "1947	QUESTION"
+msgid "What is (9+7+8)÷3?"
+msgstr ""
+
+msgctxt "1967	QUESTION"
+msgid "What is (8+7+9)÷4?"
+msgstr ""
+
+msgctxt "1987	QUESTION"
+msgid "What is 12-4+18-17?"
+msgstr ""
+
+msgctxt "2007	QUESTION"
+msgid "What is 11-4-8+5?"
+msgstr ""
+
+msgctxt "2025	QUESTION"
+msgid "What is 5-3+6+4-7?"
+msgstr ""
+
+msgctxt "2044	QUESTION"
+msgid "What is 3*(14-11)?"
+msgstr ""
+
+msgctxt "2063	QUESTION"
+msgid "What is 4-2+4-5+6?"
+msgstr ""
+
+msgctxt "2082	QUESTION"
+msgid "What is 42÷(13+8)?"
+msgstr ""
+
+msgctxt "2102	QUESTION"
+msgid "What is 24-9-7-6?"
+msgstr ""
+
+msgctxt "2120	QUESTION"
+msgid "What is 28-15-2*6?"
+msgstr ""
+
+msgctxt "2139	QUESTION"
+msgid "What is 15÷(8-3)-1?"
+msgstr ""
+
+msgctxt "2160	QUESTION"
+msgid "What is (4-2)*7÷2?"
+msgstr ""
+
+msgctxt "2180	QUESTION"
+msgid "What is (4+12)÷4?"
+msgstr ""
+
+msgctxt "2199	QUESTION"
+msgid "What is 36-8-7-15?"
+msgstr ""
+
+msgctxt "2218	QUESTION"
+msgid "What is 6+9-8+7-6?"
+msgstr ""
+
+msgctxt "2237	QUESTION"
+msgid "What is 4*4-3*3?"
+msgstr ""
+
+msgctxt "2254	QUESTION"
+msgid "What is 5*5-4*4?"
+msgstr ""
+
+msgctxt "2271	QUESTION"
+msgid "What is 13-8+5-9?"
+msgstr ""
+
+msgctxt "2289	QUESTION"
+msgid "What is 3*3*3-19?"
+msgstr ""
+
+msgctxt "2307	QUESTION"
+msgid "What is 32÷4÷2÷2?"
+msgstr ""
+
+msgctxt "2328	QUESTION"
+msgid "What is 3+4*3-11?"
+msgstr ""
+
+msgctxt "2346	QUESTION"
+msgid "What is 4*(8-6)-3?"
+msgstr ""
+
+msgctxt "2365	QUESTION"
+msgid "What is 3-4+5-6+7?"
+msgstr ""
+
+msgctxt "2384	QUESTION"
+msgid "What is 120÷24-1?"
+msgstr ""
+
+msgctxt "2403	QUESTION"
+msgid "What is 13-7+5-9?"
+msgstr ""
+
+msgctxt "2421	QUESTION"
+msgid "What is 19-6-4*3?"
+msgstr ""
+
+msgctxt "2439	QUESTION"
+msgid "What is 10*7-8*8?"
+msgstr ""
+
+msgctxt "2457	QUESTION"
+msgid "What is 3*5-3*4?"
+msgstr ""
+
+msgctxt "2474	QUESTION"
+msgid "What is 83-48-27?"
+msgstr ""
+
+msgctxt "2492	QUESTION"
+msgid "What is (19+23)÷7?"
+msgstr ""
+
+msgctxt "2512	QUESTION"
+msgid "What is 3*12÷9*2?"
+msgstr ""
+
+msgctxt "2531	QUESTION"
+msgid "What is 4+5*4-3*5?"
+msgstr ""
+
+msgctxt "2550	QUESTION"
+msgid "What is 100-24*4"
+msgstr ""
+
+msgctxt "2567	QUESTION"
+msgid "What is 48÷8-6÷2?"
+msgstr ""
+
+msgctxt "2587	QUESTION"
+msgid "What is 48-27-13?"
+msgstr ""
+
+msgctxt "2605	QUESTION"
+msgid "What is 48÷(13-7)?"
+msgstr ""
+
+msgctxt "2625	QUESTION"
+msgid "What is 56-34-17?"
+msgstr ""
+
+msgctxt "2643	QUESTION"
+msgid "What is 30-14-8-5?"
+msgstr ""
+
+msgctxt "2662	QUESTION"
+msgid "What is 64-38-24?"
+msgstr ""
+
+msgctxt "2680	QUESTION"
+msgid "What is 36-17-6-9?"
+msgstr ""
+
+msgctxt "2699	QUESTION"
+msgid "What is 9+13-20+3?"
+msgstr ""
+
+msgctxt "2718	QUESTION"
+msgid "What is 54-16-32?"
+msgstr ""
+
+msgctxt "2736	QUESTION"
+msgid "What is 100-23*4?"
+msgstr ""
+
+msgctxt "2754	QUESTION"
+msgid "What is 53-18-26?"
+msgstr ""
+
+msgctxt "2772	QUESTION"
+msgid "What is 54-28-3*8?"
+msgstr ""
+
+msgctxt "2791	QUESTION"
+msgid "What is 120-84-32?"
+msgstr ""
+
+msgctxt "2810	QUESTION"
+msgid "What is 56÷14+2?"
+msgstr ""
+
+msgctxt "2828	QUESTION"
+msgid "What is 6*2÷4-6÷3?"
+msgstr ""
+
+msgctxt "2849	QUESTION"
+msgid "What is 3*4*5÷6-5?"
+msgstr ""
+
+msgctxt "2869	QUESTION"
+msgid "What is 240÷6÷8?"
+msgstr ""
+
+msgctxt "2888	QUESTION"
+msgid "What is 360÷8÷9?"
+msgstr ""
+
+msgctxt "2907	QUESTION"
+msgid "What is 54÷6-27÷9?"
+msgstr ""
+
+msgctxt "2928	QUESTION"
+msgid "What is 42÷3÷2-5?"
+msgstr ""
+
+msgctxt "2948	QUESTION"
+msgid "What is 240÷15÷4?"
+msgstr ""
+
+msgctxt "2968	QUESTION"
+msgid "What is 240÷16-13?"
+msgstr ""
+
+msgctxt "2988	QUESTION"
+msgid "What is 36÷4*2-9?"
+msgstr ""
+
+msgctxt "3007	QUESTION"
+msgid "What is 48÷6*3÷8?"
+msgstr ""
+
+msgctxt "3027	QUESTION"
+msgid "What is 5*5*5-120?"
+msgstr ""
+
+msgctxt "3046	QUESTION"
+msgid "What is 4*4*4-56?"
+msgstr ""
+
+msgctxt "3064	QUESTION"
+msgid "What is 24-6*4+6?"
+msgstr ""
+
+msgctxt "3082	QUESTION"
+msgid "What is 12÷2*6-29?"
+msgstr ""
+
+msgctxt "3102	QUESTION"
+msgid "What is 36÷4*2-9?"
+msgstr ""
+
+msgctxt "3121	QUESTION"
+msgid "What is 36÷12*2-2?"
+msgstr ""
+
+msgctxt "3141	QUESTION"
+msgid "What is 60÷2-12*2?"
+msgstr ""
+
+msgctxt "3161	QUESTION"
+msgid "What is 8*2÷4-6÷3?"
+msgstr ""
+
+msgctxt "3182	QUESTION"
+msgid "What is 24÷4*3-15?"
+msgstr ""
+
+msgctxt "3202	QUESTION"
+msgid "What is 6*6*6-211?"
+msgstr ""
+
+msgctxt "3221	QUESTION"
+msgid "What is 7*7-6*6-5?"
+msgstr ""
+
+msgctxt "3240	QUESTION"
+msgid "What is 600÷5÷24?"
+msgstr ""
+
+msgctxt "3260	QUESTION"
+msgid "What is 81-8*8-16?"
+msgstr ""
+

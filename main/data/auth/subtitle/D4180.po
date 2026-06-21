@@ -1,0 +1,282 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		127	243	116"
+msgid "Hey now. That's no way to say hello."
+msgstr ""
+
+msgctxt " 	　	　	60	329	269"
+msgid "Quit pointing that at me, will ya?"
+msgstr ""
+
+msgctxt " 	　	　	116	465	349"
+msgid "Consider me a main stakeholder in\\r\n"
+"the well-being of our friend here."
+msgstr ""
+
+msgctxt " 	　	　	124	624	500"
+msgid "Shinada owes me more than\\r\n"
+"you can possibly imagine."
+msgstr ""
+
+msgctxt " 	　	　	60	724	664"
+msgid "Point being?"
+msgstr ""
+
+msgctxt " 	　	　	60	871	811"
+msgid "The job."
+msgstr ""
+
+msgctxt " 	　	　	60	948	888"
+msgid "He'll take it."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	38	1298	1260"
+msgid "Guess I'm coming in."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	59	1358	1299"
+msgid "Hold on, Takasugi-san."
+msgstr ""
+
+msgctxt " 	　	分	105	1464	1359"
+msgid "This is complicated enough already!\\r\n"
+"Please just stay out of it!"
+msgstr ""
+
+msgctxt " 	　	　	76	1569	1493"
+msgid "You're in no position to tell me what to do."
+msgstr ""
+
+msgctxt " 	　	　	68	1638	1570"
+msgid "Our deal has nothing to do with this!"
+msgstr ""
+
+msgctxt " 	　	　	60	1736	1676"
+msgid "That so?"
+msgstr ""
+
+msgctxt " 	　	　	134	1889	1755"
+msgid "Guess your fingers'll be covering\\r\n"
+"what you owe me after all, then."
+msgstr ""
+
+msgctxt " 	　	　	63	2088	2025"
+msgid "For now..."
+msgstr ""
+
+msgctxt " 	　	分	171	2282	2111"
+msgid "How 'bout we start with one? Make sure you\\r\n"
+"tell the doctor it got caught in the press."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	49	2342	2293"
+msgid "Don't be ridiculous!"
+msgstr ""
+
+msgctxt " 	　	　	112	2455	2343"
+msgid "They won't pay worker's comp\\r\n"
+"if I'm not even an employee!"
+msgstr ""
+
+msgctxt " 	　	　	60	2667	2607"
+msgid "What's this?"
+msgstr ""
+
+msgctxt " 	　	　	196	2915	2719"
+msgid "Employment forms. Lifted your signature off\\r\n"
+"the receipt from last night. Gotta love copy paper."
+msgstr ""
+
+msgctxt " 	　	分	67	2987	2920"
+msgid "Congrats on the new job."
+msgstr ""
+
+msgctxt " 	　	　	62	3050	2988"
+msgid "Let's not rush things here."
+msgstr ""
+
+msgctxt " 	　	　	164	3215	3051"
+msgid "Even if I give you a million years,\\r\n"
+"a two-bit porno writer's never gonna cut it."
+msgstr ""
+
+msgctxt " 	　	　	60	3303	3243"
+msgid "'Course..."
+msgstr ""
+
+msgctxt " 	　	分	164	3477	3313"
+msgid "If you have another job lined up,\\r\n"
+"I might just change my tune."
+msgstr ""
+
+msgctxt " 	　	　	138	3771	3633"
+msgid "That home run was legit. I'm sure of it."
+msgstr ""
+
+msgctxt " 	　	　	110	3935	3825"
+msgid "The Gigants' pitcher Sawada\\r\n"
+"fired out six straight curves..."
+msgstr ""
+
+msgctxt " 	　	　	97	4037	3940"
+msgid "Then ignored the catcher's signal\\r\n"
+"and hurled a fastball down the middle."
+msgstr ""
+
+msgctxt " 	　	　	190	4255	4065"
+msgid "And I read it perfectly.\\r\n"
+"Didn't steal signs or anything."
+msgstr ""
+
+msgctxt " 	　	　	68	4326	4258"
+msgid "Sign stealing, huh?"
+msgstr ""
+
+msgctxt " 	　	分	98	4429	4331"
+msgid "Now <Italic>that</Italic> would be a problem."
+msgstr ""
+
+msgctxt " 	　	　	101	4555	4454"
+msgid "Then why? Why'd you get banned from the league?"
+msgstr ""
+
+msgctxt " 	　	　	88	4692	4604"
+msgid "I got accused of match fixing, and it stuck."
+msgstr ""
+
+msgctxt " 	　		84	4811	4727"
+msgid "- And were you fixing matches?\\r\n"
+"- Of course not!"
+msgstr ""
+
+msgctxt " 	　	　	99	4911	4812"
+msgid "So then it must have been a set-up."
+msgstr ""
+
+msgctxt " 	　	　	60	4972	4912"
+msgid "How should I know!?"
+msgstr ""
+
+msgctxt " 	　	　	118	5107	4989"
+msgid "Who'd go through all that just to exile\\r\n"
+"a no-name benchwarmer from the minors?"
+msgstr ""
+
+msgctxt " 	　	　	86	5265	5179"
+msgid "Someone had something to gain from it."
+msgstr ""
+
+msgctxt " 	　	分	72	5355	5283"
+msgid "And I want to know who."
+msgstr ""
+
+msgctxt " 	　	　	97	5521	5424"
+msgid "You're the only one who can track them down."
+msgstr ""
+
+msgctxt " 	　	　	88	5648	5560"
+msgid "Say someone <Italic>did</Italic> frame him."
+msgstr ""
+
+msgctxt " 	　	　	60	5750	5690"
+msgid "If we figure out who..."
+msgstr ""
+
+msgctxt " 	　	　	72	5856	5784"
+msgid "You'll really hand over the cash?"
+msgstr ""
+
+msgctxt " 	　	　	60	5956	5896"
+msgid "I never break a promise."
+msgstr ""
+
+msgctxt " 	　	　	126	6123	5997"
+msgid "Here. This is where you can reach me,\\r\n"
+"and all the spending money you could need."
+msgstr ""
+
+msgctxt " 	　	　	119	6347	6228"
+msgid "The job's yours.\\r\n"
+"Don't let me down."
+msgstr ""
+
+msgctxt " 	　	分	60	6459	6399"
+msgid "You can serve as our witness."
+msgstr ""
+
+msgctxt " 	　	　	60	6567	6507"
+msgid "Fine by me."
+msgstr ""
+
+msgctxt " 	　	　	88	6656	6568"
+msgid "Now then. I'll be in touch."
+msgstr ""
+
+msgctxt " 	　	　	60	7127	7067"
+msgid "Well that's a surprise."
+msgstr ""
+
+msgctxt " 	　	分	96	7235	7133"
+msgid "Didn't realize I was dealing with a star."
+msgstr ""
+
+msgctxt " 	　	　	63	7334	7271"
+msgid "You were nationwide news."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	37	7372	7335"
+msgid "But I didn't⑬"
+msgstr ""
+
+msgctxt " 	　	　	119	7492	7373"
+msgid "If you're really innocent, then you\\r\n"
+"should figure out who framed you."
+msgstr ""
+
+msgctxt " 	　	　	135	7764	7625"
+msgid "Not only do you get to learn the truth,\\r\n"
+"but you'll earn a sweet 20 mil doing it."
+msgstr ""
+
+msgctxt " 	　	　	69	7840	7771"
+msgid "You'll finally be able to settle your debts."
+msgstr ""
+
+msgctxt " 	　	　	60	7966	7906"
+msgid "Takasugi-san."
+msgstr ""
+
+msgctxt " 	　	分	107	8075	7968"
+msgid "Sorry. I need some time to process all this."
+msgstr ""
+
+msgctxt " 	　	　	70	8166	8096"
+msgid "What's there to process?"
+msgstr ""
+
+msgctxt " 	　	　	67	8255	8188"
+msgid "You've already got the job."
+msgstr ""
+
+msgctxt " 	　	分	69	8341	8272"
+msgid "This is your only choice."
+msgstr ""
+
+msgctxt " 	　	　	101	8484	8383"
+msgid "Well. This or your fingers."
+msgstr ""
+
+msgctxt " 	　	　	121	8812	8691"
+msgid "I just... need to think it over."
+msgstr ""
+
+msgctxt " 	　		137	9032	8895"
+msgid "If you say so. But don't forget."
+msgstr ""
+
+msgctxt " 	　	　	98	9200	9102"
+msgid "If you try to run...\\r\n"
+"I'll catch you."
+msgstr ""
+

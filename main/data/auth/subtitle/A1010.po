@@ -1,0 +1,180 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "						 	　	　	79	2687	2608"
+msgid "Welcome back, Chairman Dojima."
+msgstr ""
+
+msgctxt "						 	　	　	60	2770	2710"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "						 	　	　	60	2861	2801"
+msgid "Now then, Patriarch Madarame."
+msgstr ""
+
+msgctxt "						 	　	　	97	2990	2893"
+msgid "I hope you give this matter some consideration."
+msgstr ""
+
+msgctxt "						 	　	　	94	3162	3068"
+msgid "You seem to be a trustworthy man."
+msgstr ""
+
+msgctxt "						 	　	　	87	3382	3295"
+msgid "And despite my sudden request..."
+msgstr ""
+
+msgctxt "						 	　	　	149	3532	3383"
+msgid "You agreed to cancel our hotel meeting\\r\n"
+"and convene in my private car instead."
+msgstr ""
+
+msgctxt "						 	　	　	149	3691	3542"
+msgid "An intimate space.\\r\n"
+"No room for bodyguards to protect you."
+msgstr ""
+
+msgctxt "						 	　	分	125	3817	3692"
+msgid "Your very life could have been in danger."
+msgstr ""
+
+msgctxt "	青山キャプ対応		斑目キャプ対応		元のフレーム	 	　	　	153	3994	3841"
+msgid "And yet, you still got in.\\r\n"
+"Still chose to meet with me."
+msgstr ""
+
+msgctxt "4410	4272	4410	4272	4170	4032	 	　	　	162	4434	4272"
+msgid "I hope that shows you how seriously\\r\n"
+"me and my clan are taking this alliance."
+msgstr ""
+
+msgctxt "4685	4336	4685	4336	4445	4096	 	　	OK	232	4696	4464"
+msgid "That, and I couldn't imagine the honorable leader\\r\n"
+"of Kyushu's Yamagasa Family resorting to trickery."
+msgstr ""
+
+msgctxt "4903	4828	4903	4828	4663	4588	 	　	　	78	4915	4837"
+msgid "Your turf, your rules."
+msgstr ""
+
+msgctxt "5089	4952	5089	4952	4849	4712	 	　	　	140	5100	4960"
+msgid "While we're in Fukuoka, I fully intend to\\r\n"
+"follow them, Patriarch Madarame."
+msgstr ""
+
+msgctxt "5383	5152	5383	5152	5143	4912	 	　	OK	231	5392	5161"
+msgid "You run a clan of over 30 thousand, yet you defer\\r\n"
+"to a man with less than 500 soldiers to his name?"
+msgstr ""
+
+msgctxt "5593	5413	5593	5413	5353	5173	 	　	　	79	5500	5421"
+msgid "Correct. After all..."
+msgstr ""
+
+msgctxt "						 	　	分	88	5605	5517"
+msgid "That's what it means to be an equal alliance."
+msgstr ""
+
+msgctxt "5789	5647	5789	5647	5549	5407	 	　	　	144	5800	5656"
+msgid "I see. You show as much decency as you do daring."
+msgstr ""
+
+msgctxt "5961	5817	5961	5817	5721	5577	 	　	　	150	5975	5825"
+msgid "It's no surprise you've come to lead\\r\n"
+"the Tojo Clan at such a young age."
+msgstr ""
+
+msgctxt "6289	6054	6289	6054	6049	5814	 	　	　	141	6203	6062"
+msgid "As for the alliance. I have much\\r\n"
+"to consider, but I am hopeful."
+msgstr ""
+
+msgctxt "						 	　	分	81	6298	6217"
+msgid "My response will come within the week."
+msgstr ""
+
+msgctxt "6557	6344	6557	6344	6317	6104	 	　	　	110	6463	6353"
+msgid "I'll be waiting.\\r\n"
+"Take care, in the meantime."
+msgstr ""
+
+msgctxt "						 	　	分	82	6567	6485"
+msgid "This world is a dangerous one, Patriarch."
+msgstr ""
+
+msgctxt "7220	7160	7220	7160	6980	6920	 	　	　	60	7220	7160"
+msgid "Scram."
+msgstr ""
+
+msgctxt "7862	7809	7862	7809	7622	7569	60ｆ以下です	　	　	49	7862	7813"
+msgid "Who was that?"
+msgstr ""
+
+msgctxt "7925	7863	7925	7863	7685	7623	 	　	　	67	7930	7863"
+msgid "The captain of the Yamagasa Family."
+msgstr ""
+
+msgctxt "8042	7952	8042	7952	7802	7712	 	　	　	89	8045	7956"
+msgid "A man named Yahata.\\r\n"
+"Head of his own family as well."
+msgstr ""
+
+msgctxt "8682	8610	8682	8610	8442	8370	 	　	　	68	8682	8614"
+msgid "I'm glad you've returned unharmed, Chairman."
+msgstr ""
+
+msgctxt "9110	8947	8870	8707	8630	8467	 	　	　	161	9115	8954"
+msgid "Canceling the hotel meeting was quite a surprise.\\r\n"
+"I wasn't sure what to expect."
+msgstr ""
+
+msgctxt "9276	9126	9036	8886	8796	8646	 	　	　	152	9285	9133"
+msgid "Our counterparts here are no fools.\\r\n"
+"They have no reason to go stirring up trouble."
+msgstr ""
+
+msgctxt "9344	9284	9104	9044	8864	8804	 	　	　	60	9351	9291"
+msgid "I agree, but..."
+msgstr ""
+
+msgctxt "9543	9360	9303	9120	9063	8880	 	　	　	184	9550	9366"
+msgid "Not to mention, we're pressuring them into this.\\r\n"
+"An alliance they normally would never consider."
+msgstr ""
+
+msgctxt "9655	9593	9415	9353	9175	9113	 	　	　	62	9661	9599"
+msgid "I anticipated at least some risk."
+msgstr ""
+
+msgctxt "9848	9787	9608	9547	9368	9307	 	　	　	61	9855	9794"
+msgid "We should make our way back to the hotel."
+msgstr ""
+
+msgctxt "9950	9864	9710	9624	9470	9384	 	　	　	85	9955	9870"
+msgid "It's not safe staying in the open for too long."
+msgstr ""
+
+msgctxt "10137	10022	9897	9782	9657	9542	60ｆ以下です	　	　	36	10065	10029"
+msgid "Chairman?"
+msgstr ""
+
+msgctxt "						 	　	分	76	10142	10066"
+msgid "Chairman Dojima?\\r\n"
+"Where are you going?"
+msgstr ""
+
+msgctxt "10327	10188	10087	9948	9847	9708	 	　	　	136	10330	10194"
+msgid "The trip to Fukuoka was a long one.\\r\n"
+"I need some time alone to unwind."
+msgstr ""
+
+msgctxt "10521	10392	10281	10152	10041	9912	 	　	　	130	10528	10398"
+msgid "Don't worry, I won't be gone long.\\r\n"
+"No need to accompany me."
+msgstr ""
+
+msgctxt "10870	10810	10630	10570	10390	10330	 	　	　	60	10877	10817"
+msgid "You two."
+msgstr ""
+

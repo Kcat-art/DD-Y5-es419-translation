@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "(Damn. Got separated. Gotta go back and find 'im.)"
+msgstr ""
+
+msgctxt "580"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "584"
+msgid "M_nml_stand"
+msgstr ""
+

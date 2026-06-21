@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "124"
+msgid "Thank you, Uncle Kaz!"
+msgstr ""
+
+msgctxt "148"
+msgid "Aw. But I wanted that."
+msgstr ""
+
+msgctxt "172"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "184"
+msgid "I want a <Color:8>Strawberry Parfait<Color:Default>!"
+msgstr ""
+

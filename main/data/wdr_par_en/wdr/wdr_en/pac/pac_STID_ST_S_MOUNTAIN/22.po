@@ -1,0 +1,10 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "\\r\n"
+"\\r\n"
+"\\r\n"
+"TriggerState:YS06,YS06_YS06開始,ON>"
+msgstr ""
+

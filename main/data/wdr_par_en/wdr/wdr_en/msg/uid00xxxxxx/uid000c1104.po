@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "376"
+msgid "Sauced Fellow"
+msgstr ""
+
+msgctxt "72_Sauced Fellow"
+msgid "All hail alcohol! The greatest friend for helping you forget all of life's trials and tribulations! And the worst traitor for the morning hangover!"
+msgstr ""
+

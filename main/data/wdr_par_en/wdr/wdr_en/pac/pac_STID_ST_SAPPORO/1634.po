@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "172"
+msgid "Would you like a match?"
+msgstr ""
+
+msgctxt "2464"
+msgid "SB12_F_MCH_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "2468"
+msgid "dummy"
+msgstr ""
+

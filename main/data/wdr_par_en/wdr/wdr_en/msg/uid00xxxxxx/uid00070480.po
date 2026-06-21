@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "276"
+msgid "E9740_stand_tsukitobashi"
+msgstr ""
+
+msgctxt "44_E9740_stand_tsukitobashi"
+msgid "私はwdrですが、これからエネミーに変化します。"
+msgstr ""
+

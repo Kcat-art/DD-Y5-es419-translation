@@ -1,0 +1,169 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		96	274	178"
+msgid "Chairman. Please forgive me."
+msgstr ""
+
+msgctxt " 	　	　	63	360	297"
+msgid "Why did you act on your own?"
+msgstr ""
+
+msgctxt " 	　	OK	178	559	381"
+msgid "Haruka had already agreed to give me\\r\n"
+"the letter, provided I met her alone."
+msgstr ""
+
+msgctxt " 	　	　	84	664	580"
+msgid "You knew that as well as I."
+msgstr ""
+
+msgctxt " 	　	　	189	876	687"
+msgid "Well yeah, but I was worried that Akiyama\\r\n"
+"guy would come crashin' the party again."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	59	936	877"
+msgid "You think I can't handle him?"
+msgstr ""
+
+msgctxt " 	　	　	153	1090	937"
+msgid "That ain't it. I just... figured\\r\n"
+"it'd be safer if we went instead."
+msgstr ""
+
+msgctxt " 	　	OK	213	1327	1114"
+msgid "Yet here we are. Akiyama beat every last one\\r\n"
+"of you, and we still don't have the letter."
+msgstr ""
+
+msgctxt " 	　	　	149	1580	1431"
+msgid "You had our best interests in mind, though,\\r\n"
+"so I'm not going to scold you."
+msgstr ""
+
+msgctxt " 	　	OK	217	1865	1648"
+msgid "This is my fault. I've been so busy with other work,\\r\n"
+"I've let my yakuza duties fall to the wayside."
+msgstr ""
+
+msgctxt " 	　	　	60	1934	1874"
+msgid "Not at all, sir."
+msgstr ""
+
+msgctxt " 	　	　	177	2287	2110"
+msgid "We still have a chance. Everything will be fine\\r\n"
+"as long as we don't let it slip away."
+msgstr ""
+
+msgctxt " 	　	　	72	3254	3182"
+msgid "Working in the entertainment business..."
+msgstr ""
+
+msgctxt " 	　	分	79	3341	3262"
+msgid "Your face is your biggest asset."
+msgstr ""
+
+msgctxt " 	　	　	103	3496	3393"
+msgid "Idols are nothing more than illusions, you see."
+msgstr ""
+
+msgctxt " 	　	　	138	3668	3530"
+msgid "Fans don't care what's on the inside.\\r\n"
+"All they want is a pretty face."
+msgstr ""
+
+msgctxt " 	　	　	132	3844	3712"
+msgid "So you see, when I'm screening potential idols..."
+msgstr ""
+
+msgctxt " 	　	　	138	3991	3853"
+msgid "I always look for that something special.\\r\n"
+"A unique charm to pull people in."
+msgstr ""
+
+msgctxt " 	　	　	89	4163	4074"
+msgid "Faces are important for yakuza, too."
+msgstr ""
+
+msgctxt " 	　	　	158	4340	4182"
+msgid "No matter how big a game you try to talk,\\r\n"
+"if your face can't back it up..."
+msgstr ""
+
+msgctxt " 	　	　	103	4444	4341"
+msgid "Nobody will even begin to fear you."
+msgstr ""
+
+msgctxt " 	　	　	155	4635	4480"
+msgid "Especially not Haruka Sawamura.\\r\n"
+"The adopted daughter of Kazuma Kiryu himself."
+msgstr ""
+
+msgctxt " 	　	タイミングが遅い	109	4768	4659"
+msgid "The girl's seen enough yakuza to last a lifetime."
+msgstr ""
+
+msgctxt " 	　	　	171	5093	4922"
+msgid "Tell me, what happened when you threatened her?\\r\n"
+"Did she cower in fear and hand over the letter?"
+msgstr ""
+
+msgctxt " 	　	　	157	5251	5094"
+msgid "She didn't, did she? Quite the opposite.\\r\n"
+"She dug in her heels harder than ever."
+msgstr ""
+
+msgctxt " 	　	　	136	5401	5265"
+msgid "Simply put, you're just not scary enough."
+msgstr ""
+
+msgctxt " 	　	分	81	5495	5414"
+msgid "Haruka Sawamura thinks you're a joke."
+msgstr ""
+
+msgctxt " 	　	　	129	5628	5499"
+msgid "What good is a yakuza who can't\\r\n"
+"even intimidate a little girl?"
+msgstr ""
+
+msgctxt " 	　	　	106	5743	5637"
+msgid "If you're gonna threaten someone,\\r\n"
+"make sure you do it right!"
+msgstr ""
+
+msgctxt " 	　	　	108	6210	6102"
+msgid "We have to get our hands on\\r\n"
+"that letter no matter the cost."
+msgstr ""
+
+msgctxt " 	　	　	60	6290	6230"
+msgid "So we'll follow them to Tokyo."
+msgstr ""
+
+msgctxt " 	　	　	60	6403	6343"
+msgid "Yes, sir."
+msgstr ""
+
+msgctxt " 	　	　	163	6633	6470"
+msgid "Funny. I didn't expect I'd care so much about this."
+msgstr ""
+
+msgctxt " 	　	　	91	6743	6652"
+msgid "Yakuza business has never quite interested me before."
+msgstr ""
+
+msgctxt " 	　	OK	196	6962	6766"
+msgid "Yet with Omi chairmanship dangling in\\r\n"
+"front of my face, I can't help but bite."
+msgstr ""
+
+msgctxt " 	　	　	60	7071	7011"
+msgid "Chairman..."
+msgstr ""
+
+msgctxt " 	　	　	138	7235	7097"
+msgid "I'll deal with Majima.\\r\n"
+"That's a promise."
+msgstr ""
+

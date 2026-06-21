@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1588"
+msgid "Player"
+msgstr ""
+
+msgctxt "1592"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1596"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1600"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1604"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "1608"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "(<Color:8>Kyushu Tonkotsu Tsukemen<Color:Default>, available for a limited time, huh? Sounds good.)"
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "(<Color:8>Kyushu Tonkotsu Tsukemen<Color:Default>, available for a limited time, huh? Sounds pretty tasty.)"
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "(<Color:8>Kyushu Tonkotsu Tsukemen<Color:Default>, available for a limited time, huh? Sounds good.)"
+msgstr ""
+
+msgctxt "92_Shinada"
+msgid "(<Color:8>Kyushu Tonkotsu Tsukemen<Color:Default>, available for a limited time, huh? Maybe I'll give it a try.)"
+msgstr ""
+
+msgctxt "104_Haruka"
+msgid "(<Color:8>Kyushu Tonkotsu Tsukemen<Color:Default>, available for a limited time, huh? I'd like to try that!)"
+msgstr ""
+

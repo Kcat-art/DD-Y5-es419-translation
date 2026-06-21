@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "356"
+msgid "Manga Buff"
+msgstr ""
+
+msgctxt "72_Manga Buff"
+msgid "While everyone's out enjoying the festival, I read manga outside to show I'm not a sheep like them! ...Ahh-choo!"
+msgstr ""
+

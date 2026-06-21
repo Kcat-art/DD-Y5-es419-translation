@@ -1,0 +1,26 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "288"
+msgid "Finally getting\\r\n"
+"used to this..."
+msgstr ""
+
+msgctxt "324"
+msgid "I psych myself out..."
+msgstr ""
+
+msgctxt "336"
+msgid "Maybe I'm getting\\r\n"
+"used to pressure..."
+msgstr ""
+
+msgctxt "372"
+msgid "I psych myself out..."
+msgstr ""
+
+msgctxt "384"
+msgid "Maybe I'm getting\\r\n"
+"used to pressure..."
+msgstr ""
+

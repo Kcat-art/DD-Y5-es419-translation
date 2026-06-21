@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "340"
+msgid "Penniless Student"
+msgstr ""
+
+msgctxt "72_Penniless Student"
+msgid "Oh, this gyoza smells so good... Huh? What are you staring at? I'm eating here."
+msgstr ""
+

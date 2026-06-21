@@ -1,0 +1,91 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "5476"
+msgid "cab_riku_z_01/riku_07_0001"
+msgstr ""
+
+msgctxt "5480"
+msgid "cab_riku_z_02/riku_08_0001"
+msgstr ""
+
+msgctxt "5484"
+msgid "cab_riku_z_03/riku_09_0001"
+msgstr ""
+
+msgctxt "5488"
+msgid "cab_riku_z_04/riku_10_0001"
+msgstr ""
+
+msgctxt "5492"
+msgid "cab_riku_z_05/riku_11_0001"
+msgstr ""
+
+msgctxt "5496"
+msgid "cab_riku_z_06/riku_12_0001"
+msgstr ""
+
+msgctxt "5500"
+msgid "cab_riku_z_07/riku_13_0001"
+msgstr ""
+
+msgctxt "5504"
+msgid "cab_riku_z_08/riku_14_0001"
+msgstr ""
+
+msgctxt "5508"
+msgid "cab_riku_z_09/riku_15_0001"
+msgstr ""
+
+msgctxt "5512"
+msgid "cab_riku_z_10/riku_16_0001"
+msgstr ""
+
+msgctxt "5516"
+msgid "cab_riku_s_01/riku_00_0001"
+msgstr ""
+
+msgctxt "5520"
+msgid "cab_riku_s_02/riku_01_0001"
+msgstr ""
+
+msgctxt "5524"
+msgid "cab_riku_s_03/riku_02_0001"
+msgstr ""
+
+msgctxt "5528"
+msgid "cab_riku_s_04/riku_03_0001"
+msgstr ""
+
+msgctxt "5532"
+msgid "cab_riku_s_05/riku_04_0001"
+msgstr ""
+
+msgctxt "5536"
+msgid "cab_riku_s_06/riku_05_0001"
+msgstr ""
+
+msgctxt "5540"
+msgid "cab_riku_s_07/riku_06_0001"
+msgstr ""
+
+msgctxt "5544"
+msgid "cab_riku_r_01/riku_17_0001"
+msgstr ""
+
+msgctxt "5548"
+msgid "cab_riku_r_02/riku_18_0001"
+msgstr ""
+
+msgctxt "5552"
+msgid "cab_riku_r_03/riku_19_0001"
+msgstr ""
+
+msgctxt "5556"
+msgid "cab_riku_r_04/riku_20_0001"
+msgstr ""
+
+msgctxt "5560"
+msgid "cab_riku_r_05/riku_21_0001"
+msgstr ""
+

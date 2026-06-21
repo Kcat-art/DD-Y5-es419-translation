@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "88"
+msgid "You cannot go beyond this point in the Demo."
+msgstr ""
+
+msgctxt "492"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "496"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "76_Kiryu"
+msgid "(They're closed today.)"
+msgstr ""
+
+msgctxt "100_Haruka"
+msgid "(I'm a little too young for this place...)"
+msgstr ""
+

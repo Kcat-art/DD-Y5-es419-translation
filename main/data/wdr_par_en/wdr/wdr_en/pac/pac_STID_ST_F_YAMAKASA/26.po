@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "(Dammit, they're guarding the entrance.)"
+msgstr ""
+
+msgctxt "316"
+msgid "Player"
+msgstr ""
+

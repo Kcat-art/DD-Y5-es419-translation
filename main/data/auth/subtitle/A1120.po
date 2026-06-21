@@ -1,0 +1,50 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		73	675	602"
+msgid "Taichi Suzuki-san, yes?"
+msgstr ""
+
+msgctxt " 	　	　	74	831	757"
+msgid "There's something we'd like to ask you."
+msgstr ""
+
+msgctxt " 	　	分	62	897	835"
+msgid "Can you spare a moment?"
+msgstr ""
+
+msgctxt " 	　		61	996	935"
+msgid "Sorry, but I'm busy."
+msgstr ""
+
+msgctxt " 	　	　	78	1106	1028"
+msgid "I don't understand.\\r\n"
+"Hasn't your shift ended?"
+msgstr ""
+
+msgctxt " 	　	　	60	1209	1149"
+msgid "As I'm sure you can see..."
+msgstr ""
+
+msgctxt " 	　	分	134	1347	1213"
+msgid "There's more to my work than just driving.\\r\n"
+"Now if you'll excuse me."
+msgstr ""
+
+msgctxt " 	　	　	60	1574	1514"
+msgid "It'll only be a moment."
+msgstr ""
+
+msgctxt " 	　	　	60	1702	1642"
+msgid "Surely you can spare that."
+msgstr ""
+
+msgctxt " 	　	　	60	1786	1726"
+msgid "Kazuma Kiryu-san."
+msgstr ""
+
+msgctxt " 	　	　	127	2200	2073"
+msgid "This may not be the best place to talk.\\r\n"
+"Shall we take this somewhere else?"
+msgstr ""
+

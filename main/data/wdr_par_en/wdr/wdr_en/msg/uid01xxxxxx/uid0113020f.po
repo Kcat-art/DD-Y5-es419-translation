@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "72"
+msgid "You unlocked the door."
+msgstr ""
+
+msgctxt "328"
+msgid "Player"
+msgstr ""
+
+msgctxt "332"
+msgid "7e008001"
+msgstr ""
+
+msgctxt "60_Player"
+msgid "(It's locked.)"
+msgstr ""
+

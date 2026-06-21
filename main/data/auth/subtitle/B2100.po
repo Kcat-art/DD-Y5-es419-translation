@@ -1,0 +1,100 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		81	150	69"
+msgid "Bastard... What are you doing!?"
+msgstr ""
+
+msgctxt " 	　	　	100	265	165"
+msgid "My leg! It fucking hurts!"
+msgstr ""
+
+msgctxt " 	　	　	88	379	291"
+msgid "No. I didn't..."
+msgstr ""
+
+msgctxt " 	　	　	102	655	553"
+msgid "Out of the way!\\r\n"
+"What are you all doing back here!?"
+msgstr ""
+
+msgctxt " 	　	　	86	798	712"
+msgid "It was him!\\r\n"
+"He stabbed Owada outta the blue!"
+msgstr ""
+
+msgctxt " 	　	　	60	904	844"
+msgid "He what!?"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	48	988	940"
+msgid "Baba-chan."
+msgstr ""
+
+msgctxt " 	　	　	84	1073	989"
+msgid "Baba! Is he telling the truth?"
+msgstr ""
+
+msgctxt " 	　	　	77	1178	1101"
+msgid "No... I didn't do it."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	分	49	1243	1194"
+msgid "It wasn't me!"
+msgstr ""
+
+msgctxt " 	　	　	116	1360	1244"
+msgid "Yeah? Then what's that in your hand?"
+msgstr ""
+
+msgctxt " 	　	　	143	1619	1476"
+msgid "One minute, everything was fine...\\r\n"
+"The next, that fucker jumped me!"
+msgstr ""
+
+msgctxt " 	　	　	162	1811	1649"
+msgid "No... It's not mine, I swear!"
+msgstr ""
+
+msgctxt " 	　	　	100	2031	1931"
+msgid "You! Bring the victim to the infirmary."
+msgstr ""
+
+msgctxt " 	　	　	87	2370	2283"
+msgid "Baba. I don't believe it."
+msgstr ""
+
+msgctxt " 	　	　	60	2482	2422"
+msgid "Aniki! I⑬"
+msgstr ""
+
+msgctxt " 	　	　	83	2571	2488"
+msgid "So much for your shot at parole."
+msgstr ""
+
+msgctxt " 	　	　	147	2732	2585"
+msgid "Only days left to go, too.\\r\n"
+"You just had to go and ruin it."
+msgstr ""
+
+msgctxt " 	　	　	60	2809	2749"
+msgid "You can't do that."
+msgstr ""
+
+msgctxt " 	　	　	84	2898	2814"
+msgid "Please! It wasn't me!"
+msgstr ""
+
+msgctxt " 	　	　	76	3002	2926"
+msgid "Aniki! You've got to believe me!"
+msgstr ""
+
+msgctxt " 	　	　	68	3073	3005"
+msgid "Enough talk.\\r\n"
+"You're coming with me."
+msgstr ""
+
+msgctxt " 	　	　	60	3140	3080"
+msgid "Baba-chan!"
+msgstr ""
+

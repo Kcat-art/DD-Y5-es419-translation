@@ -1,0 +1,64 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 			60	249	189"
+msgid "Get back here!"
+msgstr ""
+
+msgctxt " 	　	　	60	345	285"
+msgid "Akiyama-san!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	48	797	749"
+msgid "Who the shit're you!?"
+msgstr ""
+
+msgctxt " 	　	　	60	858	798"
+msgid "I should ask you the same thing."
+msgstr ""
+
+msgctxt " 	　	　	60	1004	944"
+msgid "Horie-chan!"
+msgstr ""
+
+msgctxt " 	　	　	60	1136	1076"
+msgid "So it was you."
+msgstr ""
+
+msgctxt " 	　	　	64	1247	1183"
+msgid "You must be the one who killed Park-san, too!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	52	1327	1275"
+msgid "No!"
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	39	1367	1328"
+msgid "It wasn't me!"
+msgstr ""
+
+msgctxt " 	　	分	66	1434	1368"
+msgid "They made me do it, I swear!"
+msgstr ""
+
+msgctxt " 	　	　	60	1502	1442"
+msgid "Who did?"
+msgstr ""
+
+msgctxt " 	　	　	138	1665	1527"
+msgid "Please, just lemme go!\\r\n"
+"I didn't do anythin' wrong!"
+msgstr ""
+
+msgctxt " 	　	　	66	1733	1667"
+msgid "Like I'm gonna buy that!"
+msgstr ""
+
+msgctxt " 	　	　	110	1963	1853"
+msgid "Fine then. Only one way left to go."
+msgstr ""
+
+msgctxt " 	　	　	60	2076	2016"
+msgid "Can't say I didn't see that coming."
+msgstr ""
+

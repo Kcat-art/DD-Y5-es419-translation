@@ -1,0 +1,42 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "100"
+msgid "You withdrew the full amount."
+msgstr ""
+
+msgctxt "1400"
+msgid "Player"
+msgstr ""
+
+msgctxt "1404"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1408"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "88_Player"
+msgid "(My pay's been deposited.)"
+msgstr ""
+
+msgctxt "112_Kiryu"
+msgid "(I have to send some money to Morning Glory, I'm sure the kids'll need it.)\\r\n"
+"　  "
+msgstr ""
+
+msgctxt "136_Player"
+msgid "(Maybe not now.)"
+msgstr ""
+
+msgctxt "148_Kiryu"
+msgid "(That won't buy much. I need to send more money next time.)\\r\n"
+"　 "
+msgstr ""
+
+msgctxt "160_Kiryu"
+msgid "(It looks like the money went through okay. That should do for now.)\\r\n"
+"　  "
+msgstr ""
+

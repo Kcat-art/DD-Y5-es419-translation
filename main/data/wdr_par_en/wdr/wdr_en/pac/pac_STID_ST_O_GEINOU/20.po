@@ -1,0 +1,47 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3224"
+msgid "adv3_710/yamaura_0063"
+msgstr ""
+
+msgctxt "3228"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3232"
+msgid "P_AKI_TLK_stand_udekumi_lp"
+msgstr ""
+
+msgctxt "3236"
+msgid "adv3_700/haruka_0330"
+msgstr ""
+
+msgctxt "3240"
+msgid "ACDEV0150"
+msgstr ""
+
+msgctxt "3244"
+msgid "adv3_690/yamaura_0048"
+msgstr ""
+
+msgctxt "3248"
+msgid "kaiwabgm_fuon03"
+msgstr ""
+
+msgctxt "3252"
+msgid "cp-070/yamaura_3_607_010"
+msgstr ""
+
+msgctxt "3256"
+msgid "cp-060/yamaura_3_606_010a"
+msgstr ""
+
+msgctxt "3260"
+msgid "cp-050/yamaura_1019a"
+msgstr ""
+
+msgctxt "3264"
+msgid "adv3_480/yamaura_0031"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "136"
+msgid "1-035/daigo_0029a"
+msgstr ""
+
+msgctxt "140"
+msgid "SS1_M_DGO_TAX_kamae"
+msgstr ""
+

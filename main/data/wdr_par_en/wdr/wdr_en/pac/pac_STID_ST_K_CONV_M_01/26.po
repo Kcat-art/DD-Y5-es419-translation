@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "640"
+msgid "Welcome!"
+msgstr ""
+

@@ -1,0 +1,119 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "								 	　	分	85	280	195"
+msgid "<Italic>Princess League</Italic>"
+msgstr ""
+
+msgctxt "					結合後		元フレーム	 			120	650	530"
+msgid "How're we doin', everybody!? It's showtime!"
+msgstr ""
+
+msgctxt "								 	　	分	84	735	651"
+msgid "I'm your host, Dolce Kamiya!"
+msgstr ""
+
+msgctxt "				913	796	133	16	 	　		117	913	796"
+msgid "They made us laugh, they made us cry..."
+msgstr ""
+
+msgctxt "				1000	917	220	137	 	　		83	1000	917"
+msgid "But there's one last round before we say goodbye!"
+msgstr ""
+
+msgctxt "				1163	1003	383	223	 	　		160	1163	1003"
+msgid "The curtain is about to go up on the third\\r\n"
+"and final round of the Princess League!"
+msgstr ""
+
+msgctxt "				1317	1206	537	426	 	　		111	1317	1206"
+msgid "Surely we all know the rules by now!"
+msgstr ""
+
+msgctxt "				1519	1322	739	542	 	　		197	1519	1322"
+msgid "The contestant who corrals the biggest audience\\r\n"
+"by the end of their performance wins round three!"
+msgstr ""
+
+msgctxt "				1649	1559	869	779	 	　		90	1649	1559"
+msgid "We've finally made it to the final round!"
+msgstr ""
+
+msgctxt "				1842	1656	1062	876	 	　		186	1842	1656"
+msgid "I don't need to tell you how important the points\\r\n"
+"earned tonight will be in determining our winner!"
+msgstr ""
+
+msgctxt "				2096	1882	1316	1102	 	　		214	2096	1882"
+msgid "When all is said and done, only one side will wear\\r\n"
+"the Princess League crown! Who will it be!?"
+msgstr ""
+
+msgctxt "	結合後		元	2339	2097	1559	1317	 	　		242	2198	2097"
+msgid "Now then, let's introduce our players!"
+msgstr ""
+
+msgctxt "								 	　	分	133	2339	2206"
+msgid "First up, our outstanding idol duo!"
+msgstr ""
+
+msgctxt "2536	2397	200	61					 	　		139	2536	2397"
+msgid "Whether it's their flawless fashion,\\r\n"
+"their incredible dancing..."
+msgstr ""
+
+msgctxt "2659	2537	323	201					 	　		122	2659	2537"
+msgid "Or the stunning symmetry of their performance,\\r\n"
+"it's impossible not to be awestruck by such talent!"
+msgstr ""
+
+msgctxt "2804	2667	468	331					 	　		137	2804	2667"
+msgid "Might it be that these two were made for each other?"
+msgstr ""
+
+msgctxt "3031	2807	695	471					 	　		224	2911	2807"
+msgid "Allow me to present the greatest\\r\n"
+"idol duo of their generation..."
+msgstr ""
+
+msgctxt "								 	　	分	112	3031	2919"
+msgid "T-Set!"
+msgstr ""
+
+msgctxt "3341	3139	1005	803					 	　		202	3341	3139"
+msgid "She may be young and uncertain, but she's overcome\\r\n"
+"each and every battle this season's had to offer."
+msgstr ""
+
+msgctxt "3476	3359	1140	1023					 	　		117	3476	3359"
+msgid "What do those youthful eyes, gleaming with\\r\n"
+"determination, see at the end of her journey?"
+msgstr ""
+
+msgctxt "3609	3492	1273	1156					 	　		117	3609	3492"
+msgid "Her resolute singing voice weaves\\r\n"
+"sweet promises of a bright future!"
+msgstr ""
+
+msgctxt "3895	3616	1559	1280					 	　		279	3732	3616"
+msgid "Making all who hear her swell with hope,\\r\n"
+"I give you the one and only wonder girl..."
+msgstr ""
+
+msgctxt "								 	　	分	142	3895	3753"
+msgid "Haruka Sawamura!"
+msgstr ""
+
+msgctxt "4138	3938	1802	1602					 	　		200	4138	3938"
+msgid "Which of them will attract the most audience \\r\n"
+"members with their dazzling performance!?"
+msgstr ""
+
+msgctxt "4383	4148	2047	1812					 	　		235	4259	4148"
+msgid "Let the final round of the Princess League begin!"
+msgstr ""
+
+msgctxt "									　	分	115	4383	4268"
+msgid "Ready? Go!"
+msgstr ""
+

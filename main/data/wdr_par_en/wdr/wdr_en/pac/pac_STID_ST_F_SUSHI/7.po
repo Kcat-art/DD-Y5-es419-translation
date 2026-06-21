@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "496"
+msgid "P_TLK_sitchr_kamae"
+msgstr ""
+

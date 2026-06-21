@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "272"
+msgid "Employee"
+msgstr ""
+
+msgctxt "72_Employee"
+msgid "Belt out your favorite tunes and blow the blues away! Welcome to Karaokekan!"
+msgstr ""
+

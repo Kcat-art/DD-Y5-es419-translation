@@ -1,0 +1,295 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "592	NAME"
+msgid "Rainbow Prism Star"
+msgstr ""
+
+msgctxt "611	NAME"
+msgid "Rainbow Shooting Star"
+msgstr ""
+
+msgctxt "633	NAME"
+msgid "Rainbow Shining Star"
+msgstr ""
+
+msgctxt "654	NAME"
+msgid "Body Shake"
+msgstr ""
+
+msgctxt "665	NAME"
+msgid "Heart Shake"
+msgstr ""
+
+msgctxt "677	NAME"
+msgid "Passion Shake"
+msgstr ""
+
+msgctxt "691	NAME"
+msgid "Heartbeat"
+msgstr ""
+
+msgctxt "701	NAME"
+msgid "Heart Strike"
+msgstr ""
+
+msgctxt "714	NAME"
+msgid "Heart Smash"
+msgstr ""
+
+msgctxt "726	NAME"
+msgid "Charming Cuteness"
+msgstr ""
+
+msgctxt "744	NAME"
+msgid "Adorable Allure"
+msgstr ""
+
+msgctxt "760	NAME"
+msgid "Darling Dazzle"
+msgstr ""
+
+msgctxt "775	NAME"
+msgid "Heal Me Mix"
+msgstr ""
+
+msgctxt "787	NAME"
+msgid "Heal Me Club Mix"
+msgstr ""
+
+msgctxt "804	NAME"
+msgid "Heal Me Mega Mix"
+msgstr ""
+
+msgctxt "821	NAME"
+msgid "Groove Booster"
+msgstr ""
+
+msgctxt "836	NAME"
+msgid "Groove Blaster"
+msgstr ""
+
+msgctxt "851	NAME"
+msgid "Groove Downer"
+msgstr ""
+
+msgctxt "865	NAME"
+msgid "Groove Buster"
+msgstr ""
+
+msgctxt "879	NAME"
+msgid "Orbital Laser"
+msgstr ""
+
+msgctxt "893	NAME"
+msgid "Fired Up"
+msgstr ""
+
+msgctxt "902	NAME"
+msgid "Hot Stuff"
+msgstr ""
+
+msgctxt "912	NAME"
+msgid "Red Hot"
+msgstr ""
+
+msgctxt "920	NAME"
+msgid "Pressure"
+msgstr ""
+
+msgctxt "929	NAME"
+msgid "High Pressure"
+msgstr ""
+
+msgctxt "943	NAME"
+msgid "Mega Pressure"
+msgstr ""
+
+msgctxt "957	NAME"
+msgid "Irritate"
+msgstr ""
+
+msgctxt "966	NAME"
+msgid "Incite"
+msgstr ""
+
+msgctxt "973	NAME"
+msgid "Provoke"
+msgstr ""
+
+msgctxt "981	NAME"
+msgid "Energy Charge"
+msgstr ""
+
+msgctxt "995	NAME"
+msgid "Energy Spike"
+msgstr ""
+
+msgctxt "1008	NAME"
+msgid "Energy Overdrive"
+msgstr ""
+
+msgctxt "1025	NAME"
+msgid "Uplift"
+msgstr ""
+
+msgctxt "1032	NAME"
+msgid "Exhilarate"
+msgstr ""
+
+msgctxt "1043	NAME"
+msgid "Gutsy"
+msgstr ""
+
+msgctxt "1049	NAME"
+msgid "Fearless"
+msgstr ""
+
+msgctxt "1189	ID"
+msgid " "
+msgstr ""
+
+msgctxt "2531	EXPLANATION"
+msgid "This bold dance battle move will earn you a massive amount of bonus points by tracing a rainbow through the air with a showy backflip."
+msgstr ""
+
+msgctxt "2666	EXPLANATION"
+msgid "This beautiful dance battle move will earn you a lot of bonus points by tracing a rainbow through the air with a showy backflip."
+msgstr ""
+
+msgctxt "2795	EXPLANATION"
+msgid "This sublime dance battle move will earn you a ton of bonus points by tracing a rainbow through the air with a showy backflip."
+msgstr ""
+
+msgctxt "2922	EXPLANATION"
+msgid "Earn a few bonus points during a dance battle."
+msgstr ""
+
+msgctxt "2969	EXPLANATION"
+msgid "Earn a bunch of bonus points during a dance battle."
+msgstr ""
+
+msgctxt "3021	EXPLANATION"
+msgid "Earn major bonus points during a dance battle."
+msgstr ""
+
+msgctxt "3068	EXPLANATION"
+msgid "Give an energetic dance battle performance that slightly lowers the health of your opponents by throwing them off rhythm."
+msgstr ""
+
+msgctxt "3190	EXPLANATION"
+msgid "Give a spirited dance battle performance that lowers the health of your opponents by throwing them off rhythm."
+msgstr ""
+
+msgctxt "3301	EXPLANATION"
+msgid "Give a powerful dance battle performance that dramatically lowers the health of your opponents by throwing them off rhythm."
+msgstr ""
+
+msgctxt "3425	EXPLANATION"
+msgid "Win the hearts of the crowd with a sweet performance during a dance battle, causing your opponent's Heat to fall a bit."
+msgstr ""
+
+msgctxt "3545	EXPLANATION"
+msgid "Win the hearts of the crowd with a seriously sweet performance during a dance battle, causing your opponent's Heat to fall."
+msgstr ""
+
+msgctxt "3669	EXPLANATION"
+msgid "Win the hearts of the crowd with a super sweet performance during a dance battle, causing your opponent's Heat to fall dramatically."
+msgstr ""
+
+msgctxt "3802	EXPLANATION"
+msgid "Slightly recover your health through proper breathing and concentration during a dance battle."
+msgstr ""
+
+msgctxt "3897	EXPLANATION"
+msgid "Recover your health through even better breathing and concentration during a dance battle."
+msgstr ""
+
+msgctxt "3988	EXPLANATION"
+msgid "Recover even more of your health through intense breathing control and concentration during a dance battle."
+msgstr ""
+
+msgctxt "4096	EXPLANATION"
+msgid "Wake the Fighting Spirit that sleeps within you to raise your Spirits one level during a dance battle."
+msgstr ""
+
+msgctxt "4199	EXPLANATION"
+msgid "Wake even greater Fighting Spirit within you to raise your Spirits two levels during a dance battle."
+msgstr ""
+
+msgctxt "4300	EXPLANATION"
+msgid "Lower your opponent's Spirits one level by showing off your hunger for victory during a dance battle."
+msgstr ""
+
+msgctxt "4402	EXPLANATION"
+msgid "Lower your opponent's Spirits two levels by showing off an even greater hunger for victory during a dance battle."
+msgstr ""
+
+msgctxt "4516	EXPLANATION"
+msgid "Deal major damage to your opponent's health and Heat."
+msgstr ""
+
+msgctxt "4570	EXPLANATION"
+msgid "Earn a few bonus points during a dance battle."
+msgstr ""
+
+msgctxt "4617	EXPLANATION"
+msgid "Earn a bunch of bonus points during a dance battle."
+msgstr ""
+
+msgctxt "4669	EXPLANATION"
+msgid "Earn major bonus points during a dance battle."
+msgstr ""
+
+msgctxt "4716	EXPLANATION"
+msgid "Deliver minor damage to your opponent's health during a dance battle."
+msgstr ""
+
+msgctxt "4786	EXPLANATION"
+msgid "Deliver damage to your opponent's health during a dance battle."
+msgstr ""
+
+msgctxt "4850	EXPLANATION"
+msgid "Deliver major damage to your opponent's health during a dance battle."
+msgstr ""
+
+msgctxt "4920	EXPLANATION"
+msgid "Deliver minor damage to your opponent's Heat during a dance battle."
+msgstr ""
+
+msgctxt "4988	EXPLANATION"
+msgid "Deliver damage to your opponent's Heat during a dance battle."
+msgstr ""
+
+msgctxt "5050	EXPLANATION"
+msgid "Deliver major damage to your opponent's Heat during a dance battle."
+msgstr ""
+
+msgctxt "5118	EXPLANATION"
+msgid "Recover a little of your health during a dance battle."
+msgstr ""
+
+msgctxt "5173	EXPLANATION"
+msgid "Recover some of your health during a dance battle."
+msgstr ""
+
+msgctxt "5224	EXPLANATION"
+msgid "Recover a lot of your health during a dance battle."
+msgstr ""
+
+msgctxt "5276	EXPLANATION"
+msgid "Boost your Spirits by one level."
+msgstr ""
+
+msgctxt "5309	EXPLANATION"
+msgid "Boost your Spirits by two levels."
+msgstr ""
+
+msgctxt "5343	EXPLANATION"
+msgid "Lower your opponent's Spirits by one level."
+msgstr ""
+
+msgctxt "5387	EXPLANATION"
+msgid "Lower your opponent's Spirits by two levels."
+msgstr ""
+

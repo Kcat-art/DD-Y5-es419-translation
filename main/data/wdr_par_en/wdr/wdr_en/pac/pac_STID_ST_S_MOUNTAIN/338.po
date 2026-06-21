@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "44"
+msgid "(Sakurai-han said to stay by the river.)"
+msgstr ""
+
+msgctxt "236"
+msgid "Saejima"
+msgstr ""
+

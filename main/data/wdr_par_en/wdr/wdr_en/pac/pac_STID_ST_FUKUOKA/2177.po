@@ -1,0 +1,7 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "372"
+msgid "kaiwabgm_kanjyonashi02"
+msgstr ""
+

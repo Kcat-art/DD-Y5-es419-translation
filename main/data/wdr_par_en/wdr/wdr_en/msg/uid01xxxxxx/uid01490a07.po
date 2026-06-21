@@ -1,0 +1,20 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "68"
+msgid "You cannot go beyond this point in the demo."
+msgstr ""
+
+msgctxt "596"
+msgid "dummy"
+msgstr ""
+
+msgctxt "600"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "(The rendezvous point, <Color:7>Ose Bridge<Color:Default> isn't in this direction.)\\r\n"
+"　 "
+msgstr ""
+

@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1232"
+msgid "Sosuke"
+msgstr ""
+
+msgctxt "1236"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "56_Sosuke"
+msgid "So this is the Komaki dojo, huh?"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "(That's Sosuke.)"
+msgstr ""
+
+msgctxt "80_Sosuke"
+msgid "All right."
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid "(I guess he's going to face off with his grandfather. Maybe I'll check it out when I have time.)"
+msgstr ""
+

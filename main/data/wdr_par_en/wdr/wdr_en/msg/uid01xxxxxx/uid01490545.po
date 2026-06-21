@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "72"
+msgid "You got 4,000 experience points."
+msgstr ""
+
+msgctxt "108"
+msgid "You got 3,000 experience points."
+msgstr ""
+

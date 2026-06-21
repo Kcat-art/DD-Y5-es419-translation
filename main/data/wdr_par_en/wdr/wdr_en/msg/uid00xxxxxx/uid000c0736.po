@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "324"
+msgid "Uncoordinated Man"
+msgstr ""
+
+msgctxt "72_Uncoordinated Man"
+msgid "What do you prefer? Skiing or snowboarding? Me, I prefer sledding."
+msgstr ""
+

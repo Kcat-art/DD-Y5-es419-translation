@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "384"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "44_Haruka"
+msgid "(Is it them...? No, they're just looking around.)"
+msgstr ""
+
+msgctxt "56_Haruka"
+msgid "(But I'm sure I felt someone watching me!)"
+msgstr ""
+

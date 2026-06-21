@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1608"
+msgid "Are you ready?"
+msgstr ""
+
+msgctxt "1612"
+msgid "WEPCT0000"
+msgstr ""
+
+msgctxt "1616"
+msgid "adv2_172/sakurai_2_172_260"
+msgstr ""
+

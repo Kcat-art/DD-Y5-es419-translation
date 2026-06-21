@@ -1,0 +1,153 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	792			 	 		60	853	793"
+msgid "They're so tiny."
+msgstr ""
+
+msgctxt "943				 	　	　	61	943	882"
+msgid "Can hardly make 'em out."
+msgstr ""
+
+msgctxt "1198	972			 	　	　	73	1045	972"
+msgid "That stage is where the dreams come true."
+msgstr ""
+
+msgctxt "				 	　	分	134	1197	1063"
+msgid "But this is the view from the crowd, huh?"
+msgstr ""
+
+msgctxt "1435	1300			 	　	　	135	1435	1300"
+msgid "I wonder if I looked that small too."
+msgstr ""
+
+msgctxt "3092	3032			 	　	　	63	3092	3029"
+msgid "It was too late..."
+msgstr ""
+
+msgctxt "3371	3172			 	　	　	60	3227	3167"
+msgid "Too late for me..."
+msgstr ""
+
+msgctxt "				 	　	　	79	3375	3296"
+msgid "Why couldn't I have met Saejima-san sooner?"
+msgstr ""
+
+msgctxt "3489	3429			 	　	　	60	3489	3429"
+msgid "Baba!"
+msgstr ""
+
+msgctxt "3632	3498			 	　	　	134	3632	3498"
+msgid "You and Saejima-san are friends, aren't you?"
+msgstr ""
+
+msgctxt "3758	3698			 	　	　	60	3758	3698"
+msgid "Tell him something for me."
+msgstr ""
+
+msgctxt "3955	3833			 	　	　	124	3954	3830"
+msgid "Tell him I'm sorry I can't go back."
+msgstr ""
+
+msgctxt "4059	3970			 	　	　	89	4059	3970"
+msgid "Don't! Don't do it, man!"
+msgstr ""
+
+msgctxt "5252	5192			 	　	　	60	5452	5392"
+msgid "Baba-chan."
+msgstr ""
+
+msgctxt "	5378			 	　	　	60	5638	5578"
+msgid "How?"
+msgstr ""
+
+msgctxt "5471	5451			 	　	　	60	5704	5644"
+msgid "You guys?"
+msgstr ""
+
+msgctxt "5768	5631			 	　	　	137	5968	5831"
+msgid "What were you thinking, Baba!?\\r\n"
+"What kinda fool throws his life away!?"
+msgstr ""
+
+msgctxt "5876	5816			 	　	　	60	6076	6016"
+msgid "Oshima-san..."
+msgstr ""
+
+msgctxt "5950	5890			 	　	　	60	6150	6090"
+msgid "We made it."
+msgstr ""
+
+msgctxt "6103	5953			 	　	　	150	6303	6153"
+msgid "I'd say it was worth bending the rules\\r\n"
+"to get us to Tokyo, right, Kosaka-san?"
+msgstr ""
+
+msgctxt "6232	6172			 	　	　	60	6364	6304"
+msgid "Indeed."
+msgstr ""
+
+msgctxt "	6240			 	　	　	60	6432	6372"
+msgid "What's going on?"
+msgstr ""
+
+msgctxt "6490				 	　	　	146	6588	6442"
+msgid "You've missed quite a bit\\r\n"
+"since you left the jail in Tsukimino."
+msgstr ""
+
+msgctxt "6597	6537			 	　	　	98	6690	6592"
+msgid "Saejima-san got in touch with Kosaka-san\\r\n"
+"not longer after shit hit the fan."
+msgstr ""
+
+msgctxt "6688	6615			60ｆ以下です	　	　	40	6777	6737"
+msgid "He did?"
+msgstr ""
+
+msgctxt "6742	6701			60ｆ以下です	　	　	37	6815	6778"
+msgid "Yes."
+msgstr ""
+
+msgctxt "6826	6743			 	　	　	73	6889	6816"
+msgid "He asked me to help you, Baba."
+msgstr ""
+
+msgctxt "6960	6845			60ｆ以下です	　	　	41	6942	6901"
+msgid "Me?"
+msgstr ""
+
+msgctxt "7121	7063			 	　	　	84	7027	6943"
+msgid "Saejima-san figured it all out."
+msgstr ""
+
+msgctxt "7313	7147			 	　	　	118	7163	7045"
+msgid "He could tell you were acting\\r\n"
+"on someone else's orders."
+msgstr ""
+
+msgctxt "7677	7494			 	　	　	60	7323	7263"
+msgid "Saejima-san has a message for you."
+msgstr ""
+
+msgctxt "	7869			 	　	　	166	7514	7348"
+msgid "He says you can atone for your\\r\n"
+"crimes as brothers in Abashiri."
+msgstr ""
+
+msgctxt "8160				 	　	　	60	7754	7694"
+msgid "Let's go home, Baba."
+msgstr ""
+
+msgctxt "				 	　		98	7877	7779"
+msgid "You have people waiting for you."
+msgstr ""
+
+msgctxt "				 	　	　	119	8188	8069"
+msgid "The intermission will last fifteen minutes."
+msgstr ""
+
+msgctxt "				 	　	　	131	8346	8215"
+msgid "The concert will resume at 8:00 PM sharp."
+msgstr ""
+

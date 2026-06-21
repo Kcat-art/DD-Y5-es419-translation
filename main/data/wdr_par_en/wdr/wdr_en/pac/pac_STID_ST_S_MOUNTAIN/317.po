@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "100"
+msgid "(Now's not the time for prayin'.)"
+msgstr ""
+
+msgctxt "800"
+msgid "SS2_P_HNT_squat_nml"
+msgstr ""
+
+msgctxt "804"
+msgid "Player"
+msgstr ""
+

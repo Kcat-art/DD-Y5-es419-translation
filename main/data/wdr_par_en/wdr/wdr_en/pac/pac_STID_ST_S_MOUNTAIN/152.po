@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "What's wrong, Saejima? Collect what you can from the animal you shot."
+msgstr ""
+
+msgctxt "72"
+msgid "Where do you think you're going? If you want to survive here, you'll have to learn to hunt deer."
+msgstr ""
+
+msgctxt "596"
+msgid "Okudera"
+msgstr ""
+

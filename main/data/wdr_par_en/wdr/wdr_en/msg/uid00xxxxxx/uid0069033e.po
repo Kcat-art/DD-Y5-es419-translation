@@ -1,0 +1,16 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "292"
+msgid "Akari"
+msgstr ""
+
+msgctxt "296"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "60_Akari"
+msgid "Thanks for doing this with Aya, Haruka. You've got this,\\r\n"
+"girl!"
+msgstr ""
+

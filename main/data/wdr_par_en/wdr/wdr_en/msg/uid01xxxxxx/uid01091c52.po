@@ -1,0 +1,15 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "556"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "560"
+msgid "dummy"
+msgstr ""
+
+msgctxt "128_Saejima"
+msgid "(Time to cruise on back to the village.)"
+msgstr ""
+

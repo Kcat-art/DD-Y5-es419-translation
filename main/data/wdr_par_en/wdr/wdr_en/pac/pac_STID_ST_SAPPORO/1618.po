@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Too many choices!"
+msgstr ""
+
+msgctxt "280"
+msgid "Local gifts..."
+msgstr ""
+

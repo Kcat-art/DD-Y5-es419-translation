@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "328"
+msgid "\"Mature\" Boy"
+msgstr ""
+
+msgctxt "72_\"Mature\" Boy"
+msgid "I'm getting tired of pretending to be the perfect little boy for all those grown-ups... Like saying I still believe in Santa Claus."
+msgstr ""
+

@@ -1,0 +1,49 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		162	207	45"
+msgid "Remember that walk-off home run?\\r\n"
+"The one that cost you everything?"
+msgstr ""
+
+msgctxt " 	　	　	70	318	248"
+msgid "I want you to find out what really happened."
+msgstr ""
+
+msgctxt " 	　	　	60	757	697"
+msgid "This is..."
+msgstr ""
+
+msgctxt " 	　	　	90	864	774"
+msgid "The ball you hit for that home run."
+msgstr ""
+
+msgctxt " 	　	　	63	960	897"
+msgid "Who the hell are you?"
+msgstr ""
+
+msgctxt " 	　	　	101	1098	997"
+msgid "He's gotta be somewhere around here! Find him!"
+msgstr ""
+
+msgctxt " 	　	　	60	1241	1181"
+msgid "We can resume this another day."
+msgstr ""
+
+msgctxt " 	　	　	72	1328	1256"
+msgid "Hey, we're not done here."
+msgstr ""
+
+msgctxt " 	　	分	60	1391	1331"
+msgid "Where'd you get this?"
+msgstr ""
+
+msgctxt " 	　	　	109	1505	1396"
+msgid "And what do you mean about my home run?\\r\n"
+"I hit it fair and square!"
+msgstr ""
+
+msgctxt " 	　	　	60	1574	1514"
+msgid "There's nothing more to it than that!"
+msgstr ""
+

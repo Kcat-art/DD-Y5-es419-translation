@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "544"
+msgid "Pompous Man"
+msgstr ""
+
+msgctxt "548"
+msgid "Derisive Woman"
+msgstr ""
+
+msgctxt "552"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "72_Pompous Man"
+msgid "The day's fading light, its beauty is gorgeous in its fleeting frailty, but it is nothing compared to yours..."
+msgstr ""
+
+msgctxt "84_Pompous Man"
+msgid "Ahaha! Seriously!? Who says that!?"
+msgstr ""
+

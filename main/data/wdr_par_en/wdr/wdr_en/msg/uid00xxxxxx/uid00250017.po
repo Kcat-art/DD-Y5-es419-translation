@@ -1,0 +1,16 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "416"
+msgid "dummy"
+msgstr ""
+
+msgctxt "44_dummy"
+msgid "コンティニューポイントを作るよ。"
+msgstr ""
+
+msgctxt "68_dummy"
+msgid "作り終わった。\\r\n"
+"バトルにシーケンス切替します。"
+msgstr ""
+

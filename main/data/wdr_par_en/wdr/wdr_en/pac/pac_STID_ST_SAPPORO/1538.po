@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "Oh, I like that."
+msgstr ""
+
+msgctxt "264"
+msgid "Hokkaido means..."
+msgstr ""
+

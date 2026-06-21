@@ -1,0 +1,35 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3864"
+msgid "cab_shion_w_01/shion_22_0001"
+msgstr ""
+
+msgctxt "3868"
+msgid "cab_shion_w_02/shion_23_0001"
+msgstr ""
+
+msgctxt "3872"
+msgid "cab_shion_w_03/shion_24_0001"
+msgstr ""
+
+msgctxt "3876"
+msgid "cab_shion_u_01/shion_30_0001"
+msgstr ""
+
+msgctxt "3880"
+msgid "cab_shion_u_02/shion_31_0001"
+msgstr ""
+
+msgctxt "3884"
+msgid "cab_shion_u_03/shion_32_0001"
+msgstr ""
+
+msgctxt "3888"
+msgid "cab_shion_u_04/shion_33_0001"
+msgstr ""
+
+msgctxt "3892"
+msgid "cab_shion_u_05/shion_34_0001"
+msgstr ""
+

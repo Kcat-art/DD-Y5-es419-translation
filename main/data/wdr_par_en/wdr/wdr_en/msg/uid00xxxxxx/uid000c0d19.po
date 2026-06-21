@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "588"
+msgid "Pumped-up Man"
+msgstr ""
+
+msgctxt "592"
+msgid "Conflicted Man"
+msgstr ""
+
+msgctxt "100_Pumped-up Man"
+msgid "All right! I'm gonna ask Sanae-chan out. No one can stamp out this fiery passion of mine!"
+msgstr ""
+
+msgctxt "112_Pumped-up Man"
+msgid "Actually, well, Sanae and me, we're... Uh, never mind."
+msgstr ""
+

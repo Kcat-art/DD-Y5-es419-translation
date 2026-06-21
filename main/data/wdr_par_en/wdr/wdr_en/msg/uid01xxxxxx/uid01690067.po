@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "580"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "Already pretty high in altitude. Where are ya, Baba?"
+msgstr ""
+

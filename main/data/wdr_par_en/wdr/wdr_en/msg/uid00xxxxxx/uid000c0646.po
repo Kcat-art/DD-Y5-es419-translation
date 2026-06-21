@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "268"
+msgid "Loudmouth"
+msgstr ""
+
+msgctxt "72_Loudmouth"
+msgid "Where are you!? The movie's startin' soon!"
+msgstr ""
+

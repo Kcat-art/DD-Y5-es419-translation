@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "384"
+msgid "Rhythmic Man"
+msgstr ""
+
+msgctxt "72_Rhythmic Man"
+msgid "You and me, let's square off in a dance battle! Heh, just jokin'. That's like the \"in\" thing now, ain't it?"
+msgstr ""
+

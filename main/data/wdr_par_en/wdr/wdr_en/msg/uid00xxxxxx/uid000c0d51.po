@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "316"
+msgid "Night Life King"
+msgstr ""
+
+msgctxt "72_Night Life King"
+msgid "Yeah! Work's finally done. Tonight, I shall party all night in the park!"
+msgstr ""
+

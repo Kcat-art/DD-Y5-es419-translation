@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "300"
+msgid "Wishy-washy Man"
+msgstr ""
+
+msgctxt "72_Wishy-washy Man"
+msgid "Hmm... Coffee? Or tea? Life is one decision after another."
+msgstr ""
+

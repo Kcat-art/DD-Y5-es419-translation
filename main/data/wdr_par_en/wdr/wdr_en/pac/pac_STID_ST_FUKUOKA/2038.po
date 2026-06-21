@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "What do I feel like today?"
+msgstr ""
+
+msgctxt "256"
+msgid "Hmmm..."
+msgstr ""
+

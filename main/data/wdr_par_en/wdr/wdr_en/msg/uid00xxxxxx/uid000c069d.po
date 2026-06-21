@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "324"
+msgid "Desperate Woman"
+msgstr ""
+
+msgctxt "72_Desperate Woman"
+msgid "Hormone diet... hormone diet... hormone diet... hormone diet..."
+msgstr ""
+

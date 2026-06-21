@@ -1,0 +1,114 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt " 	 		60	234	174"
+msgid "You get to go first."
+msgstr ""
+
+msgctxt " 	　	　	60	392	332"
+msgid "Die."
+msgstr ""
+
+msgctxt " 	　	　	60	692	632"
+msgid "Ka-chan?"
+msgstr ""
+
+msgctxt " 	　	　	60	818	758"
+msgid "Made it..."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	50	941	891"
+msgid "Ka-chan!?"
+msgstr ""
+
+msgctxt " 	　	　	64	1006	942"
+msgid "Hey! Ka-chan!"
+msgstr ""
+
+msgctxt " 	　	　	60	1071	1011"
+msgid "Don't you give up!"
+msgstr ""
+
+msgctxt " 	　	　	136	1278	1142"
+msgid "Why, Ka-chan!?\\r\n"
+"Why'd ya go and do that!?"
+msgstr ""
+
+msgctxt " 	　	　	114	1415	1301"
+msgid "Without you, Aniki..."
+msgstr ""
+
+msgctxt " 	　	　	60	1573	1513"
+msgid "The Omi would..."
+msgstr ""
+
+msgctxt " 	　	　	175	1825	1650"
+msgid "The eighth chairman... should be you."
+msgstr ""
+
+msgctxt " 	　	　	60	1960	1900"
+msgid "It has to be."
+msgstr ""
+
+msgctxt " 	　	　	124	2127	2003"
+msgid "I hear ya! Just don't die on me!\\r\n"
+"Ka-chan, don't!"
+msgstr ""
+
+msgctxt " 	　	　	107	2315	2208"
+msgid "Ka-chan! C'mon, Ka-chan!"
+msgstr ""
+
+msgctxt " 	　	　	60	3145	3085"
+msgid "I'll never forget this."
+msgstr ""
+
+msgctxt " 	　	　	60	3240	3180"
+msgid "You're going to pay."
+msgstr ""
+
+msgctxt " 	　	分	60	3319	3259"
+msgid "That's a promise!"
+msgstr ""
+
+msgctxt " 	　	　	86	3487	3401"
+msgid "I'm headin' over there to settle this right now!"
+msgstr ""
+
+msgctxt " 	　	　	79	3656	3577"
+msgid "Are ya now? Dumbass."
+msgstr ""
+
+msgctxt " 	　	　	138	3799	3661"
+msgid "Pretty big talk for a guy\\r\n"
+"fallin' apart at the seams."
+msgstr ""
+
+msgctxt " 	　	　	68	4052	3984"
+msgid "I've got one shot left."
+msgstr ""
+
+msgctxt " 	　	分	124	4212	4088"
+msgid "If ya wanna volunteer, raise your hand."
+msgstr ""
+
+msgctxt " 	　	　	60	4332	4272"
+msgid "How about me?"
+msgstr ""
+
+msgctxt " 	　	　	60	4481	4421"
+msgid "Haven't seen you in a month."
+msgstr ""
+
+msgctxt "60ｆ以下です	　	　	57	4682	4625"
+msgid "Chairman Kurosawa."
+msgstr ""
+
+msgctxt " 	　	　	87	4770	4683"
+msgid "Daigo Dojima..."
+msgstr ""
+
+msgctxt " 	　	　	60	4865	4805"
+msgid "Daigo!?"
+msgstr ""
+

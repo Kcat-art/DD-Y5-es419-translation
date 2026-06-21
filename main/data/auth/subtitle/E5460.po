@@ -1,0 +1,243 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "	 	 	OK	203	292	89"
+msgid "To tell the truth, I couldn't care less about\\r\n"
+"anything that old fuck wants to leave me."
+msgstr ""
+
+msgctxt "	 	　	OK	217	765	548"
+msgid "For the first time, I earned a shot at\\r\n"
+"the man on top with my own two hands."
+msgstr ""
+
+msgctxt "	 	　	　	167	1020	853"
+msgid "If I beat you, doesn't that put me\\r\n"
+"at the apex of our world?"
+msgstr ""
+
+msgctxt "	 	　	　	68	1153	1085"
+msgid "I'd like to find out."
+msgstr ""
+
+msgctxt "	 	　	　	125	1573	1448"
+msgid "I want a fair fight, Kiryu-san."
+msgstr ""
+
+msgctxt "	 	　		70	2232	2162"
+msgid "Okay, we're halfway there."
+msgstr ""
+
+msgctxt "	 	　	分	115	2354	2239"
+msgid "The debut song for Dream Line is up next."
+msgstr ""
+
+msgctxt "	 	　	　	82	2479	2397"
+msgid "Let's put it all on the line, right, Azusa?"
+msgstr ""
+
+msgctxt "	 	　	　	134	2670	2536"
+msgid "You good, Haruka? You're\\r\n"
+"the main part of this one."
+msgstr ""
+
+msgctxt "	 	　	　	60	2833	2773"
+msgid "Haruka? You okay?"
+msgstr ""
+
+msgctxt "	 	　	　	128	3085	2957"
+msgid "Thank you, Mai-san. Azusa-san."
+msgstr ""
+
+msgctxt "	 	　	　	60	3170	3110"
+msgid "What's this all of a sudden?"
+msgstr ""
+
+msgctxt "	 	　	　	103	3339	3236"
+msgid "Let's go. Our dreams are on that stage."
+msgstr ""
+
+msgctxt "	 	　	OK	93	3962	3869"
+msgid "Today we're taking our first steps..."
+msgstr ""
+
+msgctxt "	 	　	分	97	4069	3972"
+msgid "As a new act called Dream Line."
+msgstr ""
+
+msgctxt "	 	　	　	95	4184	4089"
+msgid "Dream Line... The path of dreams."
+msgstr ""
+
+msgctxt "	 	　	　	118	4347	4229"
+msgid "We hope that for all of you\\r\n"
+"kind enough to listen to us..."
+msgstr ""
+
+msgctxt "	 	　	分	126	4489	4363"
+msgid "That these dreams reach you out there."
+msgstr ""
+
+msgctxt "	 	　	　	60	4557	4497"
+msgid "Here's our new song..."
+msgstr ""
+
+msgctxt "	 	　	分	60	4618	4558"
+msgid "\"Dream.\""
+msgstr ""
+
+msgctxt "	 	　	　	177	6131	5954"
+msgid "If my words were a song,\\r\n"
+"Something for me to sing"
+msgstr ""
+
+msgctxt "	 	　	　	143	6275	6132"
+msgid "You're the only one I'd want to sing them to"
+msgstr ""
+
+msgctxt "	 	　	　	171	6479	6308"
+msgid "This time my mind's made up.\\r\n"
+"I'm not leaving again."
+msgstr ""
+
+msgctxt "	 	　	　	201	6683	6482"
+msgid "There's one place for me.\\r\n"
+"Right here by your side."
+msgstr ""
+
+msgctxt "	 	　	　	175	6920	6745"
+msgid "Like an unfinished song,\\r\n"
+"Without an introduction"
+msgstr ""
+
+msgctxt "	 	　	　	149	7070	6921"
+msgid "Suddenly I find myself here in a brand new day"
+msgstr ""
+
+msgctxt "	 	　	　	172	7270	7098"
+msgid "There are two paths in front of me,\\r\n"
+"But only one can be"
+msgstr ""
+
+msgctxt "	 	　	　	214	7485	7271"
+msgid "The future where I'm with you,\\r\n"
+"That's where I belong"
+msgstr ""
+
+msgctxt "	 	　	　	205	7740	7535"
+msgid "I know you can't see me,\\r\n"
+"But I'm looking out to you"
+msgstr ""
+
+msgctxt "	 	　	　	198	8085	7887"
+msgid "Up into the blue sky,\\r\n"
+"Where all my dreams come true"
+msgstr ""
+
+msgctxt "	 	　	　	95	8322	8227"
+msgid "This feeling's trying to break me"
+msgstr ""
+
+msgctxt "	 	　	　	95	8453	8358"
+msgid "But I swear I'll never surrender"
+msgstr ""
+
+msgctxt "	 	　	　	173	8663	8490"
+msgid "I won't lose, to this feeling,\\r\n"
+"I'm stronger, you'll see"
+msgstr ""
+
+msgctxt "	 	　	　	201	8865	8664"
+msgid "I'll live, true to myself"
+msgstr ""
+
+msgctxt "	 	　	　	104	9110	9006"
+msgid "Time to settle this, Kiryu-san."
+msgstr ""
+
+msgctxt "	 	　	　	60	9265	9205"
+msgid "Aizawa."
+msgstr ""
+
+msgctxt "	 	　	　	67	9340	9273"
+msgid "There's just one thing I want you to hear."
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	　	54	9430	9376"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "	 	　	　	177	9608	9431"
+msgid "Some are born with talent\\r\n"
+"and some aren't, that's true."
+msgstr ""
+
+msgctxt "	 	　	　	63	9704	9641"
+msgid "That said..."
+msgstr ""
+
+msgctxt "	 	　	　	174	9879	9705"
+msgid "People born with talent never\\r\n"
+"make it on talent alone."
+msgstr ""
+
+msgctxt "	 	　	　	60	10276	10216"
+msgid "They overcome."
+msgstr ""
+
+msgctxt "	 	　	　	69	10356	10287"
+msgid "Find boundaries and break them."
+msgstr ""
+
+msgctxt "	 	　	　	118	10530	10412"
+msgid "The only way to grow is to be challenged."
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	　	59	10636	10577"
+msgid "Kiryu."
+msgstr ""
+
+msgctxt "	 	　	　	68	10705	10637"
+msgid "You aren't exactly wrong."
+msgstr ""
+
+msgctxt "	 	　	　	124	10882	10758"
+msgid "So if I'm the wall you need\\r\n"
+"to scale, I'll let you try."
+msgstr ""
+
+msgctxt "	 	　	　	104	11047	10943"
+msgid "But you may find it so high,\\r\n"
+"you never want to try again."
+msgstr ""
+
+msgctxt "	 	　	　	69	11160	11091"
+msgid "The taste will be enough."
+msgstr ""
+
+msgctxt "	 	　	　	85	11512	11427"
+msgid "Then I'll prove I can beat you."
+msgstr ""
+
+msgctxt "	 	　	　	113	11655	11542"
+msgid "And earn a place as a living\\r\n"
+"legend among the yakuza."
+msgstr ""
+
+msgctxt "	 	　	　	81	11755	11674"
+msgid "Fine. Give it your best shot."
+msgstr ""
+
+msgctxt "	60ｆ以下です	　	　	54	11852	11798"
+msgid "But..."
+msgstr ""
+
+msgctxt "	 	　	　	179	12032	11853"
+msgid "I've overcome my share of trials.\\r\n"
+"You'll learn that the hard way."
+msgstr ""
+
+msgctxt "ヒート	 	　		70	12516	12446"
+msgid "Come on, Kiryu!"
+msgstr ""
+

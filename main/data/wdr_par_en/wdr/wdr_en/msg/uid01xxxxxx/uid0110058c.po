@@ -1,0 +1,103 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "3496"
+msgid "Undercover Cop"
+msgstr ""
+
+msgctxt "3500"
+msgid "<BZA@Option:Circle>You messed up, huh?"
+msgstr ""
+
+msgctxt "3504"
+msgid "<BZA@Option:Triangle>That's too bad."
+msgstr ""
+
+msgctxt "3508"
+msgid "<BZA@Option:Square>I'm happy to help."
+msgstr ""
+
+msgctxt "3512"
+msgid "<BZA@Option:Circle>I believe you."
+msgstr ""
+
+msgctxt "3516"
+msgid "<BZA@Option:Triangle>Sounds a bit far-fetched."
+msgstr ""
+
+msgctxt "3520"
+msgid "<BZA@Option:Square>It's none of my concern."
+msgstr ""
+
+msgctxt "220_Undercover Cop"
+msgid "Damn. Looks like we were too late."
+msgstr ""
+
+msgctxt "244_Undercover Cop"
+msgid "Gah! They spotted us!"
+msgstr ""
+
+msgctxt "256_Undercover Cop"
+msgid "Hold up! Any closer and they'll see us! Fall back!"
+msgstr ""
+
+msgctxt "268_Undercover Cop"
+msgid "You're getting a little too close."
+msgstr ""
+
+msgctxt "280_Undercover Cop"
+msgid "Perfect! Just stay about this far back, and we'll be fine."
+msgstr ""
+
+msgctxt "292_Undercover Cop"
+msgid "They're a little too far ahead. Can you get a bit closer?"
+msgstr ""
+
+msgctxt "304_Undercover Cop"
+msgid "We're going to lose them! Get closer!"
+msgstr ""
+
+msgctxt "316_Undercover Cop"
+msgid "How could you let them shake you like that?"
+msgstr ""
+
+msgctxt "328_Undercover Cop"
+msgid "I'm glad I ran into you. I'm a detective, but my driver's license was suspended."
+msgstr ""
+
+msgctxt "352_Undercover Cop"
+msgid "Yeah, so!? Everyone makes mistakes!"
+msgstr ""
+
+msgctxt "364_Undercover Cop"
+msgid "Yeah, being a detective can be tough. Thanks for sympathizing."
+msgstr ""
+
+msgctxt "376_Undercover Cop"
+msgid "Sorry to drag you into this. I owe you one."
+msgstr ""
+
+msgctxt "388_Undercover Cop"
+msgid "Hey, don't just ignore me..."
+msgstr ""
+
+msgctxt "400_Undercover Cop"
+msgid "I've got a hunch that car's headed to a shady deal. Trust me on this."
+msgstr ""
+
+msgctxt "424_Undercover Cop"
+msgid "I appreciate it. You're a big help."
+msgstr ""
+
+msgctxt "436_Undercover Cop"
+msgid "Hmph. I guess a guy like you wouldn't understand."
+msgstr ""
+
+msgctxt "448_Undercover Cop"
+msgid "Yeah, I guess. No need to act so cold, though."
+msgstr ""
+
+msgctxt "460_Undercover Cop"
+msgid "You listening, pal?"
+msgstr ""
+

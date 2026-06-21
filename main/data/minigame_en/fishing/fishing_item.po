@@ -1,0 +1,239 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "1062	NAME"
+msgid "Oden Soup"
+msgstr ""
+
+msgctxt "1072	NAME"
+msgid "Seaweed Onigiri"
+msgstr ""
+
+msgctxt "1088	NAME"
+msgid "Tuna Onigiri"
+msgstr ""
+
+msgctxt "1101	NAME"
+msgid "Salmon Onigiri"
+msgstr ""
+
+msgctxt "1116	NAME"
+msgid "Grilled Onigiri with Butter"
+msgstr ""
+
+msgctxt "1144	NAME"
+msgid "Grilled Onigiri"
+msgstr ""
+
+msgctxt "1160	NAME"
+msgid "Tonkotsu Onigiri"
+msgstr ""
+
+msgctxt "1177	NAME"
+msgid "Sauce Onigiri"
+msgstr ""
+
+msgctxt "1191	NAME"
+msgid "Bento Lunch Set"
+msgstr ""
+
+msgctxt "1207	NAME"
+msgid "Bento Lunch Set (Pork)"
+msgstr ""
+
+msgctxt "1230	NAME"
+msgid "Zangi Lunch Set"
+msgstr ""
+
+msgctxt "1246	NAME"
+msgid "Miso Katsu Lunch Set "
+msgstr ""
+
+msgctxt "1268	NAME"
+msgid "Okonomiyaki Lunch Set"
+msgstr ""
+
+msgctxt "1290	NAME"
+msgid "Pan-fried Gyoza Lunch Set"
+msgstr ""
+
+msgctxt "1316	NAME"
+msgid "Club Sandwich"
+msgstr ""
+
+msgctxt "1330	NAME"
+msgid "Tuna & Egg Sandwich"
+msgstr ""
+
+msgctxt "1350	NAME"
+msgid "Special Yakisoba"
+msgstr ""
+
+msgctxt "1367	NAME"
+msgid "Steamed Bun"
+msgstr ""
+
+msgctxt "1379	NAME"
+msgid "Bean Paste Bun"
+msgstr ""
+
+msgctxt "1394	NAME"
+msgid "Yakisoba Bun"
+msgstr ""
+
+msgctxt "1407	NAME"
+msgid "Buttery Potato Bun"
+msgstr ""
+
+msgctxt "1426	NAME"
+msgid "Eel Bun"
+msgstr ""
+
+msgctxt "1434	NAME"
+msgid "Takoyaki Bun"
+msgstr ""
+
+msgctxt "1447	NAME"
+msgid "Spicy Fish Roe Bun"
+msgstr ""
+
+msgctxt "1466	NAME"
+msgid "Haruka's Candy"
+msgstr ""
+
+msgctxt "1481	NAME"
+msgid "Haruka's Chocolate"
+msgstr ""
+
+msgctxt "1500	NAME"
+msgid "Haruka's Lunch"
+msgstr ""
+
+msgctxt "1515	NAME"
+msgid "Dog Food"
+msgstr ""
+
+msgctxt "1524	NAME"
+msgid "Sushi Set"
+msgstr ""
+
+msgctxt "1534	NAME"
+msgid "Mugwort"
+msgstr ""
+
+msgctxt "1542	NAME"
+msgid "Catnip Stick"
+msgstr ""
+
+msgctxt "1555	NAME"
+msgid "Miso Paste Cucumber"
+msgstr ""
+
+msgctxt "1575	NAME"
+msgid "Yakitori"
+msgstr ""
+
+msgctxt "1584	NAME"
+msgid "Smile Burger Set"
+msgstr ""
+
+msgctxt "1601	NAME"
+msgid "Smile Cheeseburger Set"
+msgstr ""
+
+msgctxt "1624	NAME"
+msgid "Teriyaki Smile Burger Set"
+msgstr ""
+
+msgctxt "1650	NAME"
+msgid "King Smile Burger Set"
+msgstr ""
+
+msgctxt "1672	NAME"
+msgid "Tuna Burger Set"
+msgstr ""
+
+msgctxt "1688	NAME"
+msgid "Braised Pork Burger Set"
+msgstr ""
+
+msgctxt "1712	NAME"
+msgid "Limited Millenium Tower Burger"
+msgstr ""
+
+msgctxt "1743	NAME"
+msgid "Takoyaki 8 pcs."
+msgstr ""
+
+msgctxt "1759	NAME"
+msgid "Takoyaki 16 pcs."
+msgstr ""
+
+msgctxt "1776	NAME"
+msgid "Cheese Takoyaki 8 pcs."
+msgstr ""
+
+msgctxt "1799	NAME"
+msgid "Chicken Wings"
+msgstr ""
+
+msgctxt "1813	NAME"
+msgid "Shrimp Tempura Onigiri"
+msgstr ""
+
+msgctxt "1836	NAME"
+msgid "Kishimen"
+msgstr ""
+
+msgctxt "1845	NAME"
+msgid "Spaghetti with Ankake Sauce"
+msgstr ""
+
+msgctxt "1873	NAME"
+msgid "1-2-3 Gum"
+msgstr ""
+
+msgctxt "1883	NAME"
+msgid "Trips Yokan"
+msgstr ""
+
+msgctxt "1895	NAME"
+msgid "Horse Mackerel (Bait)"
+msgstr ""
+
+msgctxt "1917	NAME"
+msgid "Squid (Bait)"
+msgstr ""
+
+msgctxt "1930	NAME"
+msgid "Shrimp (Bait)"
+msgstr ""
+
+msgctxt "1944	NAME"
+msgid "Vinegar Squid (Bait)"
+msgstr ""
+
+msgctxt "1965	NAME"
+msgid "Worm"
+msgstr ""
+
+msgctxt "1970	NAME"
+msgid "Manila Clam"
+msgstr ""
+
+msgctxt "1982	NAME"
+msgid "Corbicula Clam"
+msgstr ""
+
+msgctxt "1997	NAME"
+msgid "Prawn"
+msgstr ""
+
+msgctxt "2003	NAME"
+msgid "Lobster"
+msgstr ""
+
+msgctxt "2011	NAME"
+msgid "Special Worm"
+msgstr ""
+

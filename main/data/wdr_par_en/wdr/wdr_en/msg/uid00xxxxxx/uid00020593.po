@@ -1,0 +1,27 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "468"
+msgid "Mayumi"
+msgstr ""
+
+msgctxt "472"
+msgid "C1040_F_TLK_sitgrd_aiduti"
+msgstr ""
+
+msgctxt "476"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "60_Mayumi"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "72_Kiryu"
+msgid "Oh, I just forgot something."
+msgstr ""
+
+msgctxt "84_Mayumi"
+msgid "Aha. Well, good luck at work."
+msgstr ""
+

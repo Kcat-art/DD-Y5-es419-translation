@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "552"
+msgid "Romantic Guy"
+msgstr ""
+
+msgctxt "556"
+msgid "Carefree Girl"
+msgstr ""
+
+msgctxt "100_Romantic Guy"
+msgid "Let's get some PrintCircle photos together. We can make little hearts with our hands."
+msgstr ""
+
+msgctxt "112_Romantic Guy"
+msgid "Eww! Forget PrintCircle, let's play Virtua Fighter! I'll take you on!"
+msgstr ""
+

@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "60"
+msgid "(Huh? I think I saw movement near that incinerator over there.)"
+msgstr ""
+
+msgctxt "332"
+msgid "Player"
+msgstr ""
+

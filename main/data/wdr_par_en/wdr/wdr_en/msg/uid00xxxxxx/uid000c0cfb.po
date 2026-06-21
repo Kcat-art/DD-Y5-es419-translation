@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "520"
+msgid "Insatiable Woman"
+msgstr ""
+
+msgctxt "524"
+msgid "Gluttonous Woman"
+msgstr ""
+
+msgctxt "72_Insatiable Woman"
+msgid "That was delicious! Where are we going next?"
+msgstr ""
+
+msgctxt "84_Insatiable Woman"
+msgid "We did okonomiyaki, kushikatsu... Oh! We need to do takoyaki! We still have a lot of Osaka to eat through."
+msgstr ""
+

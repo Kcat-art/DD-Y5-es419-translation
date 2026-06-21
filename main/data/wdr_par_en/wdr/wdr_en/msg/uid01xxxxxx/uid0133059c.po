@@ -1,0 +1,11 @@
+﻿msgid ""
+msgstr ""
+
+msgctxt "388"
+msgid "Player"
+msgstr ""
+
+msgctxt "88_Player"
+msgid "(Miyoshino. This place oughta get Tatsuya's attention.)"
+msgstr ""
+
